@@ -1,19 +1,5 @@
 #!/bin/bash
 
-#### Requisiti ####
-
-# - scrape, Extract HTML elements using an XPath query or CSS3 selector
-# https://github.com/jeroenjanssens/data-science-at-the-command-line/blob/master/tools/scrape
-#
-# - xml2json, Convert XML to JSON Xml2Json
-# https://github.com/parmentf/xml2json
-#
-# - jq, Process JSON
-# https://stedolan.github.io/jq/
-#
-# csvkit, csvkit is a suite of utilities for converting to and working with CSV
-# http://csvkit.readthedocs.org/en/0.9.1/
-
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
