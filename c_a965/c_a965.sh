@@ -27,7 +27,7 @@ mlr --csv --ofs "|" cat "$folder"/rawdata/0*.csv >"$folder"/processing/input.csv
 # variabili per la costruzione del feed RSS
 nomeFeed="Albo Pretorio Comune di Bondeno"
 descrizioneFeed="Il feed RSS dell'Albo Pretorio Comune di Bondeno"
-PageSource="http://blog.spaziogis.it/static/ods/data/albopop/bondeno/feed_rss.xml"
+PageSource="https://aborruso.github.io/albiPOPGitHub/$iPA/feed_rss.xml"
 
 intestazioneRSS="<rss version=\"2.0\"><channel><title>$nomeFeed</title><description>$descrizioneFeed</description><link>$PageSource</link>"
 
