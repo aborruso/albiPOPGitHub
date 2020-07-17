@@ -16,7 +16,7 @@ output="$folder"/../docs/"$iPA"
 URLBase="http://sac2.halleysac.it/c038003/mc/mc_p_ricerca.php?multiente=c038003&pag=0"
 
 # leggi la risposta HTTP del sito
-code=$(curl -s -L -o /dev/null -w "%{http_code}" ''"$URLBase"'')
+code=$(curl -A "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5" -s -L -o /dev/null -w "%{http_code}" ''"$URLBase"'')
 
 # se il sito è raggiungibile scarica i dati e aggiorna feed
 if [ $code -eq 200 ]; then
@@ -29,6 +29,13 @@ if [ $code -eq 200 ]; then
   curl -s -A "Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5" "http://sac2.halleysac.it/c038003/mc/mc_p_ricerca.php?multiente=c038003&pag=3" | scrape -be '//table[@id="table-albo-pretorio"]/tbody/tr' | xq '[.html.body.tr[]|{"pubDate":.td[4]["#text"],"title":.td[2].a.span["#text"],"id":.td[2].a["@data-id"]}]' | mlr --j2c clean-whitespace >"$folder"/rawdata/04.csv
 
   mlr --csv --ofs "|" cat "$folder"/rawdata/0*.csv >"$folder"/processing/input.csv
+
+  # verifica caratteri speciali XML
+  mlr -I --csv --fs "|" put '$title=gsub($title,"<","&lt")' \
+    then put '$title=gsub($title,">","&gt;")' \
+    then put '$title=gsub($title,"&","&amp;")' \
+    then put '$title=gsub($title,"'\''","&apos;")' \
+    then put '$title=gsub($title,"\"","&quot;")' "$folder"/processing/input.csv
 
   #### Costruisci il feed RSS ####
 
