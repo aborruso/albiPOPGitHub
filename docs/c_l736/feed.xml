@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di Venizia</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>http://dev.ondata.it/projs/albopop/patti/feed.xml</link>
+    <atom:link rel="self" href="http://dev.ondata.it/projs/albopop/patti/feed.xml" type="application/rss+xml"/>
+    <docs>http://albopop.it/comune/venezia/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">Venezia</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Venezia</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Veneto</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">45.496144</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">12.244231</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
+    <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4687</title>
+      <description>AVVISO CALENDARIZZAZIONE PRESELEZIONE - BANDO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI PER LA STIPULAZIONE DI 85 CONTRATTI DI FORMAZIONE E LAVORO DELLA DURATA DI UN ANNO PER LA CATEGORIA C.1  PROFILO PROFESSIONALE "AGENTE DI POLIZIA LOCALE". CODICE 01TD/2020</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142313.pdf</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142313.pdf</guid>
+    </item>
+    <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4686</title>
+      <description>AVVISO DI MOBILITA VOLONTARIA ESTERNA - EX ART. 30 D.LGS.N.165/2001 - PER LA COPERTURA DI N. 3 POSTI, A TEMPO PIENO, DI COORDINATORE CONTABILE (CATEGORIA D) PRESSO LAREA III RISORSE FINANZIARIE E LAREA V SERVIZI...</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142312.pdf</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142312.pdf</guid>
+    </item>
+    <item>
+      <title>#DETERMINE | Pubblicazione numero 4685</title>
+      <description>DD/2020/1996 - COMANDO PARZIALE PRESSO CITTÀ METROPOLITANA DI VENEZIA AVV. G.R.C. MATR. 168180  E APPROVAZIONE DELLALLEGATO SCHEMA DI PROTOCOLLO DINTESA TRA COMUNE DI VENEZIA E CITTÀ METROPOLITANA DI VENEZIA.</description>
+      <link>PDD_2020_0002193_determina_comando_parziale_C.pdf.pdf32234</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>PDD_2020_0002193_determina_comando_parziale_C.pdf.pdf32234</guid>
+    </item>
+    <item>
+      <title>#DETERMINE | Pubblicazione numero 4684</title>
+      <description>DD/2020/1995 - COMANDO PARZIALE PRESSO CITTÀ METROPOLITANA DI VENEZIA DOTT. G. B. MATR. 102480 E APPROVAZIONE DELLALLEGATO SCHEMA DI PROTOCOLLO DINTESA TRA COMUNE DI VENEZIA E CITTÀ METROPOLITANA DI VENEZIA.</description>
+      <link>PDD_2020_0002191_determina_comando_parziale_B.pdf.pdf32232</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>PDD_2020_0002191_determina_comando_parziale_B.pdf.pdf32232</guid>
+    </item>
+    <item>
+      <title>#DETERMINE | Pubblicazione numero 4683</title>
+      <description>DD/2020/1994 - COMANDO PARZIALE PRESSO CITTÀ METROPOLITANA DI VENEZIA ING. S.A. MATR. 4520  E APPROVAZIONE DELLALLEGATO SCHEMA DI PROTOCOLLO DINTESA TRA COMUNE DI VENEZIA E CITTÀ METROPOLITANA DI VENEZIA.</description>
+      <link>PDD_2020_0002190_determina_comando_parziale_A.pdf.pdf32231</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>PDD_2020_0002190_determina_comando_parziale_A.pdf.pdf32231</guid>
+    </item>
+  </channel>
+</rss>
