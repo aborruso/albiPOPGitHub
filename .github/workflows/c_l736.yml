@@ -1,0 +1,43 @@
+name: crea feed RSS c_l736
+
+on:
+  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '0 14,18 */1 * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet, gooodtables e yq
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cp bin/scrape ~/bin
+        cd ~/bin
+        chmod +x mlr
+        chmod +x scrape
+        sudo apt-get install xmlstarlet
+#        sudo pip install yq
+#        sudo pip install goodtables
+    - name: scarica i dati e crea feed
+      env:
+        SUPER_SECRET: ${{ secrets.IFTTT }}
+      run: |-
+        export PATH=$PATH:~/bin
+        cd ./c_l736
+        chmod +x ./c_l736.sh
+        ./c_l736.sh
+    - name: Committa e pusha se ci sono variazioni nei dati
+      run: |-
+        git config user.name "automatico"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --iso-8601=seconds)
+        git commit -m "Data e ora aggiornamento: ${timestamp}" || exit 0
+        git push
