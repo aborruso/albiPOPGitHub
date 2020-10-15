@@ -47,7 +47,7 @@ if [ $code -eq 200 ]; then
   curl -kL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 5 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 20 >"$folder"/rawdata/albo.tsv
 
   rm "$folder"/rawdata/dettagli.json
 
@@ -62,9 +62,6 @@ if [ $code -eq 200 ]; then
 
   mlr --c2t cut -x -r -f "files:[^0].+" \
     then put -S '$dataInizio = strftime(strptime($dataInizio, "%Y%m%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/dettagli.csv | tail -n +2 >"$folder"/rawdata/dettagli.tsv
-
-  mlr --csv cut -x -r -f "files:[^0].+" \
-    then put -S '$dataInizio = strftime(strptime($dataInizio, "%Y%m%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/dettagli.csv >"$folder"/rawdata/tmp_dettagli.csv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
