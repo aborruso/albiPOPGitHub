@@ -29,7 +29,7 @@ if [ $code -eq 200 ]; then
   curl -kL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 5 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
 
   rm "$folder"/rawdata/dettagli.json
 
