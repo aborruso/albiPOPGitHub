@@ -1,10 +1,10 @@
 name: crea feed RSS c_l736
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
-    - cron:  '0 14,18 */1 * *'
+    - cron:  '0 10,14,18 */1 * *'
 
 jobs:
   scheduled:
