@@ -19,7 +19,7 @@ country="Italia"
 name="Comune di Venezia"
 uid="istat:027042"
 docs="http://albopop.it/comune/venezia/"
-selflink="http://dev.ondata.it/projs/albopop/patti/feed.xml"
+selflink="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml"
 ### anagrafica albo
 
 iPA="c_l736"
