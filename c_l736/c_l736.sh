@@ -61,7 +61,8 @@ if [ $code -eq 200 ]; then
   mlr <"$folder"/rawdata/dettagli.json --j2c unsparsify >"$folder"/rawdata/dettagli.csv
 
   mlr --c2t cut -x -r -f "files:[^0].+" \
-    then put -S '$dataInizio = strftime(strptime($dataInizio, "%Y%m%d"),"%a, %d %b %Y %H:%M:%S %z")' "$folder"/rawdata/dettagli.csv | tail -n +2 >"$folder"/rawdata/dettagli.tsv
+    then put -S '$dataInizio = strftime(strptime($dataInizio, "%Y%m%d"),"%a, %d %b %Y %H:%M:%S %z");$URL=${files:0:path}.${files:0:alias}' \
+    then cut -f numero,dataInizio,oggetto,naturaValore,URL "$folder"/rawdata/dettagli.csv | tail -n +2 >"$folder"/rawdata/dettagli.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -84,14 +85,14 @@ if [ $code -eq 200 ]; then
 
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
-  while IFS=$'\t' read -r anno numero dataInizio dataFine esibente oggetto sede idDocumento naturaCodice naturaValore tipologiaCodice tipologiaValore path alias nome idEpraxi tipoEpraxi proponenteCodice proponenteValore; do
+  while IFS=$'\t' read -r numero dataInizio oggetto naturaValore URL; do
     newcounter=$(expr $newcounter + 1)
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
       --subnode "//item[$newcounter]" --type elem -n title -v "#$naturaValore | Pubblicazione numero $numero" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
-      --subnode "//item[$newcounter]" --type elem -n link -v "$path$alias" \
+      --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
       --subnode "//item[$newcounter]" --type elem -n pubDate -v "$dataInizio" \
-      --subnode "//item[$newcounter]" --type elem -n guid -v "$path$alias" \
+      --subnode "//item[$newcounter]" --type elem -n guid -v "$URL" \
       "$folder"/processing/feed.xml
   done <"$folder"/rawdata/dettagli.tsv
 
