@@ -53,7 +53,7 @@ if [ $code -eq 200 ]; then
   curl -skL "$URLBase" | iconv -f WINDOWS-1252 -t UTF-8 | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 20 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
 
   # cancella lista esistente dei dettagli delle pubblicazioni in albo
   rm "$folder"/rawdata/dettagli.json
