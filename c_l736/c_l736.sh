@@ -41,7 +41,7 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 output="$folder"/../docs/"$iPA"
 
 # URL di test risposta sito albo
-URLBase="https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=json"
+URLBase="https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=JSON"
 
 # estrai codici di risposta HTTP dell'albo
 code=$(curl -s -L -o /dev/null -w "%{http_code}" 'http://www.comune.patti.me.it/index.php?option=com_albopretorio&id_Miky=_0')
