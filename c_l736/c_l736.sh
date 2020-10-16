@@ -31,6 +31,7 @@ selflink="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml"
 
 iPA="c_l736"
 
+# crea cartelle di servizio
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../docs/"$iPA"
@@ -40,25 +41,25 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
+# URL di test risposta sito albo
 URLBase="https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=json"
 
-mkdir -p "$folder"/rawdata
-mkdir -p "$folder"/processing
-
+# estrai codici di risposta HTTP dell'albo
 code=$(curl -s -L -o /dev/null -w "%{http_code}" 'http://www.comune.patti.me.it/index.php?option=com_albopretorio&id_Miky=_0')
 
-# download dati
+# se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-  # scarica lista
+  # scarica lista pubblicazioni in albo
   curl -skL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 20 >"$folder"/rawdata/albo.tsv
 
+  # cancella lista esistente dei dettagli delle pubblicazioni in albo
   rm "$folder"/rawdata/dettagli.json
 
-  # scarica dettagli di ogni atto
+  # a partire dalla lista delle pubbblicazioni, scarica dettagli di ogni pubblicazione in albo
   while IFS=$'\t' read -r anno numero dataInizio dataFine esibente oggetto sede; do
     curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" >>"$folder"/rawdata/dettagli.json
     echo -e "\n" >>"$folder"/rawdata/dettagli.json
@@ -67,6 +68,7 @@ if [ $code -eq 200 ]; then
   # genera CSV dei dettagli
   mlr <"$folder"/rawdata/dettagli.json --j2c unsparsify >"$folder"/rawdata/dettagli.csv
 
+  # tieni i dati sul primo allegato, aggiungi campo con data in formato RSS e estrai i soli campi utili
   mlr --c2t cut -x -r -f "files:[^0].+" \
     then put -S '$dataInizio = strftime(strptime($dataInizio, "%Y%m%d"),"%a, %d %b %Y %H:%M:%S %z");$URL=${files:0:path}.${files:0:alias}' \
     then cut -f numero,dataInizio,oggetto,naturaValore,URL "$folder"/rawdata/dettagli.csv | tail -n +2 >"$folder"/rawdata/dettagli.tsv
