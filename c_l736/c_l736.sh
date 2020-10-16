@@ -1,5 +1,12 @@
 #!/bin/bash
 
+### requisiti ###
+# mlr https://github.com/johnkerl/miller
+# xmlstarlet http://xmlstar.sourceforge.net/
+# jq https://github.com/stedolan/jq
+### requisiti ###
+
+
 set -x
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
@@ -44,7 +51,7 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" 'http://www.comune.patti.me.it/
 if [ $code -eq 200 ]; then
 
   # scarica lista
-  curl -kL "$URLBase" | jq . >"$folder"/rawdata/albo.json
+  curl -skL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 20 >"$folder"/rawdata/albo.tsv
@@ -53,7 +60,7 @@ if [ $code -eq 200 ]; then
 
   # scarica dettagli di ogni atto
   while IFS=$'\t' read -r anno numero dataInizio dataFine esibente oggetto sede; do
-    curl -kL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" >>"$folder"/rawdata/dettagli.json
+    curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" >>"$folder"/rawdata/dettagli.json
     echo -e "\n" >>"$folder"/rawdata/dettagli.json
   done <"$folder"/rawdata/albo.tsv
 
