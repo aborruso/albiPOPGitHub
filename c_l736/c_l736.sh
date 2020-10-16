@@ -60,7 +60,7 @@ if [ $code -eq 200 ]; then
 
   # a partire dalla lista delle pubbblicazioni, scarica dettagli di ogni pubblicazione in albo
   while IFS=$'\t' read -r anno numero dataInizio dataFine esibente oggetto sede; do
-    curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" >>"$folder"/rawdata/dettagli.json
+    curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" | iconv -f WINDOWS-1252 -t UTF-8 >>"$folder"/rawdata/dettagli.json
     echo -e "\n" >>"$folder"/rawdata/dettagli.json
   done <"$folder"/rawdata/albo.tsv
 
