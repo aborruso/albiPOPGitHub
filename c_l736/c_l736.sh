@@ -44,13 +44,13 @@ output="$folder"/../docs/"$iPA"
 URLBase="https://portale.comune.venezia.it/sites/all/modules/yui_venis/albo.php?tipo=JSON"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -o /dev/null -w "%{http_code}" 'http://www.comune.patti.me.it/index.php?option=com_albopretorio&id_Miky=_0')
+code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
   # scarica lista pubblicazioni in albo
-  curl -skL "$URLBase" | jq . >"$folder"/rawdata/albo.json
+  curl -skL "$URLBase" | iconv -f WINDOWS-1252 -t UTF-8 | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 20 >"$folder"/rawdata/albo.tsv
