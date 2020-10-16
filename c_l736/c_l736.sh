@@ -103,6 +103,6 @@ if [ $code -eq 200 ]; then
       "$folder"/processing/feed.xml
   done <"$folder"/rawdata/dettagli.tsv
 
-  cp "$folder"/processing/feed.xml "$folder"/../docs/"$iPA"
+  cp "$folder"/processing/feed.xml "$output"
 
 fi
