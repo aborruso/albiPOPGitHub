@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 4793</title>
+      <description>DELIBERAZIONE N. 32 DEL 21/10/2020 ELEZIONE DEL VICE PRESIDENTE DELLA MUNICIPALITÀ DI MESTRE CARPENEDO</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142419.pdf</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142419.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 4792</title>
+      <description>DELIBERAZIONE N. 31 DEL 21/10/2020 CONVALIDA ELETTI MUNICIPALITÀ DI MESTRE CARPENEDO</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142418.pdf</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142418.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 4791</title>
       <description>ORDINANZA N° 779 DEL 26/10/2020: MODIFICHE ALLA VIABILITÀ IN FONDAMENTA DELLA MADONNA AL LIDO DI VENEZIA PER INTERVENTO PILOTA DI RIFACIMENTO DELLA PAVIMENTAZIONE. DAL 30 OTTOBRE AL 13 NOVEMBRE 2020.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142417.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142390.pdf</link>
       <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142390.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 4763</title>
-      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 42/2020 INVITO A PROCEDURA NEGOZIATA AI SENSI DELLART. 36, C. 2, LETT. B) DEL D. LGS. 50/2016, RIGUARDANTE LAFFIDAMENTO DEL SERVIZIO DI ASSISTENZA IN SALA E DI BIGLIETTERIA PER IL TEATRO TONIOLO E TEATRO MOMO DAL 01/09/2020 AL 31/08/2022. - CIG 8361557F1B.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142389.pdf</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142389.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 4762</title>
-      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 5/2020 - PROCEDURA APERTA PER AFFIDAMENTO SERVIZIO DI DOMICILIAZIONE E DI SOSTITUZIONE IN UDIENZA PER LE CAUSE INSTAURATE DINANZI ALLE MAGISTRATURE SUPERIORI ED AGLI UFFICI GIUDIZIARI AVENTI SEDE IN ROMA MEDIANTE ACCORDO QUADROCIG 819133035B.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142388.pdf</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142388.pdf</guid>
     </item>
   </channel>
 </rss>
