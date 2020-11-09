@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 4999</title>
+      <description>ORDINANZA N. 815 DEL 8/11/2020 - RIO DELLE PROCURATIE, DEI DAI, CAPPELLO, BACINO ORSEOLO, PROROGA DELLE DISPOSIZIONI DI REGOLAZIONE DELLA VIABILITÀ ACQUEA PER CONTINUAZIONE LAVORI DI RESTAURO E CONSOLIDAMENTO STATICO DELLIMMOBILE "PROCURATIE VECCHIE".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142625.pdf</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142625.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 4998</title>
       <description>DD/2020/2224 - SECI.CDS.003 CONTRATTO DI SERVIZIO COMUNE VENEZIA/AVM S.P.A. PER I SERVIZI MINIMI DI TRASPORTO PUBBLICO LOCALE DELLAMBITO DI UNITÀ DI RETE DELLAREA URBANA DI VENEZIA - IMPEGNO DI SPESA CORRISPETTIVO INTEGRATIVO DEI SERVIZI MINIMI DI NAVIGAZIONE LAGUNARE PER LESERCIZIO 2020</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142624.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142594.pdf</link>
       <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142594.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 4967</title>
-      <description>DD/2020/2037 - NO 20033 - DETERMINAZIONE A CONTRARRE EX ART. 192 DEL D.LGS. 267/2000 E ART. 32, C. 2, DEL D.LGS. 50/2016 E AFFIDAMENTO DIRETTO EX ART. 36, C. 2, LETT. A) DEL D.LGS. 50/2016 PER LACQUISTO DI UN AUTOVEICOLO DA DESTINARE AL SERVIZIO COMUNALE DI PROTEZIONE CIVILE. - IMPEGNO DI SPESA. ANNO 2020</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142593.pdf</link>
-      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP142593.pdf</guid>
     </item>
   </channel>
 </rss>
