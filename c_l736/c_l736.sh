@@ -50,7 +50,8 @@ code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 if [ $code -eq 200 ]; then
 
   # scarica lista pubblicazioni in albo
-  curl -skL "$URLBase" | iconv -f WINDOWS-1252 -t UTF-8 | jq . >"$folder"/rawdata/albo.json
+  #curl -skL "$URLBase" | iconv -f WINDOWS-1252 -t UTF-8 | jq . >"$folder"/rawdata/albo.json
+  curl -skL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
