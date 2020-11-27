@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 5380</title>
+      <description>PG. 2020/532839 -  ERRATA CORRIGE - ATTO DI RETTIFICA ERRORE MATERIALE SU DELIBERA N. 14 DEL 10.11.2020 DELLA MUNICIPALITÀ DI CHIRIGNAGO ZELARINO</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143006.pdf</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143006.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 5379</title>
+      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 30/2020 - C.I. 14655 - INTERVENTI DI COMPLETAMENTO DELLA BONIFICA DELLE AREE SCOPERTE DELLAREA DENOMINATA "EX OSPEDALE AL MARE" AL LIDO DI VENEZIA.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143005.pdf</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143005.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 5378</title>
+      <description>ORDINANZA N. 863 DEL 27/11/2020 - RIO BRIATI, SESTIERE DI DORSODURO, TEMPORANEA CHIUSURA AL TRAFFICO ACQUEO PER REALIZZAZIONE CASSERO PALANCOLATO. CANTIERE DI RIPRISTINO PERCORSI VIARI, FOGNATURE E MURI DI SPONDA.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143004.pdf</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143004.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 5377</title>
       <description>DELIBERA N. CF/2020/20 - PARERE SULLA PDC N. 2020/98 DEL 29/10/2020, AVENTE AD OGGETTO: "C.I.14572 "4.31 RAFFORZAMENTO AZIONE P.A.: COMPLETAMENTO DEL COLLEGAMENTO CICLOPEDONALE DA FAVARO A TESSERA" - APPROVAZIONE PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA CON CONTESTUALE ADOZ. DI VARIANTE N.60 AL PIANO DEGLI INTERVENTI EX ART. 19 D.P.R. 327/2001 DELLART. 24 C.1 DELLA LR 27/2003 E DELLART. 18 DELLA LR 11/2004, CON APPOSIZIONE DEL VINCOLO PREORDINATO ALLESPROPRIO (ARTT. 10 E 19 DPR 327/2001).</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143003.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_321_40549_TESTO.pdf</link>
       <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_321_40549_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 5350</title>
-      <description>DELIBERA DI GIUNTA N. 2020/320: BILANCIO - DEFINIZIONE GRUPPO AMMINISTRAZIONE PUBBLICA E INDIVIDUAZIONE ENTI E SOCIETÀ DA INCLUDERE NEL PERIMETRO DI CONSOLIDAMENTO DEL GRUPPO CITTÀ DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_320_40493_TESTO.pdf</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_320_40493_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 5349</title>
-      <description>DELIBERA DI GIUNTA N. 2020/319: BILANCIO - APPROVAZIONE DELLO SCHEMA DEL BILANCIO DI PREVISIONE PER GLI ESERCIZI FINANZIARI 2021-2023 E DEL DOCUMENTO UNICO DI PROGRAMMAZIONE 2021-2023</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_319_40350_TESTO.pdf</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_319_40350_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 5348</title>
-      <description>DELIBERA DI GIUNTA N. 2020/317: SINDACO - BANDO ATTIVITÀ ANTI-CONTRAFFAZIONE MINISTERO DELLO SVILUPPO ECONOMICO. AUTORIZZAZIONE ALLA PARTECIPAZIONE ED ATTI CONSEGUENTI.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_317_40121_TESTO.pdf</link>
-      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_317_40121_TESTO.pdf</guid>
     </item>
   </channel>
 </rss>
