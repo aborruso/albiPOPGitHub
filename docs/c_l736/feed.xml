@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 5478</title>
+      <description>LA V COMMISSIONE È CONVOCATA GIOVEDÌ 10 DICEMBRE 2020 ALLE ORE 16:00 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143104.pdf</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143104.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 5477</title>
       <description>LA VIII COMMISSIONE È CONVOCATA GIOVEDÌ 10 DICEMBRE 2020 ALLE ORE 14:00 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143103.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_325_56585_testo.pdf</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_325_56585_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 5448</title>
-      <description>DELIBERA DI GIUNTA N. 2020/324: AMBIENTE - INDIVIDUAZIONE DEI TERMINI DI SCADENZA DELLA TASSA SUI RIFIUTI (TARI) ANNO 2020 PER LE UTENZE NON DOMESTICHE CHE RIENTRANO NELLE TIPOLOGIE DI ATTIVITÀ INDIVIDUATE DALLART. 1 E 2 DELLA DELIBERAZIONE ARERA N. 158/2020 E PER ALCUNE TIPOLOGIE DI UTENZE DOMESTICHE.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_324_56508_testo.pdf</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_324_56508_testo.pdf</guid>
     </item>
   </channel>
 </rss>
