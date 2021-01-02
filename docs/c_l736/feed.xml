@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELETTORALE E LEVA | Pubblicazione numero 1</title>
+      <description>MANIFESTO  - FORMAZIONE DELLA LISTA DI LEVA DEI GIOVANI NATI NELLANNO 2004</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143702.pdf</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143702.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 6075</title>
       <description>ORDINANZA N. 915 DEL 31/12/2020 - RIPRESE CINEMATOGRAFICHE DEL FILM "ACROSS THE RIVER AND INTO THE TREES" - MODIFICHE DELLA VIABILITÀ NEI RII E CANALI DELLA ZONA A TRAFFICO LIMITATO INTERNA AL CENTRO STORICO DI VENEZIA (ZTL ICS).</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143701.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143673.pdf</link>
       <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143673.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 6046</title>
-      <description>NO20099  DETERMINAZIONE A CONTRATTARE EX ART. 192 DEL D. LGS. 267/2000  ACQUISTO DI ARREDI PER NUOVE AULE DEL CENTRO DI FORMAZIONE ITACA - SERVIZIO FORMAZIONE. IMPEGNO DI SPESA AL CAP./ART. 3322/103 TITOLO II DEL BILANCIO 2020</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143672.pdf</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143672.pdf</guid>
     </item>
   </channel>
 </rss>
