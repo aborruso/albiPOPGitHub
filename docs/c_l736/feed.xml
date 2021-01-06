@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 65</title>
+      <description>LA V COMMISSIONE È CONVOCATA MARTEDÌ 12 GENNAIO 2021 ALLE ORE 14:30 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143766.pdf</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143766.pdf</guid>
+    </item>
+    <item>
+      <title>#VARIE | Pubblicazione numero 64</title>
+      <description>AVVISO DI INTENDIMENTO A CONCEDERE A VENEZIA IN LOCALITA  PELLESTRINA - SESTIERE ZENNARI DI SPAZIO ACQUEO PER ORMEGGIO IMBARCAZIONE ADIBITA AD ATTIVITA DI PESCA-ACQUACOLTURA PER UNA SUPERFICIE COMPLESSIVA DI MQ 126,00</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143765.pdf</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143765.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 63</title>
       <description>SEGNALAZIONE CERTIFICATA DI INIZIO ATTIVITA EX ART. 87 BIS DLGS 259/03 PER RICONFIGURAZIONE STAZIONE RADIOBASE ILIAD ESISTENTE. CODICE SITO: VE30173_008 - CASINO CA NOGHERA. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 D.LGS. 259/03).</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143764.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143737.pdf</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143737.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 35</title>
-      <description>CONTRATTI DI SERVIZIO COMUNE VENEZIA/AVM S.P.A. E ACTV S.P.A. PER I SERVIZI MINIMI DI TRASPORTO PUBBLICO LOCALE AUTOMOBILISTICO, TRAMVIARIO E DI NAVIGAZIONE LAGUNARE DELLAMBITO DI UNITÀ DI RETE DELLAREA URBANA DI VENEZIA  IMPEGNO DI SPESA DEI FINANZIAMENTI STATALI DESTINATI A COMPENSARE LA RIDUZIONE DEI RICAVI TARIFFARI NEL PERIODO DELLEMERGENZA SANITARIA DA COVID-19 EX ART. 200 COMMA 1 DEL DL N. 34 DEL 19.05.2020, ASSEGNATI CON DGR N. 1320 DEL 8.09.2020</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143736.pdf</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143736.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 34</title>
-      <description>SCIA EX ART. 87 BIS DLGS 259/03 PER RICONFIGURAZIONE STAZIONE RADIOBASE VODAFONE ESISTENTE. CODICE SITO: VE 5392 A - TRONCHETTO. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D.LGS.259/03). INDIRIZZO LAVORI: ISOLA NOVA DEL TRONCHETTO 20, VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143735.pdf</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143735.pdf</guid>
     </item>
   </channel>
 </rss>
