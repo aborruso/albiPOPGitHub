@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 156</title>
+      <description>ISTANZA DI CAMBIO COGNOME DA "MOHAMED LAMINE" IN "LAMIN"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143857.pdf</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143857.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 155</title>
+      <description>ORDINANZA N° 19 DEL 11/01/2021: RIPRESE CINEMATOGRAFICHE DEL FILM "ACROSS THE RIVER AND INTO THE TREES" - MODIFICHE DELLA VIABILITÀ NEI RII E CANALI DELLA ZONA A TRAFFICO LIMITATO INTERNA AL CENTRO STORICO DI VENEZIA (ZTL ICS).</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143856.pdf</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143856.pdf</guid>
+    </item>
+    <item>
       <title>#ELENCO OGGETTI RINVENUTI | Pubblicazione numero 154</title>
       <description>ELENCO OGGETTI RINVENUTI DEL MESE DI DICEMBRE 2020, ART. 928 DEL C.C.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143855.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143828.pdf</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143828.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 126</title>
-      <description>APPROVAZIONE DELLO SCHEMA DI AVVISO PUBBLICO E DELLO SCHEMA DI CONVENZIONE QUADRO CON SOGGETTI INTERESSATI ALLA DIFFUSIONE SUL TERRITORIO DI PUNTI PER IL RILASCIO DI CERTIFICATI ANAGRAFICI ON LINE DEL COMUNE DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143827.pdf</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143827.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 125</title>
-      <description>SECI.GEDI.005 - CONSORZIO DI BONIFICA ACQUE RISORGIVE - COMPLETAMENTO RETE CICLABILE TRA RIVIERA MARCO POLO E VIA POERIO. REALIZZAZIONE NUOVA PASSERELLA CICLOPEDONALE SUL CANALE OSELLINO TRA RIVIERA MARCO POLO E RIVIERA CORONELLI. DETERMINAZIONE A CONTRATTARE EX ART. 192 D.LGS. 267/2000 E IMPEGNO DI SPESA PLURIENNALE.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143826.pdf</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143826.pdf</guid>
     </item>
   </channel>
 </rss>
