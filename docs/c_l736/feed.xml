@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 170</title>
+      <description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE NEL MESE DI DICEMBRE 2020 EX ART. 146 DEL D.LGS 22/01/2004 N° 42.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143871.pdf</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143871.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 169</title>
+      <description>ORDINANZA N. 24 DEL 13/01/2021 - MODIFICHE ALLA VIABILITÀ IN VIA ZENO, RIVIERA S. MARIA ELISABETTA, STRADA ZAFFI DA BARCA AL LIDO DI VENEZIA E PIAZZALE CADUTI DEL GIUDECCA A PELLESTRINA DAL GIORNO 15 GENNAIO AL 15 FEBBRAIO 2021.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143870.pdf</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143870.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 168</title>
       <description>ORDINANZA N. 23 DEL 13/01/2021 -  REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E DELLA SOSTA PRESSO VIALE VESPUCCI PER IL TRATTO DELLA STESSA COMPRESO TRA VIA ANTONIO PIGAFETTA ED LA FERMATA DEI BUS ACTV DENOMINATA "CATTANEO" IN LOCALITÀ MESTRE (VE) PER LESECUZIONE DEI LAVORI DI MODIFICA DELLA VIABILITÀ DA GIOVEDÌ 26 NOVEMBRE 2020 A VENERDÌ 18 DICEMBRE 2020 DALLE ORE 00:00 ALLE ORE 24:00. PROROGA ORDINANZA N. 859 DEL 26/11/2020 FINO A VENERDÌ 29 GENNAIO 2021.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143869.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_349_36367_TESTO.pdf</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_349_36367_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 139</title>
-      <description>ORDINANZA N. 13 DEL 08/01/2021: RIO DI SANTA FOSCA, OPERAZIONI DI FORMAZIONE CASSERO A PALANCOLE PER RESTAURO EDIFICIO PRIVATO, LIMITAZIONI A CIRCOLAZIONE ACQUEA E ORMEGGI. MODIFICA LIMITAZIONI ALLA VIABILITÀ</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143840.pdf</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143840.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 138</title>
-      <description>RIF. PRAT. N. PROT. N. PG 2020/588126 - SEGNALAZIONE CERTIFICATA DI INZIO ATTIVITA EX ART. 87 BIS DLGS 259/03 PER RICONFIGURAZIONE STAZIONE RADIOBASE ILIAD ESISTENTE. CODICE SITO: VE30174_007 - CHIRIGNAGO. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D.LGS. 259/03). INDIRIZZO LAVORI: VIA RISORGIMENTO (CHIRIGNAGO)</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143839.pdf</link>
-      <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143839.pdf</guid>
     </item>
   </channel>
 </rss>
