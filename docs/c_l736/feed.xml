@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 187</title>
+      <description>PROROGA DEI TERMINI DI SCADENZA PER LA RACCOLTA DI CANDIDATURE PER LA NOMINA DEL GARANTE DEI DIRITTI DELLE PERSONE PRIVATE  O LIMITATE NELLA LIBERTÀ PERSONALE DEL COMUNE DI VENEZIA (AVVISO PG. N. 522470 DEL 20/11/2020).</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143888.pdf</link>
+      <pubDate>Fri, 15 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143888.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 186</title>
       <description>LA VII COMMISSIONE È CONVOCATA MERCOLEDÌ 20 GENNAIO 2021 ALLE ORE 16:00 PRESSO LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA - (VARIAZIONE)</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143887.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143858.pdf</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143858.pdf</guid>
-    </item>
-    <item>
-      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 156</title>
-      <description>ISTANZA DI CAMBIO COGNOME DA "MOHAMED LAMINE" IN "LAMIN"</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143857.pdf</link>
-      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143857.pdf</guid>
     </item>
   </channel>
 </rss>
