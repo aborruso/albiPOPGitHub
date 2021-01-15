@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DETERMINE | Pubblicazione numero 181</title>
+      <description>DD/2021/32 - COMANDO TEMPORANEO PARZIALE PRESSO COMUNE DI VENEZIA DI L.A. - DIRIGENTE  DELLISTITUTO PROVINCIALE PER LINFANZIA SANTA MARIA DELLA PIETÀ - E APPROVAZIONE SCHEMA DI PROTOCOLLO DINTESA.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143882.pdf</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143882.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 180</title>
+      <description>LA II COMMISSIONE È CONVOCATA MERCOLEDÌ 20 GENNAIO 2021 ALLE ORE 14:45 PRESSO LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143881.pdf</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143881.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 179</title>
       <description>ORDINANZA N. 27 DEL 13/01/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, DELLA SOSTA E PEDONALE PRESSO VIA ORLANDA PER IL TRATTO DELLA STESSA COMPRESO TRA VIA  PASSO CAMPALTO E VIA CIMITERO CAMPALTO IN LOCALITÀ MESTRE (VE) PER LESECUZIONE DEI LAVORI DI MODIFICA DELLA VIABILITÀ DA VENERDÌ 11 DICEMBRE 2020 A VENERDÌ 08 GENNAIO 2021 DALLE ORE 00:00 ALLE ORE 24:00. PROROGA ORDINANZA N. 885 DEL 10/12/2020 FINO A VENERDÌ 05 FEBBRAIO 2021.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143880.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_355_39076_testo.pdf</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_355_39076_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 151</title>
-      <description>DELIBERA DI GIUNTA N. 2020/354: URBANISTICA - INTERVENTO DI TOMBINAMENTO DI UN FOSSATO NELLAREA PUBBLICA DEL PARCO DEL PIRAGHETTO DI VIA CATALANI A MESTRE. APPROVAZIONE DI SCHEMA DI ATTO UNILATERALE DOBBLIGO.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_354_38902_testo.pdf</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_354_38902_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 150</title>
-      <description>DELIBERA DI GIUNTA N. 2020/351: TRIBUTI - UTORIZZAZIONE A PROPORRE APPELLO AVANTI ALLA COMMISSIONE TRIBUTARIA REGIONALE DEL VENETO CONTRO LA SENTENZA DELLA COMMISSIONE TRIBUTARIA PROVINCIALE DI VENEZIA, SEZ. 4^, N. 452//2020 PRONUNCIATA IN DATA 10.02.2020, DEPOSITATA IL 29.06.2020, MAI NOTIFICATA.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_351_41367_testo integrale.pdf</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2020/DG_2020_351_41367_testo integrale.pdf</guid>
     </item>
   </channel>
 </rss>
