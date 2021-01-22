@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 242</title>
+      <description>LA VI COMMISSIONE (CONGIUNTA ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 2 FEBBRAIO 2021 ALLE ORE 16:00 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143943.pdf</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143943.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 241</title>
+      <description>LA X COMMISSIONE (CONGIUNTA ALLA VII COMMISSIONE E ALLA VIII COMMISSIONE) È CONVOCATA LUNEDÌ 25 GENNAIO 2021 ALLE ORE 15:30 PRESSO LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143942.pdf</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143942.pdf</guid>
+    </item>
+    <item>
+      <title>#VARIE | Pubblicazione numero 240</title>
+      <description>DISPOSIZIONE PROROGA DEI TERMINI DI SCADENZA PER LA RACCOLTA DI CANDIDATURE PER LA NOMINA DI DUE COMPONENTI DEL CONSIGLIO GENERALE DELLA FONDAZIONE CENTRO MUSICALE MALIPIERO (AVVISO PG. N. 563231 DEL 15/12/2020).</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143941.pdf</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143941.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 239</title>
       <description>ISTANZA DI PERMESSO DI RICERCA DI RISORSA GEOTERMICA IN COMUNE DI VENEZIA, DA DENOMINARSI PORTO MARGHERA - AREA GEOH AI SENSI DEL D.LGS. 22/2010 E DELLA D.G.R. N. 985 DEL 18/06/2013. DITTA S.D.C. SRL.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143940.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143911.pdf</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143911.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 209</title>
-      <description>ORDINANZA N° 39 DEL 19/01/2021: RIO DI SANTA FOSCA, OPERAZIONI DI FORMAZIONE CASSERO A PALANCOLE PER RESTAURO EDIFICIO PRIVATO, LIMITAZIONI A CIRCOLAZIONE ACQUEA E ORMEGGI. PROROGA LIMITAZIONI AL TRAFFICO ACQUEO.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143910.pdf</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143910.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 208</title>
-      <description>REGOLAMENTO COMUNALE IN ATTUAZIONE ALLA L.R. N. 63/93 ART. 26    DISPOSIZIONI OPERATIVE PER LELEZIONE DELLA RAPPRESENTANZA DEI SERVIZI DI TRASPORTO PUBBLICO NON DI LINEA ALLINTERNO DELLA COMMISSIONE DI DISCIPLINA.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143909.pdf</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143909.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 207</title>
-      <description>AVVISO PUBBLICO PER LA RICERCA DI N. 4 "ISTRUTTORI AMMINISTRATIV" - CAT. C - MEDIANTE PROCEDURA DI MOBILITA ESTERNA AI SENSI DELLART. 30 DEL D.LGS. 165/2001</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143908.pdf</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143908.pdf</guid>
     </item>
   </channel>
 </rss>
