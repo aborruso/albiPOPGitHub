@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 243</title>
+      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 50/2020 - SECI.SPRA.004 (PF 20002) APPALTO PER AFFIDAMENTO SERVIZIO ACCOGLIENZA PER N. 77 BENEFICIARI ADULTI PROGETTO SIPROIMI ORDINARI DAL 01/01/2021 AL 31/12/2022: LOTTO 1: N. 44 POSTI ADULTI MASCHI COMUNE VENEZIA TERRAFERMA. CIG 84583860F1; LOTTO 2: N. 33 POSTI ADULTI MASCHI/FEMMINE COMUNE VENEZIA CENTRO STORICO/ISOLE. CIG 84583936B6.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143944.pdf</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143944.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 242</title>
       <description>LA VI COMMISSIONE (CONGIUNTA ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 2 FEBBRAIO 2021 ALLE ORE 16:00 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143943.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143914.pdf</link>
       <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143914.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 210</title>
-      <description>AVVISO SEGUITI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER N. 15 POSTI DI ISPETTORE DI VIGILANZA CAT. D1  CODICE 01/2020</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143911.pdf</link>
-      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143911.pdf</guid>
     </item>
   </channel>
 </rss>
