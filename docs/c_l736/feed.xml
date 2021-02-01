@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELETTORALE E LEVA | Pubblicazione numero 328</title>
+      <description>MANIFESTO REVISIONE DINAMICA ORDINARIA DELLE LISTE ELETTORALI  FEBBARIO 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144029.pdf</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144029.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 327</title>
+      <description>DELIBERA N. CV/2021/3 -DOCUMENTO PROGRAMMATICO DI GOVERNO 2020-2025.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144028.pdf</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144028.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 326</title>
+      <description>DELIBERA N. CV/2021/2 -PARERE DELIBERA  N.1008/2021 DEL 26/01/2021  DEL  PROGETTO DEFINITIVO DEI LAVORI DI RISTRUTTURAZIONE DEI COMPENDI DENOMINATI "EX MANIFATTURA TABACCHI" E "PALAZZO GRITTI" SITI IN VENEZIA, RIO TERÀ DEI PENSIERI E FONDAMENTA DELLE BURCHIELLE, DA DESTINARSI A SEDI DELLAMMINISTRAZIONE GIUDIZIARIA. AUTORIZZAZIONE DEL CONSIGLIO COMUNALE AI SENSI DELLART. 24, COMMA 2-BIAS DELLA LR N. 27 DEL 7.11.2003. RICHIESTA DI PARERE AI SENSI DELLART.6 DEL REGOLAMENTO DELLE MUNICIPALITÀ.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144027.pdf</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144027.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 325</title>
       <description>DD/2021/43 - SECI.GEDI.160  DETERMINAZIONE A CONTRARRE, AI SENSI DELLART. 192 D.LGS N. 267/2000 E CONTESTUALE AFFIDAMENTO DIRETTO EX ART. 36, COMMA 2, LETT. A) D.LGS 50/2016 A FONGI S.R.L. DELLA MANUTENZIONE PROGRAMMATA DEI CARRELLI ELEVATORI UTILIZZATI PRESSO IL CANTIERE COMUNALE PER LA MOVIMENTAZIONE DELLE IMBARCAZIONI. IMPEGNO DI SPESA.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144026.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144000.pdf</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144000.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 298</title>
-      <description>ORDINANZA N. 60 DEL 28/01/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE PRESSO VIA MOLINO MARCELLO IN LOCALITÀ TRIVIGNANO PER LA SOSTITUZIONE DI UN POZZETTO STRADALE MERCOLEDÌ 3 FEBBRAIO 2021 CON ORARIO DALLE ORE 08:00 ALLE ORE 24:00.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143999.pdf</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143999.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 297</title>
-      <description>CALENDARIO PROVE EFFICIENZA FISICA - BANDO DI CONCORSO PUBBLICO PER TITOLI ED ESAMI PER N. 15 POSTI DI ISPETTORE DI VIGILANZA CAT. D1  CODICE 01/2020</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143998.pdf</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143998.pdf</guid>
-    </item>
-    <item>
-      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 296</title>
-      <description>LA IV COMMISSIONE È CONVOCATA MERCOLEDÌ 3 FEBBRAIO 2021 ALLE ORE 09:30 PRESSO LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143997.pdf</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP143997.pdf</guid>
     </item>
   </channel>
 </rss>
