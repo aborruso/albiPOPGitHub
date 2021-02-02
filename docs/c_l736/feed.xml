@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 338</title>
+      <description>LA I COMMISSIONE (CONGIUNTA ALLA II COMMISSIONE, ALLA III COMMISSIONE, ALLA IV COMMISSIONE, ALLA V COMMISSIONE, ALLA VI COMMISSIONE, ALLA VII COMMISSIONE, ALLA VIII COMMISSIONE, ALLA IX COMMISSIONE E ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 9 FEBBRAIO 2021 ALLE ORE 12:00 PRESSO LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144039.pdf</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144039.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISO AI CREDITORI | Pubblicazione numero 337</title>
+      <description>AVVISO AI CREDITORI VERSO LIMPRESA DUILIO GAZZETTA SRL.: ULTIMAZIONE LAVORI C.I. 14798  DEMOLIZIONI PAVIMENTAZIONI EX EMEROTECA DI VIA POERIO A MESTRE. CIG:ZEF2BEF5E2</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144038.pdf</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144038.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 336</title>
       <description>DIFFIDA A CONFORMARE AI SENSI DELLART. 27 DEL D.P.R. 06.06.2001 N. 380 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI LEDIFICIO ALLE NORME URBANISTICHE, REGOLAMENTARI EDILIZIE A SEGUITO DELLACCERTAMENTO DI OPERE EDILIZIE ABUSIVE ESEGUITE IN CONTRASTO CON LA PREDETTA NORMATIVA CASTELLO (VENEZIA) N. 2049 - SEZ. " UNIFICATA" FG. 16 MAPP. 2924 SUB. 4</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144037.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144010.pdf</link>
       <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144010.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 308</title>
-      <description>DELIBERA DI GIUNTA N. 2021/25: LAVORI PUBBLICI - C.I. 14886 - 3.3.15  SISTEMAZIONE AREE ESTERNE FORTE MARGHERA    APPROVAZIONE DEL PROGETTO DEFINITIVO COMPRENDENTE LA FATTIBILITÀ TECNICA ED ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_25_38369_TESTO.pdf</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_25_38369_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 307</title>
-      <description>DELIBERA DI GIUNTA N. 2021/24: LAVORI PUBBLICI - C.I. 14932 - FORTE MARGHERA - MESSA IN SICUREZZA EDIFICIO 27 E COLLOCAZIONE CABINA ENEL. APPROVAZIONE DEL PROGETTO DEFINITIVO E CONTESTUALE APPROVAZIONE DEL PROGETTO DI FATTIBILITÀ TECNICO ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_24_38220_testo.pdf</link>
-      <pubDate>Fri, 29 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_24_38220_testo.pdf</guid>
     </item>
   </channel>
 </rss>
