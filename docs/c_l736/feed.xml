@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 369</title>
+      <description>ISTANZA DI AGGIUNTA DEL COGNOME MATERNO A QUELLO DEL FIGLIO MINORE MIGLIACCIO ANDREA DA "MIGLIACCIO" A "MIGLIACCIO DE SPIRT".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144070.pdf</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144070.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI GARA | Pubblicazione numero 368</title>
       <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 55/2020 - C.I. 14883 - LAVORI DI "3.3.17  RIPRISTINO VIABILITÀ E ADEGUAMENTO SEGNALETICA VERTICALE E ORIZZONTALE FUNZIONALE AI SERVIZI DI SHARING MOBILITY".</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144069.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144041.pdf</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144041.pdf</guid>
-    </item>
-    <item>
-      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 339</title>
-      <description>LA IV COMMISSIONE (CONGIUNTA ALLA IX COMMISSIONE) È CONVOCATA GIOVEDÌ 4 FEBBRAIO 2021 ALLE ORE 09:30 PRESSO STAZIONE MARITTIMA TERMINAL 103 VARCO TRONCHETTO E/O LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA  - (MODIFICA PRECEDENTEMENTE NON CONGIUNTA)</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144040.pdf</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144040.pdf</guid>
     </item>
   </channel>
 </rss>
