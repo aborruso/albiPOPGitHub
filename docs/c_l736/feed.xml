@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 376</title>
+      <description>DELIBERA N. CM/2021/2 - PARERE SU PD 1004/2021 AD OGGETTO "PIANO PER IL COMMERCIO SU AREE PUBBLICHE: RIORDINO DELLE FIERE DI EPIFANIA, PASQUA E NATALE DI VENEZIA E NATALE, EPIFANIA E SAN MICHELE DI MESTRE".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144077.pdf</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144077.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 375</title>
+      <description>DELIBERA N. CM/2021/1 - DESIGNAZIONE RAPPRESENTANTI DELLA MUNICIPALITÀ DI MESTRE CARPENEDO NEI COMITATI TECNICI DELLE PISCINE DI VIA CIRCONVALLAZIONE, PARCO ALBANESE E VIA PENELLO.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144076.pdf</link>
+      <pubDate>Thu, 04 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144076.pdf</guid>
+    </item>
+    <item>
       <title>#ELENCO OGGETTI RINVENUTI | Pubblicazione numero 374</title>
       <description>ELENCO OGGETTI RINVENUTI ART. 928 DEL C.C. DEL MESE DI GENNAIO 2021</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144075.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144048.pdf</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144048.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 346</title>
-      <description>DELIBERA DI GIUNTA N. 2021/23: LAVORI PUBBLICI - C.I. 14545 "MUSEO CORRER - ADEGUAMENTO IMPIANTISTICO E DI SICUREZZA DEI NUOVI SPAZI E OPERE DI COMPARTIMENTAZIONE" - APPROVAZIONE PROGETTO DEFINITIVO COMPRENSIVO DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_23_39189_testo.pdf</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_23_39189_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 345</title>
-      <description>DELIBERA DI GIUNTA N. 20218/22: LAVORI PUBBLICI - C.I. 14645 "MUSEO CORRER COMPENDIO PALAZZO REALE - OPERE DI COMPARTIMENTAZIONE, SALVAGUARDIA E ADEGUAMENTO NORMATIVO PER LA SICUREZZA E LANTINCENDIO - SALA REGIA E CONTROLLI" - APPROVAZIONE PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA -</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_22_38765_testo.pdf</link>
-      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_22_38765_testo.pdf</guid>
     </item>
   </channel>
 </rss>
