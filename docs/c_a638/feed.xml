@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di Barcellona Pozzo di Gotto</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>https://aborruso.github.io/albiPOPGitHub/c_a638/feed.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_a638/feed.xml" type="application/rss+xml"/>
+    <docs>https://albopop.it/comune/barcellona_pozzo_di_gotto/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">Barcellona Pozzo di Gotto</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Messina</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Sicilia</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">38.145437</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">15.213394</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
+    <item>
+      <title>Atti Di Interesse Generale | Pubblicazione numero 565</title>
+      <description>Convocazione consiglio comunale Question time 18 febbraio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=565</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=565</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali | Pubblicazione numero 564</title>
+      <description>Istanza del dipendente matr. 959 per la fruizione di congedo straordinario retribuito da servire per l'assistenza ad un parente disabile</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=564</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=564</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali | Pubblicazione numero 563</title>
+      <description>Istanza del dipendente matr. 831 per la fruizione di congedo straordinario retribuito da servire per l'assistenza ad un parente disabile</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=563</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=563</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano | Pubblicazione numero 562</title>
+      <description>Azione 4 Sostegno al reddito-Liquidazione contributo ai beneficiari avviati con la III annualita' Piano di Zona 2013-2015 per il Comune di Montalbano Elicona</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=562</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=562</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano | Pubblicazione numero 561</title>
+      <description>Azione 4 Sostegno al reddito-Liquidazione contributo ai beneficiari avviati con la III annualita' Piano di  Zona 2013-2015 per il Comune di Falcone</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=561</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=561</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano | Pubblicazione numero 560</title>
+      <description>Azione 4 Sostegno al reddito-Liquidazione contributo per varie mensilita' ai beneficiari avviati della III annualita'-Borsa lavoro Comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=560</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=560</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano | Pubblicazione numero 559</title>
+      <description>Azione 4 Sostegno al reddito-Liquidazione spettante ai beneficiari avviati con la III annualita' Piano di Zona 2013-2015  per il Comune di Meri'</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=559</link>
+      <pubDate/>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=559</guid>
+    </item>
+  </channel>
+</rss>
