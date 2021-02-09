@@ -25,7 +25,7 @@ country="Italia"
 name="Comune di Barcellona Pozzo di Gotto"
 uid="istat:083005"
 docs="https://albopop.it/comune/barcellona_pozzo_di_gotto/"
-selflink="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml"
+selflink="https://aborruso.github.io/albiPOPGitHub/c_a638/feed.xml"
 ### anagrafica albo
 
 iPA="c_a638"
@@ -46,7 +46,7 @@ output="$folder"/../docs/"$iPA"
 URLBase="http://web11.immediaspa.com/barcellona/mc/mc_p_ricerca.php?multiente=barcellona&pag=0"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
+code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
@@ -61,7 +61,7 @@ if [ $code -eq 200 ]; then
     -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq '[.html.body.tr[]|{id:.td[0]["#text"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}]' >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.[]' | mlr --j2t unsparsify | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.[]' | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -84,14 +84,14 @@ if [ $code -eq 200 ]; then
 
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
-  while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio dataFine; do
+  while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio dataFine rssData; do
     URL="http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
       --subnode "//item[$newcounter]" --type elem -n title -v "$tipo | Pubblicazione numero $numero" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
       --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
-      --subnode "//item[$newcounter]" --type elem -n pubDate -v "$dataInizio" \
+      --subnode "//item[$newcounter]" --type elem -n pubDate -v "$rssData" \
       --subnode "//item[$newcounter]" --type elem -n guid -v "$URL" \
       "$folder"/processing/feed.xml
   done <"$folder"/rawdata/albo.tsv
