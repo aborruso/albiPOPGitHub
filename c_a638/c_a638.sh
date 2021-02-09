@@ -61,7 +61,11 @@ if [ $code -eq 200 ]; then
     -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq '[.html.body.tr[]|{id:.td[0]["#text"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}]' >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.[]' | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.[]' | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then put '$des=gsub($des,"<","&lt")' \
+    then put '$des=gsub($des,">","&gt;")' \
+    then put '$des=gsub($des,"&","&amp;")' \
+    then put '$des=gsub($des,"'\''","&apos;")' \
+    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -84,7 +88,7 @@ if [ $code -eq 200 ]; then
 
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
-  while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio dataFine rssData; do
+  while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio rssData; do
     URL="http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
