@@ -51,15 +51,6 @@ code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:8
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-  # scarica lista pubblicazioni in albo
-  curl -kL 'http://web11.immediaspa.com/barcellona/mc/mc_p_ricerca.php?multiente=barcellona&pag=0' \
-    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
-    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
-    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
-    -H 'Upgrade-Insecure-Requests: 1' \
-    -H 'Pragma: no-cache' \
-    -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq '[.html.body.tr[]|{id:.td[0]["#text"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}]' >"$folder"/rawdata/albo.json
-
   rm "$folder"/rawdata/albi.json
   for i in {0..3}; do
     curl -kL 'http://web11.immediaspa.com/barcellona/mc/mc_p_ricerca.php?multiente=barcellona&pag='"$i"'' \
@@ -76,14 +67,7 @@ if [ $code -eq 200 ]; then
     then put '$des=gsub($des,">","&gt;")' \
     then put '$des=gsub($des,"&","&amp;")' \
     then put '$des=gsub($des,"'\''","&apos;")' \
-    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine then sort -nr id | tail -n +2 | head -n 30 >"$folder"/rawdata/albi.tsv
-
-  # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.[]' | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then put '$des=gsub($des,"<","&lt")' \
-    then put '$des=gsub($des,">","&gt;")' \
-    then put '$des=gsub($des,"&","&amp;")' \
-    then put '$des=gsub($des,"'\''","&apos;")' \
-    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
+    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine then sort -nr id | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
