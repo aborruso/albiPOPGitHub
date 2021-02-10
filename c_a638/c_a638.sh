@@ -59,9 +59,9 @@ if [ $code -eq 200 ]; then
       -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
       -H 'Upgrade-Insecure-Requests: 1' \
       -H 'Pragma: no-cache' \
-      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq -c '.html.body.tr[]|{id:.td[0]["#text"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}' >>"$folder"/rawdata/albi.json
+      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq -c '.html.body.tr[]|{id:.["@data-id"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}' >>"$folder"/rawdata/albi.json
   done
-
+html.body.tr[0]["@data-id"]
   # converti lista in TSV
   jq <"$folder"/rawdata/albi.json | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then put '$des=gsub($des,"<","&lt")' \
     then put '$des=gsub($des,">","&gt;")' \
@@ -94,7 +94,7 @@ if [ $code -eq 200 ]; then
     URL="http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-      --subnode "//item[$newcounter]" --type elem -n title -v "$tipo | Pubblicazione numero $numero" \
+      --subnode "//item[$newcounter]" --type elem -n title -v "$tipo" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
       --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
       --subnode "//item[$newcounter]" --type elem -n pubDate -v "$rssData" \
