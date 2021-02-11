@@ -1,7 +1,7 @@
 name: crea feed RSS c_a026
 
 on:
-  push:
+#  push:
   repository_dispatch:
   schedule:
     - cron:  '10 8,10,13,16 */1 * *'
