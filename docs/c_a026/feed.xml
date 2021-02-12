@@ -11,11 +11,18 @@
     <category domain="http://albopop.it/specs#channel-category-municipality">Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-province">Catania</category>
     <category domain="http://albopop.it/specs#channel-category-region">Sicilia</category>
-    <category domain="http://albopop.it/specs#channel-category-latitude">38.145437</category>
-    <category domain="http://albopop.it/specs#channel-category-longitude">15.213394</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">37.554908</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">15.146427</category>
     <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
+    <item>
+      <title>Atto numero 2021/5809</title>
+      <description>CORSO PER NOTIFICA VERBALI A MEZZO PEC</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349984</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349984</guid>
+    </item>
     <item>
       <title>Atto numero 2021/18</title>
       <description>ORDINANZA PER LA RIMOZIONE DI TETTOIA IN CEMENTO-AMIANTO (ETERNIT) POSTA NEL TERRAZZO DELL'IMMOBILE SITO IN VIA LITTERI 44 E CONTRADDISTINTO A CATASTO AL FOGLIO N.2 PARTICELLA N. 635 SUB 9.</description>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349432</link>
       <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349432</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/119</title>
-      <description>AUTORIZZAZIONE ESTUMULAZIONE SALMA DI LO PRESTI MARIA DECEDUTA IL 06.12.2020 DAL LOCULO N.73 COLOMBARIO "G" DEL CIMITERO COMUNALE E TRASFERIMENTO DELLA SALMA NEL CIMITERO DI SAN GIOVANNI LA PUNTA. FASCICOLO CIMITERIALE : LOCULO N.73 G</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349150</link>
-      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/349150</guid>
     </item>
   </channel>
 </rss>
