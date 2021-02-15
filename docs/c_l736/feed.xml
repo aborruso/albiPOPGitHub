@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 473</title>
+      <description>BANDO PER LASSEGNAZIONE DI ORTI URBANI  AREA ORTI DI MARGHERA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144174.pdf</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144174.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 472</title>
       <description>ORDINANZA N° 94 DEL 12/02/2021: RIPRESE SERIE TELEVISIVA "NON MI LASCIARE" - MODIFICHE DELLA VIABILITÀ NEI RII E CANALI DELLA ZONA A TRAFFICO LIMITATO INTERNA AL CENTRO STORICO DI VENEZIA (ZTL ICS), NUOVO PERIODO DI ATTIVITÀ.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144173.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144145.pdf</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144145.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 443</title>
-      <description>DD/2021/73 - SECI.GEDI.208  DETERMINAZIONE A CONTRATTARE EX ART. 192 DEL D.LGS. 267/2000 E ART. 32, COMMA 2, DEL D.LGS. 50/2016 E AFFIDAMENTO DIRETTO EX ART. 36, COMMA 2, LETT. A) DEL D.LGS. 50/2016 DEL SERVIZIO DI RIMESSAGGIO, ALAGGIO E VARO DI N. 2 IMBARCAZIONI IN USO AL SERVIZIO COMUNALE DI PROTEZIONE CIVILE PER LANNO 2021 - IMPEGNO DI SPESA ANNO 2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144144.pdf</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144144.pdf</guid>
     </item>
   </channel>
 </rss>
