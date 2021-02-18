@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 536</title>
+      <description>LA VI COMMISSIONE (CONGIUNTA ALLA VIII COMMISSIONE) È CONVOCATA MARTEDÌ 9 MARZO 2021 ALLE ORE 12:00 PRESSO "LA SEDUTA SI SVOLGERÀ IN FORMA TELEMATICA MEDIANTE VIDEOCONFERENZA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144237.pdf</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144237.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 535</title>
       <description>AVVISO DI MOBILITA VOLONTARIA ESTERNA - EX ART. 30 D.LGS. N. 165/2001 - PER LA COPERTURA DI N. 2 POSTI , A TEMPO PIENO, DI FUNZIONARIO AMMINISTRATIVO (CATEGORIA D) PRESSO LAREA V SERVIZI ALLA PERSONA.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144236.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144207.pdf</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144207.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 505</title>
-      <description>DD/2021/235 - INTERVENTI DI AFFIDO FAMILIARE. ADEGUAMENTO IMPORTO DEI CONTRIBUTI ALLE FAMIGLIE AFFIDATARIE PER LANNO 2021 IN ESECUZIONE DEL REGOLAMENTO COMUNALE APPROVATO CON DELIBERA DI CONSIGLIO COMUNALE N. 90 DELL11 NOVEMBRE 2013.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144206.pdf</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144206.pdf</guid>
     </item>
   </channel>
 </rss>
