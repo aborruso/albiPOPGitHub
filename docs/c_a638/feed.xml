@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura emessa dalla cooperativa Formamentis per servizio comunita' alloggio per disabili mentali reso nel mese di ottobre 2020 all'utente Sig. G.S.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=664</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=664</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatt. emessa dalla coop."Formamentis" per il servizio in comunita' alloggio per disabili mentali reso nei mesi di Novembre /Dicembre 2020 all'uente Sig. G.S.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=663</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=663</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione Unica Ambientale a favore della ditta Sant'Anna Derivati Agrumi srl per l'attivita' di derivanti agrumari  svolta nello stabilimento di Via Medici n. 334 del Comune di Barcellona P:G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=662</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=635</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=635</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto alla Societa' Immedia spa-bundle servizi digitali piattaforme: SPID ed IO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=634</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=634</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Indizione dell'elezione dei componenti del Consiglio Metropolitano della Citta' Metropolitana di Messina per domenica 28 marzo 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=633</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=633</guid>
     </item>
   </channel>
 </rss>
