@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/183</title>
+      <description>BANDO DI GARA CAMPO SPORTIVO COMUNALE - RETTIFICA BANDO DI GARA PER MERO ERRORE MATERIALE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351019</link>
+      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351019</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/33</title>
       <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO DI VIA LIVORNO N. 113 ACI CASTELLO, IN PERSONA DEGLI AMMINISTRATORI COOBBLIGATI BOSCO SANTI E DI GREGORIO CINZIA, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/350962</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/350512</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/350512</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/175</title>
-      <description>RIMBORSO SPESE AL COMITATO FESTEGGIAMENTI SAN MAURO ABATE DI ACI CASTELLO ANNO 2020</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/350504</link>
-      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/350504</guid>
     </item>
   </channel>
 </rss>
