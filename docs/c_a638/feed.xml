@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione per il giorno 23/02/2021 - Via del Mare di fronte ai N° c. 100 sino al N° c. 103 lato Torrente Longano dal civico 202 al civico 204</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=718</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=718</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa nei confronti della Societa'.Co.IM.srl</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=717</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=717</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Si informa la cittadinanza che sabato 27/02/2021 dalle ore 09:00 alle ore 13:00 e dalle ore 14:00 alle ore 18:00 si eseguiranno , in modalita' drive-in, i tamponi rapidi presso il Palalberti di Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=716</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=716</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia in sanatoria n. 01 del 19 febbraio 2021 in ditta Barresi Salvatora</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=715</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=715</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Manifestazione d'interesse per la selezione del personale di direzione di cantiere e istruttore di cantiere per operai disoccupati in favore del Comune di Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=714</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=691</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=691</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>lavori di consolidamento di un tratto di Via Leopardi del Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=690</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=690</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>lavori di sistemazione e protezione della S.S. 113, lato Palermo, del Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=689</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=689</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Lavori di consolidamento Via Nemi fraz. Portosalvo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=688</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=688</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Verifica Schedario elettorale Generale dopo la revisione Dinamica del mese di Gennaio 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=687</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=687</guid>
     </item>
   </channel>
 </rss>
