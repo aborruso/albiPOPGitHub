@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/205</title>
+      <description>CONCESSIONE TEMPORANEA N.02/2021 PER PONTEGGIO DITTA MACCARRONE MARIA TERESA.-</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351439</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351439</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/37</title>
       <description>ULTERIORE PROROGA DAL 22/02/2021 AL 27/02/2021 DELL’ORDINANZA SINDACALE N°336 DEL 25/11/2020: “EMERGENZA COVID 19 – ATTUAZIONE DELL’ORDINANZA DEL PRESIDENTE DELLA REGIONE SICILIANA N° 2/IF DEL 27/03/20202 PER LA RACCOLTA E LO SMALTIMENTO DEI RIFIUTI DI TIPO A IN VIA SOSTITUTIVA, CON ONERI A CARICO DELL’ASP CATANIA.”</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351412</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351077</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351077</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/192</title>
-      <description>LIQUIDAZIONE FATTURA N. 219213102 DEL 14.01.2021 DITTA RICOH ITALIA S.R.L. SERVIZIO NOLEGGIO FOTOCOPIATRICE MULTIFUNZIONALE IN DOTAZIONE AL SERVIZIO “RISORSE UMANE” - CIG: Z462DDEB8B.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351071</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351071</guid>
     </item>
   </channel>
 </rss>
