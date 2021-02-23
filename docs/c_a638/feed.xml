@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Anticipazioni di somme occorrenti per spese contrattuali ed altro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=700</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=700</guid>
+    </item>
+    <item>
       <title>Verbali Risultanze Di Gara</title>
       <description>Procedura aperta, mediante RDO sul ME.PA. per affidamento della fornitura di polizza RCT a favore di N. 585 beneficiari del reddito di cittadinanza</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=699</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=672</link>
       <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=672</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture emesse dalla cooperativa Formamentis per il servizio in comunita' alloggio per disabili mentali reso nei mesi da novembre a dicembre 2020 al sig. A.C.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=671</link>
-      <pubDate>Fri, 19 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=671</guid>
     </item>
   </channel>
 </rss>
