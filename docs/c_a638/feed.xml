@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatture fornitura energia elettrica ditta Enel Energia spa</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=724</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=724</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura Enel Energia - fornitura di ultima istanza - Gas Naturale - locali scolastici di Via S. Andrea n. 174 per € 237,79</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=723</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=723</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso le Scuole materne, del 15 gennaio 2021, relative ai mesi da giugno a dicembre 2020 Totale € 36,95 + I.V.A. € 8,13</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=722</link>
+      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=722</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura Enel Energia s.p.a. fornitura di luce presso la Scuola Media, del 15 gennaio 2021, relativa al mese di dicembre 2020 Totale € 1.182,09 + I.V.A. € 260,06</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=721</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=697</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=697</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Approvazione dello schema di protocollo d'intesa da stipulare tra il comune di Barcellona P. G. e l'Ordine degli Ingegneri della provincia di Messina relativo alla attivita' di praticantato di Ing. iscritti all'ordine professionale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=696</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=696</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Lavori urgenti di sistemazione della Saia Ceraolo del Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=695</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=695</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Lavori di sistemazione tra il vicolo III Colonna, Via Turati e la (S.P. 85) del Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=694</link>
-      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=694</guid>
     </item>
   </channel>
 </rss>
