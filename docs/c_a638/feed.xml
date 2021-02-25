@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 4 "Sostegno al reddito" - Approvazione graduatoria provvisoria a seguito della riapertura dei termini degli assegni civici III Annualita' Comune di Montalbano Elicona</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=742</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=742</guid>
+    </item>
+    <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Procedura aperta con aggiudicazione per il servizio di supporto alla ricerca dell'evasione erariale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=741</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=741</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Richiesta proroga inizio lavori di due cantieri di lavoro regionale finanziati dell'Assessorato  Regionale  della Famiglia, delle Politiche Sociali e del Lavoro</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=740</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=715</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=715</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Manifestazione d'interesse per la selezione del personale di direzione di cantiere e istruttore di cantiere per operai disoccupati in favore del Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=714</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=714</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Manifestazione di interesse per affidamento fornitura di materiale per il cantiere denominato: realizzazione di marciapiiedi in Via La Pira tra Stretto I Bartolella e Vico III Palestro</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=713</link>
-      <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=713</guid>
     </item>
   </channel>
 </rss>
