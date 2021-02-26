@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/258</title>
+      <description>LIQUIDAZIONE FATTURA N.22 DEL 08/01/2021 ALLA DITTA UNISID GROUP SRL PER MESI DI GENNAIO FEBBRAIO MARZO PER FOTOCOPIATORE MULTIFUNZIONE ASSEGNATO AGLI UFFICI ANAGRAFE E STATO CIVILE CIG Z082D</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352078</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352078</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/11</title>
       <description>PARTECIPAZIONE ALL'AVVISO PUBBLICO "EDUCARE IN COMUNE" - APPROVAZIONE PROGETTI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352076</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351984</link>
       <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351984</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/40</title>
-      <description>REALIZZAZIONE DEL MERCATO DEL CONTADINO A KM.ZERO – PROVVEDIMENTI DI CIRCOLAZIONE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351982</link>
-      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351982</guid>
     </item>
   </channel>
 </rss>
