@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/38</title>
+      <description>LAVORI ABUSIVI ESEGUITI IN ACI CASTELLO, VIA FIRENZE OPERA ABUSIVA N. 2164</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351912</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351912</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/239</title>
       <description>NOMINA DI DIRETTORI E ISTRUTTORI PER 4 CANTIERI DI LAVORO REGIONALE - CUP: H27H18002400002- H27H18002420002- H27H18002410002 E H27H18002390002</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351862</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351516</link>
       <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351516</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/224</title>
-      <description>IMPEGNO E LIQUIDAZIONE FATTURA N. 684 DEL 01/02/2021, ALLA GI ONE S.P.A. PER LA PRESTAZIONE DI SERVIZI RELATIVI ALLA GESTIONE INTEGRATA DELLA SALUTE E SICUREZZA SUI LUOGHI DI LAVORO. (PRIMO TRIMESTRE ANNO 2021) - CIG:Z05213DA24</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351506</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/351506</guid>
     </item>
   </channel>
 </rss>
