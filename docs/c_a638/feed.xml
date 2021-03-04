@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. 6/21 del 31/01/2021 per servizio di intermediazione, carico trasporto e recupero della frazione organica umida-Ditta Giglione Servizi Ecologici srl</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=997</link>
+      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=997</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Progetto per l'attuazione del sostegno per l'inclusione attiva approvato con DDG n, 239 del 28/06/2017, "PON INCLUSIONE" Liquidaz.fatt. Assistente Sociale Dott. MOUTAWAKKIL MOHAMED mese Dicembre 2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=996</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=970</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=970</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero (art. 69 del vigente Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale). Ditta "Muscara' Sebastiano" Via Stretto Bartolella 51 - Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=969</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=969</guid>
     </item>
   </channel>
 </rss>
