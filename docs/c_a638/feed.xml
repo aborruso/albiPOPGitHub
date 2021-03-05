@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Provved.to di liquidaz. di spesa per canone di noleggio autovetture in dotaz.ne alla polizia municipale -Ditta Leaseplant Italia SPA periodo:01/12/2020-31/12/2020 e contestuali riliquidazioni periodo da Gennaio a Novembre 2020</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=998</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=998</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n. 6/21 del 31/01/2021 per servizio di intermediazione, carico trasporto e recupero della frazione organica umida-Ditta Giglione Servizi Ecologici srl</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=997</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=971</link>
       <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=971</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura emessa dalla cooperativa Formamentis per il servizio in comunita' alloggio per disabili mentali reso nei mesi novembre/dicembre 2020 utente Sig.ra D.T.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=970</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=970</guid>
     </item>
   </channel>
 </rss>
