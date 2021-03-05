@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/8813</title>
+      <description>PUBBLICAZIONE VERBALI DI GARA N. 1 E N. 2</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352842</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352842</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/290</title>
       <description>ESTUMULAZIONE D'UFFICIO DEI RESTI MORTALI DI VENTURO ROSINA DECEDUTA IL 18.07.1949 DAL LOCULO N.10 "H" CON TRASFERIMENTO IN CASSETTA OSSARIO NEL LOCULO N.81 "H" . FASCICOLO CIMITERIALE : LOCULO N.10 "H" E N.81 "H" .</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352806</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352620</link>
       <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352620</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/8578</title>
-      <description>AUTORIZZAZIONI E ATTESTAZIONI ALLO SCARICO N°42 DEL 03/03/2021 TITOLARE DELLO SCARICO - LONGO ANTONINO NELLA QUALITA' DI LEGALE RAPPRESENTANTE - VIA ANT. DA MESSINA N°1-3</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352618</link>
-      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/352618</guid>
     </item>
   </channel>
 </rss>
