@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 792</title>
+      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 56/2020  C.I. 14268 - LAVORI DI "4.34  EDILIZIA COMUNALE DELLA TERRAFERMA: INTERVENTI DI ADEGUAMENTO, MESSA A NORMA, RIPRISTINI FUNZIONALI E RINNOVAMENTI". ESITO GARA ALBO PRETORIO.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144493.pdf</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144493.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 791</title>
       <description>DD/2021/442 - INCARICO A TEMPO DETERMINATO DEL DIRETTORE GENERALE DEL COMUNE DI VENEZIA  AI SENSI DELLART. 108 DEL D.LGS.N. 267/2000. IMPEGNO DI SPESA.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144492.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_8_001_189_CC_2021_8.odt.pdf</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_8_001_189_CC_2021_8.odt.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 762</title>
-      <description>ORDINANZA N. 134 DEL 04/03/2021 - MODIFICHE ALLA VIABILITÀ CON INTERDIZIONE AL TRANSITO IN CANNAREGIO CALLE DE LE BECCARIE, DAL PONTE SOLESIN AL TUNNEL DELLAREA DI CANTIERE, DALLE DAL 05 MARZO AL 30 MAGGIO 2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144463.pdf</link>
-      <pubDate>Thu, 04 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144463.pdf</guid>
     </item>
   </channel>
 </rss>
