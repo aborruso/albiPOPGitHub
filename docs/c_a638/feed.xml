@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizz. provv. allo scarico dei reflui provenienti da insediam.ti produtt. e produtt. assimilabili a civili con recapito in pubb.fognatura. (L.R.n.27/86 e D.Lgs.vo n.152/06)-Validita' mesi 6 Ditta:La chioma di Berenice di Puliafito Lorenza</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1062</link>
+      <pubDate>Tue, 09 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1062</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Covocazione Consiglio Comunale "Question Time" che si terra' a porte chiuse il prossimo 16 Marzo 2021, ore 19:00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1061</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1035</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1035</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Contributo per abbattimento barrire architettoniche L. 13/89 art.11 Sig.ra Di Francesco Assunta. Cap. 1948/7 bilancio</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1034</link>
-      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1034</guid>
     </item>
   </channel>
 </rss>
