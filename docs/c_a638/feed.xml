@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>presa d'atto giudizio commissione medica di verifica dipendente matr. 7060</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1115</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1115</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatt. emessa dalla cooperativa "Nautilus" per servizio in comunita'  alloggio per disabili mentali reso nel mese Dicembre 2020 all'utente Sig. I.F.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1114</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1085</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1085</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Azione 4 " Sostegno al reddito". Liquidazione contributo ai contributo ai beneficiari avviati con la III annualità Piano di Zona 2013-2015 per il Comune di Fondachelli Fantina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1084</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1084</guid>
     </item>
   </channel>
 </rss>
