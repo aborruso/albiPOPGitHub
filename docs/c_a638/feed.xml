@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Fornitura di materiale vario da servire per la manutenz. ordinaria degli edifici pubblici di proprieta' comunale da eseguirsi mediante lavori in economia o per piccoli interv, di manuten. ricorrenti</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1105</link>
+      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1105</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Atto di citazione promosso dinnanzi al Giudice di Pace di Barcellona P.G. dal Signor Calabro' Antonino c/TIM Spa e Comune di Barcellona P.G. Nomina Legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1101</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1075</link>
       <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1075</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatt.,prot.3500 del 21/01/2021, Ditta Enele ENERGIA S.p.A. per fornitura Energia Elettrica presso Associazione "Crescere Insieme" Via Spinesante",101. Periodo 15 Gennaio 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1074</link>
-      <pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1074</guid>
     </item>
   </channel>
 </rss>
