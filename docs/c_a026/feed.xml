@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/52</title>
+      <description>ISTITUZIONE STALLO DI SOSTA PER CARICO/SCARICO MERCI IN VIA DIETRO LE MURA TRA I CIVICI 16 E 18</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353802</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353802</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/51</title>
       <description>PROVVEDIMENTI DI CIRCOLAZIONE IN ACITREZZA -ZONE A TRAFFICO LIMITATO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353701</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353377</link>
       <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353377</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/328</title>
-      <description>RETTIFICA DELL'AUTORIZZAZIONE ALLA SOMMINISTRAZIONE AL PUBBLICO DI ALIMENTI E BEVANDE - DETERMINA N. 215 DEL 23/11/2020 - DITTA "ALMARAMA SRL" CON SEDE IN ACI CASTELLO VIA ANTONELLO DA MESSINA N. 54</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353375</link>
-      <pubDate>Wed, 10 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/353375</guid>
     </item>
   </channel>
 </rss>
