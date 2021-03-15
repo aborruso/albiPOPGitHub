@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Legge 448/98 art. 66-Assegno di maternita' istanze pervenute nei mesi di gennaio e febbraio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1133</link>
+      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1133</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura gruppo Kyocera per noleggio fotocopiatrice ufficio LL.PP. periodo dal 18/10/2019 al 17/01/2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1132</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1106</link>
       <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1106</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Fornitura di materiale vario da servire per la manutenz. ordinaria degli edifici pubblici di proprieta' comunale da eseguirsi mediante lavori in economia o per piccoli interv, di manuten. ricorrenti</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1105</link>
-      <pubDate>Fri, 12 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1105</guid>
     </item>
   </channel>
 </rss>
