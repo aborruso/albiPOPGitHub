@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso d deposito, ai sensi art. 143 C.P.C., a richiesta della prefettura di Messina, del decreto di reiezione emesso a carico di MOHAMED AHCHOUCH per irreperibilita'</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1158</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1158</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rimborso somme pagate in eccedenza a favore del Sig. Caliri Carmelo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1157</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1131</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1131</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione fattura gruppo Kyocera per noleggio fotocopiatrice ufficio LL.PP. Perido dal 18/07/2010 al 17/10/2019</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1130</link>
-      <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1130</guid>
     </item>
   </channel>
 </rss>
