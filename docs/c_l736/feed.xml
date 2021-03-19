@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 1055</title>
+      <description>AVVISO DI CONSULTAZIONE PUBBLICA AI SENSI DELLART. 5 COMMA 3 DEL D.LGS. 175/2016 (TESTO UNICO IN MATERIA DI SOCIETÀ A PARTECIPAZIONE PUBBLICA).</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144756.pdf</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144756.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1054</title>
       <description>LA VIII COMMISSIONE (CONGIUNTA ALLA I COMMISSIONE, ALLA II COMMISSIONE, ALLA III COMMISSIONE, ALLA IV COMMISSIONE, ALLA V COMMISSIONE, ALLA VI COMMISSIONE, ALLA VII COMMISSIONE, ALLA IX COMMISSIONE E ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 23 MARZO 2021 ALLE ORE 14:30 PRESSO VIDEOCONFERENZA - (MODIFICA ORDINE DEL GIORNO)</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144755.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_59_38911_testo.pdf</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_59_38911_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1025</title>
-      <description>DD/2021/384 - CONTRATTO DI SERVIZIO ACTV S.P.A. PER I SERVIZI MINIMI AUTOMOBILISTICI DI TRASPORTO PUBBLICO LOCALE DELLA RETE URBANA DI SPINEA - ACCERTAMENTO DI ENTRATA DAL COMUNE DI SPINEA E IMPEGNO DI SPESA A FAVORE DI ACTV S.P.A. DEI FINANZIAMENTI STATALI ASSEGNATI CON DGR 1814/2020 E EROGATI CON DDR 421/2020 PER LANNO 2020 DESTINATI A COMPENSARE LA RIDUZIONE DEI RICAVI TARIFFARI NEL PERIODO DELLEMERGENZA SANITARIA DA COVID-19 EX ART. 44, C 1, DEL D.L. 14.08.2020, N. 104</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144726.pdf</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144726.pdf</guid>
     </item>
   </channel>
 </rss>
