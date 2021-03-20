@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1056</title>
+      <description>ORDINANZA N° 161 DEL 19/03/2021: RIO DELLE ERBE-DELLA PANADA, SESTIERE DI CANNAREGIO , LIMITAZIONI ALLA VIABILITÀ PER INTERVENTO DI BONIFICA DEL FONDALE DA PARTE DI GONDOLIERI SUB VOLONTARI.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144757.pdf</link>
+      <pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144757.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 1055</title>
       <description>AVVISO DI CONSULTAZIONE PUBBLICA AI SENSI DELLART. 5 COMMA 3 DEL D.LGS. 175/2016 (TESTO UNICO IN MATERIA DI SOCIETÀ A PARTECIPAZIONE PUBBLICA).</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144756.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144728.pdf</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP144728.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 1026</title>
-      <description>DELIBERA DI GIUNTA N. 2021/59: CULTURA - ACCETTAZIONE DELLE DONAZIONI DI OPERE PITTORICHE DEGLI ARTISTI: LINO SELVATICO "MALINCONIA", 1903 OLIO SU TELA CM. 81X131, MONTATO SU CORNICE COEVA DIMENSIONI TOTALI 105X155 E ORAZIO PIGATO "CASA COLONICA", 1915/1920 OLIO SU TELA CM. 24X39,5  E "NATURA MORTA" ,1926 OLIO SU TELA CM. 39,5X49,5.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_59_38911_testo.pdf</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_59_38911_testo.pdf</guid>
     </item>
   </channel>
 </rss>
