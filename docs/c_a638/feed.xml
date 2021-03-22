@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Richiesta subentro nella derivazione di acqua pubblica sotterranea tramite pozzo per uso irriguo ubicato nel Comune di Barcellona P.G.(ME) foglio 34 particella 1127 (ex 261) Ditta: Zaccone C. e Zaccone S. (ex Bucca Carmela)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1207</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1207</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Nomina responsabili dei controlli anagrafici per accreditamento alla Piattaforma Digitale per il Patto per l'inclusione Sociale-GE-PI (Gestionale dei patti per l'inclusione)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1206</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1206</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Approvaz. verbali di selez. per la CO-Progettazione relativa all'avviso diretto ad acquisire manifestazione di interesse da parte di sogg. che si propong. come Ente attuatori di un progett. Accoglienza minori stranieri</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1205</link>
+      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1205</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Lavori di riqualificazione area antistante la nuova Chiesa di S.Andrea-Approvazione dello stato finale e liquidazione  fattura impresa D.L.M. Costruzioni srl</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1204</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1180</link>
       <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1180</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Divieto di sosta con rimozione giorno 22/03/2021 dalle ore 07:00 fino a fine lavori parcheggio tra la Via Pascoli e la Via Pitagora</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1179</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1179</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ripristino della fognatura proveniente da Portosalvo  ed opere di difesa della stessa in argine destro del torrente Patri' a valle della SS 113 ME-PA nel comune di Barcellona P.G.-Attivazione delle procedure di gara-Determina a contrarre</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1178</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1178</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Servizio professionale di ingegneria/architettura per la progettazione dei lavori di sistemazione a protezione della S.S. 113 lato Palermo-Attivazione delle procedure per la selezione del contraente-Autorizzazione a contrattare-Impegno spesa</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1177</link>
-      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1177</guid>
     </item>
   </channel>
 </rss>
