@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/11433</title>
+      <description>CONVOCAZIONE IN SESSIONE STRAORDINARIA ED URGENTE DEL CONSIGLIO COMUNALE DEL 25.03.2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355147</link>
+      <pubDate>Tue, 23 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355147</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/11220</title>
       <description>RICHIESTA DISPONIBILITÀ UTILIZZO GRADUATORIE CONCORSUALI IN CORSO DI VALIDITÀ PER ASSUNZIONE A TEMPO DETERMINATO DI N°2 ISTRUTTORI DI VIGLILANZA.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355009</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354819</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354819</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/62</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO “HOLIDAY CLUB”, IN PERSONA DELL'AMMINISTRATORE PRO TEMPORE FISICARO SALVATORE, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354817</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354817</guid>
     </item>
   </channel>
 </rss>
