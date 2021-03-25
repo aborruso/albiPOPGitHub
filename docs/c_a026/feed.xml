@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/11693</title>
+      <description>INDAGINE MULTISCOPO SULLE FAMIGLIE- ASPETTI DELLA VITA QUOTIDIANA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355271</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355271</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/11433</title>
       <description>CONVOCAZIONE IN SESSIONE STRAORDINARIA ED URGENTE DEL CONSIGLIO COMUNALE DEL 25.03.2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355147</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354821</link>
       <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354821</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/63</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO “HOLIDAY CLUB”, IN PERSONA DELL'AMMINISTRATORE PRO TEMPORE FISICARO SALVATORE, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354819</link>
-      <pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/354819</guid>
     </item>
   </channel>
 </rss>
