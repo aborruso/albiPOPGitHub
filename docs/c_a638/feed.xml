@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Nomina responsabile per l'inserimento dei progetti PUC  su piattaforma digitale GePI (gestione dei patti per l'inclusione)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1303</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1303</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Gestione Teatro Placido Mandanici-Composizione ufficio di gestione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1302</link>
+      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1302</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Causa R.G. n. 982/2019 Giudice di Pace di Barcellona P. G. Brigandì Ignazio c/Comune di Barcellona  P.G.. Esecuzione sentenza n.27/2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1301</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1276</link>
       <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1276</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Liquidazione integrazione oraria mese di Gennaio 2021 al personale in sevizio presso gli Asili Nido Comunali di "Casa del Fanciullo", Petraro/Panteini e "S.Antonino". Fondi Pac II Riparto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1275</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1275</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione fatture fornitura energia elettrica ditta Hera Comm srl dicembre 2017, agosto 2018, settembre e ottobre 2018</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1274</link>
-      <pubDate>Wed, 24 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1274</guid>
     </item>
   </channel>
 </rss>
