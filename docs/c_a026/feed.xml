@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/430</title>
+      <description>CENSIMENTO E RICONOSCIMENTO COLONIA FELINA IDENTIFICATA AL N.20 IN VIA NAPOLI DF PALACANNIZZARO . ACICASTELLO-NOMINA TUTOR.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355751</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355751</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/74</title>
       <description>REVOCA ORDINANZA N.72/2021 E RIEMISSIONE ORDINANZA DI INTERDIZIONE DEGLI IMMOBILI POSTI AL PIANO TERRA E PRIMO SITI IN VIA RE MARTINO 56, 58, IN ACI CASTELLO E IDENTIFICATI IN CATASTO AL F.DI M 8 PART. 8 SUB 1 E 2. A SEGUITO DEL CROLLO PARZIALE DEL SOLAIO.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355749</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355577</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355577</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/67</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DELLA SOC. BEST COMPANY S.P.A., EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355522</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355522</guid>
     </item>
   </channel>
 </rss>
