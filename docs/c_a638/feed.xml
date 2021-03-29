@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Nomina Responsabile della Prevenzione della corruzione e della trasparenza del comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1318</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1318</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Ricorso in appello dinnanzi al Tribunale di Barcellona P.G. promosso da Antonuccio Antonino c/comune di Barcellona P.G. Acconto Avv. Silvestro Rosario Saja</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1317</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1291</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1291</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Esecuzione delibera di C.C. n. 19 del 26/05/2020 di riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi-Liquidazione Avv. Fugazzotto Nunzio</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1290</link>
-      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1290</guid>
     </item>
   </channel>
 </rss>
