@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/12280</title>
+      <description>AVVISO CHIUSURA CIMITERO NEI GIORNO 03 - 04 E 05 APRILE 2021.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355988</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355988</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/434</title>
       <description>APPROVAZIONE ELENCO – MISURE DI SOLIDARIETÀ ALIMENTARE IN FAVORE DELLA POPOLAZIONE COLPITA DA EMERGENZA SOCIO- ECONOMICA A SEGUITO PANDEMIA DA VIRUS COVID – 19. D.L. N° 154 DEL 23/11/2020.- MARZO 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355978</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355669</link>
       <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355669</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/420</title>
-      <description>AFFIDAMENTO IN CONCESSIONE TRAMITE PROCEDURA APERTA DEL SERVIZIO DI GESTIONE DELLA SOSTA A PAGAMENTO NEL TERRITORIO DEL COMUNE-IMPEGNO DI SPESA -CIG 8675505534</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355667</link>
-      <pubDate>Fri, 26 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/355667</guid>
     </item>
   </channel>
 </rss>
