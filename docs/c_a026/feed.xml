@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/12711</title>
+      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 30160 DEL 31/03/2021 - PRATICA N.42/P - DITTA LA ROCCA PAOLO.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356337</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356337</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/12701</title>
+      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 10503 DEL 31/03/2021 - PRATICA N. 1034/C - DITTA LA ROSA LUIGI GIOVANNI VITTORIO.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356332</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356332</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/12473</title>
       <description>PROGETTO MARINE LITTER “PULIRE IL MARE È PRESERVARE LA VITA” DI € 96.050,00 OLTRE IVA.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356311</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356205</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356205</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/440</title>
-      <description>CONCESSIONE CAMPETTO CANNIZZARO ALLA ASD WINNER SICILIA PER LE GIORNATE DELL' 1- 2 E 6 APRILE 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356203</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356203</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/12536</title>
-      <description>ORARIO ESTIVO CIMITERO COMUNALE ANNO 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356165</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356165</guid>
     </item>
   </channel>
 </rss>
