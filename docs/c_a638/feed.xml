@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Causa R.G.n.9/2020 Tribunale di Barcellona P.G. vertente tra Societa' Agricola Ararat srl c/Comune di Barcellona P.G. Liquidazione Avv. Elena Moro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1373</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1373</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Causa R.G. n.1267/2012 Tribunale di Barcellona P.G. (ME) Sez. Lav. promossa Siracusa Antonino c/Comune di Barcellona P.G. Liquidazione Avv. Roselli Adele</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1372</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1372</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Divieto di sosta con rimozioni per il giorno 01 e 02 Aprile 2021 dalle ore 08:00  fino a fine lavori - Vie diversi -</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1371</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1345</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1345</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatt. prot.5616 - 5708 deln 28 /01/2021 ditta Enel Energia SpA per fornitura Gas Naturale Asili nido Comunali - Petraro - Panteini</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1344</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1344</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Ulteriori misure per la prevenzione e gestione dell'emergenza epidemiologica da COVID-19-Disposizioni per i giorni 3, 4 e 5 aprile 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1340</link>
-      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1340</guid>
     </item>
   </channel>
 </rss>
