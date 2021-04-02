@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione somme a titolo di rimborso e compensazione per fornitura servizi telefonici all'associazione CO.DI.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1408</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1408</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Acquisto n° 6 licenze Microsoft Home And Business 2019 MAC+W10 Italian Eurozone Media  Per Uffici III Settore</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1407</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1379</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1379</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso spese per la preparazione dei pasti iniziativa "Pranzo di Solidarieta'" alla societa' denominata LIA CI SI srl</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1378</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1378</guid>
     </item>
   </channel>
 </rss>
