@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/81</title>
+      <description>LAVORI ABUSIVI ESEGUITI IN ACI CASTELLO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356542</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356542</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/12902</title>
       <description>INTEGRAZIONE CONVOCAZIONE DEL CONSIGLIO COMUNALE, IN SESSIONE ORDINARIA PER DETERMINAZIONE DEL SOTTOSCRITTO IN VIDEOCONFERENZA PER IL GIORNO 08.04.2021 ORE 10.00</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356530</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356301</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356301</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/76</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO “SUMMER WINTER”, IN PERSONA DELL'AMMINISTRATORE PRO TEMPORE CONDORELLI ROSARIO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356299</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/356299</guid>
     </item>
   </channel>
 </rss>
