@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1370</title>
+      <description>LA VII COMMISSIONE CONSILIARE  (CONGIUNTA ALLA I COMMISSIONE) È CONVOCATA MERCOLEDÌ 07 APRILE 2021 ORE 14.30 PRESSO VIDEOCONFERENZA - MODIFICA PRECEDENTEMENTE NON CONGIUNTA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145071.pdf</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145071.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1369</title>
+      <description>CONVOCAZIONE VIII COMMISSIONE GIOVEDI 8/04/2021 ALLE ORE 09.30 IN MODALITA VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145070.pdf</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145070.pdf</guid>
+    </item>
+    <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 1368</title>
+      <description>AVVISO PUBBLICO PER LINDIVIDUAZIONE DI DUE COMPONENTI ESTERNI DELLA COMMISSIONE ESAMINATRICE DEL CONCORSO PUBBLICO PER ESAMI, CON EVENTUALE PRESELEZIONE, PER LASSUNZIONE A TEMPO PIENO E INDETERMINATO DI N. 1 DIRIGENTE COMANDANTE DELLA POLIZIA MUNICIPALE - AREA DELLA DIRIGENZA, COMPARTO FUNZIONI LOCALI.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145069.pdf</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145069.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 1367</title>
       <description>AVVISO PUBBLICO N. 08/2021 PER LATTRIBUZIONE DI UN INCARICO DI: DIRIGENTE DELLE PROFESSIONI SANITARIE INFERMIERISTICHE, TECNICHE, DELLA RIABILITAZIONE, DELLA PREVENZIONE E DELLA PROFESSIONE OSTETRICA - DIRETTORE DI STRUTTURA COMPLESSA - UOC DIREZIONE DELLE PROFESSIONI SANITARIE DELLAZIENDA A RAPPORTO ESCLUSIVO</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145068.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145042.pdf</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145042.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1340</title>
-      <description>ORDINANZAN. 186 DEL 02/04/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, DELLA SOSTA E PEDONALE PRESSO VIA ORLANDA PER IL TRATTO DELLA STESSA COMPRESO TRA VIA  PASSO CAMPALTO E VIA CIMITERO CAMPALTO IN LOCALITÀ MESTRE (VE) PER LESECUZIONE DEI LAVORI DI FRESATURA E SUCCESSIVA ASFALTATURA DELLA SEDE STRADALE E REALIZZAZIONE PIATTAFORME STRADALI DA MERCOLEDÌ 07 APRILE 2021 A VENERDÌ 16 APRILE 2021 DALLE ORE 00:00 ALLE ORE 24:00.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145041.pdf</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145041.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1339</title>
-      <description>ORDINANZA N. 184 DEL 02/04/2021: SPECCHIO ACQUEO LAGUNARE DELLISOLA DI CAMPALTO, DISPOSIZIONE DI IMMEDIATA INTERDIZIONE AL PASSAGGIO DI PONTILE PUBBLICO, PER DISSESTO DELLA STRUTTURA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145040.pdf</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145040.pdf</guid>
-    </item>
-    <item>
-      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1338</title>
-      <description>LA X COMMISSIONE CONSILIARE (CONGIUNTA ALLA IV E ALLA VII COMMISSIONE) È CONVOCATA PER IL GIORNO LUNEDÌ 12 APRILE 2021 ORE 14.30 MEDIANTE VIDEOCONFERENZA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145039.pdf</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145039.pdf</guid>
     </item>
   </channel>
 </rss>
