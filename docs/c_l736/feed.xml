@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ASTE PUBBLICHE | Pubblicazione numero 1402</title>
+      <description>BANDO DASTA PUBBLICA IMMOBILIARE N. 1/2021 PER LA VENDITA DI UN IMMOBILE IN LOC. CAMPALTO, IN VIA GOBBI N. 284</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145103.pdf</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145103.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 1401</title>
+      <description>ORDINANZA N. 191 DEL 07/04/2021: REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E PEDONALE PRESSO VIALE SAN MARCO E VIA METAURO IN LOCALITÀ MESTRE E PRESSO VIA DARIO MANETTI IN LOCALITÀ MARGHERA PER LESECUZIONE DEI LAVORI DI RIPRISTINO DEL FUNZIONAMENTO DELLE CADITOIE SU SEDE STRADALE E MARCIAPIEDE DA MARTEDÌ 6 APRILE 2021 A VENERDÌ 23 APRILE 2021 DALLE ORE 09:00 ALLE ORE 18:00</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145102.pdf</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145102.pdf</guid>
+    </item>
+    <item>
       <title>#ELENCO OGGETTI RINVENUTI | Pubblicazione numero 1400</title>
       <description>ELENCO OGGETTI RINVENUTI DEL MESE DI MARZO 2021  ART. 928 DEL C.C.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145101.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145074.pdf</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145074.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1372</title>
-      <description>DD/2021/612 - SECI.FAMI.007 PROGETTO FAMI VOCI - PF 19027-DETERMINAZIONE A CONTRARRE AI SENSI DELLART. 192 D.LGS. 267/2000 CON CONTESTUALE AFFIDAMENTO DEL SERVIZIO PER "PERCORSO LABORATORIALE DI TEATRO E NARRAZIONE RIVOLTO A GENITORI DI FIGLI DISABILI", PERIODO MARZO 2021GIUGNO 2021,  PROGETTO "VOCI: A VALERE SUL FAMI 2014-2020. IMPEGNO DI SPESA DI EURO 6.930,00=(O.F.I.) - ANNO 2021-CIG Z923088B13. ATTO DA PUBBLICARE AI SENSI DELLART. 37, C.1 LETT. B) DLGS 33/2013 E ART. 29 C. 1 DLGS 50/2016.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145073.pdf</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145073.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1371</title>
-      <description>DD/2021/611 - SECI.GEDI.160 - SMALTIMENTO DEI RIFIUTI SPECIALI PRODOTTI DURANTE I LAVORI DI MANUTENZIONE DELLE IMBARCAZIONI STORICHE E TRADIZIONALI DI PROPRIETÀ DELLAMMINISTRAZIONE COMUNALE. INTEGRAZIONE AFFIDAMENTO DITTA ARTIGIANAMBIENTE S.C.R.L. - IMPEGNO DI SPESA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145072.pdf</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145072.pdf</guid>
     </item>
   </channel>
 </rss>
