@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale "Question Time" che si terra' a porte chiuse il prossimo 13 Aprile 2021, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1435</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1435</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n. 29/21 del 28/02/21 per servizio di intermediazione, carico, trasporto e recupero della frazione organica umida-Ditta Giglione servizi ecologici srl Joppolo Giancaxio (AG)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1434</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1408</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1408</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Acquisto n° 6 licenze Microsoft Home And Business 2019 MAC+W10 Italian Eurozone Media  Per Uffici III Settore</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1407</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1407</guid>
     </item>
   </channel>
 </rss>
