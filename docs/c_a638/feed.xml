@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Divieto di sosta con rimozione per il giorno 12 aprile 2021 dalle ore 07:00 fino a fine lavori - Via Venezia dal n.c. 57 al c. 65</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1427</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1427</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Integrazione oraria dipendenti a tempo parziale da utilizzare per l'espletamento del servizio scuolabus per n. 1190 ore complessive</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1426</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1426</guid>
+    </item>
+    <item>
+      <title>"Atti Del Commissario Straordinario ""consiglio"""</title>
+      <description>Ampliamento orario, a carattere provvisorio, per i dipendenti part-time del Servizio Polizia Municipale impegnati nella gestione delle attuali situazioni di emergenza COVID 19 sul territorio locale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1425</link>
+      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1425</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Liquidaz. fatt. n. E87 del 02 febbraio 2021 alla Soc. coop. sociale onlus "In Cammino" per il serv. in Comunita' alloggio reso all'utente Sig. B.M. nei mesi di novembre e dicembre 2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1424</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1400</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1400</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Atto di liquidazione per effettuazione n. 3 tamponi del servizio finanziario</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1399</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1399</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura gas presso le Scuole Elementari del 9/02/2021 relative al mese di gennaio 2021 Totale € 5.808,18 + I.V.A. (€ 967,82)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1398</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1398</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura gas presso le Scuole Medie dell' 8 e 9/02/2021 relative al mese di gennaio 2021 Totale € 3.990,58 + I.V.A. (€ 721,77)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1397</link>
-      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1397</guid>
     </item>
   </channel>
 </rss>
