@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1414</title>
+      <description>LA IX COMMISSIONE (CONGIUNTA ALLA VI COMMISSIONE E ALLA X COMMISSIONE) È CONVOCATA LUNEDÌ 19 APRILE 2021 ALLE ORE 12:00 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145115.pdf</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145115.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 1413</title>
       <description>ORDINANZA N. 196 DEL 08/04/2021: RIO DI SAN BIAGIO, ISOLA DELLA GIUDECCA, PARZIALE CHIUSURA AL TRAFFICO ACQUEO PER OPERAZIONI DI RIMOZIONE CASSERO A PALANCOLE.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145114.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145086.pdf</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145086.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1384</title>
-      <description>DD/2021/605 - SECI. UTE. 001 INSULA SPA. TRASFERIMENTO CORRISPETTIVO PER LANNO 2021, PER SERVIZI DI GESTIONE E AMMINISTRAZIONE DEGLI IMMOBILI DI EDILIZIA RESIDENZIALE SPESA IN NOME E PER CONTO DEL COMUNE DI VENEZIA. IMPEGNO DI SPESA PER  DI EURO 1.400.000.= BILANCIO DI PREVISIONE 2021-2023 ANNUALITÀ 2021.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145085.pdf</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145085.pdf</guid>
     </item>
   </channel>
 </rss>
