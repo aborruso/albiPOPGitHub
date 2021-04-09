@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/13664</title>
+      <description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE AVVISO PUBBLICO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357336</link>
+      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357336</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/483</title>
       <description>PROROGA CONCESSIONE OCCUPAZIONE SUOLO PUBBLICO PER PONTEGGIO - DITTA CARBONE SERENA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357332</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357073</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357073</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/477</title>
-      <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: NICOLOSI STEFANIA - SITO: VIALUNGOMARE GALATEA CIV. N. 107 - REALIZZAZIONE DI POZZETTO E ALLACCIO ALLA PUBBLICA FOGNATURA.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357071</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357071</guid>
     </item>
   </channel>
 </rss>
