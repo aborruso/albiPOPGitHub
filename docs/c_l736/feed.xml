@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 1443</title>
+      <description>DELIBERA DI CONSIGLIO N. 2021/17: VENEZIA SPIAGGE S.P.A - ACQUISTO DI N. 735.000 AZIONI DETENUTE DAL SOCIO PRIVATO CONTARINI S.R.L. PARI AL 49% DEL CAPITALE SOCIALE. AGGIORNAMENTO DEL PIANO DI RAZIONALIZZAZIONE PERIODICA DELLE PARTECIPAZIONI SOCIETARIE APPROVATO CON LA DELIBERAZIONE DI CONSIGLIO COMUNALE N. 91/2020.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_17_001_201_CC_2021_17.odt.pdf</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_17_001_201_CC_2021_17.odt.pdf</guid>
+    </item>
+    <item>
       <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 1442</title>
       <description>ISTANZA DI MODIFICA PRENOME DA "OLESYA  ANDRIYIVNA" IN "OLESYA"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145143.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145115.pdf</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145115.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1413</title>
-      <description>ORDINANZA N. 196 DEL 08/04/2021: RIO DI SAN BIAGIO, ISOLA DELLA GIUDECCA, PARZIALE CHIUSURA AL TRAFFICO ACQUEO PER OPERAZIONI DI RIMOZIONE CASSERO A PALANCOLE.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145114.pdf</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145114.pdf</guid>
     </item>
   </channel>
 </rss>
