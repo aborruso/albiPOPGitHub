@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/29</title>
+      <description>PROGRAMMAZIONE TRIENNALE DEL FABBISOGNO DEL PERSONALE ANNI 2021/2023 E PIANO DELLE ASSUNZIONI 2021.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357571</link>
+      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357571</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/13859</title>
       <description>BANDO PER LA REALIZZAZIONE DI UN MURALES PER VILLA FORTUNA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357539</link>
@@ -88,7 +95,7 @@
     </item>
     <item>
       <title>Atto numero 2021/13664</title>
-      <description>POSTA CERTIFICATA: RICHIESTA PUBBLICAZIONE AVVISO PUBBLICO</description>
+      <description>RICHIESTA PUBBLICAZIONE AVVISO PUBBLICO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357336</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357336</guid>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357218</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357218</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/12</title>
-      <description>CITTADINANZA ITALIANA ONORARIA A PATRICK ZAKI- AUTONOMIE LOCALI ITALIANE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357186</link>
-      <pubDate>Fri, 09 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/357186</guid>
     </item>
   </channel>
 </rss>
