@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 1483</title>
+      <description>DELIBERA N. CH/2021/6: PARERE SULLA DELIBERAZIONE DI CONSIGLIO COMUNALE PD 2021/1029 AVENTE AD OGGETTO: "APPROVAZIONE DEL RENDICONTO DELLA GESTIONE PER LESERCIZIO FINANZIARIO 2020"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145184.pdf</link>
+      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145184.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 1482</title>
       <description>DD/2021/661 - UFF.GEDI.153  COMPONENTI ESPERTI DELLA COMMISSIONE GIUDICATRICE DEL CONCORSO PUBBLICO PER TITOLI ED ESAMI PER N. 15 POSTI NEL PROFILO PROFESSIONALE "ISPETTORE DI VIGILANZA" CAT. D1 RELATIVI A DIVERSI AMBITI SPECIFICI. CODICE 01/2020   IMPEGNO DI SPESA PER LA SOMMA DI EURO 555,98.= AL CAP. 3003/99 "ALTRI SERVIZI"  CODICE GESTIONALE 005  BILANCIO 2021.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145183.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145155.pdf</link>
       <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145155.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1453</title>
-      <description>PF20047 DETERMINAZIONE A CONTRARRE, EX ART. 192 D.LGS 267/2000. FORNITURA DI SERVIZI DI FORMAZIONE PER IL PERSONALE NELLAMBITO DELLESTENSIONE TEMPORALE DEL PROGETTO NAVE 3/2018, FINANZIATO DAL DIPARTIMENTO PER LE PARI OPPORTUNITÀ. ACCERTAMENTO E IMPEGNO DI EURO 403,64.=.CIG Z2230B7E3E</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145154.pdf</link>
-      <pubDate>Tue, 13 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145154.pdf</guid>
     </item>
   </channel>
 </rss>
