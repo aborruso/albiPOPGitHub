@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1515</title>
+      <description>ORDINANZA N° 218 DEL 16/04/2021 - CANAL GRANDEDI MURANO, LAVORI DI REALIZZAZIONE NUOVO PONTILE PER LA MOVIMENTAZIONE DI MERCI. MODIFICHE A VIABILITÀ ACQUEA,ORMEGGI E AI SERVIZI DI TRASPORTO DI LINEA.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145216.pdf</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145216.pdf</guid>
+    </item>
+    <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 1514</title>
+      <description>ISTANZA DI CAMBIO PRENOME DELLA FIGLIA MINORE ABDOUL-RAZAC AHAMETE FRIGATO MYA KENZA DA "MYA KENZA" IN "MYA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145215.pdf</link>
+      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145215.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1513</title>
       <description>LA VII COMMISSIONE (CONGIUNTA ALLA IV COMMISSIONE E ALLA V COMMISSIONE) È CONVOCATA MERCOLEDÌ 28 APRILE 2021 ALLE ORE 14:30 PRESSO VIDEOCONFERENZA - MODIFICA GIORNO CONVOCAZIONE</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145214.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_10_33901_2021_04_09_PG_172875 Numerazione delibere Consiglio.pdf</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_10_33901_2021_04_09_PG_172875 Numerazione delibere Consiglio.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 1485</title>
-      <description>DELIBERA DI CONSIGLIO N. 2021/14: COMMISSIONE COMUNALE PER LA FORMAZIONE DEGLI ELENCHI DI CITTADINI IDONEI ALLESERCIZIO DELLE FUNZIONI DI GIUDICE POPOLARE NELLA CORTE DASSISE E NELLA CORTE DASSISE DAPPELLO. ELEZIONE DEI COMPONENTI LA COMMISSIONE.</description>
-      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_14_001_219_CC_2021_14.odt.pdf</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_14_001_219_CC_2021_14.odt.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 1484</title>
-      <description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE NEL MESE DI MARZO 2021 EX ART. 146 DEL D.LGS 22/01/2004 N° 42.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145185.pdf</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145185.pdf</guid>
     </item>
   </channel>
 </rss>
