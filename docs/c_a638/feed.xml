@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordina l'istituzione del divieto di sosta con rimozione per la pulizia meccanizzata della strada, come indicato nel seguente elenco, a far data dal 19 Aprile al 15 Maggio 2021 dalle ore 05:00 alle ore 08:00, " Vie diverse".</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1587</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1587</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rinnovo assicurazione autocarro Isuzu AJ 308 JH-Provvedimenti</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1586</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1556</link>
       <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1556</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidaz. fatt. Enel Energia s.p.a. fornitura di luce presso le Scuole Elementari, del 23 maezo 2021, relative ai mesi da giugno 2020 a febbraio 2021 Totale € 1.293,64 + I.V.A. € 284,60</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1555</link>
-      <pubDate>Wed, 14 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1555</guid>
     </item>
   </channel>
 </rss>
