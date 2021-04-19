@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1523</title>
+      <description>LA IV COMMISSIONE È CONVOCATA LUNEDÌ 26 APRILE 2021 ALLE ORE 09:30 PRESSO VIDEOCONFERENZA - (MODIFICA PER INTEGRAZIONE NOMINATIVI IN CONVOCAZIONE)</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145224.pdf</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145224.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 1521</title>
       <description>AVVISO DI SOSPENSIONE SELEZIONE - AVVISO PUBBLICO PER LA FORMAZIONE DI UN ELENCO DI PERSONALE A TEMPO DETERMINATO IN QUALITÀ DI EDUCATORE ASSISTENTE ALLINFANZIA (ASILO NIDO) DA UTILIZZARE IN SUBORDINE ALLE VIGENTI GRADUATORIE  COD. 04TD/2020 .</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145222.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145194.pdf</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145194.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 1492</title>
-      <description>AVVISO - COMUNICAZIONE CHE LA PRESELEZIONE DELLAVVISO DI SELEZIONE PUBBLICA CODICE 01TD/2021 NON VERRÀ EFFETTUATA.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145193.pdf</link>
-      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145193.pdf</guid>
     </item>
   </channel>
 </rss>
