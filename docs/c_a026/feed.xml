@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/521</title>
+      <description>LIQUIDAZIONE FATTURA ALLA SOCIETÀ LEASYS S.P.A. PER SPESE DI NOTIFICA VERBALE. - CIG: ZF12A2A2E0.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358541</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358541</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/520</title>
+      <description>LIQUIDAZIONE FATTURA SOGERI S.R.L. PER SERVIZIO DI MESSA IN RISERVA IMBALLAGGI IN VETRO CONFERITI NEL MESE DI MARZO 2021 E SALDO 2020.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358539</link>
+      <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358539</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/519</title>
       <description>LIQUIDAZIONE IN ACCONTO FATTURA S.E.A.P.-SOCIETA' EUROPEA APPALTI PUBBLICI S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200108) CONFERITI NEL MESE DI MARZO 2021.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358470</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358212</link>
       <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358212</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/95</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO “VENUSILIA”, IN PERSONA DELL'AMMINISTRATORE PRO TEMPORE SANTONOCITO CARMELO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358202</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358202</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/94</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DEL CONDOMINIO “VENUSILIA”, IN PERSONA DELL'AMMINISTRATORE PRO TEMPORE SANTONOCITO CARMELO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358200</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358200</guid>
     </item>
   </channel>
 </rss>
