@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/15102</title>
+      <description>RICHIESTA DISPONIBILITÀ UTILIZZO GRADUATORIE CONCORSUALI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358684</link>
+      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358684</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/521</title>
       <description>LIQUIDAZIONE FATTURA ALLA SOCIETÀ LEASYS S.P.A. PER SPESE DI NOTIFICA VERBALE. - CIG: ZF12A2A2E0.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358541</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358339</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358339</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/506</title>
-      <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: E-DISTRIBUZIONE S.P.A. - SITO: VIA NIZZETI - REALIZZAZIONE DI UN TRATTO DI LINEA IN CAVO INTERRATO BT.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358212</link>
-      <pubDate>Fri, 16 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/358212</guid>
     </item>
   </channel>
 </rss>
