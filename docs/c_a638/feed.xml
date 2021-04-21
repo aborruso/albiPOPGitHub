@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale che si terra' a porte chiuse il prossimo 27 Aprile 2021, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1665</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1665</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso le Scuole Elementari, del 5 e 7 marzo 2021, relative al mese di febbraio 2021 Totale € 967,35 + I.V.A. € 212,83</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1664</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1664</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture Enel energia spa fornitura di luce presso la mensa centralizzata del 5 marzo 2021 relative al mese di febbraio 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1663</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1638</link>
       <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1638</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatt. N.4/E del 02/04/2021 prot.18947 del 06/04/2021 dell'importo di € 750,00 compreso I.V.A. Ditta Gera Longano Impianti SNC di Genovese Salvatore &amp; C.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1637</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1637</guid>
-    </item>
-    <item>
-      <title>Bandi - Avvisi Di Gara</title>
-      <description>Manifestazione di interesse per affidamento servizio responsabile per la protezione dei dati (DPO)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1636</link>
-      <pubDate>Tue, 20 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1636</guid>
     </item>
   </channel>
 </rss>
