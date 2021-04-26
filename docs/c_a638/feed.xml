@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>elenco definitivo dei beneficiari delle misure urgenti di solidarietà alimentare emergenza Covid 19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1749</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1749</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Misure di sostegno all'emergenza socio assistenziale da Covid-19.  Avviso Pubblico del 19/02/2021. Pubblicazione elenco definitivo dei beneficiari.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1748</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1748</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento all'associazione culturale sociale e ambientale "Slow Food Peloritani Tirrenici" di promozione del libro e della lettura e per il corretto svolgimento delle azioni progettuali riguardanti il progetto"A Spasso Con I Libri"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1747</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1747</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione integrazione oraria personale operaio L.S.U. assegnato al V settore</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1746</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1722</link>
       <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1722</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ex dipendente Matr. 7218 Cat. C deceduto in data 16/02/2021-Liquidazione indennita' sostitutiva del preavviso e delle ferie non godute agli eredi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1721</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1721</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim S.p.A. n.8V00033838 del 11/02/2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1720</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1720</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione fatture Enel Energia spa fornitura di gas presso le scuole materne, del 9 e 10 marzo 2021, relativa al mese di febbraio 2021 totale  € 3.452,42 + iva € 634,27 CIG 7852485B9B</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1719</link>
-      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1719</guid>
     </item>
   </channel>
 </rss>
