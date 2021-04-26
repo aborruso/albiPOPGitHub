@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 1610</title>
+      <description>PG. 2021/196909 -  RETTIFICA ED INTEGRAZIONE DELLA GRADUATORIA DEFINITIVA DEI CONCORRENTI AMMESSI CON I PUNTEGGI CONSEGUITI, A SEGUITO DI CORREZIONE DI ERRORE MATERIALE E DELLA LISTA DELLE DOMANDE ESCLUSE, APPROVATA A SEGUITO DEL BANDO VALIDO PER LA LOCAZIONE A SOCIAL HOUSING DI N. 16 ALLOGGI NELLISOLA DI MURANO AREA "EX-CONTERIE".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145311.pdf</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145311.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI GARA | Pubblicazione numero 1609</title>
       <description>ESITO DI GARA - ACCORDO QUADRO PER LAFFIDAMENTO DEL SERVIZIO DI PRELIEVO, TRASPORTO E GESTIONE VALORI DEL GRUPPO AVM</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145310.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_75_44031_testo.pdf</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_75_44031_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 1580</title>
-      <description>BANDO DI GARA PER LAFFIDAMENTO DEI LAVORI DI RECUPERO DEGLI SPAZI INTERNI DI UNA PORZIONE DELLEX PALAZZO REALE A VENEZIA E ADEGUAMENTO IMPIANTISTICO FINALIZZATO ALLAMPLIAMENTO DEGLI UFFICI DELLA DIREZIONE REGIONALE MUSEI VENETO - CIG: 8719224344 CUP: F76D19000040005 - F79J15000100005.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145281.pdf</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145281.pdf</guid>
     </item>
   </channel>
 </rss>
