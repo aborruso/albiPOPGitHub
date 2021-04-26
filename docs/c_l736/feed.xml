@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 1612</title>
+      <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 57/2020 - C.I. 14270 - LAVORI DI "4.36 EDILIZIA SPORTIVA DELLA TERRAFERMA: INTERVENTI DI ADEGUAMENTO, MESSA A NORMA, RIPRISTINI FUNZIONALI E RINNOVAMENTI".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145313.pdf</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145313.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1611</title>
+      <description>LA COMMISSIONE IX È CONVOCATA PER LUNEDÌ 03 MAGGIO ORE 14.30 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145312.pdf</link>
+      <pubDate>Mon, 26 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145312.pdf</guid>
+    </item>
+    <item>
       <title>#GRADUATORIE VARIE | Pubblicazione numero 1610</title>
       <description>PG. 2021/196909 -  RETTIFICA ED INTEGRAZIONE DELLA GRADUATORIA DEFINITIVA DEI CONCORRENTI AMMESSI CON I PUNTEGGI CONSEGUITI, A SEGUITO DI CORREZIONE DI ERRORE MATERIALE E DELLA LISTA DELLE DOMANDE ESCLUSE, APPROVATA A SEGUITO DEL BANDO VALIDO PER LA LOCAZIONE A SOCIAL HOUSING DI N. 16 ALLOGGI NELLISOLA DI MURANO AREA "EX-CONTERIE".</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145311.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_77_44292_TESTO.pdf</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_77_44292_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 1582</title>
-      <description>DELIBERA DI GIUNTA N. 2021/76: TRIBUTI -  AUTORIZZAZIONE A PROPORRE APPELLO AVANTI ALLA COMMISSIONE TRIBUTARIA REGIONALE DEL VENETO CONTRO LA SENTENZA DELLA COMMISSIONE TRIBUTARIA PROVINCIALE DI VENEZIA, SEZ. 4^, N. 768//2020 PRONUNCIATA IN DATA 13.10.2020, DEPOSITATA IL 10.11.2020, MAI NOTIFICATA.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_76_44144_TESTO INTEGRALE DG 76.pdf</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_76_44144_TESTO INTEGRALE DG 76.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 1581</title>
-      <description>DELIBERA DI GIUNTA N. 2021/75: APPROVAZIONE INDIRIZZI PER LA PREDISPOSIZIONE DEL BANDO PER LEROGAZIONE DI CONTRIBUTI A FONDO PERDUTO ALLE ATTIVITÀ ECONOMICHE DI PICCOLE E MEDIE DIMENSIONI TENUTE AL PAGAMENTO DELLA TARI DELLANNO 2020 AL COMUNE DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_75_44031_testo.pdf</link>
-      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_75_44031_testo.pdf</guid>
     </item>
   </channel>
 </rss>
