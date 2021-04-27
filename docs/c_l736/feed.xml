@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1624</title>
+      <description>ORDINANZA N. 236 DEL 26/04/2021:REGOLAMENTAZIONE STALLI DI SOSTA IN VIA DIEGO VALERI AL LIDO DI VENEZIA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145325.pdf</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145325.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI GARA | Pubblicazione numero 1623</title>
       <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 4/2021 - INVITO A PROCEDURA NEGOZIATA RIGUARDANTE I LAVORI DI "2.6.1. - AMBIENTE E TERRITORIO ABBATTIMENTO BARRIERE ARCHITETTONICHE: INTERVENTI STRAORDINARI DI ABBATTIMENTO BARRIERE ARCHITETTONICHE VENEZIA CENTRO STORICO". C.I. 14248 - CIG 8580298DE4 - CUP F77H17001130001.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145324.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_79_29622_testo.pdf</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_79_29622_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1592</title>
-      <description>ORDINANZA N. 227 DEL 22/04/2021: CANAL  GRANDE-  FONDAMENTA  SANTA  CHIARA  E  RIVA  DEGLI  SCALZI,  INTERVENTO  DI  INSTALLAZIONE  IMPIANTI  DI  ILLUMINAZIONE IN STAZIONI TAXI, SOSPENSIONE DI PARTE DEGLI SPAZI DI ORMEGGIO.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145293.pdf</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145293.pdf</guid>
     </item>
   </channel>
 </rss>
