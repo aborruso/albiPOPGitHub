@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Lavori di manutenzione straordinaria ex scuola materna fraz. Acquaficara Via Stretto II Feo del Comune di Barcellona Pozzo di Gotto da adibire a luogo e spazio di integrazione inclusione sociale dei migranti con la comunità locale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1806</link>
+      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1806</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>D.L. 22 aprile 2021 n. 52 recante "Misure urgenti per la graduale ripresa delle attività economiche e sociali delle esigenze di contenimento della diffusione dell'epidemia da Covid-19-Applicazione art. 3 apertura istituti scolastici</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1805</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1779</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1779</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Progetto per 'lattuazione del sostegno per l'inclusione attiva approvato con DDG N.239 del 28/06/2017, "PON INCLUSIONE" Liquidaz.fatt. Assitente Soc.Dott.ssa Parisi Antonina mese di Dicembre 2020</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1778</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1778</guid>
     </item>
   </channel>
 </rss>
