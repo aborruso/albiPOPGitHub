@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/18</title>
+      <description>DISAVANZO DI AMMINISTRAZIONE DERIVANTE DAL DIVERSO METODO DI CALCOLO DEL FONDO CREDITI DI DUBBIA ESIGIBILITA' - RENDICONTO DI GESTIONE 2019 - PROVVEDIMENTO DI RIPIANO AI SENSI DELL'ART. 39-QUATER, D.L. N. 162/2019.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360234</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360234</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/15879</title>
       <description>ORDINANZA SINDACALE N. 24 PREVENZIONE INCENDI ANNO 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360146</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/359952</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/359952</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/72/A/PEA</title>
-      <description>RICHIESTA PUBBLICAZIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA LEOTTA ALDO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/359950</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/359950</guid>
     </item>
   </channel>
 </rss>
