@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/600</title>
+      <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: MORA AGATA - SITO: VIA SCALAZZA PRESSI CIV. N. 54 - SCAVO PER ALLACCIO ALLA FOGNATURA COMUNALE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360693</link>
+      <pubDate>Mon, 03 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360693</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/599</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: ACQUE DI CASALOTTO S.P.A - SITO: VIA T. FAZZELLO S.N. - POSA DI UN TRATTO DI CONDOTTA IDROPOTABILE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360596</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360086</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360086</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/111</title>
-      <description>ORDINANZA DI SOSPENSIONE TEMPORANEA DEL TITOLO AUTORIZZATORIO/SCIA ALL'ESERCIZIO DELL'ATTIVITÀ DI RIVENDITA TABACCHI E CONTESTUALE CHIUSURA DEL LOCALE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360084</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360084</guid>
     </item>
   </channel>
 </rss>
