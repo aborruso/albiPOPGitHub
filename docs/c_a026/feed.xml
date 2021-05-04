@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/606</title>
+      <description>NOMINA SUB RESPONSABILI DEL TRATTAMENTO AI SENSI DELL'ART. 28 G.P.D.R. (GENERAL DATA PROTECTION REGULATION) E DELL'ART. 6 DEL REGOLAMENTO COMUNALE RELATIVO ALLA PROTEZIONE DEI DATI PERSONALI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360793</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360793</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/605</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: ACQUE DI CASALOTTO S.P.A. - SITO: VIA MANGANELLI E VIA C. COLOMBO - SOSTITUZIONE CONDOTTA INTERFERENTE CON LA REALIZZAZIONE DELLA STAZIONE DI SOLLEVAMENTO COLOMBO.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360739</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360115</link>
       <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360115</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/593</title>
-      <description>CONNESSIONE FRA U.T.C. E CED DELLA PROVINCIA REGIONALE DI CATANIA E CONNETTIVITÀ DATI UFFICI COMUNALI, NELL’AMBITO DEL PROGETTO S.I.S.C. SICR@WEB - LIQUIDAZIONE BIMESTRE: MAGGIO–GIUGNO 2021 - CIG: Z2B290A91D</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360113</link>
-      <pubDate>Wed, 28 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360113</guid>
     </item>
   </channel>
 </rss>
