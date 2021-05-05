@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/16908</title>
+      <description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' ACCERTATA NEI CONFRONTI DELLA SIG.RA NEAGU MIHAELA NATA A STEFAN VODA (ROMANIA) IL 26.11.1972</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360992</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360992</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/17040</title>
+      <description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' ACCERTATA NEI CONFRONTI DELLA SIG.RA GURGU DANIELA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360977</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360977</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/607</title>
       <description>CONVENZIONE CONSIP - SERVIZIO DI GESTIONE INTEGRATA DELLA SALUTE E DELLA SICUREZZA SUI LUOGHI DI LAVORO PER ANNI 3 – LOTTO 9, ACQUISTO IN RETE TRAMITE IL PORTALE DELLA PUBBLICA AMMINISTRAZIONE - IMPEGNO DI SPESA – CIG: 8738219E6C.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360963</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360490</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360490</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/18</title>
-      <description>DISAVANZO DI AMMINISTRAZIONE DERIVANTE DAL DIVERSO METODO DI CALCOLO DEL FONDO CREDITI DI DUBBIA ESIGIBILITA' - RENDICONTO DI GESTIONE 2019 - PROVVEDIMENTO DI RIPIANO AI SENSI DELL'ART. 39-QUATER, D.L. N. 162/2019.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360234</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360234</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/15879</title>
-      <description>ORDINANZA SINDACALE N. 24 PREVENZIONE INCENDI ANNO 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360146</link>
-      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/360146</guid>
     </item>
   </channel>
 </rss>
