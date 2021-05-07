@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibera</title>
+      <description>Delibera del Commissario Straordinario N.21 del 16/042021relativa all'approvazione del bilancio di previsione esercizio finanziario 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1999</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1999</guid>
+    </item>
+    <item>
+      <title>Delibera</title>
       <description>Determinazione gettone di presenza con decorrenza 28/10/2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1998</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1972</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1972</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Richiesta buoni spesa per acquisto di generi alimentari  a seguito dell'emergenza coronavirus</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1971</link>
-      <pubDate>Wed, 05 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1971</guid>
     </item>
   </channel>
 </rss>
