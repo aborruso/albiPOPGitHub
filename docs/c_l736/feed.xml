@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1803</title>
+      <description>ORDINANZA SINDACALE N. 261 DEL 07/05/2021 - PROVVEDIMENTO URGENTE, AI SENSI DEGLI ARTT. 50 E 54, COMMA 4, DEL DECRETO LEGISLATIVO 18 AGOSTO 2000, N. 267, PER LINTERDIZIONE ALLACCESSO DELLIMMOBILE CONCESSO IN LOCAZIONE DA A.G. ALLA "ASSOCIAZIONE DEGLI IMMIGRATI DI VENEZIA A.I.V.", UBICATO IN VENEZIA - MESTRE VIA FELISATI N. 90, LEGALE RAPPRESENTANTE JEAN AIMÈ MBALLA AMOUGOU, NATO IN CAMERUN IL 28/07/1964.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145504.pdf</link>
+      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145504.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 1802</title>
       <description>PG/2021/220744 - MANIFESTAZIONE DINTERESSE PER LAFFIDAMENTO DI N. 4 "SERVIZI INTEGRATIVI E SPERIMENTALI PER LA PRIMA INFANZIA" C/O IMMOBILI DI PROPRIETÀ DEL COMUNE DI VENEZIA PER IL PERIODO 1 SETTEMBRE 2021 AL 30 GIUGNO 2022 - IMPORTO A BASE DASTA PRESUNTO EURO 221.754,12.= (OFE) SUDDIVISO IN DUE LOTTI: LOTTO N.1 MESTRE, LOTTO N.2 VENEZIA E ISOLE.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145503.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_101_56926_testo.pdf</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_101_56926_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 1773</title>
-      <description>DELIBERA DI GIUNTA N. 2021/100: SINDACO - INDIRIZZI PER UN NUOVO CICLO DI INTERVENTI GRATUITI DI PULIZIA MANUALE DEI FONDALI DEI CANALI DA PARTE DELLASSOCIAZIONE DI CATEGORIA GONDOLIERI DI VENEZIA.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_100_56843_testo.pdf</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_100_56843_testo.pdf</guid>
     </item>
   </channel>
 </rss>
