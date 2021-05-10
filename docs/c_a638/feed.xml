@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Ricorso per cassazione avverso la sentenza non definitiva n.149/2021 R.G. 591/2015 emessa dalla Corte D'Appello di Messina l' 11/02/2021 Nel Giudizio promosso da Bucca Sebastiana C/Comune di Barellona P.G.-N.Legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2006</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2006</guid>
+    </item>
+    <item>
       <title>Concessioni Edilizie</title>
       <description>Concessione edilizia n. 12 del 06.05.2021 in ditta Mallumaci Diego Andrea</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2005</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1979</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1979</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture n. 10/A, n. 11/A e n. 12/A del 31/03/2021 - fornitura e consegna giornaliera di generi alimentari per gli asili nido comunali periodo 2019/2020 - ditta Bitto Salvatore S.r.l  Mese di marzo 2021. CIG: Z8929CBE56</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1978</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1978</guid>
     </item>
   </channel>
 </rss>
