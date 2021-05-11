@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale "Question Time" che si terra' a porte chiuse il prossimo 20 Maggio 2021, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2015</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2015</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco delle ordinanze di sospensione lavori a seguito dei rapporti comunicati all'ufficio dagli Ufficialii ed Agenti di Polizia Giudiziaria di questo Ente-Mese di aprile 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2014</link>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2014</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Corso on-line professionale per la qualifica di ausiliare al traffico 26 maggio 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2013</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1988</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1988</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura FATTPA 2_21 prot. n. 8435 del 10/02/2021 emessa dalla Tipografia F.lli Maio s.n.c. Di Stefano, Arturo e Giuseppe</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1987</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1987</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura FATTPA 1_21 prot. n.7322 del 04/02/2021 emessa dalla Tipografia F.lli Maio s.n.c. Di Stefano, Arturo e Giuseppe</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1986</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1986</guid>
     </item>
   </channel>
 </rss>
