@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1864</title>
+      <description>ORDINANZA N. 276 DEL 12/05/2021: APPRODI A DESTINAZIONE PUBBLICA, DISPOSIZIONI DI MODIFICA DUSO VIGENTI FINO A SUCCESSIVE INTEGRAZIONI, PER SVOLGIMENTO DEL SERVIZIO PUBBLICO DI NOLEGGIO GONDOLE.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145565.pdf</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145565.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 1863</title>
       <description>AVVISO PUBBLICO FINALIZZATO AD UNINDAGINE ESPLORATIVA DI MERCATO PER LACQUISIZIONE DI MANIFESTAZIONE DI INTERESSE PER LAFFIDAMENTO DIRETTO DI N.2 DIVERSI SERVIZI DA EFFETTUARSI NEL PERIODO 2021-2022</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145564.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145536.pdf</link>
       <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145536.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1834</title>
-      <description>DIFFIDA A CONFORMARE AI SENSI DELLART. 27 DEL D.P.R. 06.06.2001 N. 380 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI LEDIFICIO ALLE NORME URBANISTICHE, REGOLAMENTARI EDILIZIE A SEGUITO DELLACCERTAMENTO DI OPERE EDILIZIE ABUSIVE ESEGUITE IN CONTRASTO CON LA PREDETTA NORMATIVA IN : SAN POLO N. 1789 P.T SEZ.UNIFICATA FG.13 MAPP. 11 SUB. 1</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145535.pdf</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145535.pdf</guid>
     </item>
   </channel>
 </rss>
