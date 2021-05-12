@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Distacco funzionale di una unità di personale della polizia municipale alla sezione di polizia giudiziaria della Procura della Repubblica presso il Tribunale di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2018</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2018</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso di deposito per irreperibilità, presso la Segreteria Generale, di ingiunzione di pagamento per la confisca del ciclomotore Piaggio 50 a carico di Pavel Costantin Liviu e Pavel Marian</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2017</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2017</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione provvisoria allo scarico dei reflui proven. da insediamenti produttivi. (L.R. n.27/86 e D. Lgs.vo n.152/06) - Validita' mesi 6 (sei).Ditta Datterino rosso srls per Attivita':Ristorante Ubicazione:Via G.Garibaldi,64 Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2016</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1990</link>
       <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1990</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Interventi finalizzati al sotegno di nuclei familiari con difficolta' economiche conseguenti al Covid 19.Rimborso buoni spesa per acquisto pasti pronti -G.R.A.G.SRL Via P.Giovanni XXXIII n. 384</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1989</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1989</guid>
-    </item>
-    <item>
-      <title>Bando Di Concorso</title>
-      <description>Concessione edilizia n. 11 del 03/05/2021 in ditta Calabrò Carmelo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1988</link>
-      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1988</guid>
     </item>
   </channel>
 </rss>
