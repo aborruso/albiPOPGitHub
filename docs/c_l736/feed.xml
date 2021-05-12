@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DETERMINE | Pubblicazione numero 1836</title>
+      <description>DD/2021/767 - CONFERIMENTO A TITOLO GRATUITO ALLA "ASSOCIAZIONE DI VOLONTARIATO SAN VINCENZO MESTRINA ONLUS"   MESTRE, DI OGGETTI RINVENUTI E DIVENUTI DI PROPRIETÀ COMUNALE, DOPO LESPLETAMENTO DELLE PROCEDURE PREVISTE DAL CODICE CIVILE ARTT. 927 E SEGUENTI E IN APPLICAZIONE DEL VIGENTE REGOLAMENTO PER LA GESTIONE DEGLI OGGETTI RINVENUTI NEL TERRITORIO COMUNALE ARTT. 18 E 19.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145537.pdf</link>
+      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145537.pdf</guid>
+    </item>
+    <item>
       <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 1835</title>
       <description>ISTANZA DI MODIFICA PRENOME DA "VIKTORIYA VADYMIVNA" IN "VIKTORIYA"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145536.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145507.pdf</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145507.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1805</title>
-      <description>ORDINANZA DIRIGENZIALE N. 263 DEL 09/05/2021 - MISURE URGENTI PER LA LIMITAZIONE DEL TRAFFICO PEDONALE PER UN TRATTO DI CIRCA 10 MT. ANTISTANTI IL CIVICO N. 541/H IN CALLE TOSCANA - SESTIERE DI S. POLO A TUTELA DELLA PUBBLICA INCOLUMITÀ CAUSA CROLLO DI PARTE DI FABBRICATO</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145506.pdf</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145506.pdf</guid>
     </item>
   </channel>
 </rss>
