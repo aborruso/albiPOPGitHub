@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/121</title>
+      <description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE COATTA TEMPORANEO IN VIA BISCARI DAL CIVICO N.56 ALL’INTERSEZIONE CON LA VIA FIRENZE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361956</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361956</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/18132</title>
       <description>TRASMISSIONE ORDINANZA SINDACALE N.55 DEL 10 MAGGIO 2021. PREVENZIONE INCENDI NELLA STAGIONE ESTIVA 2021.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361935</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361650</link>
       <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361650</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/648</title>
-      <description>LIQUIDAZIONE FATTURA N. 000913/9D DEL 14/04/2021 IN FAVORE DEI FRATELLI ARENA S.R.L. ESERCENTE ALIMENTARE ACCREDITATO PER BUONI SPESA AI SENSI DEL D.L. N° 154 DEL 23/11/2020.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361646</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/361646</guid>
     </item>
   </channel>
 </rss>
