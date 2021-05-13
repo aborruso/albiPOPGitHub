@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Piano strategico della Città Metropolitana di Messina, richiesta pubblicizzazione del questionario conoscitivo sul sito istituzionale e sui canali social del Comune</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2042</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2042</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Deposito atto in busta chiusa Elisabetta Aragona ex art. 143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2041</link>
+      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2041</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n°277/21 del 07/05/21 per trasporto rifiuti indifferenziati in discarica presso l'impianto della Sicula Trasporti e trasporto residui pulizia stradale presso limpianto di recupero Rubbino nel mese di aprile e trasferenza umido su</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2027</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2001</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2001</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Ricorso per accertam. tecnico preventivo Ex Art.696 Bis CPC dinnanzi al Tribunale di Barcellona P.G. promosso da Rizzo Naomi in proprio e N.Q. di L.R. della Soc.Agricola Vivai Rizzo c/Comune Barc.na P.G.-N.legale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2000</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2000</guid>
-    </item>
-    <item>
-      <title>Delibera</title>
-      <description>Delibera del Commissario Straordinario N.21 del 16/042021relativa all'approvazione del bilancio di previsione esercizio finanziario 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1999</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=1999</guid>
     </item>
   </channel>
 </rss>
