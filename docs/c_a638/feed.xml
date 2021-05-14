@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Lavori di manutenzione prospetti e adeguamento impianto elettrico della Chiesa "Santa Venera" del Comune di Barcellona Pozzo di Gotto. Approvazione Perizia di Variante e Suppletiva</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2045</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2045</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Ordinanza d'istruttoria.Istanza di conc.nuova utenza, per derivare acque da pozzo trivellato,sito in contrada Recuperotti - Camicia del Comune di Barcellona P.G. per uso irriguo. Ditta:La Spada Francesca,Giorgianni Stefano e Ossian Francesca</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2044</link>
+      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2044</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Piano strategico della Città Metropolitana di Messina, richiesta pubblicizzazione del questionario conoscitivo sul sito istituzionale e sui canali social del Comune</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2042</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2003</link>
       <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2003</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Esercizio provvisorio 2021 3^ variazione al bilancio mediante prelievo dal fondo di riserva ai sensi dell'art. 176 del D. Lgs 267/2000 e ss.mm.ii.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2002</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2002</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Rettifica - Deliberazione di Giunta Comunale n. 77 del 30/03/2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2001</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2001</guid>
     </item>
   </channel>
 </rss>
