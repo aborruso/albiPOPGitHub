@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/678</title>
+      <description>LIQUIDAZIONE COMPENSI SPETTANTI AI REVISORI DEI CONTI PER L'ATTIVITA' SVOLTA NEL PRIMO TRIMESTRE 2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362339</link>
+      <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362339</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/677</title>
       <description>LIQUIDAZIONE ALLA SOCIETÀ ASSITECA S.P.A. PREMIO POLIZZE ASSICURATIVE AUTOMEZZI COMUNALI E INFORTUNI CONDUCENTE - CIG: Z862E1685A.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362260</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362124</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362124</guid>
-    </item>
-    <item>
-      <title>Atto numero 0/78</title>
-      <description>AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO - TITOLARE DELLO SCARICO LO PRESTI MASSIMILIANO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362122</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362122</guid>
     </item>
   </channel>
 </rss>
