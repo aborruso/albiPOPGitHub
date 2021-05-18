@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Integrazione dell'elenco degli esercizi commerciali per la spendibilità dei buoni spesa per l'acquisto di beni di prima necessità a seguito dell'emergenza  da Covid-19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2063</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2063</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Esenzione dalla TARI per l'anno 2021 in favore delle attivita' produttive il cui esercizio sia stato sospeso o limitato a causa dell'emergenza da Covid- 19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2062</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2062</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Atto di indirizzo per la destinazione dei fondi del 2% dell'assegnazione regionale di parte corrente con forme di democrazia partecipata ai sensi dell'art. 6, comma 1, L.R. 5/2014, come modificato dal comma 2 dell'art. 6 L.R. 9/2015 anno 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2061</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2061</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Avviso scadenza concessione cimiteriale dei defunti Concetta Pirri Scilipoti e Giacomo Pirri</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2060</link>
       <pubDate>Mon, 17 May 2021 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2021</link>
       <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2021</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LAVORI DI RIQUALIFICAZIONE CENTRO URBANO DI VIA ROMA TRATTO FUNZIONALE COMPRESO TRA LA VIA CARDUCCI E LA VIA MANDANICI - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2020</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2020</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>INCARICO per attività di Direzione lavori ed attività connesse a dipendenti dell'Ente relative a: LAVORI DI MANUTENZIONE PER IL RIPRISTINO DEI DANNI A SEGUITO DI EVENTI ALLUVIONALI PRESSO LA SEDE DELLA CROCE ROSSA ITALIANA                SITA NEL PLE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2019</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2019</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Distacco funzionale di una unità di personale della polizia municipale alla sezione di polizia giudiziaria della Procura della Repubblica presso il Tribunale di Barcellona Pozzo di Gotto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2018</link>
-      <pubDate>Wed, 12 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2018</guid>
     </item>
   </channel>
 </rss>
