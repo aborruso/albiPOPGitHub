@@ -17,11 +17,25 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1928</title>
+      <description>ORDINANZA N . 290 DEL 18/05/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E DELLA SOSTA PRESSO VIA PASQUALIGO E VIA CIMA GOGNA IN LOCALITÀ MESTRE PER LESECUZIONE DEI LAVORI DI FRESATURA E SUCCESSIVA ASFALTATURA DELLA SEDE STRADALE DA LUNEDÌ 17 MAGGIO 2021 A VENERDÌ 4 GIUGNO 2021 DALLE ORE 09:00 ALLE ORE 18:00</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145629.pdf</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145629.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 1927</title>
+      <description>GARA N. 03/2021  AFFIDAMENTO DEL SERVIZIO DI GESTIONE E MANUTENZIONE DI POMPE DI SOLLEVAMENTO, CHIAVICHE E PORTE VINCIANE NELLISOLA DI SANT ERASMO A VENEZIA. INVITO A PROCEDURA NEGOZIATA AI SENSI DELLART. 36, C. 2, LETT. B E DELLART. 63 DEL D.LGS. 50/2016 E DELLART. 1 C. 2 LETT. B) DEL D.L. 76/2020, CONVERTITO IN L. 120/2020. CIG 8592534F5B.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145628.pdf</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145628.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 1926</title>
       <description>DELIBERA DI CONSIGLIO N. 2021/23 - SENTENZA DEL TRIBUNALE DI VENEZIA - SEZ. LAVORO N. 77/2021 DEL 28.01.2021 NELLA CAUSA R.G. 545/2020, NON NOTIFICATA. RICONOSCIMENTO DI DEBITO FUORI BILANCIO- REG. UFF. LEG.395/2020 -</description>
-      <link/>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_23_001_323_CC_2021_23.odt.pdf</link>
       <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
-      <guid/>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_23_001_323_CC_2021_23.odt.pdf</guid>
     </item>
     <item>
       <title>#DELIBERE | Pubblicazione numero 1925</title>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145598.pdf</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145598.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 1896</title>
-      <description>SCIA EX ART. 87 BIS DLGS 259/03 PER RICONFIGURAZIONE SRB ILIAD ESISTENTE. CODICE SITO: VE 30174_014 - MESTRE CIRCONVALLAZIONE. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D.LGS. 259/03). INDIRIZZO LAVORI: VIA CIRCONVALLAZIONE 109</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145597.pdf</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145597.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1895</title>
-      <description>ORDINANZA N. 283 DEL 14/05/2021 - RIPRESE CINEMATOGRAFICHE DEL FILM "THE SWARM" - REGOLAZIONE DELLA VIABILITÀ E OCCUPAZIONE DI RIVE PUBBLICHE IN RII DELLA ZONA A TRAFFICO LIMITATO INTERNA AL CENTRO STORICO DI VENEZIA (ZTL ICS).</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145596.pdf</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145596.pdf</guid>
     </item>
   </channel>
 </rss>
