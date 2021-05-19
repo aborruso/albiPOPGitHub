@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Rinnovo abbonamento annuale al quotidiano PAWEB</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2087</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2087</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO DEI SERVIZI DI TRASLOCO ED ACCORDATURA DI UN PIANOFORTE A MEZZA CODA</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2085</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2051</link>
       <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2051</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Riqualificazione urbana in funzione della presenza di aree degradate ed utenze deboli nel quartiere di Fondaconuovo, finalizzato al recupero ed integrazione sociale ed alla lotta alla marginalità. Attivazione delle procedure di Gara   CUP: H69J150033</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2050</link>
-      <pubDate>Fri, 14 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2050</guid>
     </item>
   </channel>
 </rss>
