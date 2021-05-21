@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso deposito Accetta Rosario</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2104</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2104</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Teatro "Placido Mandanici". Collaborazione istituzionale con il Conservatorio "Arcangelo Corelli" per la realizzazione di iniziative culturali, artistiche e musicali. Approvazione Protocollo d' Intesa</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2103</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>Delibere Di Giunta Municipale</title>
-      <description>Integrazione oraria dipendenti a tempo parziale da utilizzare per servizio urbanistica edilizia per n. 9 dipendenti part-time per mesi tre</description>
+      <description>Occupazione suolo pubblico a seguito emergenza COVID-19. Atto di indirizzo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2102</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2102</guid>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2075</link>
       <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2075</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>proposta di aggiudicazione gara  affidamento servizio di accertamento e riscossione e supporto agli uffici CIG 82453749DE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2074</link>
-      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2074</guid>
     </item>
   </channel>
 </rss>
