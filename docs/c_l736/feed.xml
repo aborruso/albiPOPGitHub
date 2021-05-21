@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1998</title>
+      <description>ORDINANZA N. 304 DEL 21/05/2021 -  REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E DELLA SOSTA PRESSO VIA PAGANELLO, TRATTO COMPRESO TRA IL CIV. 9 E VIA TICOZZI IN LOCALITÀ MESTRE (VE), PER LESECUZIONE DEI LAVORI DI "MESSA IN SICUREZZA URGENTE DELLINTERSEZIONE STRADALE TRA VIA PAGANELLO E VIA TICOZZI" DA LUNEDÌ 24 MAGGIO 2021 A MERCOLEDÌ 23 GIUGNO DALLE ORE 08:00 ALLE ORE 18:00.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145699.pdf</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145699.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 1997</title>
       <description>DISPOSIZZIONE DIRIGENZIALE  SOSPENSIONE DELLA CONCESSIONE DI SUOLO PUBBLICO IN MESTRE- PIAZZETTA MALIPIERO EX VIA CESARE BATTISTI NEI GIORNI 24-31 MAGGIO, 07-14-21-28 GIUGNO E 06-13 SETTEMBRE.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145698.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145670.pdf</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145670.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1968</title>
-      <description>DD/2021/962 - AFFIDAMENTO DEL SERVIZIO DI SOMMINISTRAZIONE DI TAMPONI ANTIGENICI SARS-COV2/COVID19 AI LAVORATORI DEL COMUNE DI VENEZIA.IMPEGNO DI SPESA DI EURO 23.200,00= (IVA ESENTE AI SENSI DELLART. 10, DPR 633/72)AL CAP. 3303/28 -BILANCIO 2021 CODICE DI FINANZIAMENTO: 900 - EMERGENZA COVID-19</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145669.pdf</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145669.pdf</guid>
     </item>
   </channel>
 </rss>
