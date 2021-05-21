@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/126</title>
+      <description>PROVVEDIMENTI DI CIRCOLAZIONE IN ACITREZZA -ZONE A TRAFFICO LIMITATO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/363183</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/363183</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/125</title>
+      <description>LAVORI ABUSIVI ESEGUITI IN ACI CASTELLO, VIA LIVORNO . RIFERIMENTO O.A. 2801.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/363180</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/363180</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/713</title>
       <description>UTILIZZO PALESTRA DI FICARAZZI EX ROBERTO RIMINI VIA TRIESTE N. 79 PER SVOLGIMENTO PROVE CONCORSUALI DAL 7 GIUGNO AL 30 GIUGNO 2021. REVOCA CONCESSIONI ASSOCIAZIONI SPORTIVE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362984</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362909</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362909</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/703</title>
-      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE C. A.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362907</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362907</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/702</title>
-      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE C. A. N.Q. DI EREDE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362905</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/362905</guid>
     </item>
   </channel>
 </rss>
