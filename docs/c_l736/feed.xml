@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 1999</title>
+      <description>ORDINANZA N° 305 DEL 21/05/2021: CANAL  GRANDE-  FONDAMENTA  SANTA  CHIARA,  RIPRISTINO  STAZIONE  COMUNALE  TAXI  DOPO  INTERVENTO  DI  MANUTEZIONE PONTILE GALLEGGIANTE.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145700.pdf</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145700.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 1998</title>
       <description>ORDINANZA N. 304 DEL 21/05/2021 -  REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E DELLA SOSTA PRESSO VIA PAGANELLO, TRATTO COMPRESO TRA IL CIV. 9 E VIA TICOZZI IN LOCALITÀ MESTRE (VE), PER LESECUZIONE DEI LAVORI DI "MESSA IN SICUREZZA URGENTE DELLINTERSEZIONE STRADALE TRA VIA PAGANELLO E VIA TICOZZI" DA LUNEDÌ 24 MAGGIO 2021 A MERCOLEDÌ 23 GIUGNO DALLE ORE 08:00 ALLE ORE 18:00.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145699.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145671.pdf</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145671.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1969</title>
-      <description>DD/2021/952 - UFF.GEDI.357 - DETERMINAZIONE A CONTRATTARE EX ART. 192 D.LGS. 267/2000 E AFFIDAMENTO DIRETTO DELLA FORNITURA DI MATERIALE SPECIFICO PER IL SERVIZIO ATTIVITÀ ISTITUZIONALI FAVARO VENETO. IMPEGNO DI SPESA ANNO 2021.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145670.pdf</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145670.pdf</guid>
     </item>
   </channel>
 </rss>
