@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 2015</title>
+      <description>AVVISO APPALTO AGGIUDICATO C.I. 14029 "EDILIZIA SPORTIVA DELLA TERRAFERMA.LAVORI DI MANUTENZIONE ALLE PAVIMENTAZIONI SPORTIVE DELLE PALESTRE TERRAGLIO E STEFANI CIG 8683995360, CUP F73F190000200004</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145716.pdf</link>
+      <pubDate>Mon, 24 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145716.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 2014</title>
       <description>ORDINANZA N. 307 DEL 24/05/2021 : REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE PRESSO VIA ORIAGO TRATTO TRA VIA DELLE FONTANE E LACCESSO PRIVATO CIVICO 139 IN LOCALITÀ CHIRIGNAGO PER LESECUZIONE DEI LAVORI DI FRESATURA E SUCCESSIVA ASFALTATURA DELLA SEDE STRADALE DA LUNEDÌ 24 MAGGIO 2021 A VENERDÌ 11 GIUGNO 2021 DALLE ORE 09:00 ALLE ORE 18:00</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145715.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145687.pdf</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145687.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 1985</title>
-      <description>DISPOSIZIONE DIRIGENZIALE MISURE URGENTI IN MATERIA DI CONTENIMENTO E GESTIONE DELLEMERGENZA EPIDEMIOLOGICA DA VIRUS COVID-19. D. LGS 30/2021 - DISPOSIZIONI PER I SERVIZI DI TRASPORTO PUBBLICO NON DI LINEA DI TAXI ACQUEO - RIMODULAZIONE DELLA TURNISTICA A 3+3 ORDINARIA FINO ALLA SCADENZA DELLA EMERGENZA SANITARIA COVID 19.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145686.pdf</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145686.pdf</guid>
     </item>
   </channel>
 </rss>
