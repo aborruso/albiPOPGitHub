@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 2018</title>
+      <description>DELIBERA N. AA/2021/4 - COMMISSIONI CONSILIARI PERMANENTI  MODIFICA COMPOSIZIONE.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145719.pdf</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145719.pdf</guid>
+    </item>
+    <item>
+      <title>#VARIE | Pubblicazione numero 2017</title>
+      <description>AVVISO PUBBLICO PER LASSEGNAZIONE MEDIANTE GARA AD EVIDENZA PUBBLICA DI UNA CONCESSIONE DEMANIALE PER LOCCUPAZIONE E LUSO DEGLI SPECCHI ACQUEI E DELLE OPERE CONNESSE, UBICATI A VENEZIA, IN RIVA SAN BIAGIO, PUNTA DELLA DOGANA E PONTILE DEMANIALE "EX ADRIATICA" - ZATTERE, ALLO SCOPO DI SVILUPPARE IL TRAFFICO YACHTING A VENEZIA".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145718.pdf</link>
+      <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145718.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 2016</title>
       <description>LA IV COMMISSIONE (CONGIUNTA ALLA V COMMISSIONE) È CONVOCATA LUNEDÌ 31 MAGGIO 2021 ALLE ORE 10:00 PRESSO VIDEOCONFERENZA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145717.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145690.pdf</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145690.pdf</guid>
-    </item>
-    <item>
-      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1988</title>
-      <description>LA III COMMISSIONE È CONVOCATA MARTEDÌ 08 GIUGNO 2021 ALLE ORE 14:30 PRESSO VIDEOCONFERENZA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145689.pdf</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145689.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 1987</title>
-      <description>ORDINANZA N. 300 DEL 20/05/2021 - MODIFICHE ALLA VIABILITÀ CON CHIUSURA FONDAMENTA TOLETTA NEL TRATTO COMPRESO TRA IL CIVICO 1191 E IL PONTE DE LE MARAVEGIE, PER REALIZZAZIONE RETE ANTINCENDIO DI VENEZIA— IV LOTTO, II STRALCIO", DALLE ORE 20:00 ALLE ORE 05:00 DAL 24 AL 31 MAGGIO 2021.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145688.pdf</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145688.pdf</guid>
     </item>
   </channel>
 </rss>
