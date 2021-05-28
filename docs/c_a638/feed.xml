@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbali di gara n. 1 e  2 per l'individuazione del soggetto attuatore del progetto SPRAR/SIPROIMI sistema di protezione per titolari di protezione internazionale e per minori stranieri non accompagnati</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2177</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2177</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Impegno spesa per servizio di mantenimento e custodia cani vaganti ricadenti sul territorio del Comune di Barcellona Pozzo di Gotto in applicazione art. 14 L.R. 15/2000  e per spese veterinarie di cani randagi soccorsi e trasportati presso ambulatori</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2176</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2176</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Esecuzione dei lavori di ampliamento del Cimitero Comunale - Lotto C. - C.U.P. n. H63D15002140004. Approvazione verbale di visita definitiva, relazione e certificato di collaudo tecnico amministrativo.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2175</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2149</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2149</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Azione 4 "Sostegno al Reddito". Liquidazione Contributo ai beneficiari avviati con la III annualita' Piano di Zona 2013-2015 per il Comune di Meri'</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2148</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2148</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Azione 4 "Sostegno al Reddito". Liquidazione contributo ai beneficiari avviati con la III annualiata' Piano di Zona 2013-2015 per il Comune di Montalbano Elicona</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2147</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2147</guid>
     </item>
   </channel>
 </rss>
