@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 2165</title>
+      <description>ORDINANZA N. 326 DEL 31/05/2021: CANAL GRANDE- FERROVIA, PONTE DEGLI SCALZI, SOSTITUZIONE ELEMENTO DEL PONTILE DI APPRODO IN STAZIONE COMUNALE TAXI.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145866.pdf</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145866.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 2164</title>
       <description>ORDINANZA DI DEMOLIZIONE AI SENSI DELLARTICOLO 31 DEL D.P.R. 380/2001 E S.M.I., RELATIVA A OPERE EDILIZIE IN VIA SCARAMUZZA 40 - ZELARINO SEZ U FG 119 MAPP 1125</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145865.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_138_37861_testo.pdf</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_138_37861_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2135</title>
-      <description>DELIBERA DI GIUNTA N. 2021/137 - C.I. 14458 SCUOLA PRIMARIA G. GALLINA. INTERVENTI DI ADEGUAMENTO SISMICO, ELIMINAZIONE DEI RISCHI E MESSA A NORMA DELLEDIFICIO. (FINANZIAMENTO REGIONALE D.G.R. N. 511/2018). APPROVAZIONE PROGETTO DEFINITIVO .</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_137_37670_testo.pdf</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_137_37670_testo.pdf</guid>
     </item>
   </channel>
 </rss>
