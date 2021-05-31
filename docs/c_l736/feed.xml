@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 2164</title>
+      <description>ORDINANZA DI DEMOLIZIONE AI SENSI DELLARTICOLO 31 DEL D.P.R. 380/2001 E S.M.I., RELATIVA A OPERE EDILIZIE IN VIA SCARAMUZZA 40 - ZELARINO SEZ U FG 119 MAPP 1125</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145865.pdf</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145865.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 2163</title>
       <description>DD/2021/1091 - (C.I.14415) PON METRO 2014-2020 OPERAZIONE VE2.2.3.F "PISTA CICLOPEDONALE TERRAGLIO 3°LOTTO - ITINERARIO N.9 DEL BICIPLAN 2". APPROVAZIONE DI UNA PERIZIA SUPPLETIVA E DI VARIANTE, RIMODULAZIONE DEL QUADRO ECONOMICO, ADEGUAMENTO CORRISPETTIVI PROFESSIONALI, IMPEGNO DI SPESA E ACCERTAMENTO DI ENTRATA. ATTO DA PUBBLICARE AI SENSI DELLART.29 COMMA 1 D.LGS 50/2016.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145864.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_137_37670_testo.pdf</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_137_37670_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2134</title>
-      <description>DELIBERA DI GIUNTA N. 201/136 - PROGRAMMAZIONE DEL SERVIZIO TERRITORIALE DI INFORMAZIONE E ACCOGLIENZA TURISTICA MEDIANTE APPOSITI ADDETTI AFFIDATO A VE.LA. SPA  ANNO 2021.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_136_37618_testo.pdf</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_136_37618_testo.pdf</guid>
     </item>
   </channel>
 </rss>
