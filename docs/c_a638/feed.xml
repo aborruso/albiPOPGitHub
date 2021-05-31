@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Ampliamento orario, a carattere provvisorio, per i dipendentio part-time del Servizio Polizia Municipale impegnati nella gestione delle attuali situazioni di emergenza COVID 19 sul territorio locale per i mesi di giungno e luglio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2197</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2197</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Collocamento a riposo, a far data dal 1/7/2021, del dipendente xxx, per l'avvenuto raggiung. dei requisiti di eta' e di serviz.previsti dall'art.14 del D. Legge 28 gennaio 2019 n. 4 (62 anni di eta' e 38 di servizio). Revoca delibera.Riproposiz.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2196</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2196</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Approvazione Schema Tipo Contratto di Concessione Cimiteriale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2195</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2195</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Nomina Autorità di Gara monocratica nella procedura ad evidenza pubblica per il Progetto di ammodernamento e completamento delle attrezzature ed arredi del Teatro Mandanici del Comune di Barcellona Pozzo di Gotto</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2194</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2166</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2166</guid>
-    </item>
-    <item>
-      <title>Delibera</title>
-      <description>Mozione presentata dal Consigliere Pino Carmelo per la istituzione dei sensi unici di marcia per la Via Salita I del Carmine e per la Via Salita II del Carmine</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2165</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2165</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Mozione presentata dal Consigliere Pino Carmelo sulla Via M.G. Stella Modaffari</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2164</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2164</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Mozione presentata dal Consigliere Pino Carmelo sull'adozione di ulteriori misure di contenimento della diffusione del Covid-19</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2163</link>
-      <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2163</guid>
     </item>
   </channel>
 </rss>
