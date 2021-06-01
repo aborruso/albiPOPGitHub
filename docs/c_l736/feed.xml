@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELENCO OGGETTI RINVENUTI | Pubblicazione numero 2190</title>
+      <description>ELENCO OGGETTI RINVENUTI ART. 928 DEL C.C. DEL MESE DI MAGGIO 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145891.pdf</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145891.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI GARA | Pubblicazione numero 2189</title>
       <description>AVVISO DI AGGIUDICAZIONE DI APPALTO GARA N. 15/2021  C.I. 14027 - LAVORI DI "EDILIZIA COMUNALE DELLA TERRAFERMA  INTERVENTI DI ADEGUAMENTO, MESSA A NORMA, RIPRISTINI FUNZIONALI E RINNOVAMENTI. UTILIZZO SOMME PER MANUTENZIONI DIFFUSE".</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145890.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145862.pdf</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145862.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 2160</title>
-      <description>DD/2021/924 - SECI.GEDI.621  DETERMINAZIONE A CONTRARRE, AI SENSI DELLART. 192 D.LGS. 267/2000 E CONTESTUALE AFFIDAMENTO DIRETTO EX ART. 36, COMMA 2, LETT. A) D.LGS. 50/2016 MEDIANTE TD IN MEPA ALLA DITTA VITA MAURO, DEI LAVORI DI MANUTENZIONE DEL FELZE E DEL RICCIO DI PRUA DELLA BISSONA DENOMINATA "BIZANTINA". IMPEGNO DI SPESA.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145861.pdf</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145861.pdf</guid>
     </item>
   </channel>
 </rss>
