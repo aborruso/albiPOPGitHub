@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco delle ordinanze di sospensione lavori a seguito dei rapporti comunicati all'ufficio dagli Ufficiali ed Agenti di Polizia Giudiziaria di questo Ente-Mese di Maggio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2211</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2211</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Determinazione a contrarre e contestuale affidamento, tramite Trattativa Diretta sul MePa, ai sensi dellarticolo 36 comma 2 lett.a, per la fornitura di materiale di pulizia, disinfezione e sanificazione per gli Asili Nido Comunali.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2210</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2210</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Determina a contrarre per affidamento dei lavori di MANUTENZIONE DELLA RETE IDIRCA COMUNALEACCORDO QUADRO ANNO 2021-2022 CON UN UNICO OPERATORE ECONOMICO EX ART.54 DEL D.LGS.N.50/ 2016 E SS.MM.II mediante Accordo quadro ex art.54 del D.lgs.vo n.50/20</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2209</link>
@@ -80,7 +94,7 @@
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2201</guid>
     </item>
     <item>
-      <title>Atti Di Interesse Generale</title>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto Venuto Giacomo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2199</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2183</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2183</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione fatture in ditta Enel Energia spa per la fornitura di energia elettrica. Emesse a Marzo  2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2182</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2182</guid>
-    </item>
-    <item>
-      <title>Verbali Risultanze Di Gara</title>
-      <description>Verbali di gara n. 1 e  2 per l'individuazione del soggetto attuatore del progetto SPRAR/SIPROIMI sistema di protezione per titolari di protezione internazionale e per minori stranieri non accompagnati</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2177</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2177</guid>
     </item>
   </channel>
 </rss>
