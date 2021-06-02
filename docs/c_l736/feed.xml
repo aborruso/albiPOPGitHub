@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 2191</title>
+      <description>ORDINANZA N. 328 DEL 01/06/2021: REGOLAMENTAZIONE STALLI DI SOSTA IN VIA DIEGO VALERI AL LIDO DI VENEZIA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145892.pdf</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145892.pdf</guid>
+    </item>
+    <item>
       <title>#ELENCO OGGETTI RINVENUTI | Pubblicazione numero 2190</title>
       <description>ELENCO OGGETTI RINVENUTI ART. 928 DEL C.C. DEL MESE DI MAGGIO 2021</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145891.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145863.pdf</link>
       <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145863.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 2161</title>
-      <description>DD/2021/928 - TRAS.TCE.025. TRASFERIMENTO ANNUALE A FONDAZIONE DI PARTECIPAZIONE "CASA DELLOSPITALITÀ". IMPEGNO DI SPESA DI EURO 630.000,00.=. ANNO 2021. ATTO DA PUBBLICARE AI SENSI DELLART. 26, COMMA 2, DEL D.LGS N. 33/2013.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145862.pdf</link>
-      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145862.pdf</guid>
     </item>
   </channel>
 </rss>
