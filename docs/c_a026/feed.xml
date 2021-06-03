@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/20794</title>
+      <description>DETERMINA A CONTRARRE N.777 DEL 31/05/2021 -RICHIESTA PUBBLICAZIONE ATTI DI GARA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364577</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364577</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/51</title>
       <description>REFEZIONE SCOLASTICA ANNO SCOLASTICO 2021- 2022 - TARIFFE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364568</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364118</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364118</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/774</title>
-      <description>PUBBLICAZIONE WEB DEI VIDEO DEL CONSIGLIO COMUNALE E DELLE COMMISSIONI CONSILIARI IN FORMATO HTML5 - LIQUIDAZIONE TRIMESTRE 1-2021 - CIG Z7827E1310</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364116</link>
-      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364116</guid>
     </item>
   </channel>
 </rss>
