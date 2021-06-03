@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2197</title>
+      <description>ISTANZA DI CAMBIO DEL COGNOME DA "DALLA SANTA" IN "DALLA SANTA PEROCCO"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145898.pdf</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145898.pdf</guid>
+    </item>
+    <item>
       <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2196</title>
       <description>ISTANZA DI CAMBIO COGNOME DA "FOLLADOR" A "FOLLADOR BONASSIN"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145897.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145869.pdf</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145869.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 2167</title>
-      <description>DD/2021/930 - C.I. 14543 - CA REZZONICO - INTERVENTI DI CONSOLIDAMENTO SOLAI E OPERE EDILI VARIE - INDAGINI STRUTTURALI E OPERE PROPEDEUTICHE AL CONSOLIDAMENTO    DETERMINAZIONE A CONTRARRE E DI AFFIDAMENTO INCARICO DI "ATTIVITÀ DA RESTAURATORE: REDAZIONE DELLE SCHEDE TECNICHE DI RESTAURO E DIRETTORE OPERATIVO RESTAURATORE" ALLA DITTA  CO. NEW TECH. S.A.S. DI BENVENUTI FABRIZIO AI SENSI DELLART. 32, C. 2, LETT. A) DEL D.LGS.50/2016 E S.M.I., E RELATIVO IMPEGNO DI SPESA. SRC_21_02</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145868.pdf</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145868.pdf</guid>
     </item>
   </channel>
 </rss>
