@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/132</title>
+      <description>DIVIETO DELLA CIRCOLAZIONE STRADALE AI MEZZI A DUE RUOTE E LIMITE DI VELOCITA’ PER GLI AUTOMEZZI A SEGUITO DI COPIOSA CADUTA DI CENERE VULCANICA SUL TERRITORIO COMUNALE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364877</link>
+      <pubDate>Sat, 05 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364877</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/131</title>
       <description>PROVVEDIMENTI DI CIRCOLAZIONE IN ACITREZZA -ZONE A TRAFFICO LIMITATO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364874</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364441</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364441</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/780</title>
-      <description>LIQUIDAZIONE FATTURA PER SERVIZI DI SPEDIZIONE RACCOMANDATE AR ED AG TRAMITE RAPPORTO CONTRATTUALE “SMA IN NOME PROPRIO E CON PAGAMENTO ANTICIPATO “ – POSTE ITALIANE S.P.A.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364439</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364439</guid>
     </item>
   </channel>
 </rss>
