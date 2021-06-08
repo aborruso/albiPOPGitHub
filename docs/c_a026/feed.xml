@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/21639</title>
+      <description>RETTIFICA CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 10054 DEL 20/05/1999 P - PRATICA N. 597/C - DITTA ROMEO ANNA.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365213</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365213</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/21587</title>
       <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 10506 DEL 07/06/2021 - PRATICA N. 303/C - DITTA GRASSO AGATA, MIRONE ELITA, MIRONE FABRIZIO CARMELO, MIRONE GIUSEPPE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365210</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364874</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364874</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/790</title>
-      <description>CONCESSIONE DI SUOLO PUBBLICO PER ARREDO URBANO N. 10/2021 DITTA SOCCI MAURIZIO TITOLARE DEL LOCALE DENOMINATO "CUZ" SITO IN VIA QUARTIERE LONGO N. 14.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364872</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/364872</guid>
     </item>
   </channel>
 </rss>
