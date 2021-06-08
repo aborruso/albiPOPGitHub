@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 2251</title>
+      <description>ORDINANZA N. 345 DEL 08/06/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, DELLA SOSTA E PEDONALE PRESSO VIA SELVANESE E PITICA IN LOCALITÀ ZELARINO (VE) PER LESECUZIONE DI LAVORI DI REALIZZAZIONE NUOVA CORSIA CICLABILE, MESSA IN SICUREZZA TRATTO DI MARCIAPIEDE E FRESATURA CON SUCCESSIVA ASFALTATURA DELLA SEDE STRADALE DA MERCOLEDÌ 09 GIUGNO 2021 A VENERDÌ 06 AGOSTO 2021 DALLE ORE 00:00 ALLE ORE 24:00</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145952.pdf</link>
+      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145952.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 2250</title>
       <description>AVVISO PUBBLICO DI MOBILITA VOLONTARIA ESTERNA REDATTO AI SENSI DELLART. 30 DEL D. LGS. 165/2001 PER LA COPERTURA DI VARI PROFILI DI CUI ALLA DELIBERAZIONE DI GIUNTA COMUNALE N. 42 DEL 29.03.2021 CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145951.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145923.pdf</link>
       <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145923.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 2221</title>
-      <description>ORDINANZA . N. 337 DEL 04/06/2021: REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, PEDONALE E DELLA SOSTA PRESSO VIA TASSO FRONTE CIV. 34 IN LOCALITÀ MESTRE (VE) PER LESECUZIONE DI LAVORI DI MESSA IN SICUREZZA DI UN TRATTO DI MARCIAPIEDE DA LUNEDÌ 31 MAGGIO 2021 A VENERDÌ 04 GIUGNO 2021 DALLE ORE 00:00 ALLE ORE 24:00 PROROGA ORDINANZA N. 315 DEL 27/05/2021 FINO AL 09/06/2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145922.pdf</link>
-      <pubDate>Fri, 04 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145922.pdf</guid>
     </item>
   </channel>
 </rss>
