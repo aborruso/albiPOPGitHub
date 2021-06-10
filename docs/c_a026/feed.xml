@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/21857</title>
+      <description>RICHIESTA PUBBLICAZIONE VERBALE N 7 DEL09/06/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365391</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365391</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/810</title>
+      <description>ASSEGNAZIONE PERSONALE CON FUNZIONI DI SEGRETARI VERBALIZZANTI: PARZIALE MODIFICA DETERMINAZIONE N.331/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365389</link>
+      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365389</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/TYS01A400440</title>
       <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 PER IL SIG.RA SCALIA ANGELA RITA- ACIREALE 22.05.1969</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365371</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365167</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365167</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/57</title>
-      <description>NOMINA DEL RSPP AI SERVIZI DELL'ART. 31 DEL D.LGS N. 81/2008 E S.M.I.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365139</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365139</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/56</title>
-      <description>NOMINA DEL MEDICO COMPETENTE AI SERVIZI DELL'ART. 18 COMMA 1 LETT. A) DEL D.LGS N. 81/2008 E S.M.I.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365137</link>
-      <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365137</guid>
     </item>
   </channel>
 </rss>
