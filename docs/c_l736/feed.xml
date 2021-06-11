@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2306</title>
+      <description>ISTANZA DI CAMBIO COGNOME DA "CALLIARI" IN "CALLIARI SERDOZ" E IL PRENOME DA "EMMA" IN "EMMA LAURA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146007.pdf</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146007.pdf</guid>
+    </item>
+    <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2305</title>
+      <description>ISTANZA DI CAMBIO COGNOME DA "HORTOPAN" IN "TOTARO"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146006.pdf</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146006.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 2304</title>
       <description>LA II COMMISSIONE È CONVOCATA MERCOLEDÌ 16 GIUGNO 2021 ALLE ORE 17:30 PRESSO VIDEOCONFERENZA - IN CONCOMITANZA CON LA II COMMISSIONE DELLA MUNICIPALITÀ DI MARGHERA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146005.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145976.pdf</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145976.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 2274</title>
-      <description>SCIA EX ART. 87 BIS DLGS 259/03 PER RICONFIGURAZIONE SRB ILIAD ESISTENTE. CODICE SITO: VE  30173_005  CAMPALTO. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI  PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D.LGS.259/03).   INDIRIZZO LAVORI: VIA PASSO CAMPALTO 2, FAVARO VENETO</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145975.pdf</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145975.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 2273</title>
-      <description>SCIA EX ART. 87 BIS D.LGS. 259/03 PER RICONFIGURAZIONE SRB ILIAD ESISTENTE. CODICE SITO: VE  30172_003  MESTRE C.SO DEL POPOLO TORINO. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8,  L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D.LGS.259/03).   INDIRIZZO LAVORI: CORSO DEL POPOLO 221</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145974.pdf</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP145974.pdf</guid>
     </item>
   </channel>
 </rss>
