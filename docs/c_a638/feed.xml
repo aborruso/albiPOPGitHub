@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Appalto di servizi inerenti attività laborat. per adolescenti e giovani dai 14 ai 25 anni di età. Programma Operativo Nazionale "Legalità" "Obiettivo" investim.in fav. della crescita dell'occupazione. Progetto Pandora</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2331</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2331</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Determinazione a contrarre  e contestuale affidamento, mediante Trattativa Diretta sul MePa, ai sensi dell'art. 36 comma 2 lettera a), per la fornitura e relativo montaggio di arredi per il Centro Giovanile di Via Cairoli. CUP H67H21000790005</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2330</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2302</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2302</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento dei servizi di supporto per la realizzazione del cartellone estivo 2021 del Teatro Placido Mandanici - Villa Primo Levi CIG: ZA7320934B</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2301</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2301</guid>
     </item>
   </channel>
 </rss>
