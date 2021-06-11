@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/59</title>
+      <description>ATTRIBUZIONE DELEGA ALL'ASSESSORE ROMEO SEBASTIANO.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365600</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365600</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/22023</title>
       <description>RICHIESTA PUBBLICAZIONE ATTI CONCORSO INGNERE PART-TIME</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365561</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365356</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365356</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/805</title>
-      <description>ESTUMULAZIONE D'UFFICIO DEI RESTI MORTALI DI CASTORINA SANTA DECEDUTA IL 31.08.1986 DAL LOCULO N.519 COLOMBARIO "A" E TRASFERIMENTO IN CASSETTA OSSARIO NEL LOCULO N.113 PARETE EST PIANO PRIMO LATO ACITREZZA DELLA CONFRATERNITA S.GIUSEPPE ASSIEME ALLA SALMA DI D'AGATA GISEPPE. FASCICOLO CIMITERIALE : LOCULO N.519 "A" LOCULO N.113 PARETE EST PIANO PRIMO CONFRATERNITA S.GIUSEPPE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365300</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365300</guid>
     </item>
   </channel>
 </rss>
