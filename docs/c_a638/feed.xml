@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale Seduta Consiglio Comunale del 26 Gennaio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2335</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2335</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 4 "Sostegno al Reddito". Liquidazione contributo ai beneficiari avviati con la III annualità Piano di Zona 2013-2015 per il Comune di Merì</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2334</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2334</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Lavori per la realizzazione del nuovo ponte Calderà crollato a seguito dell'alluvione del 22/11/2011. Nomina legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2332</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2332</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Appalto di servizi inerenti attività laborat. per adolescenti e giovani dai 14 ai 25 anni di età. Programma Operativo Nazionale "Legalità" "Obiettivo" investim.in fav. della crescita dell'occupazione. Progetto Pandora</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2331</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2305</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2305</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>OGGETTO: LIQUIDAZIONE INDENNITA' DI TURNO  MESI  DI  GENNAIO, FEBBRAIO  E MARZO 2020. PERSONALE DI RUOLO  DELLA POLIZIA MUNICIPALE.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2304</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2304</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>OGGETTO: LIQUIDAZIONE INDENNITA' DI TURNO  MESI  DI  GENNAIO, FEBBRAIO  E MARZO 2020. PERSONALE PART TIME  DELLA POLIZIA MUNICIPALE.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2303</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2303</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE INDENNITA' DI REPERIBILITA MESI DI  GENNAIO, FEBBRAIO  E MARZO  2020  PER IL PERSONALE DI RUOLO DELLA POLIZIA MUNICIPALE.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2302</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2302</guid>
     </item>
   </channel>
 </rss>
