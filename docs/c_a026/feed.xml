@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/22276</title>
+      <description>PUBBLICAZIONE VERBALE N. 6 CONCORSO ISTRUTTORE AMMINISTRATIVO CONTABILE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365611</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365611</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/59</title>
       <description>ATTRIBUZIONE DELEGA ALL'ASSESSORE ROMEO SEBASTIANO.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365600</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365358</link>
       <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365358</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/806</title>
-      <description>PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO AI SENSI DELL'ART.63 COMMA 2 LETT.A) DEL D.LGS. N.50/2016 E S.M.I. PER L'AFFIDAMENTO DEL SERVIZIO DI VIGILANZA E SALVATAGGIO DELLE SPIAGGE LIBERE DEL TERRITORIO COMUNALE, EX L.R. N.17 DEL 01/09/1998 - ANNO 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365356</link>
-      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365356</guid>
     </item>
   </channel>
 </rss>
