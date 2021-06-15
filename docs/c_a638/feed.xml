@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Barcellona Pozzo di Gotto città che legge: approvazione del "Progetto per la lettura"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2361</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2361</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidaz. fatt. emessa dalla Soc. Coop. Sociale "Anchise" per il servizio di assistenza all'autonomia ed alla comunicaz. agli alunni disabili che frequentano le scuole dell'infanzia,primarie e secondarie di I grado, reso nel mese aprile 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2360</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2360</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso la Mensa Centralizzata del 6 e 13 maggio 2021 relative al mese di aprile 2021 Totale euro 223,11 oltre I.V.A. euro 49,08</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2357</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2326</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2326</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Decreto Legge 23 novembre 2020 n 154 Rimborso Buoni spesa per acquisto di generi alimentari EUROSPIN Sicilia SPA punto vendita Barcellona Pozzo di Gotto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2325</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2325</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Decreto Regionale n 304 Deliberazione Giunta Regionale n 124 del 28 marzo 2020 Rimborso buoni  spesa/voucher EUROSPIN SICILIA SPA punto vendita  sito in Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2324</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2324</guid>
     </item>
   </channel>
 </rss>
