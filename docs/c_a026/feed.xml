@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/22527</title>
+      <description>VERBALE N. 10 CONCORSO 2 POSTI ISTRUTTORE AMMINISTRATIVO - AMMESSI PROVA SCRITTA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365939</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365939</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/22520</title>
       <description>PROGETTO ESECUTIVO DEGLI “INTERVENTI DI MESSA IN SICUREZZA DEL PORTICCIOLO DI ACI CASTELLO” CUP: H29G16000470002</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365931</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365419</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365419</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/22074</title>
-      <description>RICHIESTA PUBBLICAZIONE AVVISO PUBBLICO PER L'ACQUISIZIONE DI MANIFESTAZIONE D'INTERESSE DA PARTE DI ASSOCIAZIONI DI VOLONTARIATO PER LA STIPULA DI CONVENZIONI</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365412</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365412</guid>
     </item>
   </channel>
 </rss>
