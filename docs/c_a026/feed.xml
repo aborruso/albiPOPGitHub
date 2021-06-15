@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/22520</title>
+      <description>PROGETTO ESECUTIVO DEGLI “INTERVENTI DI MESSA IN SICUREZZA DEL PORTICCIOLO DI ACI CASTELLO” CUP: H29G16000470002</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365931</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365931</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/821</title>
       <description>LIQUIDAZIONE FATTURE N. 001380/9D DEL 27/05/2021 E N. 001381/9D DEL 27/05/2021 IN FAVORE DEI FRATELLI ARENA S.R.L. ESERCENTE ALIMENTARE ACCREDITATO PER BUONI SPESA AI SENSI DEL D.L. N° 154 DEL 23/11/2020.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365899</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365412</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365412</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/21857</title>
-      <description>RICHIESTA PUBBLICAZIONE VERBALE N 7 DEL09/06/2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365391</link>
-      <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365391</guid>
     </item>
   </channel>
 </rss>
