@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione integrazione oraria mese di aprile 2021 al personale in servizio presso gli asili nido comunali</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2370</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2370</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fatture per la fornitura di arredi, giochi e materiale didattico per gli asili nido del Comune di Barcellona P.G. fondi Pac II Riparto-Azione a sportello</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2369</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2369</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>AVVISO DI SORTEGGIO PUBBLICO PER LA NOMINA DELL'AUTORITÀ MONOCRATICA DI GARA riqualificazione urbana, in funzione della presenza di aree degradate ed utenze deboli, nel quartiere di Fondaconuovo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2366</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2331</link>
       <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2331</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determinazione a contrarre  e contestuale affidamento, mediante Trattativa Diretta sul MePa, ai sensi dell'art. 36 comma 2 lettera a), per la fornitura e relativo montaggio di arredi per il Centro Giovanile di Via Cairoli. CUP H67H21000790005</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2330</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2330</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determina a contrarre e contestuale affidamento diretto sul MePa per la fornitura di un divano e un tappeto per il Centro Giovanile di Via Cairoli.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2329</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2329</guid>
     </item>
   </channel>
 </rss>
