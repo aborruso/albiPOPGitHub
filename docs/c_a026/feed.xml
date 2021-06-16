@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/136</title>
+      <description>ISTITUZIONE ZTL E SPAZI DI SOSTA RISERVATA AI VEICOLI DEI RESIDENTI ALL' INTERNO DELLA STESSA ZTL</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366130</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366130</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/825</title>
       <description>LIQUIDAZIONE IN ACCONTO FATTURA SICULA TRASPORTI S.P.A. - CONFERIMENTO RIFIUTI DIFFERENZIATI CON CER 200138 - MESE DI MAGGIO 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366020</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365864</link>
       <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365864</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/22276</title>
-      <description>PUBBLICAZIONE VERBALE N. 6 CONCORSO ISTRUTTORE AMMINISTRATIVO CONTABILE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365611</link>
-      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/365611</guid>
     </item>
   </channel>
 </rss>
