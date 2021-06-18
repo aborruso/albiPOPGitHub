@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Ricorso promosso dinnanzi il Tribunale di Barcellona P.G. sez. lav. da Siracusa Antonino C/Comune di Barcellona P.G.-Nomina legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2414</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2414</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Lavori di costruzione di un canile municipale da servire per rifugio di cani randagi nel Comune di Barcellona P.G.-Approvazione amministrativa progetto fattibilità tecnica ed economica.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2413</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2413</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Contributi di 5 milioni di euro, per anni 2021 e 2022, a favore degli enti locali deficitari, proprietari di rifugi per cani randagi. Approvazione schema protocollo di intesa con il comune di Terme Vigliatore e Direttive</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2412</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2412</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Impegno di spesa per la copertura della quota mancante per percentuale di I.V.A. applicata.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2410</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2384</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2384</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Esecuzione deliberazione Consiliare n 29 del 27-04-2021 di riconoscimento debiti fuori bilancio derivanti da decreti ingiuntivi Liquidazione decreto ingiuntivo n 17417 del 2018 Tribunale di Roma</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2383</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2383</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Esecuzione delibera di Consiglio Comunale n30 del 27-04-2021 di riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi Liquidazione  Avv Cultrera Daniela</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2382</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2382</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ricorso al Tar di Catania   promosso da De Rueda Antonio contro  Comune di Barcellona PG Liquidazione Avv Scoglio Pietro</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2381</link>
-      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2381</guid>
     </item>
   </channel>
 </rss>
