@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/60</title>
+      <description>ORARIO ESTIVO 2021 PER IL PERIODO DAL 05/07/2021 AL 06/09/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366646</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366646</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/847</title>
       <description>FORNITURA DI BANNER PUBBLICITARIO PER IL COMUNE DI ACI CASTELLO - CULTURA E TURISMO-</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366521</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366344</link>
       <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366344</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/56</title>
-      <description>ISTITUZIONE DEL SERVIZIO DI PRONTA REPERIBILITA' INERENTE I SETTORI DELL'IGIENE E DELLA SANITA' PUBBLICA, PROTEZIONE CIVILE E SOMME URGENZE IN CASO DI CALAMITA' NATURALI.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366342</link>
-      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366342</guid>
     </item>
   </channel>
 </rss>
