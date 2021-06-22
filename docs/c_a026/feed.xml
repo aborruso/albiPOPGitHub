@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/23633</title>
+      <description>RICHIESTA PUBBLICAZIONE VERBALE N°5/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366750</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366750</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/850</title>
+      <description>PRESTAZIONI LAVORATIVE IN MODALITÀ AGILE DIPENDENTI AREA 3° - MODIFICA DETERMINAZIONE N. 726/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366748</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366748</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/849</title>
       <description>AFFIDO IN ADOZIONE N°1 CUCCIOLO DI CANE DI PROPRIETÀ DEL COMUNE DI ACI CASTELLO ALLA SIG.RA MASANO ORIANA.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366700</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366419</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366419</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/139</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI PRIVITERA MARIO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366417</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366417</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/138</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI TROVATO CAMILLO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366415</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/366415</guid>
     </item>
   </channel>
 </rss>
