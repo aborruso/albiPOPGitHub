@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>Iniziative per l'Estate 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2553</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2553</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Autorizzazione a Prestare Lavoro Straordinario a Dipendenti del V settore -Ufficio Teatro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2552</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2552</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Proroga convenzione articolo 14 CCNL per 24 ore settimanali fino al 31/12/2021 dott. Castrense Gangi dipendente del Comune di Monreale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2551</link>
       <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2525</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2525</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso le Scuole Medie del 12 giugno 2021 relative al mese di maggio 2021 Totale euro 2.163,41  oltre IVA euro  475,94</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2524</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2524</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso la Mensa Centralizzata del 12 giugno 2021 relative al mese di maggio 2021 Totale euro 344,12  oltre I.V.A. Euro  75,71</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2523</link>
-      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2523</guid>
     </item>
   </channel>
 </rss>
