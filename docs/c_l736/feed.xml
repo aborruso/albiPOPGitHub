@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 2616</title>
+      <description>ORDINANZA N. 395 DEL 28/06/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE PRESSO VIA CÀ COLOMBARA IN LOCALITÀ FAVARO VENETO (VE) PER LESECUZIONE DI LAVORI DI SCAVO PER POSA TUBAZIONE PER SOTTOSERVIZI DA LUNEDÌ 28 GIUGNO 2021 A VENERDÌ 02 LUGLIO 2021 DALLE ORE 09:30 ALLE ORE 18:00</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146317.pdf</link>
+      <pubDate>Mon, 28 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146317.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 2615</title>
       <description>PIANO DI EMERGENZA ESTERNA RISCHIO INDUSTRIALE  POLO INDUSTRIALE DI PORTO MARGHERA  VENEZIA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146316.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146287.pdf</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146287.pdf</guid>
-    </item>
-    <item>
-      <title>#CONVOCAZIONI DEL CONSIGLIO COMUNALE | Pubblicazione numero 2585</title>
-      <description>CONVOCAZIONE E ORDINE DEL GIORNO DEL CONSIGLIO COMUNALE, CONVOCATO IN SESSIONE STRAORDINARIA IN VIDEOCONFERENZA PER IL GIORNO GIOVEDÌ 01 LUGLIO 2021 ALLE ORE 15.30.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146286.pdf</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146286.pdf</guid>
     </item>
   </channel>
 </rss>
