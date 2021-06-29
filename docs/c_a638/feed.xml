@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso Ai Creditori - Progetto per la messa in sicurezza della pista ciclabile</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2587</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2587</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Avviso 3/2016 Progetto Pon Sia/Rei-Convenzione di sovvenzione n. AV3-2016-SIC_31-Proroga al 31 dicembre 2021 del termine di conclusione delle attività progettuali</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2586</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2560</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2560</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>: IMPEGNO SPESA PER L'ACQUISTO DI PIANTE , VASI E FIORI DA SERVIRE PER ALLESTIMENTO DELLA VILLA PRIMO LEVI DURANTE LE MANIFESTAZIONI ESTIVE..</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2559</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2559</guid>
     </item>
   </channel>
 </rss>
