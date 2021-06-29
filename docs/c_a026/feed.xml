@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/168</title>
+      <description>ISTITUZIONE DI UN DIVIETO DI SOSTA CON RIMOZIONE COATTA DALLE ORE 08:00 ALLE ORE 20:00 IN VIA VALASTRO E IN VIA G. MARCONI NEL TRATTO COMPRESO TRA IL CIVICO 69 ED IL VICO BARLETTA.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367540</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367540</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/871</title>
       <description>CONCESSIONE ALLA ASD CROSSROADS DELLA PALESTRA DELL'ICS FALCONE DI CANNIZZARO DAL 1° LUGLIO AL 30 SETTEMBRE 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367483</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367233</link>
       <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367233</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/154</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI TRECCARICHI GIULIANA MARIA, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367231</link>
-      <pubDate>Fri, 25 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/367231</guid>
     </item>
   </channel>
 </rss>
