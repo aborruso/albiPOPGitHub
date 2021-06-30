@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 2647</title>
+      <description>LA I COMMISSIONE (CONGIUNTA ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 06 LUGLIO 2021 ALLE ORE 12:30 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146348.pdf</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146348.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 2646</title>
       <description>DD/2021/1233 - BANDO PER LEROGAZIONE DI CONTRIBUTI A FONDO PERDUTO ALLE ATTIVITÀ ECONOMICHE DI PICCOLE E MEDIE DIMENSIONI TENUTE AL PAGAMENTO DELLA TARI DELLANNO 2020 AL COMUNE DI VENEZIA APPROVATO CON DETERMINAZIONE DD 883 DEL 03.05.2021. PROROGA DEI TERMINI DI PRESENTAZIONE DELLE ISTANZE.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146347.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146319.pdf</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146319.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 2617</title>
-      <description>PROROGA DEI TERMINI DI SCADENZA PER LA RACCOLTA DI CANDIDATURE PER LA NOMINA E DESIGNAZIONE DI COMPONENTI DEGLI ORGANI DI AMMINISTRAZIONE E DEGLI ORGANI DI CONTROLLO/REVISIONE DI SOCIETÀ CONTROLLATE DAL COMUNE DI VENEZIA E DI ALTRI ENTI NON SOCIETARI - 2021 (AVVISO PG. N. 260844 DEL 1/6/2021).</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146318.pdf</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146318.pdf</guid>
     </item>
   </channel>
 </rss>
