@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbale gara N° 12 Progetto SPRAR/SIPROIMI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2594</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2594</guid>
+    </item>
+    <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbali gara n° 3 - 4 - 5 Progetto SPRAR/SIPROIMI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2593</link>
+      <pubDate>Wed, 30 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2593</guid>
+    </item>
+    <item>
       <title>CIG: 8724563924 - pubblicazione bando"</title>
       <description>"Lavori di efficientamento energetico presso l'Istituto di Via Villa del Comune di Barcellona Pozzo di Gotto CUP: H63C18000000002</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2592</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2567</link>
       <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2567</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE RICEVUTA PROT. 32926 DEL 17.06.2021, PER ATTIVITA' DI PROMOZIONE DEL LIBRO E DELLA LETTURA - AZIONE PROGETTUALE RIGUARDANTE IL PROGETTO A SPASSO CON I LIBRI  FINANZIATO DAL MIBACT.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2566</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2566</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE RICEVUTA PROT. 29388 DEL 31/05/2021 PER ATTIVITA' DI PROMOZIONE DEL LIBRO E DELLA LETTURA - AZIONE PROGETTUALE RIGUARDANTE IL PROGETTO A SPASSO CON I LIBRI  FINANZIATO DAL MIBACT.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2565</link>
-      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2565</guid>
     </item>
   </channel>
 </rss>
