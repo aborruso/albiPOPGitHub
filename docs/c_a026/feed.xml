@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/65</title>
+      <description>PUBBLICAZIONE ESITO VALUTAZIONE DEL TAVOLO TECNICO SU PROPOSTE/PROGETTI DEL “ BILANCIO PARTECIPATIVO 2020”.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368467</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368467</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/918</title>
       <description>INDIVIDUAZIONE E NOMINA DEI SOGGETTI AUTORIZZATI AL TRATTAMENTO DEI DATI AI SENSI E PER GLI EFFETTI DELL’ART. 29 DEL GDPR</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368459</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368079</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368079</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/21</title>
-      <description>APPROVAZIONE MODIFICA DELLO STATUTO DELL'AREA MARINA PROTETTA " ISOLE CICLOPI".</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368077</link>
-      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/368077</guid>
     </item>
   </channel>
 </rss>
