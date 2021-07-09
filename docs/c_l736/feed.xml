@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 2773</title>
+      <description>LA V COMMISSIONE (CONGIUNTA ALLA IV COMMISSIONE E ALLA IX COMMISSIONE) È CONVOCATA MARTEDÌ 13 LUGLIO 2021 ALLE ORE 14:00 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146474.pdf</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146474.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 2772</title>
       <description>AVVISO DI MOBILITÀ ESTERNA VOLONTARIA AI SENSI DELLART. 30 DEL D.LGS.30/3/2001, NR. 165 PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE SCOLASTICO EDUCATIVO SOCIO CULTURALE (BIBLIOTECARIO) PRESSO IL SERVIZIO CULTURA TURISMO E LEGALITÀ DEL COMUNE DI FORLÌ  - CAT. C</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146473.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146444.pdf</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146444.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 2742</title>
-      <description>ORDINANZA N. 428 DEL 06/07/2021: MISURE PER LA VIABILITÀ ACQUEA NEI CANALI A TRAFFICO URBANO DEL CENTRO STORICO DI VENEZIA, IN OCCASIONE DELLA CONFERENZA DEI MINISTRI DELLECONOMIA E DEI GOVERNATORI DELLE BANCHE CENTRALI NELLAMBITO DEL PROGRAMMA DELLA PRESIDENZA ITALIANA DEL G20 DAL 07 ALL11 LUGLIO 2021. - ORDINANZA DIRIGENZIALE .</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146443.pdf</link>
-      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146443.pdf</guid>
     </item>
   </channel>
 </rss>
