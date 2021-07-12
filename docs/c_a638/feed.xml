@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto  a carico di Currò Angelo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2743</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2743</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>LAVORI DI AMPLIAMENTO E RISTRUTTURAZIONE DELLA RETE FOGNARIA  COMUNALE                   SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2742</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2716</link>
       <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2716</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.79/21 del 28/06/21 quale acconto mese di maggio 2021 per servizio di carico, trasporto e recupero della frazione organica umida - Ditta GIGLIONE SERVIZI ECOLOGICI Srl</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2715</link>
-      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2715</guid>
     </item>
   </channel>
 </rss>
