@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 2783</title>
+      <description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE NEL MESE DI GIUGNO 2021 EX ART. 146 DEL D.LGS 22/01/2004 N° 42.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146484.pdf</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146484.pdf</guid>
+    </item>
+    <item>
+      <title>#VARIE | Pubblicazione numero 2782</title>
+      <description>BANDO PUBBLICO PER LASSEGNAZIONE DI N. 3 CONCESSIONI PER LESERCIZIO DEL COMMERCIO SU SUOLO PUBBLICO - ISOLA DI SANTERASMO</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146483.pdf</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146483.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 2781</title>
       <description>AVVISO DI MOBILITA¿ ESTERNA AI SENSI DELL¿ART. 30 D.LGS. 165/2001, PER LA COPERTURA DI N. 1 POSTO A TEMPO PIENO DI ISTRUTTORE DIRETTIVO TECNICO CAT. D ASSEGNARE ALL¿AREA 3 ¿PROGETTAZIONE E MANUTENZIONE INFRASTRUTTURE¿ RISERVATO AI DIPENDENTI IN SERVIZIO A TEMPO INDETERMINATO PRESSO LE PUBBLICHE AMMINISTRAZIONI DI CUI ALL¿ART. 1, COMMA 2, DEL D.LGS. 165/2001.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146482.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146454.pdf</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146454.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2752</title>
-      <description>DELIBERA DI CONSIGLIO N. 2021.28 - MODIFICHE AL REGOLAMENTO DI APPLICAZIONE DELL¿IMPOSTA UNICA COMUNALE (IUC) ¿ TASSA SUI RIFIUTI (TARI) APPROVATO CON D.C.C. N. 54 DEL 23/6/2014 E SS.MM.II.</description>
-      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_28_001_383_CC_2021_28.odt.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2021/DC_2021_28_001_383_CC_2021_28.odt.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 2751</title>
-      <description>AVVISO PUBBLICO PER LA CONCESSIONE IN LOCAZIONE, AD USO NEGOZIO, DELLE UNITA IMMOBILIARI DI PROPRIETÀ DELLIPAB OPERE RIUNITE BUON PASTORE IN VENEZIA CASTELLO 1800 E 1929.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146452.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146452.pdf</guid>
     </item>
   </channel>
 </rss>
