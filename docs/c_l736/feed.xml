@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 2789</title>
+      <description>MANIFESTAZIONE DINTERESSE PER LAFFIDAMENTO DEL SERVIZIO CENTRI ESTIVI GIORNALIERI PER MINORI PRESSO IL CENTRO SOGGIORNO MOROSINI DAL 09 AGOSTO 2021 AL 04 SETTEMBRE 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146490.pdf</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146490.pdf</guid>
+    </item>
+    <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2788</title>
+      <description>ISTANZA DI AGGIUNTA COGNOME MATERNO DA "GINETTO" IN "GINETTO FRANCESCHINI"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146489.pdf</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146489.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI GARA | Pubblicazione numero 2786</title>
       <description>ESITO DI GARA G20639 - ACCORDO QUADRO PER LA FORNITURA DI CAVI IN FIBRA NATURALE IN DOTAZIONE AI MEZZI NAVALI ACTV</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146487.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_161_34350_testo.pdf</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_161_34350_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 2758</title>
-      <description>AVVISO DI RETTIFICA BANDO DI CONCORSO COD. 01/2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146459.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146459.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 2757</title>
-      <description>ESITO DI GARA  - PROCEDURA RISTRETTA - AFFIDAMENTO DELLA FORNITURA DI ENERGIA ELETTRICA PER IL PERIODO 01/07/2021 - 30/06/2022 PER LE SOCIETÀ DEL GRUPPO AVM</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146458.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146458.pdf</guid>
     </item>
   </channel>
 </rss>
