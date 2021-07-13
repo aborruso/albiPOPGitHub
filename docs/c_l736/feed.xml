@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 2792</title>
+      <description>ISTANZA DI MODIFICA PROPRIO COGNOME DA "CEDAROS MOURGAN" IN "MORGAN" E DEL PRENOME DA "PETER MOUNIR" IN "PETER"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146493.pdf</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146493.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 2791</title>
+      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI PRESSO LA CASA COMUNALE (UFFICIO NOTIFICHE) A CARICO DI FOGATO GIANLUIGI - PROT. 8716</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146492.pdf</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146492.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 2790</title>
+      <description>LA VIII COMMISSIONE (CONGIUNTA ALLA I COMMISSIONE, ALLA II COMMISSIONE, ALLA III COMMISSIONE, ALLA IV COMMISSIONE, ALLA V COMMISSIONE, ALLA VI COMMISSIONE, ALLA VII COMMISSIONE, ALLA IX COMMISSIONE E ALLA X COMMISSIONE) È CONVOCATA VENERDÌ 16 LUGLIO 2021 ALLE ORE 10:30 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146491.pdf</link>
+      <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146491.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 2789</title>
       <description>MANIFESTAZIONE DINTERESSE PER LAFFIDAMENTO DEL SERVIZIO CENTRI ESTIVI GIORNALIERI PER MINORI PRESSO IL CENTRO SOGGIORNO MOROSINI DAL 09 AGOSTO 2021 AL 04 SETTEMBRE 2021</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146490.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_164_35907_testo.pdf</link>
       <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_164_35907_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2761</title>
-      <description>DELIBERA DI GIUNTA N. 2021/163: INFRASTRUTTURE E VIABILITA - C.I. 14928 APPROVAZIONE  DEL PROGETTO DEFINITIVO COMPRENSIVO DEL PROGETTO DI FATTIBILITÀ TECNICO ED ECONOMICA DELLINTERVENTO DI: (C.I 14928) COMPLETAMENTO E MESSA IN SICUREZZA  DEGLI INCROCI E DEI TRATTI MANCANTI DELLE CICLOVIE URBANE ESISTENTI IN COMUNE DI VENEZIA . APPROVAZIONE DEL PROGETTO DEFINITIVO COMPRENSIVO DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_163_35437_testo.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_163_35437_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2760</title>
-      <description>DELIBERA DI GIUNTA N. 2021/162: INFRASTRUTTURE E VIABILITA -  (C.I. 14887) 3.3.16  SISTEMAZIONE STRAORDINARIA AMBITI PARCO PIRAGHETTO. APPROVAZIONE PROGETTO DEFINITIVO COMPRENSIVO DEL PROGETTO DI FATTIBILITÀ TECNICA ED ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_162_35218_testo.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_162_35218_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 2759</title>
-      <description>DELIBERA DI GIUNTA N. 2021/161: INFRASTRUTTURE E VIABILITA - (C.I. 14420) 4.24 RAFFORZAMENTO AZIONE P.A.: INTERVENTI STRAORDINARI SU VERDE E DECORO PUBBLICO DELLA TERRAFERMA  NUOVI VIALI. APPROVAZIONE PROGETTO DEFINITIVO</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_161_34350_testo.pdf</link>
-      <pubDate>Wed, 07 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_161_34350_testo.pdf</guid>
     </item>
   </channel>
 </rss>
