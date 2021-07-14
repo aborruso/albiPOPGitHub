@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>POSTA CERTIFICATA: AVVISO PUBBLICO PER L'ASSEGNAZIONE IN CONCESSIONE DI DUE AREE ESTERNE AL PALARESCIFINA - HUB VACCINALE (Pro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2763</link>
+      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2763</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rimborso spese di viaggio esperto del Sindaco</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2761</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2732</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2732</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso "Revisione dinamica delle liste elettorali"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2731</link>
-      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2731</guid>
     </item>
   </channel>
 </rss>
