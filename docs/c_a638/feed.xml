@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>MASTER IN DIGITALIZZAZIONE DELLA PUBBLICA AMMINISTRAZIONE</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2792</link>
+      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2792</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Ripubblicazione ordinanza dirigenziale n. 66/2021, poichè il periodo di interesse è stato prolungato di due settimane dal 19 luglio al 28 agosto 2021 dalle ore 05:00 alle ore 08:00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2790</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2764</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2764</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>POSTA CERTIFICATA: AVVISO PUBBLICO PER L'ASSEGNAZIONE IN CONCESSIONE DI DUE AREE ESTERNE AL PALARESCIFINA - HUB VACCINALE (Pro</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2763</link>
-      <pubDate>Wed, 14 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2763</guid>
     </item>
   </channel>
 </rss>
