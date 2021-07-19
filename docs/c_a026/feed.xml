@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/183</title>
+      <description>ISTITUZIONE DI STALLI RISERVATI ALLA SOSTA DEI VEICOLI DI SOCCORSO ED ALTRI VEICOLI AUTORIZZATI.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/370239</link>
+      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/370239</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/182</title>
       <description>REVOCA DI UNO STALLO DI SOSTA RISERVATO AI VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI IN VIA N.SAURO N.40.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/370075</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/369988</link>
       <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/369988</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/986</title>
-      <description>MODIFICA DETERMINAZIONE DIRIGENZIALE N. 802 DEL 8 GIUGNO 2021 AVENTE AD OGGETTO: “PAGAMENTO CONTRIBUTO UNIFICATO PER PROPORRE RICORSO INCIDENTALE INNANZI ALLA COMMISSIONE TRIBUTARIA REGIONALE DI PALERMO COMUNE DI ACI CASTELLO CONTRO AGENZIA DELLE ENTRATE “</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/369986</link>
-      <pubDate>Fri, 16 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/369986</guid>
     </item>
   </channel>
 </rss>
