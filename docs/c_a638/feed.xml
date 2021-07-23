@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di transito e divieto di sosta con rimozione per giorno 24 e 25 luglio dalle ore 18:00 alle ore 21:00 traversa Via Eolie</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2829</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2829</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione ambo i lati per giorno 29.07.2021bdalle ore 07:00 fino a fine lavori in Via Roma</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2828</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2828</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di transito eccetto i residenti per giorno 26.07.2021 dalle ore 07:00 alle ore 12:00 in Via Medici tratto compreso tra la Via Stretto I Coccomelli e la Via Statale S. Antonio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2827</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2827</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione giorno 30 luglio 2021 in Via Kennedy dalle ore 07:00 alle ore 13:00 e in Via Garibaldi dalle ore 11:00 fino a fine lavori</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2826</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2826</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Richiesta disponibilità utilizzo graduatorie concorsuali vigenti per assunzione a tempo pieno e indeterminato di n. 1 Istruttore Direttivo Contabile - Cat. D .</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2824</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2799</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2799</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Direttive per la Realizzazione dei Centri Estivi 2021 per Bambini e Ragazzi 3/17 anni</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2798</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2798</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Modalità di gestione Uffici Giudiziari per l'anno 2021 - Approvazione Convenzione ex Art. 21 quinquies del Decreto Legge 27.6.2015 n.83, convertito in legge 6.8.2015, n. 132.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2797</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2797</guid>
-    </item>
-    <item>
-      <title>Concessioni Edilizie</title>
-      <description>Voltura e cointestazione permesso di costruire n. 70/2019 ai Sig.ri Genovese Emanuele Maurizio, Genovese Giuseppe, Genovese Francesco e Genovese Natala</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2796</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2796</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Legge 12/03/99, n.68 e s.m.i. Avviamento c/o Azinda Trasporti di Messina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2795</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2795</guid>
     </item>
   </channel>
 </rss>
