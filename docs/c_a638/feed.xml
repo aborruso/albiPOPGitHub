@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Provvedim. di sospensione dei lavori relativi al P.D.C. n. 130/2019 del 03/12/2019, aventi ad oggetto:Progetto di ristrutturaz. edilizia estesa del Fabbricato sito in via Teatro Vecchio 48/50 Ditta Lioti Giuseppe</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2840</link>
+      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2840</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Progetti Utilità Collettiva (PUC). Legge 28 marzo 2019 n° 26.  Affidamento,  tramite Trattativa Diretta sul MePa, ai sensi dell'articolo 36 comma 2 lett.a, del D.Lgs 50/2016 e ss.mm.ii. della fornitura di dispositivi di protezione individuali, dell'</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2837</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2808</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2808</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determinazione dirigenziale Registro Generale n 1883 del 06 Settembre   2019 noleggio fotocopiatore Olivetti Multifunzione  6001 MF Matricola  RU20602643 Liquidazione fattura N A20020211000027290 del 30 GIUGNO 2021  in favore della Ditta Olivetti S p</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2807</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2807</guid>
     </item>
   </channel>
 </rss>
