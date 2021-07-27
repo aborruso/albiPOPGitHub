@@ -53,7 +53,7 @@ code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:8
 if [ $code -eq 200 ]; then
 
   rm "$folder"/rawdata/albi.json
-  for i in {0..3}; do
+  for i in {0..4}; do
     curl -kL 'http://195.231.4.82/patti/mc/mc_p_ricerca.php?multiente=patti&pag='"$i"'' \
       -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
       -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
