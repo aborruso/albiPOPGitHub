@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta via Zuccarello 28,29,30/07/21 per sosta mezzo comm.le. Divieto di sosta via Catapanello per pulizia verde pubblico: 29 e 30/07/21</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=219</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=219</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Servizio di conferimento dei rifiuti biodegradabili di cucine e mense (frazione organica) -  Codice CER 20.01.08 - presso impianto di trasferenza sito in Regione Sicilia e successivo trasferimento presso impianto di compostaggio sito fuori Regione Si</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=218</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=184</link>
       <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=184</guid>
-    </item>
-    <item>
-      <title>Deliberazioni Di Giunta</title>
-      <description>AVVISO PUBBLICO PER LA CREAZIONE DI "PARCHI GIOCO INCLUSIVI" DI CUI AL D.D.G. N. 1399 DELL'08/08/2019 - PRESA D'ATTO DECRETO DI FINANZIAMENTO D.R.S. 1324 DEL 30/06/2021 ED ASSEGNAZIONE RISORSE, PROGETTO PER LA REALIZ</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=183</link>
-      <pubDate>Mon, 19 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=183</guid>
     </item>
   </channel>
 </rss>
