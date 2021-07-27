@@ -37,8 +37,6 @@ mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../docs/"$iPA"
 
-folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
