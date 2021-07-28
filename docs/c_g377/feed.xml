@@ -38,6 +38,13 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=218</guid>
     </item>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=217</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=217</guid>
+    </item>
+    <item>
       <title>Ordinanze Dirigenziali</title>
       <description>ordinanza per festeggiamenti Sorrentini</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=216</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=186</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=186</guid>
-    </item>
-    <item>
-      <title>Ordinanze Dirigenziali</title>
-      <description>MONGIOVE CELEBRAZIONE RELIGIOSE IN OCCASIONE DELLA FESTA PARROCCHIALE DELLA MADONNA IMMACOLATA 27 - 31 LUGLIO 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=185</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=185</guid>
     </item>
   </channel>
 </rss>
