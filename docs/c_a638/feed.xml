@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Servizio di preparazione, trasporto e distribuzione pasti alunni delle scuole materne, primarie e secondarie di primo grado nel periodo dal 22/11/2021 al 27/05/2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2865</link>
+      <pubDate>Wed, 28 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2865</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>liquidazione fatture in ditta Enel Energia spa per la fornitura di energia elettrica. emesse a Agosto 2020</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2864</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2835</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2835</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Oggetto; Liquidazione fatture elettroniche nn° 231 e 232 del 03/06/2021 Soc. Coop. Sociale GENESI.-                    CPV 85312400-3      CIG 842358416C     CUP H61B16000410001</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2834</link>
-      <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2834</guid>
     </item>
   </channel>
 </rss>
