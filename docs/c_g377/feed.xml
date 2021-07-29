@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in via Trieste per lavori di ripristino asfalto: 02 e 03 Agosto 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=230</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=230</guid>
+    </item>
+    <item>
+      <title>Ordinanze Dirigenziali</title>
+      <description>ORDINANZA T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=229</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=229</guid>
+    </item>
+    <item>
+      <title>Ordinanze Dirigenziali</title>
+      <description>Ingiunzione al pagamento della sanzione amministrativa pecuniaria di cui all'art. 31 comma 4 bis del D.P.R. n.  380 2001</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=228</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=228</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Fornitura vestiario per gli operatori ecologici</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=227</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=196</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=196</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. LA SPADA ANTONIO GIANLUCA IN SERVIZIO AL SETTORE V° - PERIODO 12.07.2021 - 31.12.2021 =</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=195</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=195</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. SIG. GIARRIZZO TINDARO IN SERVIZIO NEL SETTORE V°: SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO DAL 12/07/2021 AL 31/12/2021 =</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=194</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=194</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI CONFERIMENTO DEI RIFIUTI ORGANICI (CER 20.01.08) PROVENIENTI DALLA RACCOLTA DIFFERENZIATA PRES</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=193</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=193</guid>
     </item>
   </channel>
 </rss>
