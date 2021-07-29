@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Concessioni E Permessi Di Costruire</title>
+      <description>Permesso di costruire N. 9 del 29/07/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=232</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=232</guid>
+    </item>
+    <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Alienazione mediante pubblico incanto - verbale di gara.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=231</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=231</guid>
+    </item>
+    <item>
       <title>Ordinanze Dirigenziali</title>
       <description>Regolamentazione viabilità in via Trieste per lavori di ripristino asfalto: 02 e 03 Agosto 2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=230</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=198</link>
       <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=198</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER I LAVORI DI MANUTENZIONE STRAORDINARIA SUI POZZI DI ADDUZ IONE ACQUE POTABILI DEL TERRITORIO COMUNALE. DITTA RIZZO FRANCESCO CIG: Z9132684EF</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=197</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=197</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>CONCESSIONE IN LOCAZIONE N. 2 LOTTI A E B DELLA STRUTTURA AGRO ALIMENTARE A E B SITA IN LOCALITÀ CASE NUOVE RUSSO, TORRENTE TIMETO, ALLA SOC. COOP SOLCHI - ACCERTAMENTO DI ENTRATA - IMPEGNO DI SPESA PER REGISTRAZIONE CONTRATTO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=196</link>
-      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=196</guid>
     </item>
   </channel>
 </rss>
