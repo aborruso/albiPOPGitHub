@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE n. 10 del 30/07/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=241</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=241</guid>
+    </item>
+    <item>
       <title>Deliberazioni Di Giunta</title>
       <description>Manutenzione urgente dell'impianto di pubblica illuminazione</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=240</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=207</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=207</guid>
-    </item>
-    <item>
-      <title>Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>APPROVAZIONE DEL CONTO CONSUNTIVO ESERCIZIO 2019</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=206</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=206</guid>
     </item>
   </channel>
 </rss>
