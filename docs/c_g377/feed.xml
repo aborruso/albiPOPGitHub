@@ -18,10 +18,24 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>Deliberazioni Di Giunta</title>
+      <description>Manutenzione urgente dell'impianto di pubblica illuminazione</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=240</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=240</guid>
+    </item>
+    <item>
+      <title>Deliberazioni Di Giunta</title>
       <description>OGGETTO:ACCORDO DI GESTIONE INTEGRATA TRA IL COMUNE DI PATTI E IL PARCO ARCHEOLOGICO REGIONALE DI TINDARI PER LA VALORIZZAZIONE E FRUIZIONE DEL PATRIMONIO CULTURALE. APPROVAZIONE SCHEMA DI ACCORDO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=239</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=239</guid>
+    </item>
+    <item>
+      <title>Deliberazioni Di Giunta</title>
+      <description>(ANNULLATA) - Manutenzione urgente dell'impianto di pubblica illuminazione</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=238</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=238</guid>
     </item>
     <item>
       <title>Deliberazioni Di Giunta</title>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=206</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=206</guid>
-    </item>
-    <item>
-      <title>Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>AVVISO DI DEPOSITO DEL BILANCIO 2019</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=205</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=205</guid>
-    </item>
-    <item>
-      <title>Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>APPROVAZIONE BILANCIO DI PREVISIONE PER L'ESERCIZIO 2019</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=204</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=204</guid>
     </item>
   </channel>
 </rss>
