@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 11 DEL 30/07/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=243</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=243</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Richiesta pubblicazione all' Albo Pretorio e nel Sito Ufficiale del bando di corso con selezione finale per agenti di polizia locale cat. C1 e formazione di una graduatoria</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=242</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=242</guid>
+    </item>
+    <item>
+      <title>Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE n. 10 del 30/07/2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=241</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=209</link>
       <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=209</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione indennità di turnazione e per attività prestata nei gg. festivi - personale di vigilanza-. anno 2013</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=208</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=208</guid>
-    </item>
-    <item>
-      <title>Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>AVVISO DELIBERA 14</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=207</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=207</guid>
     </item>
   </channel>
 </rss>
