@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Fornitura di ipoclorito di sodio per la disinfezione delle acque destinate al consumo umano dei serbatoi idrici comunali, della centrale di sollevamento pozzi Timeto e per l'impianto di depurazione - Liquidazione</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=244</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=244</guid>
+    </item>
+    <item>
       <title>Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 11 DEL 30/07/2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=243</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=210</link>
       <pubDate>Fri, 23 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=210</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di Ristrutturazione Edificio Comunale in Via Sciacca Baratta, da adibire ad Uffici Pubblici. Determinazione a contrarre mediante Procedura Negoziata ai sensi degli artt. 36 e 63 del Decreto Legislativo 18.04.2016 n°50 e successive modifiche, p</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=209</link>
-      <pubDate>Thu, 22 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=209</guid>
     </item>
   </channel>
 </rss>
