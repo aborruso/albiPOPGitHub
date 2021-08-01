@@ -94,8 +94,9 @@ html.body.tr[0]["@data-id"]
   while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio rssData; do
     URL="http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
+    titolo="$dataInizio | $tipo"
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-      --subnode "//item[$newcounter]" --type elem -n title -v "$tipo" \
+      --subnode "//item[$newcounter]" --type elem -n title -v "$titolo" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
       --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
       --subnode "//item[$newcounter]" --type elem -n pubDate -v "$rssData" \
