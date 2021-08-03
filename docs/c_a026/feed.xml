@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1036</title>
+      <description>CONCESSIONE PERMESSI EX LEGGE N. 104/92 – DIPENDENTE MATRICOLA 76.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371779</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371779</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/73</title>
       <description>NOMINA ASSESSORE COMUNALE E ATTRIBUZIONE DELEGHE AL COMPONENTE DELLA GIUNTA COMUNALE - SIG.RA GRASSO ANNA MARIA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371724</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371398</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371398</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/30162</title>
-      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 30162 DEL 15/07/2021 PER AFFISSIONE ALL' ALBO PRETORIO COMUNALE - PRATICA N. 279/P.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371397</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371397</guid>
     </item>
   </channel>
 </rss>
