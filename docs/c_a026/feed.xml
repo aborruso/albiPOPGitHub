@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/73</title>
+      <description>NOMINA ASSESSORE COMUNALE E ATTRIBUZIONE DELEGHE AL COMPONENTE DELLA GIUNTA COMUNALE - SIG.RA GRASSO ANNA MARIA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371724</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371724</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/29041</title>
       <description>POSTA CERTIFICATA: PROT. 288. GARA D’APPALTO PER IL SERVIZIO DI DIVULGAZIONE VERSO LA CITTADINANZA FINALIZZATA ALLA VALORIZZAZIONE DEL CONTESTO COSTIERO DELL’AREA FLAG. RICHIESTA DI PUBBLICAZIONE BANDO DI GARA ED ALLEGATI SUL VS. SITO WEB ISTITUZIONALE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371690</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371397</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371397</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1031</title>
-      <description>AFFIDAMENTO TRAMITE RDO SUL MEPA DEI SERVIZI DI PULIZIA DEGLI IMMOBILI COMUNALI PER 11 SETTIMANE. - CIG:ZCB326A441</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371391</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371391</guid>
     </item>
   </channel>
 </rss>
