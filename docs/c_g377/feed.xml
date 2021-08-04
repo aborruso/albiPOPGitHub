@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Wed, 04 Aug 2021 00:00:00 +0000 | 04/08/2021</title>
+      <description>Atti Pubblicati Su Richiesta Di Altri Enti</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=268</link>
+      <pubDate/>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=268</guid>
+    </item>
+    <item>
       <title>03/08/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione Buoni Spesa Emergenza Covid DPCM ter</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=267</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=234</link>
       <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=234</guid>
-    </item>
-    <item>
-      <title>29/07/2021 | Deliberazioni Di Giunta</title>
-      <description>EVENTI ANNO 2021   ASSEGNAZIONE RISORSE PER  PAGAMENTO S.I.A.E.-</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=233</link>
-      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=233</guid>
     </item>
   </channel>
 </rss>
