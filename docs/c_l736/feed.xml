@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3063</title>
+      <description>CONCORSO PER ESAME ABILITANTE ALLA PROFESSIONE DI AGROTECNICO E DI AGROTECNICO LAUREATO. SESSIONE 2021.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146764.pdf</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146764.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 3062</title>
       <description>LR 24/1991 RENDE NOTO E-DISTRIBUZIONE - PRATICA VE-1780- AS AUT_2301232 - COSTRUZIONE N. 1 TRATTO DI LINEA ELETTRICA A 20 KV IN DOPPIO CAVO SOTTERRANEO DA RACCORDO PER CAB. "MUTINELLI", "CASONETTO" E "PIOVEGO TESS" A RACCORDO PER CAB."FAVARO GOBBI" CON INSERZIONE CAB. "MANDRI" IN COMUNE DI VENEZIA  LOCALITÀ FAVARO VENETO.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146763.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146735.pdf</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146735.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 3033</title>
-      <description>AVVISO DI RIMOZIONE NATANTE - RIF. VERBALE N R/000301714 DEL 26/04/2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146734.pdf</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146734.pdf</guid>
     </item>
   </channel>
 </rss>
