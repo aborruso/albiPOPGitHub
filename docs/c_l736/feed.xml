@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 3072</title>
+      <description>ORDINANZA N. 487 DEL 05/08/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E DELLA SOSTA PRESSO VIA CATALANI PER IL TRATTO DELLA STESSA COMPRESO TRA VIA MASCAGNI E FINE STRADA IN LOCALITÀ MESTRE PER LESECUZIONE DEI LAVORI DI ADEGUAMENTO DELLA CARREGGIATA STRADALE E DEGLI STALLI DI SOSTA DA LUNEDÌ 26 LUGLIO 2021 A VENERDÌ  24 SETTEMBRE 2021 DALLE ORE 00:00 ALLE ORE 24:00. INTEGRAZIONE ORDINANZA REP. ORD. N. 463 DEL 23/07/21.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146773.pdf</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146773.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3071</title>
+      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI PRESSO LA CASA COMUNALE (UFFICIO NOTIFICHE) A CARICO DI PAPA EUGEN IULIAN - PROT. 9525</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146772.pdf</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146772.pdf</guid>
+    </item>
+    <item>
       <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 3070</title>
       <description>ISTANZA DI AGGIUNTA AL PROPRIO COGNOME QUELLO MATERNO DA "PARISI" IN "PARISI PUMATI"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146771.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146744.pdf</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146744.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 3042</title>
-      <description>AVVISO PUBBLICO PER ASSEGNAZIONE DI AUTORIZZAZIONI PREORDINATE ALLO SVOLGIMENTO DI ATTIVITÀ DI NOLEGGIO DI MOBILITÀ IN SHARING A FLUSSO LIBERO CON MONOPATTINI ELETTRICI NEL TERRITORIO DEL COMUNE DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146743.pdf</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146743.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 3041</title>
-      <description>DD/2021/1477 - APPROVAZIONE AVVISO PUBBLICO PER LASSEGNAZIONE DI AUTORIZZAZIONI PREORDINATE ALLO SVOLGIMENTO DI ATTIVITÀ DI NOLEGGIO DI MOBILITÀ IN SHARING A FLUSSO LIBERO CON MONOPATTINI ELETTRICI NEL TERRITORIO DEL COMUNE DI VENEZIA E APPROVAZIONE RELATIVO SCHEMA DI CONVENZIONE. PROVVEDIMENTO SENZA IMPEGNO DI SPESA.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146742.pdf</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146742.pdf</guid>
     </item>
   </channel>
 </rss>
