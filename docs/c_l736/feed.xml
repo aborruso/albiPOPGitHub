@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 3070</title>
+      <description>ISTANZA DI AGGIUNTA AL PROPRIO COGNOME QUELLO MATERNO DA "PARISI" IN "PARISI PUMATI"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146771.pdf</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146771.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 3069</title>
+      <description>ORDINANZA DI DEMOLIZIONE AI SENSI DELLART. 34 DEL DPR 380/2001, DELLE OPERE EDILIZIE ABUSIVE ESEGUITE IN ISOLA DELLE VIGNOLE (MURANO) N. 12 SEZ. " UNIFICATA" FG. 57 MAPP. 229 SUB. 4 5  6 - 8</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146770.pdf</link>
+      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146770.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 3068</title>
       <description>ORDINANZA N. 482 DEL 04/08/2021 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE E PEDONALE PRESSO VIA PIAVE FRONTE VIA PODGORA IN LOCALITÀ MESTRE PER LESECUZIONE DEI LAVORI DI SMONTAGGIO E RIMOZIONE DEL MANUFATTO EX EDICOLA DA GIOVEDÌ 05 AGOSTO 2021 A VENERDÌ  13 AGOSTO 2021 DALLE ORE 08:00 ALLE ORE 18:00</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146769.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146742.pdf</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146742.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3040</title>
-      <description>BANDO PER IL CORSO DI 1° LIVELLO PER LA FORMAZIONE E SUCCESSIVA SELEZIONE DI OPERATORI DI POLIZIA LOCALE CATEGORIA C1</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146741.pdf</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146741.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 3039</title>
-      <description>DD/2021/1476 - COSTITUZIONE DI FONDO DI ANTICIPAZIONE ALLECONOMO COMUNALE PER RIMBORSO DI SPESE SOSTENUTE PER TITOLI DI VIAGGIO DI SOGGETTI NELLAMBITO DEI PROGETTI UTILI ALLA COLLETTIVITÀ (PUC). PERIODO 23.07-31.12.2021. IMPEGNO DI SPESA DI EURO 3.036,00 CON STORNO DI CASSA E DI COMPETENZA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146740.pdf</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146740.pdf</guid>
     </item>
   </channel>
 </rss>
