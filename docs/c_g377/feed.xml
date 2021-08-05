@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/08/2021 | Determinazioni Dirigenziali</title>
+      <description>PROGRAMMA DI RIQUALIFICAZIONE URBANA PER ALLOGGI A CANONE SOSTENIBILE CON INTERVENTI DI RECUPERO DEL PATRIMONIO EDILIZIO NEL CENTRO STORICO  NOMINA COMPONENTE E DEL SOSTITUTO DELLA COMMISSIONE DI GARA E DELLA COMMISSIONE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=282</link>
+      <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=282</guid>
+    </item>
+    <item>
       <title>04/08/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione relativo al servizio di smaltimento finale della frazione di sopravaglio dei rifiuti non pericolosi raccolti nel territorio di questo Comune presso l'impianto sito in C/da Valanghe dInverno  Motta SantAnastasia (CT) effettuato nel mese d</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=281</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=248</link>
       <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=248</guid>
-    </item>
-    <item>
-      <title>02/08/2021 | Ordinanze Sindacali</title>
-      <description>ORDINANZA T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=247</link>
-      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=247</guid>
     </item>
   </channel>
 </rss>
