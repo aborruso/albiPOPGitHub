@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>Delibera di C.C. n. 55 del 30/07/2021. Fissazione termine per agevolazioni IMU e CANONE UNICO</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2982</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2982</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Approvazione scheda per assegnazione risorse di cui ai commi 6, 7 e 8 dell'art.11 L.R. n. 12 maggio 2020 n. 9</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2980</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2980</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Divieto di introduzione nel Cimitero Comunale di materiale plastico nonchè divieto di confezionamento dei fiori con tale materiale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2979</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2979</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Invito alla stipula di convenzione di negoziazione assistita ai sensi degli articoli 2 e 3 del D.L.132/2014 convertito in L.162/2014 proposta da Marchetta Salvina Emanuela c/Comune di Barcellona P.G. Nomina legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2978</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2953</link>
       <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2953</guid>
-    </item>
-    <item>
-      <title>Bando Di Concorso</title>
-      <description>Concorso per l'esame abilitante alla professione di Agrotecnico e di Agrotecnico laureato sessione 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2952</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2952</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto a carico di D'Arrigo Maria</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2951</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2951</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto a carico di D'Arrigo Maria</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2950</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=2950</guid>
     </item>
   </channel>
 </rss>
