@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/08/2021 | Determinazioni Dirigenziali</title>
+      <description>DEMOCRAZIA PARTECIPATA - ANNO 2020. LIQUIDAZIONE CONTRIBUTO A.S.C.D. NUOVA RINASCITA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=296</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=296</guid>
+    </item>
+    <item>
+      <title>09/08/2021 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=295</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=295</guid>
+    </item>
+    <item>
       <title>09/08/2021 | Deliberazioni Del Consiglio Comunale</title>
       <description>APPROVAZIONE PIANO ECONOMICO FINANZIARIO DELLA TARI PER L'ANNO 2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=294</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=262</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=262</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Determinazioni Dirigenziali</title>
-      <description>L. 328/00 - PdZ 2013-2015 Integrazione alla Terza Annualità azione N. 8 "Emergenza ed Urgenza Sociale". Liquidazione contributo Utenti N. 10  del Comune  di Patti, N.01 del Comune di S. Piero Patti, N.15  Comune di Piraino, N.05 del Comune di Oliveri</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=261</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=261</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>TURNI IN PRONTA DISPONIBILITA' MESE DI AGOSTO 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=260</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=260</guid>
     </item>
   </channel>
 </rss>
