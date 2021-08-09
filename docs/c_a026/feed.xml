@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1049</title>
+      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE M. C. -</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/372334</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/372334</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/206</title>
       <description>RICHIESTA DIVIETO DI SOSTA PER CONSENTIRE L'INGRESSO E L'USCITA IN SICUREZZA DALL'AREA CONCESSA PER SVOLGERE LA MANIFESTAZIONE “XI EDIZIONE DI TREZZARTE IL VILLAGGIO DEGLI ARTISTI”</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/372198</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371689</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371689</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/205</title>
-      <description>ISTITUZIONE DIVIETO DI FERMATA TEMPORANEO IN VIA BISCARI DAL CIVICO N. 46 ALL’INTERSEZIONE CON LA VIA FIRENZE-INTEGRAZIONE E MODIFICA ALL'ORDINANZA N, 204 DEL 02/08/2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371685</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/371685</guid>
     </item>
   </channel>
 </rss>
