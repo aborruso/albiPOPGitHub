@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/08/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>APPROVAZIONE PIANO ECONOMICO FINANZIARIO DELLA TARI PER L'ANNO 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=294</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=294</guid>
+    </item>
+    <item>
+      <title>09/08/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>VARIAZIONE DEL BULANCIO EX ART. 175 D. LGS. N. 267/2000</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=293</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=293</guid>
+    </item>
+    <item>
       <title>06/08/2021 | Determinazioni Dirigenziali</title>
       <description>Manutenzione urgente dell'impianto di pubblica illuminazione - Determina a contrarre mediante affidamento ed impegno spesa - Ditta MARO IMPIANTI s.r.l.s.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=292</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=260</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=260</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PRONTA DISPONIBILITA' SERIZI IGIENE PUBBLICA E MEDICINA LEGALE MESE DI AGOSTO 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=259</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=259</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Determinazioni Dirigenziali</title>
-      <description>CONCESSIONE DEL SERVIZIO DI GESTIONE DELL'IMPIANTO SPORTIVO "CAMPO DI CALCETTO", SITO IN C.DA SAN GIOVANNI, PER 6 ANNI  AGGIUDICAZIONE AI SENSI DELL'ART. 95  COMMA 3 DEL D.LGS 50/2016  CIG 8787250C16. NOMINA COMMISSIONE GIUDICATRICE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=257</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=257</guid>
     </item>
   </channel>
 </rss>
