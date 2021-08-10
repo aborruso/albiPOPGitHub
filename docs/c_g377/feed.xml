@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/08/2021 | Deliberazioni Del Comitato Dei Sindaci</title>
+      <description>PRESA D'ATTO PAO N. 1 E 2 PDZ 2018/2019 ANNO 2018 E 2019 - AOD N. 1 E 2 - DISTRETTO N. 30 ED APPROVAZIONE SCHEMA DI ACCORDO DI PROGRAMMA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=301</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=301</guid>
+    </item>
+    <item>
+      <title>10/08/2021 | Determinazioni Dirigenziali</title>
+      <description>OGGETTO: Decreto legge n. 154 del 23 novembre 2020 Misure finanziarie urgenti connesse all'emergenza epidemiologica da COVID-19, Articolo 2  Riapertura termine avviso Beneficiari.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=300</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=300</guid>
+    </item>
+    <item>
       <title>10/08/2021 | Verbali Risultanze Di Gara</title>
-      <description>PROCEDURA APERTA RELATIVA ALL'AFFIDAMENTO DEI LAVORI DI RIQUALIFICAZIONE URBANA PER ALLOGGI A CANONE SOSTENIBILE CON INTERVENTI DI RCUPERO DEL PATRIMONIO EDILIZIO NEL CENTRO SOTRICO.</description>
+      <description>PROCEDURA APERTA RELATIVA ALL'AFFIDAMENTO DEI LAVORI DI RIQUALIFICAZIONE URBANA PER ALLOGGI A CANONE SOSTENIBILE CON INTERVENTI DI RCUPERO DEL PATRIMONIO EDILIZIO NEL CENTRO STORICO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=299</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=299</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=267</link>
       <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=267</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Determinazioni Dirigenziali</title>
-      <description>SPESE LEGALI A SALDO AVV. SARA CASELLA. CONTROVERSIA COSTITUZIONE PARTE CIVILE R.G.N.2430/2016. LIQUIDAZIONE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=266</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=266</guid>
-    </item>
-    <item>
-      <title>03/08/2021 | Determinazioni Dirigenziali</title>
-      <description>RETTIFICA DETERMINE N.RI 2: 384 DEL 2020 E 733 DEL 2021 RELATIVE ALLA ESECUZIONE DELLA DELIBERA N.2 DEL 2020 DEL COMMISSARIO AD ACTA. LIQUIDAZIONE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=265</link>
-      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=265</guid>
     </item>
   </channel>
 </rss>
