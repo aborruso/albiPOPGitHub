@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3124</title>
+      <description>BANDO DI CONCORSO COD. 02/2020 - INFORMATIVA TRATTAMENTO DATI PERSONALI</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146825.pdf</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146825.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 3123</title>
       <description>COMUNICAZIONE LIBERA ATTI REPRESSIVI  RIFERIMENTO PRATICA PG 2021/186954/1 PRATICA ID 1633922 - PROROGA DEI TERMINI PER DEMOLIZIONE OPERE COME DA DIFFIDA A CONFORMARE AI SENSI ART. 27 DPR 380/2001 SS.MM.II. PG 2021/201793 DEL 26/04/2021 INDIRIZZO LAVORI: VIA VIII ALPINI (MESTRE) N. 31  SEZ "UNIFICATA" FG. 134 MAPP. 1295 SUB 1</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146824.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_181_38585_testo.pdf</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_181_38585_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3094</title>
-      <description>DELIBERA DI GIUNTA N. 2021/180: SINDACO - PIANO OPERATIVO AMBIENTE FSC 2014/2020  SOTTO-PIANO "INTERVENTI PER LA TUTELA DEL TERRITORIO E DELLE ACQUE  MITIGAZIONE RISCHIO IDROGEOLOGICO, MIGLIORAMENTO SERVIZIO IDRICO INTEGRATO E QUALITÀ DEI CORPI IDRICI". APPROVAZIONE SCHEMA DI ACCORDO DI PROGRAMMA PER LA REALIZZAZIONE DI INTERVENTI DI MIGLIORAMENTO DEL SERVIZIO IDRICO INTEGRATO TRA MINISTERO PER LA TRANSIZIONE ECOLOGICA, EGATO CONSIGLIO DI BACINO LAGUNA DI VENEZIA E COMUNE DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_180_38494_testo.pdf</link>
-      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_180_38494_testo.pdf</guid>
     </item>
   </channel>
 </rss>
