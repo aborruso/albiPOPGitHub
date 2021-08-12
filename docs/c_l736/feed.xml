@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 3149</title>
+      <description>PROROGA DEI TERMINI PER DEMOLIZIONE OPERE COME DA DIFFIDA A CONFORMARE AI SENSI ART. 27 DPR 380/2001 SS.MM.II. PG 2019/365228 DEL 17/07/2019 E ORDINANZA DI DEMOLIZIONE AI SENSI ART. 31 DPR 380/2001 SS.MM.II. PG 2019/365485 DEL 17/07/2019  INDIRIZZO LAVORI: VIA PIOVEGA (FAVARO) N. 8 - SEZ. "UNIFICATA" FG. 166 MAPP. 115-337</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146850.pdf</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146850.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 3148</title>
+      <description>ORDINANZA DI DEMOLIZIONE AI SENSI DELLART. 167 DEL D.LGS. N. 42/2004 DELLE OPERE EDILIZIE ABUSIVE ESEGUITE IN AREA SOTTOPOSTA A TUTELA PAESAGGISTICO AMBIENTALE A: CALLE BEATO DANIELE DI UNGRISPACH (MURANO) N. 15 - 17 SEZ. " UNIFICATA" FG. 52 MAPP. 577</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146849.pdf</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP146849.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 3147</title>
       <description>DELIBERA DI GIUNTA N. 2021/199: TOPONOMASTICA - INTITOLAZIONE AD ALIDA VALLI DI UNAREA VERDE A LIDO DI VENEZIA</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_199_36217_testo.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_193_38867_testo.pdf</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_193_38867_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3118</title>
-      <description>DELIBERA DI GIUNTA N. 2021/185: LAVORI PUBBLICI - C.I. 15054 - RECUPERO E RAZIONALIZZAZIONE DEGLI IMMOBILI E DEGLI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA NEL CENTRO STORICO (L. 80/2014 LINEA A) - APPROVAZIONE PROGETTO DEFINITIVO COMPRENSIVO DI FATTIBILITÀ TECNICA ED ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_185_40363_testo.pdf</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_185_40363_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3117</title>
-      <description>DELIBERA DI GIUNTA N. 2021/184: LAVORI PUBBLICI - C.I. 15055 - RECUPERO E RAZIONALIZZAZIONE DEGLI IMMOBILI E DEGLI ALLOGGI DI EDILIZIA RESIDENZIALE PUBBLICA NELLE ISOLE (L. 80/2014 LINEA A) - APPROVAZIONE PROGETTO DEFINITIVO COMPRENSIVO DI FATTIBILITÀ TECNICA ED ECONOMICA</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_184_38775_testo.pdf</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_184_38775_testo.pdf</guid>
     </item>
   </channel>
 </rss>
