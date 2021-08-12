@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/08/2021 | Atti Di Interesse Generale</title>
+      <description>RILASCIO TESSERINO VENATORIO REGIONALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=316</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=316</guid>
+    </item>
+    <item>
+      <title>12/08/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE AI LAVORATORI ASU MESE DI LUGLIO 2021 SERVIZIO DI MANUTENZIONE DELL'ACQUEDOTTO E DELLA FOGNATURA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=315</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=315</guid>
+    </item>
+    <item>
+      <title>12/08/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE LAVORATRICE ASU CATIA ZAMPINO PERIODO LUGLIO 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=314</link>
+      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=314</guid>
+    </item>
+    <item>
       <title>11/08/2021 | Ordinanze Dirigenziali</title>
       <description>1) Divieto di sosta via N.G. Ceraolo per lavori:12.08.21. 2)  Stallo sosta per carico e scarico via F. Crispi</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=313</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=282</link>
       <pubDate>Thu, 05 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=282</guid>
-    </item>
-    <item>
-      <title>04/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione relativo al servizio di smaltimento finale della frazione di sopravaglio dei rifiuti non pericolosi raccolti nel territorio di questo Comune presso l'impianto sito in C/da Valanghe dInverno  Motta SantAnastasia (CT) effettuato nel mese d</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=281</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=281</guid>
-    </item>
-    <item>
-      <title>04/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Lavori urgenti di manutenzione straordinaria di alcuni pozzetti e caditoie stradali presenti sul territorio comunale, per la salvaguardia della pubblica incolumità. Approvazione atti di contabilità finale e certificato di ultimazione e regolare esecu</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=280</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=280</guid>
-    </item>
-    <item>
-      <title>04/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione relativa al servizio di smaltimento finale della frazione di sopravaglio dei rifiuti non pericolosi raccolti nel territorio di questo Comune presso l'impianto sito in C/da Valanghe d'Inverno  Motta Sant'Anastasia (CT), effettuato nel mes</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=279</link>
-      <pubDate>Wed, 04 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=279</guid>
     </item>
   </channel>
 </rss>
