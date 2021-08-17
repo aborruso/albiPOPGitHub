@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/08/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di fermata via Gorizia e Fontanelle per trasloco</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=344</link>
+      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=344</guid>
+    </item>
+    <item>
       <title>16/08/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione Buoni Spesa Emergenza Covid DPCM ter 3 ditte</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=343</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=310</link>
       <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=310</guid>
-    </item>
-    <item>
-      <title>10/08/2021 | Deliberazioni Di Giunta</title>
-      <description>Lavori di Recupero Urbano delle Aree Esterne degli Alloggi IACP di Via Catapanello con ristrutturazione degli Impianti Sportivi. Atto di indirizzo ed assegnazione risorse per affidamento incarico collaudo statico e tecnico amministrativo</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=309</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=309</guid>
     </item>
   </channel>
 </rss>
