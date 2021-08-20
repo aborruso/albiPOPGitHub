@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/08/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=359</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=359</guid>
+    </item>
+    <item>
       <title>20/08/2021 | Determinazioni Dirigenziali</title>
       <description>LIQUIDAZIONE FATTURE N. 972/04 E 973/04 DEL 31.07.2021 - SERVIZIO DI SMALTIMENTO FINALE DELLA FRAZIONE DI SOPRAVAGLIO DEI RIFIUTI NON PERICOLOSI RACCOLTI NEL TERRITORIO DI QUESTO COMUNE PRESSO L'IMPIANTO SITO IN C.DA VALANGHE DINVERNO  MOTTA SANTANAS</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=358</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=323</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=323</guid>
-    </item>
-    <item>
-      <title>12/08/2021 | Determinazioni Dirigenziali</title>
-      <description>RIMBORSO SPESE DI VIAGGIO PER IL TRASPORTO ALUNNI EXTRAURBANO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=322</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=322</guid>
     </item>
   </channel>
 </rss>
