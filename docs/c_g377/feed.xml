@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/08/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURE N. 972/04 E 973/04 DEL 31.07.2021 - SERVIZIO DI SMALTIMENTO FINALE DELLA FRAZIONE DI SOPRAVAGLIO DEI RIFIUTI NON PERICOLOSI RACCOLTI NEL TERRITORIO DI QUESTO COMUNE PRESSO L'IMPIANTO SITO IN C.DA VALANGHE DINVERNO  MOTTA SANTANAS</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=358</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=358</guid>
+    </item>
+    <item>
+      <title>20/08/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURA N. 0000698 DEL 06.08.2021 SERVIZIO DI TRATTAMENTO DEI RIFIUTI SOLIDI URBANI INDIFFERENZIATI PRESSO L'IMPIANTO DI TMB DI C.DA BELVEDERE DI TRAPANI  DITTA TRAPANI SERVIZI SPA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=357</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=357</guid>
+    </item>
+    <item>
       <title>19/08/2021 | Deliberazioni Di Giunta</title>
       <description>CARTELLONE TINDARI FESTIVAL 65^ EDIZIONE - IDP 81 - PROGETTO "TYNDARIS AUGUSTEA"  19 AGOSTO 2021. CONCESSIONE CONTRIBUTO REGIONALE. ASSEGNAZIONE RISORSE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=356</link>
@@ -64,13 +78,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=350</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=350</guid>
-    </item>
-    <item>
-      <title>17/08/2021 | Avvisi Vari</title>
-      <description>AVVISO CORREZIONE DI MERO ERRORE MATERIALE E RIFORMULAZIONE ASSEGNAZIONE INCARICHI RELATIVI AI CANTIERI DI LAVORO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=349</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=349</guid>
     </item>
     <item>
       <title>17/08/2021 | Determinazioni Dirigenziali</title>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=322</link>
       <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=322</guid>
-    </item>
-    <item>
-      <title>12/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione Acquisto e posa in opera asfalto a caldo per la manutenzione straordinaria delle strade comunali. Ditta ARCA SERVICE S R L</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=321</link>
-      <pubDate>Thu, 12 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=321</guid>
     </item>
   </channel>
 </rss>
