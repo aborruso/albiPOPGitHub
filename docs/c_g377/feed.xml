@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/08/2021 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=361</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=361</guid>
+    </item>
+    <item>
       <title>20/08/2021 | Determinazioni Dirigenziali</title>
       <description>liquidazione fattura n. 58/2021, del 12.08.21 - fornitura vernice per segnaletica stradale</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=360</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=325</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=325</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione fornitura materiale elettrico per la manutenzione ordinaria del patrimonio comunale Ditta SAM srl</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=324</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=324</guid>
     </item>
   </channel>
 </rss>
