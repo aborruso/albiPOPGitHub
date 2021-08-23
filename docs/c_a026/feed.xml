@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/31189</title>
+      <description>RICHIESTA PUBBLICAZIONE VERBALE DI AGGIUDICAZIONE PROVVISORIA STRISCE BLU COMUNE DI ACI CASTELLO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373233</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373233</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/31136</title>
       <description>CONVOCAZIONE IN SESSIONE STRAORDINARIA ED URGENTE DEL CONSIGLIO COMUNALE DEL 24.08.2021 IN VIDEOCONFERENZA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373208</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373021</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373021</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/83</title>
-      <description>REALIZZAZIONE MERCATINI ARTIGIANALI TURISTICI PER L'ESTATE 2021 - DIRETTIVE POLITICO -AMMINISTRATIVE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373019</link>
-      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/373019</guid>
     </item>
   </channel>
 </rss>
