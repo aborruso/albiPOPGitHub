@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Ordinanza Dirigenziale</title>
+      <description>L'istituzione Zona a Traffico Limitato (ZTL) nelle seguenti vie per il periodo estivo di ogni anno - dal 15 Luglio al 15 Settembre dalle ore 20.00 alle ore 08.00 : Via Spiaggia Calderà, Vicolo II Calderà, Via Alcantara.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3053</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3053</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 4 "Sostegno al Reddito". Liquidazione contributo ai beneficiari avviati con la III annualità Piano di Zona 2013-2015 per il Comune di Merì</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3052</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3052</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Fondi PAC II Riparto -Sostegno diretto alla gest. degli Asili Nido Comunali Panteini/Petraro,Casa del Fanciullo e S.Antonino del Comune di Barcellona P.G. mediante estens. dell'orario del serv. alla Fascia pomeridiana.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3051</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3051</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
       <description>Divieto di transito eccetto i residenti per giorno 23/08/201 in Via Mollica</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3050</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3026</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3026</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di rimozione pericolo di parti di intonaco al fine di salvaguardare la pubblica e privata incolumità in Via Statale Oreto nn. 44/46</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3025</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3025</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Divieto di sosta con rimozione ambo i lati dalle ore 06:00 e fine a fine lavori a partire da giorno 23 in vie diverse</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3024</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3024</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rapporto tra spesa di personale ed entrate correnti anno 2020 (in quanto ultimo anno in cui è stato approvato il conto consuntivo).</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3023</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3023</guid>
     </item>
   </channel>
 </rss>
