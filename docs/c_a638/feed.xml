@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblico per l'individuaz.,la formaz. e la nomina di Ispettori Ambientali ai sensi dell'art.46 del regolamento comunale per la gestione dei rifiuti urbani e assimilati approvato con delib.del commissario straordin.N.2 del 14 Aprile 2015</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3054</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3054</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>L'istituzione Zona a Traffico Limitato (ZTL) nelle seguenti vie per il periodo estivo di ogni anno - dal 15 Luglio al 15 Settembre dalle ore 20.00 alle ore 08.00 : Via Spiaggia Calderà, Vicolo II Calderà, Via Alcantara.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3053</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3027</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3027</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi in pubblica fognatura-Validità mesi 6 (sei)-Ditta ARARAT in Via Limina contrada Cannistrà</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3026</link>
-      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3026</guid>
     </item>
   </channel>
 </rss>
