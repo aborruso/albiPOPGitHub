@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/08/2021 | Avvisi Vari</title>
+      <description>COINVOLGIMENTO DELLA CITTADINANZA PER LA SCELTA DI AZIONI DI INTERESSE COMUNE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=367</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=367</guid>
+    </item>
+    <item>
+      <title>24/08/2021 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. MARIO FOTI PER RECUPERO SOMMA NEI CONFRONTI DELL'AVVOCATO INCARICATO DALL'ENTE NELLA CONTROVERSIA SCIACCA CRISOSTOMO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=366</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=366</guid>
+    </item>
+    <item>
+      <title>24/08/2021 | Avvisi Vari</title>
+      <description>GRADUATORIA CACCIATORI AMMESSI NELL'AMBITO TERRITORIALE REGIONALE - STAGIONE VENATORIA 2021/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=365</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=365</guid>
+    </item>
+    <item>
       <title>24/08/2021 | Determinazioni Dirigenziali</title>
       <description>SPESA IN CONTO TRANSAZIONE CONTROVERSIA  RAGGIO DI SOLE. LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=364</link>
@@ -178,7 +199,7 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=341</guid>
     </item>
     <item>
-      <title>16/08/2021 | Determinazioni Del Sindaco</title>
+      <title>16/08/2021 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=340</link>
       <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=331</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=331</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>APPROVAZIONE PIANO ECONOMICO FINANZIARIO DELLA TARI PER L'ANNO 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=330</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=330</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Azione N. 7 "Spazio Lavoro" Integrazione alla Terza  Annualità  -  AOD N. 1 - PdZ 2013-2015   Liquidazione mese di Luglio ai  soggetti del Comune di Patti.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=329</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=329</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Azione N. 7 "Spazio Lavoro" Integrazione alla Terza Annualità -  PdZ 2013-2015  - Liquidazione mesi di  Maggio, Giugno e Luglio ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=328</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=328</guid>
     </item>
   </channel>
 </rss>
