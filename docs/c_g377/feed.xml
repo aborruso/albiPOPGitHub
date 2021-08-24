@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/08/2021 | Determinazioni Dirigenziali</title>
+      <description>TRANSAZIONE COTROVERSIA SOC. COOP. ONLUS RAGGIO DI SOLE DI CUI ALLA DELIBERA DI G.M.N.251/2021. IMPEGNO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=363</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=363</guid>
+    </item>
+    <item>
+      <title>24/08/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PROCEDURA ESPLORATIVA PER L'ACQUISTO DI UN AUTOCARRO USATO PER TRASPORTO DI COSE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=362</link>
+      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=362</guid>
+    </item>
+    <item>
       <title>23/08/2021 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=361</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=327</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=327</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>BORSA DI STUDIO "A. PISANI CACCIA" ANNO SCOLASTICO 2017/2018. LIQUIDAZIONE  TERZA  RATA ALLA SIG.RA PICHILLI MARTA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=326</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=326</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Trasferimento componenti tariffarie UI1, UI2, UI3 e UI4 applicate al servizio idrico integrato a favore del CSEA. Terzo bimestre 2021 (ruolo 2019).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=325</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=325</guid>
     </item>
   </channel>
 </rss>
