@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Convocazione consiglio comunale 31 agosto 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3056</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3056</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Avviso pubblico per l'individuaz.,la formaz. e la nomina di Ispettori Ambientali ai sensi dell'art.46 del regolamento comunale per la gestione dei rifiuti urbani e assimilati approvato con delib.del commissario straordin.N.2 del 14 Aprile 2015</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3054</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3028</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3028</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Art.2 Decreto Legge 23 novembre 2020 n 154. Rimborso Buoni spesa per acquisto di generi alimentari MA RI LU srl  Barcellona Pozzo di Gotto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3027</link>
-      <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3027</guid>
     </item>
   </channel>
 </rss>
