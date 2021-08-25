@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/08/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fornitura energia elettrica   LUGLIO 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=368</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=368</guid>
+    </item>
+    <item>
       <title>24/08/2021 | Avvisi Vari</title>
       <description>COINVOLGIMENTO DELLA CITTADINANZA PER LA SCELTA DI AZIONI DI INTERESSE COMUNE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=367</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=332</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=332</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RINVIO SEDUTA PER SOPRAVVENUTA MANCANZA DEL NUMERO LEGALE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=331</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=331</guid>
     </item>
   </channel>
 </rss>
