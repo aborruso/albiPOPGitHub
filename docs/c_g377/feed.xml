@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/08/2021 | Atti Elettorali</title>
+      <description>ESERCIZIO DEL DIRITTO AL VOTO DA PARTE DEI CITTADINI DELL'UNIONE EUROPEA IN OCCASIONE DELLE ELEZZIONI AMMINISTRATIVE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=370</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=370</guid>
+    </item>
+    <item>
       <title>26/08/2021 | Atti Di Interesse Generale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=369</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=334</link>
       <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=334</guid>
-    </item>
-    <item>
-      <title>13/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione servizio di disinfestazione, deblattizzazione e derattizzazione di tutto il territorio comunale Ditta Geco Servizi</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=333</link>
-      <pubDate>Fri, 13 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=333</guid>
     </item>
   </channel>
 </rss>
