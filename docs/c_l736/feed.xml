@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 3351</title>
+      <description>ISTANZA DI CAMBIO COGNOME IN QUELLO MATERNO DA "PADOAN" IN "PELLEGRINI".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147052.pdf</link>
+      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147052.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 3350</title>
       <description>DD/2021/1615 - SECI.GEDI.415  PBAS GARA N. 09/2021: AFFIDAMENTO SERVIZIO DI GESTIONE A RIDOTTO IMPATTO AMBIENTALE DEL VERDE PUBBLICO, SCOLASTICO E SPORTIVO DELLA CITTÀ DI VENEZIA  CIG 8658608D59 AL COSTITUENDO R.T.I. CONSORZIO SOCIALE UNITARIO G. ZORZETTO SOC COOP. SOC (MANDATARIA) E GIOTTO COOPERATIVA SOCIALE (MANDANTE).  APPROVAZIONE VERBALI DI GARA E IMPEGNO DI SPESA.  ATTO DA PUBBLICARE AI SENSI DELLART. 29 COMMA 1 DEL D. LGS. N. 50/2016.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147051.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147023.pdf</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147023.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3321</title>
-      <description>AVVISO PUBBLICO DI INDAGINE DI MERCATO PER ACQUISIZIONE MANIFESTAZIONI DI INTERESSE PER LAFFIDAMENTO DEL SERVIZIO DI SUPPORTO TECNICO-ORGANIZZATIVO RELATIVO ALLESPLETAMENTO DI N. 7 PROVE, ANCHE DI NATURA PRESELETTIVA, DI CONCORSI E/O SELEZIONI PUBBLICI INDETTI DAL COMUNE DI VENEZIA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147022.pdf</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147022.pdf</guid>
     </item>
   </channel>
 </rss>
