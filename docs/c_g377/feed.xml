@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/08/2021 | Atti Elettorali</title>
+      <description>ELEZIONE DEL SINDACO E DEL CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=382</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=382</guid>
+    </item>
+    <item>
       <title>26/08/2021 | Deliberazioni Di Giunta</title>
       <description>Lavori di Somma Urgenza per la riparazione della condotta idrica allacciata al pozzo di sollevamento Ronzino e passante lungo il Torrente Timeto. Presa atto verbale di somma urgenza e assegnazione risorse.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=381</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=347</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=347</guid>
-    </item>
-    <item>
-      <title>17/08/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATT. N. FE.2021.0117 DEL 31.07.2021  SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO  DITTA PIZZO PIPPO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=346</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=346</guid>
     </item>
   </channel>
 </rss>
