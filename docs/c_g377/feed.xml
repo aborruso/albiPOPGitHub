@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/08/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE DISTRETTO SANITARIO DI PATTI - MESE DI SETTEMBRE 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=384</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=384</guid>
+    </item>
+    <item>
+      <title>30/08/2021 | Ordinanze Sindacali</title>
+      <description>ORDINANZA T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=383</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=383</guid>
+    </item>
+    <item>
       <title>27/08/2021 | Atti Elettorali</title>
       <description>ELEZIONE DEL SINDACO E DEL CONSIGLIO COMUNALE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=382</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=348</link>
       <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=348</guid>
-    </item>
-    <item>
-      <title>17/08/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. FE/2021/0127 DEL 31.07.2021 SERVIZIO DI SPAZZAMENTO, RACCOLTA E TRASPORTO ALLO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI DIFFERENZIATI E INDIFFERENZIATI, COMPRESI QUELLI ASSIMILATI ED ALTRI SERVIZI DI IGIENE PUBBLICA ALL'INTERNO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=347</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=347</guid>
-    </item>
-    <item>
-      <title>17/08/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATT. N. FE.2021.0117 DEL 31.07.2021  SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO  DITTA PIZZO PIPPO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=346</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=346</guid>
     </item>
   </channel>
 </rss>
