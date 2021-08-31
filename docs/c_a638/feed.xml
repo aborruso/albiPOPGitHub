@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Atto di appello promosso dal Comune di Barcellona P.G. c/Mazzeo Sebastiano avverso sentenza n 626/2021 emessa dal Tribunale di Barcellona P.G. nel giudizio R.G. n. 1268/2010. Nomina legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3103</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3103</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rettifica determina dirigenziale n.1786 R.G. del 21/7/2021 Fornitura gratuita o semigratuita dei libri di testo ex art. 27 L. 23.12.1998 N° 448 e successive modifiche ed integrazioni. Anno scolastico 2020/2021.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3102</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3075</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3075</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Elenco provvisorio dei beneficiari delle misure urgenti di solidarietà alimentare a seguito dell'Emergenza Epidemiologica da Covid-19 -Avviso Pubblico del 20/07/2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3074</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3074</guid>
     </item>
   </channel>
 </rss>
