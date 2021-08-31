@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/08/2021 | Avvisi Vari</title>
+      <description>Concorso borse di studio " Antonio Pisani Caccia" Anno scolastico 2020-2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=385</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=385</guid>
+    </item>
+    <item>
       <title>30/08/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE DISTRETTO SANITARIO DI PATTI - MESE DI SETTEMBRE 2021.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=384</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=350</link>
       <pubDate>Wed, 18 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=350</guid>
-    </item>
-    <item>
-      <title>17/08/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. FE.20211.0119 DEL 31.07.2021 SERVIZIO DI SPAZZAMENTO RACCOLTA E TRASPORTO ALLO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI DIFFERENZIATI E INDIFFERENZIATI COMPRESI QUELLI ASSIMILATI, ED ALTRI SERVIZI DI IGIENE PUBBLICA ALL'INTERNO D</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=348</link>
-      <pubDate>Tue, 17 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=348</guid>
     </item>
   </channel>
 </rss>
