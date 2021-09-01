@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/09/2021 | Atti Elettorali</title>
+      <description>REVISIONE DINAMICA DELLE LISTE ELETTORALI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=390</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=390</guid>
+    </item>
+    <item>
       <title>31/08/2021 | Deliberazioni Di Giunta</title>
       <description>PREVISIONE DI SPESA PER ELEZIONI AMMINISTRATIVE DEL 10 E 11 OTTOBRE 2021 -ASSEGNAZIONE RISORSE -</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=389</link>
@@ -148,13 +155,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=371</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=371</guid>
-    </item>
-    <item>
-      <title>26/08/2021 | Atti Elettorali</title>
-      <description>ESERCIZIO DEL DIRITTO AL VOTO DA PARTE DEI CITTADINI DELL'UNIONE EUROPEA IN OCCASIONE DELLE ELEZIONI AMMINISTRATIVE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=370</link>
-      <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=370</guid>
     </item>
     <item>
       <title>26/08/2021 | Atti Di Interesse Generale</title>
