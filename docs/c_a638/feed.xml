@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco delle ordinanza di sospensione lavori a seguito dei rapporti comunicati all'ufficio dagli ufficiali ed agenti di polizia giudiziaria di questo Ente. Mese Agosto 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3106</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3106</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Atto di appello promosso dal Comune di Barcellona P.G. c/Mazzeo Sebastiano avverso sentenza n 626/2021 emessa dal Tribunale di Barcellona P.G. nel giudizio R.G. n. 1268/2010. Nomina legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3103</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3076</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3076</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Piano triennale delle assunzioni di personale 2021/2023 e piano annuale 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3075</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3075</guid>
     </item>
   </channel>
 </rss>
