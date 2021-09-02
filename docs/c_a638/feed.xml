@@ -18,6 +18,34 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Deposito atto in busta chiusa destinatario Jouini Radhia</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3114</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3114</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Approvaz. regolamento per la determinaz. delle sanzioni amminist.pecunarie ai sensi dell'art.31 .4 del T.U.E.n.380/2001 e s.m.i., da comminare agli autori di illeciti edilizi a seguito accertam. di inottemp.demoliz.di opere abusive eseguite</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3113</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3113</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Approvaz. del progetto di fattibilità tecnica ed economica per la realizzaz. di un Polo Florovivaistico nella sede dell'ESA C.da S.Andrea del Comune di Barcellona P.G. ed adozione della variante  allo strumento urbanistico</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3112</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3112</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Deposito atto in busta chiusa destinatario Muti Costel ID 623167</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3111</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3111</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Deposito atto in busta chiusa destinatario Muti Costel  ID 623172</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3110</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3085</link>
       <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3085</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto a carico di Gentile Domenico</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3084</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3084</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Parziale modifica dell'ordinanza dirigenziale n. 29 del 31.03.2021 l'eliminazione del divieto di accesso in Piazza stazione (Parco Magg. la Rosa)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3082</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3082</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Divieto di transito e divieto di sosta con rimozione per giorno 27 e 28 agosto dalle ore 18:00 alle ore 24:00 in Vicolo 1 Placido Mandanici</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3081</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3081</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione del divieto di sosta con rimozione per la pulizia meccanizzata della strada a far data dal 30 agosto al 25 settembre 2021 dalle ore 05:00 alle ore 08:00 in vie diverse</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3080</link>
-      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3080</guid>
     </item>
   </channel>
 </rss>
