@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Deposito atto in busta chiusa destinatario Muti Costel  ID 623172</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3110</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3110</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Esame e verif. delle condiz. di eleggibilità del Consigliere Comunale, ai sensi dell'art.9 della L.R. n.31/86 e delle condiz. di candidabilità di cui all'art. 10 del D.L.gs. n. 235/2012 per la convalida.Esame event.incomp.del consigliere comunale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3109</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3109</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Surroga Consigliere Comunale Calderone Tommaso Antonino - Adempimenti consequenziali - Giuramento del Consigliere Subentrante</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3108</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3108</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Voltura Permesso di costruire n° 53/2020 del 18/08/2020 - Pratica edilizia n° 19345 - Ditta Ravidà Concetta Maria</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3107</link>
+      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3107</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Elenco delle ordinanza di sospensione lavori a seguito dei rapporti comunicati all'ufficio dagli ufficiali ed agenti di polizia giudiziaria di questo Ente. Mese Agosto 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3106</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3080</link>
       <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3080</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto in busta chiusa nei confronti del signor ABDOU ARWAL ESSAMELDIN ABDELKHAL</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3079</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3079</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Approvazione documento unico di programmazione 2021-2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3078</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3078</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Approvazione schema del Bilancio di Previsione 2021/2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3077</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3077</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Servizi A Domanda Individuale - Definizione Dei Costi Complessivi e Quadro di Accertamento Della Copertura preventiva per L'Anno 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3076</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3076</guid>
     </item>
   </channel>
 </rss>
