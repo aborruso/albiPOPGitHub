@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/09/2021 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE n. 12 del 03/09/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=405</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=405</guid>
+    </item>
+    <item>
+      <title>03/09/2021 | Avvisi Vari</title>
+      <description>COMUNICATO STAMPA IN OCCASIONE DELLA FESTIVITA' LITURGICA DELL MADONNA DEL TINDARI 07 E 08 SETTEMBRE 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=404</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=404</guid>
+    </item>
+    <item>
       <title>03/09/2021 | Determinazioni Dirigenziali</title>
       <description>Intervento di completamento della rete idrica e fognaria di contrada Monte  Lavori Complementari - Liquidazione fattura al I° e UNICO Stato di Avanzamento. Impresa: ECO SUD s.r.l. Codice CUP C47B16000340004</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=403</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=369</link>
       <pubDate>Thu, 26 Aug 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=369</guid>
-    </item>
-    <item>
-      <title>25/08/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione fornitura energia elettrica   LUGLIO 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=368</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=368</guid>
-    </item>
-    <item>
-      <title>24/08/2021 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. MARIO FOTI PER RECUPERO SOMMA NEI CONFRONTI DELL'AVVOCATO INCARICATO DALL'ENTE NELLA CONTROVERSIA SCIACCA CRISOSTOMO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=366</link>
-      <pubDate>Tue, 24 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=366</guid>
     </item>
   </channel>
 </rss>
