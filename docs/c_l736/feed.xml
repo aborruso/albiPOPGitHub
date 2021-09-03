@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 3476</title>
+      <description>ORDINANZA N° 529 DEL 3 SETTEMBRE 2021: RII DELLE DUE TORRI E DELLA PERGOLA, LIMITAZIONI ALLA VIABILITA ACQUEA PER SVOLGIMENTO INDAGINI SUBACQUEE PRESSO LE SPONDE DEL MUSEO DI CA PESARO.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147177.pdf</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147177.pdf</guid>
+    </item>
+    <item>
+      <title>#ORDINANZE | Pubblicazione numero 3475</title>
+      <description>ORDINANZA N° 528 DEL 3 SETTEMBRE 2021: REGATA STORICA, INTEGRAZIONE ORDINANZA N. 520/2021 SOSPENSIONE TRAGHETTO GONDOLE</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147176.pdf</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147176.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3474</title>
       <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO DI ATTI NELLA CASA COMUNALE A CARICO DI PEREIRA DOS SANTOS ELISABETE</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147175.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147148.pdf</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147148.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3446</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATII NELLA CASA DEL COMUNE A NOME DI DELOWER HOSSAIN</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147147.pdf</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147147.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3445</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI PAN KEKE</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147146.pdf</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147146.pdf</guid>
     </item>
   </channel>
 </rss>
