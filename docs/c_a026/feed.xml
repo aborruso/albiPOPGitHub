@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1161</title>
+      <description>CONCESSIONE DEL PATROCINIO GRATUITO E DI UNO SPAZIO DEL CASTELLO PER PRESENTAZIONE LIBRO "STORIE DI LATO" DEL DOTTOR LUCIANO RICIFARI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374401</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374401</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1159</title>
       <description>TUMULAZIONE URNA CINERARIA CONTENENTE LE CENERI DI CONTI ERIK, DECEDUTO IL 07/07/2020, NELLA TOMBA N. 21 DEL RETTANGOLO "S. LUCIA" DEL CIMITERO COMUNALE. FASCICOLO CIMITERIALE : TOMBA N. 21 RETTANGOLO "S. LUCIA"</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374332</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374159</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374159</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/233</title>
-      <description>LAVORI DI REGIMENTAZIONE E SMALTIMENTO DELLE ACQUE PIOVANE IN VIA TRIESTE ACI CASTELLO – PROVVEDIMENTI DI CIRCOLAZIONE SULLA VIA TRIESTE NEL TRATTO COMPRESO TRA LA VIA TRIPOLI E LA VIA SAN FILIPPO NERI.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374157</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/374157</guid>
     </item>
   </channel>
 </rss>
