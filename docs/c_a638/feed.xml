@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso di deposito due  atti nella Casa Comunale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3179</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3179</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso di deposito, presso la Segreteria generale, di verbali nn. 255893439, 255893331, 255893536 ai sensi dell'ex art. 143 c.p.c. a carico di Fugazzotto Alessia</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3178</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3152</link>
       <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3152</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>lavori urgenti per la realizzazione di un gruppo di celle, in adiacenza ai blocchi di recente costruzione, per sopperire alla temporanea carenza di loculi per la sepoltura dei defunti ricoverati nella sala mortuaria. Approvazione contabilità finale e</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3151</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3151</guid>
     </item>
   </channel>
 </rss>
