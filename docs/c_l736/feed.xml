@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3508</title>
+      <description>AVVISO CONCORSO PUBBLICO "ISTRUTTORE DIRETTIVO TECNICO" CATEGORIA D1 - CODICE 01/2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147209.pdf</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147209.pdf</guid>
+    </item>
+    <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 3507</title>
+      <description>ISTANZA DI AGGIUNTA COGNOME ALLA FIGLIA MINORE SIMION ANGIE DA "SIMION" IN "SIMION ESPOSITO"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147208.pdf</link>
+      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147208.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 3506</title>
       <description>LA IV COMMISSIONE (CONGIUNTA ALLA II COMMISSIONE) È CONVOCATA MERCOLEDÌ 15 SETTEMBRE 2021 ALLE ORE 09:30 PRESSO VIDEOCONFERENZA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147207.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147180.pdf</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147180.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 3478</title>
-      <description>ORDINANZA SIDACALE N. 531 DEL 03/09/2021: MISURE COMPLEMENTARI AI PROVVEDIMENTI NAZIONALI E REGIONALI DI PREVENZIONE E CONTENIMENTO DEL RISCHIO SANITARIO CONNESSO ALLEMERGENZA "COVID-19", IN RELAZIONE ALLA PECULIARE SITUAZIONE DERIVANTE DALLO SVOLGIMENTO DELLA "REGATA STORICA 2021".</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147179.pdf</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147179.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 3477</title>
-      <description>ORDINANZA N. 530 DEL 03/09/2021:MISURE A TUTELA DELLA CIRCOLAZIONE PEDONALE IN VENEZIA PONTE DI RIALTO IN OCCASIONE DELLINAUGURAZIONE DEL PONTE DI RIALTO DEL 07 SETTEMBRE 2021. - ORDINANZA DIRIGENZIALE</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147178.pdf</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147178.pdf</guid>
     </item>
   </channel>
 </rss>
