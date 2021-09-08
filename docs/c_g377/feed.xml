@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/09/2021 | Determinazioni Dirigenziali</title>
+      <description>CONGEDO STRAORDINARIO RETRIBUITO DI CUI ALLA LEGGE 151/2001 PER IL PERIODO DAL 22.09.2021 AL 02.10.2021  AL DIPENDENTE ANTONUCCIO ADOLFO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=427</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=427</guid>
+    </item>
+    <item>
+      <title>08/09/2021 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO DI TRATTAMENTO DEI RIFIUTI SOLIDI URBANI INDIFFERENZIATI PRESSO L'IMPIANTO TMB DI C/DA BELVEDERE (TRAPANI), COMPRESO IL TRASPORTO (ESCLUSO ONERI DI SMALTIMENTO) DEI SOVVALLI PRESSO LA DISCARICA SITA IN C/DA VALANGHE DINVERNO SITA IN MOTTA SA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=426</link>
+      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=426</guid>
+    </item>
+    <item>
       <title>07/09/2021 | Ordinanze Dirigenziali</title>
       <description>modifica isola pedonale via C.F. Zuccarello.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=425</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=391</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=391</guid>
-    </item>
-    <item>
-      <title>31/08/2021 | Deliberazioni Di Giunta</title>
-      <description>PREVISIONE DI SPESA PER ELEZIONI AMMINISTRATIVE DEL 10 E 11 OTTOBRE 2021 -ASSEGNAZIONE RISORSE -</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=389</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=389</guid>
-    </item>
-    <item>
-      <title>31/08/2021 | Deliberazioni Di Giunta</title>
-      <description>Variazioni di Bilancio ai sensi dell'art. 5 della L.R. n. 13 del 15 giugno 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=388</link>
-      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=388</guid>
     </item>
   </channel>
 </rss>
