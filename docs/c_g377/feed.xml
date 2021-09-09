@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/09/2021 | Avvisi Vari</title>
+      <description>avviso pubblico per la richiesta di proposte e suggerimenti</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=428</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=428</guid>
+    </item>
+    <item>
       <title>08/09/2021 | Determinazioni Dirigenziali</title>
       <description>CONGEDO STRAORDINARIO RETRIBUITO DI CUI ALLA LEGGE 151/2001 PER IL PERIODO DAL 22.09.2021 AL 02.10.2021  AL DIPENDENTE ANTONUCCIO ADOLFO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=427</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=392</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=392</guid>
-    </item>
-    <item>
-      <title>01/09/2021 | Determinazioni Dirigenziali</title>
-      <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALLINGEGNERIA E ALLARCHITETTURA ED ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N°</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=391</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=391</guid>
     </item>
   </channel>
 </rss>
