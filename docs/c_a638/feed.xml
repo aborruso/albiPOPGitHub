@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione per il giorno17 Settembre 2021 in Via Carducci dal n.c.5 al n.c.15, Via Roma dal n.c.177 al n.c.171 fino a fine lavori</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3212</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3212</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione giorno 09/09/2021 fino a fine lavori :Via Longano fronte al n.c.1 al n.c. 27</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3211</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3211</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Richiesta di autorizzazione alla costruzione di impianti interrati in Utente: Enel Distribuzione - Via L. Da Vinci, "come da planimetria"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3210</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3185</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3185</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Oggetto  Assegnazione alloggio popolare sito in Stretto I Fondaco Nuovo n 94 Pal G  Int 6</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3184</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3184</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>ACQUISTO APPARECCHIATURE PERIFERICHE E COMPONENTI  HARDWARE PER  UFFICIO TECNICO V SETTORE  IMPEGNO SPESA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3183</link>
-      <pubDate>Tue, 07 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3183</guid>
     </item>
   </channel>
 </rss>
