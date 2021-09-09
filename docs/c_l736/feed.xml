@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 3547</title>
+      <description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE NEL MESE DI AGOSTO 2021 EX ART. 146 DEL D.LGS 22/01/2004 N° 42.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147248.pdf</link>
+      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147248.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 3546</title>
       <description>LA VIII COMMISSIONE (CONGIUNTA ALLA I COMMISSIONE, ALLA II COMMISSIONE, ALLA III COMMISSIONE, ALLA IV COMMISSIONE, ALLA V COMMISSIONE, ALLA VI COMMISSIONE, ALLA VII COMMISSIONE, ALLA IX COMMISSIONE E ALLA X COMMISSIONE) È CONVOCATA MARTEDÌ 14 SETTEMBRE 2021 ALLE ORE 10:30 PRESSO VIDEOCONFERENZA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147247.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147219.pdf</link>
       <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147219.pdf</guid>
-    </item>
-    <item>
-      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 3517</title>
-      <description>AVVISO DI MOBILITÀ ESTERNA VOLONTARIA AI SENSI DELLART. 30 DEL D.LGS. 30.3.2001, NR. 165 PER LA COPERTURA DI NR. 5 POSTI DI ISTRUTTORE TECNICO - CAT. C, DI CUI N.1 POSTO RISERVATO AGLI APPARTENENTI ALLA CATEGORIA DI CUI ALLART. 18, COMMA 2 LEGGE N. 68/99.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147218.pdf</link>
-      <pubDate>Wed, 08 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147218.pdf</guid>
     </item>
   </channel>
 </rss>
