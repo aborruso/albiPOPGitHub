@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Avviso pubblico per la costituzione di un elenco degli esercizi commerciali  e di somministrazione che garantiscono la  spendibilità dei buoni spesa emessi dal Comune  Emergenza Covid</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3227</link>
+      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3227</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto in busta chiusa a carico di Moraru Mihai</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3226</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3199</link>
       <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3199</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di demolizione dei lavori eseguiti in Contrada Saia d'Agrì, rif. catastali Foglio 10 part.lla 64, Barcellona P.G. Ditta: XXXXXXXXXXXXXXX</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3198</link>
-      <pubDate>Thu, 09 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3198</guid>
     </item>
   </channel>
 </rss>
