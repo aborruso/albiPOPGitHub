@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/09/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta e transito per lavori in via S. Teodoro a Sorrentini: 15 e 16/09/21</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=472</link>
+      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=472</guid>
+    </item>
+    <item>
       <title>13/09/2021 | Determinazioni Dirigenziali</title>
       <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11  OTTOBRE 2021.  SPEDIZIONE CARTOLINE AVVISO AGLI ELETTORI RESIDENTI ALL'ESTERO. IMPEGNO DI SPESA E AFFIDAMENTO, CIG Z193301E00</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=471</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=438</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=438</guid>
-    </item>
-    <item>
-      <title>10/09/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. GIARRIZZO  TINDARO IN SERVIZIO NEL SETTORE V° - SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO:  DA 12.07.2021  AL  31.08.2021 =</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=437</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=437</guid>
     </item>
   </channel>
 </rss>
