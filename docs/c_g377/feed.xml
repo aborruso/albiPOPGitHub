@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/09/2021 | Avvisi Vari</title>
+      <description>avviso presentazione istanza di concessione o rinnovo della tessera circolazione A.S.T. per portatori di Handicap anno 2022/2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=473</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=473</guid>
+    </item>
+    <item>
       <title>13/09/2021 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta e transito per lavori in via S. Teodoro a Sorrentini: 15 e 16/09/21</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=472</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=439</link>
       <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=439</guid>
-    </item>
-    <item>
-      <title>10/09/2021 | Ordinanze Dirigenziali</title>
-      <description>1) Anticipo chiusura isola pedonale via Zuccarello per g. 12.09.21.      2) Divieto di sosta per lavori in via XX Settembre e V. Emanuele.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=438</link>
-      <pubDate>Fri, 10 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=438</guid>
     </item>
   </channel>
 </rss>
