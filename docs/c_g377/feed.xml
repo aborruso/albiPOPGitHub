@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/09/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta per pulizia verde pubblico nella via B. Croce e in Largo dei Normanni.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=506</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=506</guid>
+    </item>
+    <item>
+      <title>16/09/2021 | Ordinanze Dirigenziali</title>
+      <description>divieto di sosta in via Fontanelle per pulizia verde pubblico: giorno 20.09.21</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=505</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=505</guid>
+    </item>
+    <item>
       <title>16/09/2021 | Atti Elettorali</title>
       <description>richiesta iscrizione nell'elenco delle persone idonee all'Ufficio di scrutatore.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=504</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=472</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=472</guid>
-    </item>
-    <item>
-      <title>13/09/2021 | Determinazioni Dirigenziali</title>
-      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11  OTTOBRE 2021.  SPEDIZIONE CARTOLINE AVVISO AGLI ELETTORI RESIDENTI ALL'ESTERO. IMPEGNO DI SPESA E AFFIDAMENTO, CIG Z193301E00</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=471</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=471</guid>
-    </item>
-    <item>
-      <title>13/09/2021 | Determinazioni Dirigenziali</title>
-      <description>Affidamento incarico ai rilevatori.  Censimento permanente della popolazione 2021 approvazione SCHEMA DI CONTRATTO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=470</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=470</guid>
     </item>
   </channel>
 </rss>
