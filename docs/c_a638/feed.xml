@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Ampliamento dell'orario di lavoro, a carattere provvisorio, per i dipendenti part-time dell'Ufficio di  Gabinetto impegnati nelle attività a supporto dell'Amministrazione per la gestione sul territorio locale per Covid 19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3286</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3286</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Presa d'atto del referto del controllo di gestione per l'esercizio 2019</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3285</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3285</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Autorizzazione al Dirigente Ing. Nunzio Santoro a partecipare all'atto di divisione di immobili ricadenti nel territorio di Barcellona Pozzo di Gotto località Calderà, Via San Rocco, già individuato in catasto al foglio 2 ex particelle 112 e 1274</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3284</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3284</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Divieto di sosta con rimozione per il giorno 22 Settembre 2021 in Via Dante Alighieri dal n.c.27 al n.c.39, Via Immacolata dal n.c.68 al n.c.62</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3283</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3259</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3259</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n°427 del 31/12/2019 per il servizio di spazzamento, raccolta e trasporto allo smaltimento dei rifiuti solidi urbani differenziati e indifferenziati, compresi quelli assimilati, servizi di igiene pubblica ed altri servizi accesso</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3258</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3258</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione rimborso oneri di conferimento in discarica.   Lavori di ripristino manti stradali a seguito degli eventi alluvionali 2020</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3257</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3257</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SPESA ED AFFIDAMENTO SERVIZIO alla REM Srl, gestore dell'impianto di compostaggio sito in C.da Milisinni Catania, per il conferimento e il recupero dei rifiuti biodegradabili di cucine e mense (cer 20.01.08) e del verde (cer 200201).</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3256</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3256</guid>
     </item>
   </channel>
 </rss>
