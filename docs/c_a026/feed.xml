@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/TYSI1CV00427/2021</title>
+      <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 PER IL SIG.CAMPO DELIZIA SRL</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376055</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376055</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/10</title>
       <description>PUBBLICAZIONE ELENCO NR. 10 DEL 16.09.2021 IRREPERIBILI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376006</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375762</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375762</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1202</title>
-      <description>LIQUIDAZIONE FATTURA N. 219286839 DEL 07.07.2021 DITTA RICOH ITALIA S.R.L. SERVIZIO NOLEGGIO FOTOCOPIATRICE MULTIFUNZIONALE IN DOTAZIONE AL SERVIZIO “RISORSE UMANE” - CIG: Z462DDEB8B.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375760</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375760</guid>
     </item>
   </channel>
 </rss>
