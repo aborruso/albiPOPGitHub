@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/09/2021 | Atti Elettorali</title>
+      <description>richiesta iscrizione nell'elenco delle persone idonee all'Ufficio di scrutatore.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=504</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=504</guid>
+    </item>
+    <item>
       <title>15/09/2021 | Determinazioni Dirigenziali</title>
       <description>Affidamento diretto in concessione previa indagine di mercato del Servizio di Gestione e manutenzione ordinaria e straordinaria dell'Illuminazione votiva presso i Cimiteri Comunali del Centro e delle frazione di Sorrentini e Scala. Anni 2021  2023. I</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=503</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=470</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=470</guid>
-    </item>
-    <item>
-      <title>13/09/2021 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO NCARICO LEGALE ALL'AVV. ANDREA PIRRI. OPPOSIZIONE ALL' ACCERTAMENTO DELL'OBBLIGO DEL TERZO PROCEDURA R.G.E.N.468/2020. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=469</link>
-      <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=469</guid>
     </item>
   </channel>
 </rss>
