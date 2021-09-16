@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/10</title>
+      <description>PUBBLICAZIONE ELENCO NR. 10 DEL 16.09.2021 IRREPERIBILI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376006</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376006</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1218</title>
       <description>CONCESSIONE DI ML. 2,65 PER PASSO CARRABILE, SITO IN ACI CASTELLO VIA G. PEZZANA N. 36, CAT. VIARIA 1^, CONTRASSEGNATO CON IL N. 696/2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375978</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375760</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375760</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1201</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA SICULA COMPOST S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200108 E CER 200201) CONFERITI NEL MESE DILUGLIO 2021 NELLE MORE DELLE DETERMINAZIONI DELLA SRR CATANIA AREA METROPOLITANA.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375758</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/375758</guid>
     </item>
   </channel>
 </rss>
