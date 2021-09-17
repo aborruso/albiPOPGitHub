@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/09/2021 | Ordinanze Sindacali</title>
+      <description>Assegnazione, in via provvisoria e temporanea, di un alloggio.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=521</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=521</guid>
+    </item>
+    <item>
+      <title>17/09/2021 | Ordinanze Sindacali</title>
+      <description>Assegnazione, in via provvisoria e temporanea, di un alloggio.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=520</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=520</guid>
+    </item>
+    <item>
+      <title>17/09/2021 | Avvisi Vari</title>
+      <description>COINVOLGIMENTO DELLA CITTADINANZA PER LA SCELTA DI AZIONI DI INTERESSE COMUNE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=519</link>
+      <pubDate>Fri, 17 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=519</guid>
+    </item>
+    <item>
       <title>17/09/2021 | Determinazioni Dirigenziali</title>
       <description>Assegno di maternità  L. 448/98 e ss.mm.ii.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=518</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=487</link>
       <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=487</guid>
-    </item>
-    <item>
-      <title>15/09/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=486</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=486</guid>
-    </item>
-    <item>
-      <title>15/09/2021 | Avvisi Vari</title>
-      <description>FIERA INTERNAZIONE DEL TARTUFO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=485</link>
-      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=485</guid>
-    </item>
-    <item>
-      <title>14/09/2021 | Determinazioni Dirigenziali</title>
-      <description>Assegnazione somme all'Economo per all'acquisto di beni di consumo vari conseguenti allo svolgimento delle Elezioni Amministrative del 10 e 11 Ottobre 2021;</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=484</link>
-      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=484</guid>
     </item>
   </channel>
 </rss>
