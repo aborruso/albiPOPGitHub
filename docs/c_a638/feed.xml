@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Divieto di sosta con rimozione giorno 23 settembre 2021 in Via Ugo S. Onofrio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3379</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3379</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 4 Sostegno al reddito-Liquidazione contributo per saldo ai beneficiari avviati della III annualità borsa lavoro Comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3378</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3378</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Servizio funebre del defunto Ingegneri Antonino Carmelo. Provvedimento di liquidazione fattura n°1PA del 29.06.2021. Ditta: A.F. Barresi Snc di Barresi Fortunato e Molino Giuseppe.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3377</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3350</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3350</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture n. 01, n. 02 e n. 03 del 25/08/2021 per la fornitura di generi alimentari per gli Asili Nido Comunali.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3349</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3349</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Decreto Ministero dell'Interno 10 agosto 2016  SPRAR -  Liquidazione canone di locazione mese di dicembre 2020 alla Sig.ra Scibilia Aurelia. CIG 8534883841</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3348</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3348</guid>
     </item>
   </channel>
 </rss>
