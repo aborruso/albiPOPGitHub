@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito per irreperibilità cartelle esattoriali nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3392</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3392</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Integrazione elenco degli esercizi commerciali e di somministrazione che garantiscono la spendibilità dei buoni spesa emessi dal Comune di Barcellona P.G.  per l'acquisto di beni di prima necessità  per l'emergenza COVID-19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3391</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3391</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Determina a contrarre ai sensi dell'art. 36 comma 2 lett.a) del D.Lgs. 50/2016 e s.m.i. per l'affidamento della fornitura di n. 1 frigorifero per l'Asilo Nido Casa del Fanciullo.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3390</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3390</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio per giorno 30 settembre 2021-Ordine del giorno</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3389</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3389</guid>
+    </item>
+    <item>
       <title>Verbali</title>
       <description>Verbale consiglio comunale del 19/01/2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3388</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3365</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3365</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO  DI TRASPORTO  ALUNNI   SULLA  LINEA  DENOMINATA S. ANTONIO  PER L'ANNO SCOLASTICO 2021 2022  dall11/10/2021 al 31/5/2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3364</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3364</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia  mercato libero dell'energia   fornitura di luce  locali scolastici di Via S. Andrea n.174 per euro 174,58</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3363</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3363</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas Reti - Via Acquacalda civ. 30 " come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3362</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3362</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas Reti - Via Roma civ. 203 "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3361</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3361</guid>
     </item>
   </channel>
 </rss>
