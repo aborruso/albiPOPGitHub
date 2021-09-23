@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 3754</title>
+      <description>ORDINANZA N° 578 DEL 22/09/2021: RIO DELLA CA DI DIO, INTERVENTO DI RIFACIMENTO DELLA FONDAMENTA MOROSINA IN SESTIERE DI CASTELLO,  LIMITAZIONI A STAZIONAMENTI E APPRODI.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147455.pdf</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147455.pdf</guid>
+    </item>
+    <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 3753</title>
+      <description>GRADUATORIE DEFINITIVE E DELLA LISTA DELLE DOMANDE ESCLUSE, APPROVATE A SEGUITO DEI BANDI VALIDI PER LA LOCAZIONE A SOCIAL HOUSING DI N. 66 ALLOGGI SITI IN VENEZIA CENTRO STORICO, GIUDECCA, BURANO E SANTERASMO.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147454.pdf</link>
+      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147454.pdf</guid>
+    </item>
+    <item>
       <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 3752</title>
       <description>ISTANZA DI AGGIUNTA  COGNOME MATERNO AL FIGLIO MINORE PERIN ALVISE DA "PERIN" IN "PERIN MARONI"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147453.pdf</link>
@@ -178,27 +192,6 @@
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147431.pdf</guid>
     </item>
     <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3729</title>
-      <description>ELENCO N. 709320 DI N. 41 DESTINATARI DI AVVISI IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE DA  AL MODENA DI TOPU MOHAMED SAS  A  TIPOGRAFIA COMMERCIALE SRL</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147430.pdf</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147430.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3728</title>
-      <description>ELENCO N. 720250 DI N. 46 DESTINATARI DI AVVISI IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE DA  ALV ASSOCIAZIONE LAGUNA VENESSIANA  A  ZANONI ERNESTO</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147429.pdf</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147429.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3727</title>
-      <description>ELENCO N. 709324 DI N. 45 DESTINATARI DI AVVISI IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE DA  A. &amp; A. DI M. RUSSO &amp; C. SAS IN LIQUIDAZIONE A  YE HANTING</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147428.pdf</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147428.pdf</guid>
-    </item>
-    <item>
       <title>#VARIE | Pubblicazione numero 3726</title>
       <description>RIAPERTURA TERMINI  SINO AL  26 SETTEMBRE 2021 - AVVISO PUBBLICO PER LA RACCOLTA DI MANIFESTAZIONI DI INTERESSE DELLE IMPRESE ARTIGIANE E CREATIVE AVENTI SEDE PRODUTTIVA A VENEZIA CENTRO STORICO E/ O ISOLE AD ADERIRE ALLAZIONE PILOTA DEL PROGETTO EUROPEO "S.LI.DES" (PROGRAMMA INTERREG ITALIA-CROAZIA 2014-2020)</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147427.pdf</link>
@@ -225,6 +218,13 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147424.pdf</link>
       <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147424.pdf</guid>
+    </item>
+    <item>
+      <title>#DETERMINE | Pubblicazione numero 3722</title>
+      <description>DD/2021/1774 - AVVISO PUBBLICO DI MOBILITÀ PER LA COPERTURA A TEMPO PIENO ED INDETERMINATO DI POSTI IN CATEGORIE E PROFILI PROFESSIONALI VARI. CODICE 03MOB/2019. UTILIZZO GRADUATORIA FINALE DI MERITO.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147423.pdf</link>
+      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147423.pdf</guid>
     </item>
   </channel>
 </rss>
