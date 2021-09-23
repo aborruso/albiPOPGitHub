@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale consiglio comunale del 19/01/2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3388</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3388</guid>
+    </item>
+    <item>
+      <title>Verbali</title>
+      <description>Verbale seduta consiglio comunale del 4 Marzo 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3387</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3387</guid>
+    </item>
+    <item>
+      <title>Verbali</title>
+      <description>Verbale seduta consiliare del 13 luglio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3386</link>
+      <pubDate>Thu, 23 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3386</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Conservazione del Catasto Terreni-Verificazioni quinquennali gratuite.Artt. 118 e 119 del Regolamento 8 dicembre 1938 n. 2153</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3385</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3361</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3361</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas Reti - Via Immacolata civ.71 "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3360</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3360</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas Reti - Via Dante Alighieri civ.85 "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3359</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3359</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas reti - Via Vittorio Madia civ. 180 "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3358</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3358</guid>
     </item>
   </channel>
 </rss>
