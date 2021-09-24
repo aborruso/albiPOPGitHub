@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Delega alle funzioni in materia di autenticazione di sottoscrizioni e di legalizzazione previste dal DPR 445/2000 e da normative speciali</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3400</link>
+      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3400</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Registrazione sentenza n.870 del 2018 emessa dal Tribunale di Barcellona PG  nel giudizio  RG n 256  del 2007  Recupero Antonina ed altri nq di eredi di Siracusa Salvatora e Recupero Domenico</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3399</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3373</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3373</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.98/21 del 12/08/21 per servizio di intermediazione, carico, trasporto e recupero della frazione organica umida (CER 20.01.08) proveniente dalla raccolta differenziata del territorio comunale nel mese di Luglio 2021- Ditta GIGLI</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3372</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3372</guid>
     </item>
   </channel>
 </rss>
