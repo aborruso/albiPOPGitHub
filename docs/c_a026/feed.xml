@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/256</title>
+      <description>LAVORI ABUSIVI ESEGUITI IN ACI CASTELLO, FRAZIONE ACITREZZA, VIA LITTERI N° 43/B. RIFERIMENTO O.A. 2809</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377015</link>
+      <pubDate>Mon, 27 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377015</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1254</title>
       <description>FORNITURA DI STAMPE PAESAGGISTICHE PER I LOCALI DI VILLA FORTUNA - LIQUIDAZIONE FATTURA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377011</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376916</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376916</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1237</title>
-      <description>“SERVIZIO DI CONDUZIONE E MANUTENZIONE DEGLI IMPIANTI SEMAFORICI COMUNALI PER DUE ANNI” - DITTA LA ROSA BIAGIO MARIO &amp; C. S.R.L- ACQUISIZIONE COMPONENTI IN COMODATO D'USO.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376905</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/376905</guid>
     </item>
   </channel>
 </rss>
