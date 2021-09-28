@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/09/2021 | Atti Di Interesse Generale</title>
+      <description>VOLTURA AUTORIZZAZIONE UNICA AMBIENTALE (A.U.A.) N. 23/2017 DALLA DITTA SI.LEGNO PIU' S.R.L. ALLA DITTA SIRAME S.R.L.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=593</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=593</guid>
+    </item>
+    <item>
       <title>28/09/2021 | Determinazioni Dirigenziali</title>
       <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER IL SERVIZIO DI CARATTERIZZAZIONE DI BASE DEL RIFIUTO DA CONFERIRE IN IMPIANTO - DITTA: STUDIO CHIMICO AMBIENTALE S.R.L</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=592</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=559</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=559</guid>
-    </item>
-    <item>
-      <title>22/09/2021 | Determinazioni Dirigenziali</title>
-      <description>Proposta di aggiudicazione del Servizio di "Assistenza all'autonomia e alla comunicazione per i minori delle scuole primarie e secondarie di primo grado" nei Comuni  dell' AOD N. 1              Prima annualità -PdZ 2018-2019 - L. 328/00.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=558</link>
-      <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=558</guid>
     </item>
   </channel>
 </rss>
