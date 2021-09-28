@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/09/2021 | Determinazioni Dirigenziali</title>
+      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER IL SERVIZIO DI CARATTERIZZAZIONE DI BASE DEL RIFIUTO DA CONFERIRE IN IMPIANTO - DITTA: STUDIO CHIMICO AMBIENTALE S.R.L</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=592</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=592</guid>
+    </item>
+    <item>
       <title>27/09/2021 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. ROSA VENTURA IN SOSTITUZIONE NEL GIUDIZIO R.G.N.466/2021 TRIBUNALE DI PATTI. BANCA SISTEMA S.P.A. IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=591</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=558</link>
       <pubDate>Wed, 22 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=558</guid>
-    </item>
-    <item>
-      <title>21/09/2021 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER IL SERVIZIO PER ANALISI DI CARATTERIZZAZIONE DEI FANGHI DERIVANTI DALL'IMPIANTO DI DEPURAZIONE SITO IN C/DA PLAYA. DITTA STUDIO CHIMICO PELORITANO SRLS</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=557</link>
-      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=557</guid>
     </item>
   </channel>
 </rss>
