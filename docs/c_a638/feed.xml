@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Collocamento a riposo, a far data dal 01/12/2021, del dipendente xxxxxx xxxxx per l'avvenuto raggiungimento dei limiti di eta'</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3425</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3425</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Autorizzazione al Dirigente Ing. Nunzio Santoro a stipulare il contratto di vendita per l'alloggio popolare di proprietà comunale sito in Via Colonnello Roberto Gianani</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3424</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3424</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Ricorso in appello avverso ordinanza del 01/08/2021 R.G. 90/2019 emessa dal Tribunale di Barcellona P.G. nel giudizio promosso dal Comune di Barcellona P.G. C/Valeria Mazzagatti n.q. di tutrice di Pietro Nicola Mazzagatti-Nomina Legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3423</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3423</guid>
+    </item>
+    <item>
+      <title>Verbale Di Contravvenzione</title>
+      <description>Verbale seduta del 28 gennaio 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3422</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3422</guid>
+    </item>
+    <item>
       <title>Ordinanza Sindacale</title>
       <description>Divieto di coltivazione e di commercializzazione di fave e piselli nel raggio di mt. 200 dell'abitazione del Sig. Benenati Salvatore in Via Stretto Manno 7D/4</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3421</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3398</link>
       <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3398</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Recupero coatto delle spese di giudizio scaturenti dalla sentenza n 221 09 emessa dal Tribunale di Barcellona P.G.a definizione del del procedimento civile iscritto al N 1310 04 vertente tra Cappellano Domenico c Comune di Barcellona PG   Rimborso pa</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3397</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3397</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Giudizio promosso da Caruso Giuseppe Fazio Giovanni e Caruso Francesca contro Comune di Barcellona PG dinnanzi al Tribunale di Barcellona PG(ME) definito con sentenza n769 del 2020 Liquidazione spese atto di precetto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3396</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3396</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE COPERTURA ASSICURATIVA BAMBINI ASILI NIDO COMUNALI S. ANTONINO E CASA DEL FANCIULLO.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3395</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3395</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso credito a favore del Sig. Floramo Francesco - utenza idrica n. 3244-1038820</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3394</link>
-      <pubDate>Fri, 24 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3394</guid>
     </item>
   </channel>
 </rss>
