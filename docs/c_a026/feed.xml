@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1287</title>
+      <description>C'ERA UNA VOLTA UNA ROTONDA SUL MARE - LIQUIDAZIONE FATTURA SIAE CIG. ZBB32C1DEF</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377570</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377570</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1286</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: E-DISTRIBUZIONE S.P.A. - SITO: VIA GALLINARO E VIA PACINI - REALIZZAZIONE DI DUE TRATTI DI CAVO INTERRATO BT.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377555</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377369</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377369</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1267</title>
-      <description>NOMINA CAPO SERVIZIO FINANZIARIO.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377367</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/377367</guid>
     </item>
   </channel>
 </rss>
