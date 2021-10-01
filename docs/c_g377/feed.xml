@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>ELEZIONE ORGANO DI REVISIONE PER IL TRIENNIO 2021/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=647</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=647</guid>
+    </item>
+    <item>
+      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>VARIAZIONE AL BILANCIO AI SENSI DELL'ART. 175 DEL TUEL.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=646</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=646</guid>
+    </item>
+    <item>
+      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>APPROVAZIONE RENDICONTO DELLA GESTIONE ESERCIZIO FINANZIARIO 2020.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=645</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=645</guid>
+    </item>
+    <item>
       <title>01/10/2021 | Determinazioni Dirigenziali</title>
       <description>IMPEGNO DI SPESA E LIQUIDAZIONE PER RINNOVO CONCESSIONE DEMANIALE MARITTIMA  RATEIZZAZIONE PAGAMENTO CANONE ANNI  2017-2018-2019, PAGAMENTO RATA N. 2 E RATA N. 3.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=644</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=613</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=613</guid>
-    </item>
-    <item>
-      <title>29/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per disponibilità servizio carro attrezzi in occasione della 4° tappa del "Giro di Sicilia" di ciclismo del 1° ottobre p.v.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=612</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=612</guid>
-    </item>
-    <item>
-      <title>29/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Partecipazione all'avviso emanato con Decreto del Dirigente generale del Dipartimento regionale dellUrbanistica n. 127/2021. Approvazione preventivi di spesa</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=611</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=611</guid>
-    </item>
-    <item>
-      <title>29/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per rimborso spesse vive alle Associazioni di volontariato per attività di supporto in occasione del passaggio dal  territorio comunale della 4° tappa del Giro di Sicilia di ciclismo del 1à Ottobre</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=610</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=610</guid>
     </item>
   </channel>
 </rss>
