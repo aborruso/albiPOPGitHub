@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/10/2021 | Determinazioni Dirigenziali</title>
+      <description>IMPEGNO DI SPESA E LIQUIDAZIONE PER RINNOVO CONCESSIONE DEMANIALE MARITTIMA  RATEIZZAZIONE PAGAMENTO CANONE ANNI  2017-2018-2019, PAGAMENTO RATA N. 2 E RATA N. 3.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=644</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=644</guid>
+    </item>
+    <item>
+      <title>01/10/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI OTTOBRE 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=643</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=643</guid>
+    </item>
+    <item>
       <title>30/09/2021 | Determinazioni Dirigenziali</title>
       <description>DETERMINA A CONTRARRE  PER AFFIDAMENTO DIRETTO INCARICO DI REVISIONE ED AGGIORNAMENTO DEL PIANO DI SALUTE NEI LUOGHI DI LAVORO E DI RESPONSABILE DEL SERVIZIO DI PREVENZIONE E PROTEZIONE DAL 01.10.2021 AL 31.12.2022 ED IMPEGNO SPESA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=642</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=610</link>
       <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=610</guid>
-    </item>
-    <item>
-      <title>29/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per pagamento Contributo Unificato per la chiamata di terzo nella controversia di ATP in corso di causa con la Professional 3 D.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=609</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=609</guid>
-    </item>
-    <item>
-      <title>29/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Integrazione somma destinata nell'esercizio 2021 agli acquisti tramite il servizio economato.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=608</link>
-      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=608</guid>
     </item>
   </channel>
 </rss>
