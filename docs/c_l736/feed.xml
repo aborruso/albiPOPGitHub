@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELENCO DELLE CONCESSIONI EDILIZIE | Pubblicazione numero 3947</title>
+      <description>ELENCO PERMESSI DI COSTRUIRE DEL MESE DI SETTEMBRE 2021, SEDE DI TERRAFERMA.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147648.pdf</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147648.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3946</title>
       <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI CAPRIATI WILLIANS</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147647.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147619.pdf</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147619.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 3917</title>
-      <description>DD/2021/1817 - EVEN.GEDI.117 SPESE DI TRASFERTA E ORGANIZZAZIONE EVENTI RELATIVE AI PROGETTI COMUNITARI IN GESTIONE CODICE PROGETTO PE19004 - DETERMINAZIONE IMPEGNO SPESA ED ACCERTAMENTO ENTRATA PER ACQUISIZIONE TITOLI DI VIAGGIO E PRENOTAZIONI ALBERGHIERE MEETING DI PROGETTO, PER EURO 4.700,00 CAP 1903/502 E RIDUZIONE IMPEGNO 3193 PERIODO 2021 PROGETTO COMUNITARIO "TFC-TOURISM FRIENDLY CITIES", PROGRAMMA URBACT III.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147618.pdf</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147618.pdf</guid>
     </item>
   </channel>
 </rss>
