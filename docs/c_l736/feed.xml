@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 3946</title>
+      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI CAPRIATI WILLIANS</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147647.pdf</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147647.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 3945</title>
       <description>BANDO ESAMI PER CONDUTTORI DI GENERATORI DI VAPORE SESSIONE DI VENEZIA 2021 AI SENSI DEL D.M. 7 AGOSTO 2020</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147646.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147618.pdf</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147618.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 3916</title>
-      <description>DD/2021/1820 - DETERMINAZIONE ADEGUAMENTO DEL VALORE I.S.E.E. AI FINI DELLESENZIONE DAL PAGAMENTO DEL SERVIZIO REFEZIONI E TRASPORTI  ANNO SCOLASTICO 2021/2022.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147617.pdf</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147617.pdf</guid>
     </item>
   </channel>
 </rss>
