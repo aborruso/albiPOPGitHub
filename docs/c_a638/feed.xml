@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco delle ordinanze di sospensione lavori a seguito dei rapporti comunicati all'Ufficio dagli Ufficiali ed Agenti di Polizia Giudiziaria di questo Ente-Mese di settembre 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3488</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3488</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta di autorizzazione alla costruzione di impianti interratii in Via Piano Carrubaro s n-Utente Enel distribuzione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3487</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3487</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto in busta chiusa Dauccio Carmelo Emanuele</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3486</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3461</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3461</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONECAMPO DA TENNIS MANNO - FORNITURA DI ARREDI PER GLI SPOGLIATOI DEL CAMPO POLIVALENTE MANNO, DA ADIBIRE A INFRASTRUTTURA SOCIALE PER IL TEMPO LIBERO, SOCIALIZZAZIONE ED ATTIVITA' SPORTIVE. - Lotto 2  Arredamento Spogliatoi. Appro</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3460</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3460</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONECAMPO DA TENNIS MANNO - FORNITURA DI ARREDI PER GLI SPOGLIATOI DEL CAMPO POLIVALENTE MANNO, DA ADIBIRE A INFRASTRUTTURA SOCIALE PER IL TEMPO LIBERO, SOCIALIZZAZIONE ED ATTIVITÀ' SPORTIVE. - Lotto 1 - Manutenzione campo da tennis</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3459</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3459</guid>
     </item>
   </channel>
 </rss>
