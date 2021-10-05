@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/10/2021 | Determinazioni Dirigenziali</title>
+      <description>IMPEGNO DI SPESA RELATIVO AL COMPENSO DEI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI PER IL TRIENNIO 2021/2024.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=657</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=657</guid>
+    </item>
+    <item>
       <title>04/10/2021 | Determinazioni Dirigenziali</title>
       <description>Locazione dei locali di proprietà dell'Istituto Caleca "Figlie Maria Ausiliatrice", da adibire ad aule per gli Istituti Comprensivi del Territorio per l'anno scolastico 2021-2022. Impegno Spesa.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=656</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=623</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=623</guid>
-    </item>
-    <item>
-      <title>30/09/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE PER L'ANNO 2013 DELLINDENNITÀ DI RISCHIO, PREVISTA DALLART. 17 COMMA 2 LETT. D) DEL CCNL DEL 01/04/1999 E DELLART. 37 CCNL 14/09/2000</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=622</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=622</guid>
     </item>
   </channel>
 </rss>
