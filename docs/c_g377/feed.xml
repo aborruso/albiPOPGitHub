@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/10/2021 | Determinazioni Del Sindaco</title>
+      <description>Approvazione  Piano di Zona 2018/2019 e schema  Accordo di Programma  Distretto Socio Sanitario D30</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=661</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=661</guid>
+    </item>
+    <item>
+      <title>05/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Servizio di Assistenza Domiciliare Anziani ADA/SAD Comuni del Distretto N.30 PAC ANZIANI Secondo riparto. Liquidazione fattura Cooperativa  IALITE dal 24/05/2021 al 30/06/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=660</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=660</guid>
+    </item>
+    <item>
       <title>05/10/2021 | Ordinanze Sindacali</title>
       <description>Smaltimento carcassa bovino</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=659</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=627</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=627</guid>
-    </item>
-    <item>
-      <title>30/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Integrazione salariale ai lavoratori ASU Sofia Enrico e Gatani Antonino per il servizio di manutenzione dell'acquedotto e della fognatura - periodo 01.10.2021  31.12.2021. Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=626</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=626</guid>
-    </item>
-    <item>
-      <title>30/09/2021 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA COSTITUZIONE NELL'ATTO DI CITAZIONE PROMOSSO DALLA SOC. BFF BANK S.P.A. DAVANTI AL TRIBUNALE DI PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=625</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=625</guid>
     </item>
   </channel>
 </rss>
