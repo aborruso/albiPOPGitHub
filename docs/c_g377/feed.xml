@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/10/2021 | Determinazioni Dirigenziali</title>
+      <description>SPESA A SALDO TRANSAZIONE CONTROVERSIA RAGGIO DI SOLE. LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=670</link>
+      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=670</guid>
+    </item>
+    <item>
       <title>06/10/2021 | Atti Di Interesse Generale</title>
       <description>RIQUALIFICAZIONE FUNZIONALE ED ESTETICA DI VIA PORTA NUOVA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=669</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=636</link>
       <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=636</guid>
-    </item>
-    <item>
-      <title>30/09/2021 | Deliberazioni Di Giunta</title>
-      <description>Integrazione salariale alla lavoratrice ASU Giarrizzo Tiziana per il periodo 01.10.2021  31.12.2021. Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=635</link>
-      <pubDate>Thu, 30 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=635</guid>
     </item>
   </channel>
 </rss>
