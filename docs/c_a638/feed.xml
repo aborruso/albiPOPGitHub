@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa a carico di Bouadiss Lakbir ex art. 143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3588</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3588</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>LAVORI DI EFFICIENTAMENTO ENERGETICO DEL PLESSO SCOLASTICO FONDACONUOVO "DON MILANI" DEL COMUNE DI BARCELLONA POZZO DI GOTTO (ME). CUP: H69J21000660001 Attivazione delle procedure per la selezione del contraente - autorizzazione a contrarre</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3587</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3587</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Selezione pubblica per titoli ed esperienze lavorative per la formazione n. 3 graduatorie (profilo A-Assistente Sociale, profilo B-Psicologo, profilo C-educatore) nell'ambito dei progetti del Distretto Socio Sanitario D. 28</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3584</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3559</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3559</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO MANUTENZIONE CONDUZIONE  IMPIANTI TECNOLOGICI DEL TEATRO MANDANICI  anno 2021-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3558</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3558</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO DIRETTO PER  INCONTRI DI FORMAZIONE SU PIATTAFORMA ON LINE - PROGRAMMATI AI FINI DELLA REALIZZAZIONE  DEL PROGETTO "A SPASSO CON I LIBRI" -  A CURA DELLA FORMATRICE CAPPELLETTI PAOLA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3557</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3557</guid>
     </item>
   </channel>
 </rss>
