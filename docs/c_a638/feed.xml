@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione delle Associazioni Giovanili, regolarmente iscritte al relativo albo comunale, per l'elezione di due rappresentanti nel Consiglio della Biblioteca Comunale Nannino Di Giovanni</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3605</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3605</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione delle Associazioni Culturali, regolamente iscritte al relativo albo comunale, per l'elezione di due rappresentanti nel Consiglio della Biblioteca Comunale Nannino Di Giovanni</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3603</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3603</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione assemblea frequentatori della biblioteca e cittadinanza per l'elezione di due rappresentanti nel Consiglio di della Biblioteca Comunale  Nannino Di Giovanni</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3602</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3602</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>DICHIARAZIONE D'EFFICACIA DELLAGGIUDICAZIONE DEL SERVIZIO DI TRASPORTO ALUNNI, LINEA DENOMINATA  "S. ANTONIO"  PER LANNO SCOLASTICO 2021/2022 ( dall11/10/2021 al 31/5/2022).</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3601</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3575</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3575</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim  manutenzione dei sistemi telefonici fonia e trasmissione dati   fattura 6820210514000757  del  10-05-2021    canoni febbraio marzo 2021   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3574</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3574</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim  manutenzione dei sistemi telefonici fonia e trasmissione dati   fattura 6820210514000755  del  10-05-2021    canoni febbraio marzo 2020   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3573</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3573</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediam. produtt. e produtt. assimilab. a civili con recapito in pubbl. fognatura.(L.R.n.27/86 e D.Lgs.vo n.152/06)-Validità mesi 6(sei).</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3572</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3572</guid>
     </item>
   </channel>
 </rss>
