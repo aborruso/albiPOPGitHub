@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/10/2021 | Atti Di Interesse Generale</title>
+      <description>CONTROLLO DELL'ATTIVITA' EDILIZIA - ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE - MESE DI SETTEMBRE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=683</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=683</guid>
+    </item>
+    <item>
+      <title>08/10/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di eseguire lavori di qualsiasi genere per conto di privati nei Cimiteri del Centro, Sorrentini e Scala, dal   28.10.21  al  05.11.2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=682</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=682</guid>
+    </item>
+    <item>
+      <title>08/10/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>pubblicazione di matrimonio  - Ciminello Nicolo mario /  Nigro Alessandra</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=681</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=681</guid>
+    </item>
+    <item>
       <title>07/10/2021 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO TECNICO DI DIREZIONE LAVORI, MISURA E CONTABILITÀ E COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE, RELATIVO AL PROGRAMMA DI RIQUALIFICAZIONE URBANA PER ALLOGGI A CANONE SOSTENIBILE CON INTERVENTI DI RECUPERO DEL PATRIMONIO EDILIZIO NEL</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=680</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=649</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=649</guid>
-    </item>
-    <item>
-      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>LAVORI DI SOMMA URGENZA SU TRATTI DI CONDOTTA IDRICA SU TERRITORIO COMUNALE PER LA SALVAGUARDIA DELLA PUBBLICA INCOLUMITA' AL FINE DI EVITARE PROBLEMI DI CARATTERE IGIENICO-SANITARIO - PRESA ATTO VERBALE SOMMA URGENZA - RATIFICA DELIBERA DI G. M.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=648</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=648</guid>
-    </item>
-    <item>
-      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>ELEZIONE ORGANO DI REVISIONE PER IL TRIENNIO 2021/2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=647</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=647</guid>
-    </item>
-    <item>
-      <title>01/10/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>VARIAZIONE AL BILANCIO AI SENSI DELL'ART. 175 DEL TUEL.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=646</link>
-      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=646</guid>
     </item>
   </channel>
 </rss>
