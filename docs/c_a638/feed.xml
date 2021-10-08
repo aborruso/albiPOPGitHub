@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Cancellazione per irreperibiltà nominativi diversi dall'anagrafe del Comune di Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3591</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3591</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa a carico Fama Antonino</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3590</link>
+      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3590</guid>
+    </item>
+    <item>
+      <title>Atti Elettorali</title>
+      <description>Revisione semestrale delle liste elettorali</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3589</link>
+      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3589</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto in busta chiusa a carico di Bouadiss Lakbir ex art. 143</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3588</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3562</link>
       <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3562</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Istanza del  dipendente matr 5067  per la fruizione di ulteriori giorni  10 di congedo straordinario retribuito decorrenti dal 28 09 2021 al 07 10 2021 da servire per l assistenza ad un parente ai sensi del 5 comma dell art 42 del D leg vo 151 del 26</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3561</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3561</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>ATTO DI LIQUIDAZIONE DELLA SOMMA DI E.2.600,25 D.M. N.58 DEL 7/4/2021 RECANTE MISURE DI RISTORO PER LE IMPRESE ESERCENTI SERVIZI DI TRASPORTO SCOLASTICO DELLE PERDITE DI FATTURATO DERIVANTI DALL'EMERGENZA EPIDEMIOLOGICA COVID -19 . DITTA LONGANO BUS</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3560</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3560</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determinazione dirigenziale n. 201 del 22/06/2020, Registro Generale n. 1513 del 24/06/2020 - Liquidazione fattura n. A20020211000040618 del 30/09/2021 in favore della Società Olivetti S.p.A. Periodo di riferimento dal 01/07/2021 al 30/09/2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3559</link>
-      <pubDate>Wed, 06 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3559</guid>
     </item>
   </channel>
 </rss>
