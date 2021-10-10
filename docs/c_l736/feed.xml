@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELETTORALE E LEVA | Pubblicazione numero 4025</title>
+      <description>MANIFESTO-RENDE NOTO CHIUSURA REVISIONE SEMESTRALE OTTOBRE 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147726.pdf</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147726.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4024</title>
       <description>BANDO DI CONCORSO PUBBLICO PER ESAMI PER DI N. 1 POSTO DI ISTR. INFORMATICO - CAT GIURIDICA ACCESSO C CON RISERVA DI UN POSTO A FAVORE DEI MILITARI VOLONTARI CONGEDATI AI SENSI DELLART. 1014, COMMI 3 E 4, E DELLART. 678, COMMA 9,D.LG 66/1</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147725.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147683.pdf</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147683.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 3981</title>
-      <description>DD/2021/1860 - SECI.GEDI.115 (CIG 884276722D) MANUTENZIONE ORDINARIA E MINUTE RIPARAZIONI - FORTI DELLA TERRAFERMA. DETERMINAZIONE A CONTRATTARE AI SENSI DELLART. 192 DEL D. LGS. N.267/2000 E DELLART. 32 C. 2 DEL D. LGS. N.50/2016, AFFIDAMENTO LAVORI E IMPEGNO DI SPESA. ATTO DA PUBBLICARE AI SENSI DELLART. 29 COMMA 1 DEL D.LGS. N. 50/2016  E ART. 23 COMMA B DEL D.LGS. 33/2013.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147682.pdf</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147682.pdf</guid>
     </item>
   </channel>
 </rss>
