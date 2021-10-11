@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Atto di citazione promosso dinnanzi al Tribunale di Barcellona P.G. da impresa GENCO srl unipersonale c/Comune di Barcellona P.G.+altri 3-Nomina legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3609</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3609</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Autorizzazione temporanea, per lo svolgimento di attività presso il Comune di Merì delle dipendente partime Calabrese Maria Rosaria. Proroga al 31/12/2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3608</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3608</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Pubblicazione Corso per Preparazione ai Concorsi di Agente di Polizia Municipale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3607</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3607</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura Halley Sud s r l  n  202100096 del 04 01 2021     C I G  Z892B040D8</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3606</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3606</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Convocazione delle Associazioni Giovanili, regolarmente iscritte al relativo albo comunale, per l'elezione di due rappresentanti nel Consiglio della Biblioteca Comunale Nannino Di Giovanni</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3605</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3579</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3579</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim  Rinnovo Servizio di manutenzione dei sistemi   telefonici fonia e trasmissione dati   fattura 6820210914000498  del  09-09-2021    canoni giugno luglio 2021   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3578</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3578</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim  Rinnovo Servizio di manutenzione dei sistemi   telefonici fonia e trasmissione dati   fattura 6820210914000502  del  09-09-2021    canoni giugno luglio 2021   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3577</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3577</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Tim  Rinnovo Servizio di manutenzione dei sistemi   telefonici fonia e trasmissione dati   fattura 6820210714002203  del  20-07-2021    canoni aprile maggio 2021   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3576</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3576</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>.   Liquidazione fattura Tim  Rinnovo Servizio di manutenzione dei sistemi telefonici fonia e trasmissione dati   fattura 6820210714002204  del  20-07-2021    canoni aprile maggio 2021   CIG Z0929941ED</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3575</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3575</guid>
     </item>
   </channel>
 </rss>
