@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/10/2021 | Avvisi Vari</title>
+      <description>RILASCIO TESSERA ELETTORALE A.S.T. PER ANZIANI</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=714</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=714</guid>
+    </item>
+    <item>
       <title>11/10/2021 | Ordinanze Dirigenziali</title>
       <description>divieto di sosta via Zuccarello: 12.10.21</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=713</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=680</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=680</guid>
-    </item>
-    <item>
-      <title>07/10/2021 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito piazza Marconi, venerdì 08.10.21  per comizi elettorali</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=679</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=679</guid>
     </item>
   </channel>
 </rss>
