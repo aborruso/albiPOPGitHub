@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1342</title>
+      <description>AFFIDAMENTO DEL SERVIZIO DI STAMPA, IMBUSTAMENTO, E RECAPITO CON POSTE ITALIANE S.P.A., RISCOSSIONE DIRETTA BOLLETTE TA.RI ANNO 2021 MEDIANTE ORDINE DIRETTO SUL MEPA – DITTA PRT GROUP S.P.A.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378575</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378575</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/273</title>
       <description>ISTITUZIONE DIVIETO DI CIRCOLAZIONE TEMPORANEO IN VIA DIETRO CHIESA -</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378505</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378287</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378287</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1331</title>
-      <description>LIQUIDAZIONE FATTURA ENI SPA PER FORNITURA BUONI CARBURANTE PER AUTO DI SERVIZIO DELLA POLIZIA LOCALE - CIG ZE432CE441</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378264</link>
-      <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378264</guid>
     </item>
   </channel>
 </rss>
