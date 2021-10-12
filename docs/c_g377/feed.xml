@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>12/10/2021 | Determinazioni Dirigenziali</title>
+      <description>AGGIUDICAZIONE DEFINITIVA ED AFFIDAMENTO LAVORI DI RISTRUTTURAZIONE EDIFICIO COMUNALE IN VIA SCIACCA BARATTA, DA ADIBIRE AD UFFICI PUBBLICI. IMPRESA: LA FENICE SOCIETÀ COOPERATIVA. Caronte SI_1_24439        C48B18000280002</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=734</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=734</guid>
+    </item>
+    <item>
+      <title>12/10/2021 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito via Bari per lavori.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=733</link>
+      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=733</guid>
+    </item>
+    <item>
+      <title>12/10/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione indennità di O.P. al personale dalla Polizia Locale per servizi anti Covid 19 - anno 2020.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=732</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=700</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=700</guid>
-    </item>
-    <item>
-      <title>08/10/2021 | Deliberazioni Di Giunta</title>
-      <description>SOSTITUZIONE DEL LEGALE NEL GIUDIZIO R.G.N.1058/2021 PENDENTE DAVANTI AL TRIBUNALE DI PATTI DI CUI AL D.I. NEI CONFRONTI DELLA EDISON ENERGIA S.P.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=699</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=699</guid>
-    </item>
-    <item>
-      <title>08/10/2021 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA SOSTITUZIONE DEL LEGALE NEL GIUDIZIO PENDENTE DAVANTI AL TRIBUNALE DI PATTI R.G.N.624/2020 PROMOSSO DALLA SOCIETÀ BANCA FARMAFACTORING S.P.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=698</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=698</guid>
     </item>
   </channel>
 </rss>
