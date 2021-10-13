@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/275</title>
+      <description>SOSPENSIONE LAVORI IN VIA PIAVE 2/4 ACI CASTELLO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378884</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378884</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/1362</title>
+      <description>EMERGENZA COVID-19.ATTO DI ORGANIZZAZIONE INTERNA DELLA I° AREA AI FINI DELL’APPLICAZIONE DELL’ART. 9-QUINQUIES DEL DECRETO LEGGE N. 127/2021 E DEL LAVORO AGILE EX ART. 1 D.M. 8/10/2021.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378882</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378882</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1361</title>
       <description>CONCESSIONE PATROCINIO GRATUITO MANIFESTAZIONE “CAMMINATA IN ROSA” ALL’ASSOCIAZIONE AIRC – DELEGAZIONE ACI CASTELLO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378817</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378614</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378614</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1346</title>
-      <description>CONCESSIONE DEL CAMPETTO DI VIA RIMINI CANNIZZARO ALL'ASSOCIAZIONE SPORTIVA WINNER SICILIA ANNO 2021 - 2022 - RETTIFICA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378612</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378612</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1345</title>
-      <description>CONCESSIONE DEL CAMPETTO DI VIA RIMINI CANNIZZARO ALL'A.S.D. NEW ASTRA STADIUMGYM ANNO 2021 - 2022</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378610</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378610</guid>
     </item>
   </channel>
 </rss>
