@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/10/2021 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE IN DITTA DI SANTO NUNZIO, FABBRICATO SITO IN C.DA PLAYA DEL COMUNE PATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=738</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=738</guid>
+    </item>
+    <item>
+      <title>13/10/2021 | Atti Elettorali</title>
+      <description>Revisione semestrali liste elettorali</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=737</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=737</guid>
+    </item>
+    <item>
       <title>13/10/2021 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. ROSALINDA CATRINI NEL GIUDIZIO R.G.N.105/2021 PENDENTE DAVANTI AL TRIBUNALE DI PATTI CONTRO LA EDISON ENERGIA S.P.A.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=736</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=704</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=704</guid>
-    </item>
-    <item>
-      <title>08/10/2021 | Deliberazioni Di Giunta</title>
-      <description>Servizio di conferimento e stoccaggio dei rifiuti organici (CER 20.01.08) provenienti dalla raccolta differenziata presso impianto autorizzato  Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=703</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=703</guid>
-    </item>
-    <item>
-      <title>08/10/2021 | Deliberazioni Di Giunta</title>
-      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul territorio del  Comune di Patti presso l'impianto di TMB sito in Trapani  C/da Belvedere  e gestito dalla Ditta Trapani Servizi SpA  -  Assegnazione Risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=702</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=702</guid>
     </item>
   </channel>
 </rss>
