@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/85</title>
+      <description>DISPOSIZIONI PER L’ORGANIZZAZIONE DELLA VERIFICA SUL POSSESSO DEL GREEN PASS AI FINI DELL’ACCESSO AI LOCALI AI SENSI DELL’ART. 9 QUINQUIES DEL D.L. N. 52/2021, MODIFICATO CON D.L. N. 127/2021.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378893</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378893</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/275</title>
       <description>SOSPENSIONE LAVORI IN VIA PIAVE 2/4 ACI CASTELLO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378884</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378656</link>
       <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378656</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/37587</title>
-      <description>ORARIO DI APERTURA AL PUBBLICO DEL CIMITERO COMUNALE IN OCCASIONE DELLA FESTIVITA' DELLA COMMEMORAZIONE DEI DEFUNTI E ORARIO INVERNALE DI APERTURA AL PUBBLICO DEL CIMITERO COMUNALE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378614</link>
-      <pubDate>Tue, 12 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/378614</guid>
     </item>
   </channel>
 </rss>
