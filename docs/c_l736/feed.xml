@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 4107</title>
+      <description>ISTANZA DI MODIFICA DEL PROPRIO PRENOME DA "ANTONINA VASSILIEVNA" IN "ANTONINA"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147808.pdf</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147808.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 4106</title>
       <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA COMUNALE A NOME DI RAHMAN SYDUR</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147807.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147779.pdf</link>
       <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147779.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 4077</title>
-      <description>ORDINANZA N. 630 DEL 12/10/2021: MODIFICHE ALLA VIABILITÀ CON INTERDIZIONE AL TRANSITO IN CASTELLO CALLE SCOLASTICA. DAL GIORNO 18/10/2021 AL GIORNO 05/11/2021 DALLE ORE 07:00 ALLE ORE 18:00.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147778.pdf</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147778.pdf</guid>
     </item>
   </channel>
 </rss>
