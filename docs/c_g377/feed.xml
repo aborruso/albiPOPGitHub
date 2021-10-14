@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fornitura energia elettrica  SETTEMBRE 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=744</link>
+      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=744</guid>
+    </item>
+    <item>
       <title>14/10/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>DELIBERA N.17 DEL 08/10/2021 - APPROVAZIONE BILANCIO DI PREVISIONE ESERCIZIO 2020</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=743</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=710</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=710</guid>
-    </item>
-    <item>
-      <title>08/10/2021 | Determinazioni Del Sindaco</title>
-      <description>Valutazione del Segretario Generale del Comune, finalizzati alla retribuzione di risultato prevista dall'art. 42 del contratto collettivo di lavoro 1998/2001. Anno 2019, 2020, 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=709</link>
-      <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=709</guid>
     </item>
   </channel>
 </rss>
