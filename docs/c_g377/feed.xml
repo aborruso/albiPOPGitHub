@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/10/2021 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=750</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=750</guid>
+    </item>
+    <item>
+      <title>15/10/2021 | Atti Elettorali</title>
+      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=749</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=749</guid>
+    </item>
+    <item>
+      <title>15/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Azione N. 7 "Spazio Lavoro" Integrazione alla Terza Annualità -  PdZ 2013-2015  - Liquidazione mese di  Settembre  ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=748</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=748</guid>
+    </item>
+    <item>
+      <title>15/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Servizio Fornitura arredi  mobili giochi -Asili Nido Distretto Socio Sanitario N. 30  PAC Infanzia Secondo Riparto Liquidazione.  CUP C69D16003670005.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=747</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=747</guid>
+    </item>
+    <item>
       <title>14/10/2021 | Determinazioni Dirigenziali</title>
       <description>Attribuzione diritti di rogito al Segretario Generale dott. Pietro Manganaro - Liquidazione</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=746</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=716</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=716</guid>
-    </item>
-    <item>
-      <title>11/10/2021 | Determinazioni Dirigenziali</title>
-      <description>CONTRIBUTO PER IL FUNZIONAMENTO DELL'AUTORITA' DI REGOLAZIONE PER ENERGIA RETI E AMBIENTI (ARERA) DOVUTO PER L'ANNO 2021 DAI SOGGETTI OPERANTI NEL SETTORE IDRICO INTEGRATO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=715</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=715</guid>
-    </item>
-    <item>
-      <title>11/10/2021 | Avvisi Vari</title>
-      <description>RILASCIO TESSERA ELETTORALE A.S.T. PER ANZIANI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=714</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=714</guid>
-    </item>
-    <item>
-      <title>11/10/2021 | Ordinanze Dirigenziali</title>
-      <description>divieto di sosta via Zuccarello: 12.10.21</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=713</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=713</guid>
-    </item>
-    <item>
-      <title>11/10/2021 | Verbali Risultanze Di Gara</title>
-      <description>SEDUTA PUBBLICA - PROCEDURA APERTA PER L'AFFIDAMENTO IN CONCESSIONE DELLA GESTIONE E L'USO DELL'IMPIANTO SPORTIVO "CALCETTO A SETTE" SITO IN C. DA S. GIOVANNI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=712</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=712</guid>
     </item>
   </channel>
 </rss>
