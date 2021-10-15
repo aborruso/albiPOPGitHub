@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>istituzione di uno stallo di sosta per vetture a servizio di invalido in Via S. Crinò n.c. 31</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3701</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3701</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione Divieto di Sosta Via del Mare  dal  n.c. 100  al n.c. 103</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3700</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3700</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso pubblico a favore dei soggetti  facenti parte di nuclei familiari che si trovano in stato di bisogno a causa dell'emergenza socio assistenziale da Covid 19 per l'assegnazione di buoni spesa/voucher per l'acquisto di prodotti di prima necessità</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3699</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3674</link>
       <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3674</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Registrazione sentenza n.676 del 2019 emessa dalla Corte di Appello di Messina nel giudizio  RG n 560  del 2016 promosso da Messina Sebastiano Salvatore e Cambria Tiziana</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3673</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3673</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di Efficientamento Energetico del Plesso Scolastico Fondaconuovo Don Milani Del Comune di Barcellona P.G. - Procedura negoziata indetta mediante invito a presentare offerta del M.E.P.A. Importo a base asta Euro 82.189,29 oltre Euro 1.066,87 pe</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3672</link>
-      <pubDate>Thu, 14 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3672</guid>
     </item>
   </channel>
 </rss>
