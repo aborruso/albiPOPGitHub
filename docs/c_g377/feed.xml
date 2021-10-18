@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Affidamento incarico di Assistenza Tecnica per il potenziamento degli uffici servizi sociali Distretto Socio Sanitario AOD n.1.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=756</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=756</guid>
+    </item>
+    <item>
       <title>15/10/2021 | Pubblicazioni Di Matrimonio</title>
       <description>PUBBLICAZIONE DI MATRIMONIO - SAINVILLE WILLIAM / GIARDINA LIDIA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=755</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=722</link>
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=722</guid>
-    </item>
-    <item>
-      <title>11/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI SOMMA URGENZA AL FINE DI GARANTIRE IL SERVIZIO IDRICO SUL TERRITORIO COMUNALE ATTRAVERSO LA FORNITURA E RELATIVI LAVORI DI POSA IN OPERA DI UN'ELETTROPOMPA E DELLE PARTI MECCANICHE DI DUE ELETTROPOMPE INSTALLATE PRESSO LIMPIANTO DI SOLLEVAM</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=721</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=721</guid>
     </item>
   </channel>
 </rss>
