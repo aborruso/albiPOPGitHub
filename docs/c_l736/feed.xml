@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4229</title>
+      <description>BANDO DI SELEZIONE PUBBLICA PER ESAMI PER LA COPERTURA DI N. 1 UNITÀ DI PERSONALE CON PROFILO PROFESSIONALE DI DIRIGENTE, A TEMPO PIENO ED INDETERMINATO</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147930.pdf</link>
+      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147930.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4228</title>
       <description>CONCORSO PUBBLICO PER ESAMI PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE  DIRETTIVO INFORMATICO-AMMINISTRATIVO, CATEGORIA D (CCNL COMPARTO FUNZIONI  LOCALI) A TEMPO PIENO E INDETERMINATO</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147929.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147900.pdf</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147900.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 4198</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA COMUNALE A NOME DI HELMY HAWWAS AHMED MOHAMED</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147899.pdf</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147899.pdf</guid>
     </item>
   </channel>
 </rss>
