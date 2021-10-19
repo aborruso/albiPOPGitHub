@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1395</title>
+      <description>PROROGA DELLA CONCESSIONE DI SUOLO PUBBLICO TEMPORANEO N, 34/2021 PER COLLOCAZIONE PONTEGGIO SU VIA PROVINCIALE ANGOLO VIA RODOLICO DITTA BONACCORSO GIOVANNI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379616</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379616</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1394</title>
       <description>LIQUIDAZIONE FATTURA N. 219307037 DEL 22.08.2021 ALLA DITTA RICOH ITALIA S.R.L. PER COPIE ECCEDENTI PERIODO 01.05.2021 - 31.07.2021.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379546</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379386</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379386</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1375</title>
-      <description>INDIVIDUAZIONE E NOMINA CAPI SERVIZIO DELLA 2^ AREA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379384</link>
-      <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/379384</guid>
     </item>
   </channel>
 </rss>
