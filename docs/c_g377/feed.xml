@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/10/2021 | Deliberazioni Di Giunta</title>
+      <description>Assegnazione al V Settore Area Economico Finanziaria - Tributi Locali risorsa finanziaria necessaria per la stampa, l'imbustamento e la spedizione degli avvisi di pagamento relativi al saldo TARI anno 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=788</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=788</guid>
+    </item>
+    <item>
+      <title>20/10/2021 | Deliberazioni Di Giunta</title>
+      <description>Progetto realizzazione di Loculi nei cimiteri del Centro e della Frazione Scala - Assegnazione Risorse e Atto Di Indirizzo</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=787</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=787</guid>
+    </item>
+    <item>
+      <title>20/10/2021 | Ordinanze Dirigenziali</title>
+      <description>Ordinanza Chiusura attività somministrazione alimenti e bevande</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=786</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=786</guid>
+    </item>
+    <item>
       <title>20/10/2021 | Determinazioni Del Sindaco</title>
       <description>PROGETTO PER LA REALIZZAZIONE DI NUOVI LOCULI NEI CIMITERI DEL CENTRO E DELLA FRAZIONE SCALA - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO E COLLAUDATORE STATICO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=785</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=754</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=754</guid>
-    </item>
-    <item>
-      <title>15/10/2021 | Determinazioni Dirigenziali</title>
-      <description>OGGETTO: LIQUIDAZIONE FORNITURA DPI PER I SOGGETTI  AVVIATI NEL  CANTIERE DI SERVIZI -      CIG Z442EAE5DO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=753</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=753</guid>
-    </item>
-    <item>
-      <title>15/10/2021 | Determinazioni Dirigenziali</title>
-      <description>Lavori di efficientamento energetico degli uffici comunali di Piazza Mario Sciacca  1° Stralcio Determinazione a contrarre mediante affidamento diretto ed impegno di spesa - CUP C49J21037150001 -  Impresa: ECOPROMOTION Società Cooperativa Sociale</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=752</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=752</guid>
-    </item>
-    <item>
-      <title>15/10/2021 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. ROSANNA DELL'AERA  NEL GIUDIZIO PENDENTE R.G.N.624/2020 TRIBUNALE DI PATTI. BANCA FARMAFACTORING S.P.A.IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=751</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=751</guid>
     </item>
   </channel>
 </rss>
