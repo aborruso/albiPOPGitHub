@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Nomina Agente Contabile Interno Settore Servizi Demografici</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=790</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=790</guid>
+    </item>
+    <item>
+      <title>21/10/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>ATTO DI INDORIZZO POLITICO AMMINISTRATIVO FINALIZZATO ALL'ATTIVAZIONE DELL'ITER BUROCRATICO DIRETTO ALLA REALIZZAZIONE DEL SERVIZIO DI MENSA SCOLASTICA  PER L'ANNO 2021 -2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=789</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=789</guid>
+    </item>
+    <item>
       <title>20/10/2021 | Deliberazioni Di Giunta</title>
       <description>Assegnazione al V Settore Area Economico Finanziaria - Tributi Locali risorsa finanziaria necessaria per la stampa, l'imbustamento e la spedizione degli avvisi di pagamento relativi al saldo TARI anno 2021.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=788</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=756</link>
       <pubDate>Mon, 18 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=756</guid>
-    </item>
-    <item>
-      <title>15/10/2021 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO - SAINVILLE WILLIAM / GIARDINA LIDIA</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=755</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=755</guid>
-    </item>
-    <item>
-      <title>15/10/2021 | Determinazioni Dirigenziali</title>
-      <description>Affidamento Incarico Servizio Tecnico di Direzione  dei Lavori, misura, contabilità e Coordinamento della Sicurezza in fase di esecuzione e pratiche per allaccio impianto fotovoltaico e Certificato di regolare esecuzione dei lavori di efficientamento</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=754</link>
-      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=754</guid>
     </item>
   </channel>
 </rss>
