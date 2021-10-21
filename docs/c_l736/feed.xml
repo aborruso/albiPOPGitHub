@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 4293</title>
+      <description>ORDINANZA N. 652 DEL 21/10/2021 - CANALE DI CANNAREGIO E CANAL GRANDE DI VENEZIA, REGOLAZIONE DEL TRAFFICO DURANTE LA MANIFESTAZIONE REMIERA PER IL "120° ANNIVERSARIO DELLA FONDAZIONE RS CANOTTIERI QUERINI".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147994.pdf</link>
+      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147994.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISO AI CREDITORI | Pubblicazione numero 4292</title>
       <description>AVVISO AI CREDITORI VERSO LIMPRESA: IL CONCESSIONARIO "CONSORZIO VENEZIA NUOVA" CON SEDE IN CASTELLO N. 2737/F VENEZIA, ULTIMAZIONE LAVORI: INTERVENTI ALLE BOCCHE LAGUNARI PER LA REGOLAZIONE DEI FLUSSI DI MAREA. OPERE IN CORRISPONDENZA DELLA BOCCA LAGUNARE DI CHIOGGIA. WBS: CH.F1.28: BOCCA DI CHIOGGIA - SPALLA NORD: SISTEMAZIONI SUPERFICIALI. WBE: CH.F1.28.PE.02: INSERIMENTO ARCHITETTONICO DELLEDIFICIO DI SPALLA E DELLE AREE ESTERNE (OP/584-2).</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147993.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147965.pdf</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147965.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 4263</title>
-      <description>SCIA EX ART. 87 BIS D.LGS 259/03 PER RICONFIGURAZIONE DI UNA STAZIONE RADIO BASE PER LA TELEFONIA MOBILE SU INFRASTRUTTURA ESISTENTE. CODICE SITO: VE30175_009 - MARGHERA NORD.  COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87,  COMMA 4 DEL D. LGS.259/03). INDIRIZZO LAVORI: VIA GIORGIO RIZZARDI (MARGHERA) N.21; DATI CATASTALI:  C.T. SEZ.UNIFICATA, FG.1, MP. 65.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147964.pdf</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP147964.pdf</guid>
     </item>
   </channel>
 </rss>
