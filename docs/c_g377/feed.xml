@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/10/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in via XX Settembre per lavori di messa in sicurezza: 25 e 26 Ottobre p.v.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=795</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=795</guid>
+    </item>
+    <item>
+      <title>22/10/2021 | Ordinanze Sindacali</title>
+      <description>ORDINANZA T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=794</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=794</guid>
+    </item>
+    <item>
       <title>21/10/2021 | Determinazioni Dirigenziali</title>
       <description>Nomina Agente Contabile Interno  Settore Servizi Demografici - Rettifica det. 1160 del 21/102021 per mero errore di battitura-</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=793</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=761</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=761</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Ordinanze Sindacali</title>
-      <description>Smaltimento carcasse ovini</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=760</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=760</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Avvisi Vari</title>
-      <description>PdZ 2013/2015 - AOD n.1 DEL DISTRETTO SOCIO SANITARIO N.30 AZIONE "EMERGENZA E URGENZA SOCIALE " TERZA ANNUALITA'</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=759</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=759</guid>
     </item>
   </channel>
 </rss>
