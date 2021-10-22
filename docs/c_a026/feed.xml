@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1421</title>
+      <description>CONCESSIONE UTILIZZO CAMPETTO VIA RIMINI CANNIZZARO ALL' I.C.S. FALCONE DI ACI CASTELLO ANNO 2021 - 2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380202</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380202</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1420</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: E-DITRIBUZIONE S.P.A. - SITO: VIA VAMPOLIERI PRESSI CIV. N. 35 - REALIZZAZIONE DI UN TRATTO DI LINEA IN CAVO INTERRATO BT E POSA NUOVO POZZETTO STRADALE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380169</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380005</link>
       <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380005</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1403</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA SICULA TRASPORTI S.P.A. - CONFERIMENTO RIFIUTI DIFFERENZIATI CON CER 200138 - MESE DI AGOSTO 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380003</link>
-      <pubDate>Thu, 21 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380003</guid>
     </item>
   </channel>
 </rss>
