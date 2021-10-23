@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/10/2021 | Determinazioni Del Sindaco</title>
+      <description>ATTRIBUZIONE DELEGHE ASSESSORIALI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=797</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=797</guid>
+    </item>
+    <item>
+      <title>23/10/2021 | Determinazioni Del Sindaco</title>
+      <description>NOMINA VICE SINDACO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=796</link>
+      <pubDate>Sat, 23 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=796</guid>
+    </item>
+    <item>
       <title>22/10/2021 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta in via XX Settembre per lavori di messa in sicurezza: 25 e 26 Ottobre p.v.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=795</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=763</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=763</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Atti Elettorali</title>
-      <description>AGGIORNAMETO DELL'ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=762</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=762</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Ordinanze Sindacali</title>
-      <description>Ordinanza contingibile ed urgente ai sensi dell'art. 191 del D.Lgs. n. 152/2006 e del D.Lgs. n. 121/2011 e ss.mm.ii. - Prosecuzione del servizio di raccolta e conferimento della frazione organica dei rifiuti provenienti da raccolta differenziata (CER</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=761</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=761</guid>
     </item>
   </channel>
 </rss>
