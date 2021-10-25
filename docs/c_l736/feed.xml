@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ASTE PUBBLICHE | Pubblicazione numero 4338</title>
+      <description>ESTRATTO AVVISO DI GARA MEDIANTE ASTA PUBBLICA PER LALIENAZIONE DI TERRENI DI PROPRIETA COMUNALE SITI IN COMUNE DI SPINEA VIA BENNATI E IDENTIFICATO CATASTALMENTE AL FOGLIO 9 MAPPALE 2992.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148039.pdf</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148039.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 4337</title>
+      <description>BANDO DI GARA N. 42/2021 - CONDUZIONE SERVIZI DI SALA ESERCIZI CINEMATOGRAFICI GIORGIONE MOVIE DESSAI, ASTRA, ROSSINI E CASA DEL CINEMA, SERVIZIO DI PRESIDIO DEL CENTRO CANDIANI. - LOTTO 1: BIGLIETTERIA E ACCOGLIENZA; DI CABINA, SBIGLIETTAMENTO E CONTROLLO ACCESSI; DI COORDINAMENTO E GESTIONE DELLE CONDIZIONI DI SICUREZZA; DI PULIZIA; PER GLI ESERCIZI  CINEMATOGRAFICI IN VENEZIA "MULTISALA" E "CASA DEL CINEMA" - CIG 8738584BA2 - LOTTO 2: PRESIDIO PER IL "CANDIANI" - CIG 873859658B</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148038.pdf</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148038.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 4336</title>
       <description>AVVISO DI SELEZIONE PUBBLICA PER LASSUNZIONE A TEMPO PIENO ED INDETERMINATO DI N. 1 ISTRUTTORE TECNICO  CAT. C.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148037.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148010.pdf</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148010.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 4308</title>
-      <description>AVVISO PUBBLICO PER LA RACCOLTA DELLE CANDIDATURE A RICOPRIRE LINCARICO DI PRESIDENTE DEL COLLEGIO DEI REVISORI DEI CONTI DEL COMUNE DI VENEZIA - TRIENNIO 2021-2024</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148009.pdf</link>
-      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148009.pdf</guid>
-    </item>
-    <item>
-      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 4307</title>
-      <description>ISTANZA DI  CAMBIO COGNOME IN "QUARISA"</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148008.pdf</link>
-      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148008.pdf</guid>
     </item>
   </channel>
 </rss>
