@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/10/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATT. N. FE/2021/0183 DEL 30.09.2021  SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO  DITTA PIZZO PIPPO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=800</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=800</guid>
+    </item>
+    <item>
+      <title>25/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Convenzione Consip telefonia mobile  8 -  Adesione  cig. derivato ZC83387D69</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=799</link>
+      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=799</guid>
+    </item>
+    <item>
+      <title>24/10/2021 | Ordinanze Sindacali</title>
+      <description>Condizioni meteorologiche avverse previste per la giornata del 25/10/2021 Misure di sicurezza a tutela delia pubblica incolumità delia popolazione da attivare in caso di emergenza idrogeologica</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=798</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=798</guid>
+    </item>
+    <item>
       <title>23/10/2021 | Determinazioni Del Sindaco</title>
       <description>ATTRIBUZIONE DELEGHE ASSESSORIALI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=797</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=766</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=766</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Determinazioni Dirigenziali</title>
-      <description>Canone di locazione del locale  adibito ad alloggio di servizio del Comandante della Compagnia  dei Carabinieri di Patti  Liquidazione fattura N.67/E del 02/09/2021 per mesi sei dal 01/03/2021 al 31/08/2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=765</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=765</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE SPETTANZE ATTIVITA' DI  SOGGETTO FORMATORE -                             NOTA  n. 36993 del 06/10/2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=764</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=764</guid>
-    </item>
-    <item>
-      <title>19/10/2021 | Determinazioni Del Sindaco</title>
-      <description>NOMINA COMPONENTI GIUNTA COMUNALE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=763</link>
-      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=763</guid>
     </item>
   </channel>
 </rss>
