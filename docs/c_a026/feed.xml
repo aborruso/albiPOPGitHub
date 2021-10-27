@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/40006</title>
+      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SESSIONE ORDINARIA PER DETERMINAZIONE DEL PRESIDENTE DEL CONSIGLIO COMUNALE, AI SENSI DELL'ART. 50, COMMA 8 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE - IN VIDEOCONFERENZA PER IL GIORNO 03/11/2021 ALLE ORE 10,30.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380806</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380806</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/89</title>
       <description>INCARICO DI SOSTITUZIONE DI RESPONSABILE DELL'AREA II “SERVIZI ALLA PERSONA, CULTURALI RICREATIVI E TURISTICI PUBBLICA ISTRUZIONE E ASSISTENZA SCOLASTICA SERVIZI DEMOGRAFICI ED ELETTORALI- CUSTODI SERVIZI CIMITERIALI ILLUMINAZIONE VOTIVA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380738</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380403</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380403</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1425</title>
-      <description>RENDICONTO DELL'ANTICIPAZIONE ALL'ECONOMO COMUNALE A FRONTE DETERMINAZIONE N.75 DEL 03.02.2021 PER PAGAMENTO TASSE AUTOMOBILISTICHE AUTOMEZZI DI PROPRIETÀ DELL'ENTE ANNO 2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380401</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380401</guid>
     </item>
   </channel>
 </rss>
