@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/10/2021 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità per lavori in via L. Della Robbia e in via XX Settembre.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=835</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=835</guid>
+    </item>
+    <item>
+      <title>27/10/2021 | Determinazioni Dirigenziali</title>
+      <description>Concessione congedo straordinario retribuito alla dipendente Ceraolo Antonella</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=834</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=834</guid>
+    </item>
+    <item>
       <title>27/10/2021 | Determinazioni Dirigenziali</title>
       <description>Rimborso forfettario   spese vive alle  Associazioni di Volontariato  per servizi di supporto in occasione del "Giro di Sicilia" di ciclismo.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=833</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=801</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=801</guid>
-    </item>
-    <item>
-      <title>25/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATT. N. FE/2021/0183 DEL 30.09.2021  SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO  DITTA PIZZO PIPPO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=800</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=800</guid>
-    </item>
-    <item>
-      <title>25/10/2021 | Determinazioni Dirigenziali</title>
-      <description>Convenzione Consip telefonia mobile  8 -  Adesione  cig. derivato ZC83387D69</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=799</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=799</guid>
     </item>
   </channel>
 </rss>
