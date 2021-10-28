@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/10/2021 | Determinazioni Dirigenziali</title>
+      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021. EMERGENZA SANITARIA COVID-19 PROTOCOLLO SANITARIO -SANIFICAZIONE LOCALI ADIBITI A SEGGI ELETTORALI- - CIG ZC6330F44A LIQUIDAZIONE FATTURA  N. 256 del 15-10-2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=840</link>
+      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=840</guid>
+    </item>
+    <item>
       <title>27/10/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione registrazione del contratto di locazione con l' Istituto Caleca "Figlie Maria Ausiliatrice.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=839</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=806</link>
       <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=806</guid>
-    </item>
-    <item>
-      <title>25/10/2021 | Determinazioni Dirigenziali</title>
-      <description>SPESE LEGALI IN CONTO AVV. ANDREA PIRRI. ACCERTAMENTO OBBLIGO DEL TERZO PROCEDURA r.g.e.N.468/2020. LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=805</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=805</guid>
     </item>
   </channel>
 </rss>
