@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/314</title>
+      <description>CONDIZIONI METEOROLOGICHE AVVERSE CHIUSURA PER IL 30/10/2021 DEL, CIMITERO COMUNALE,DEL CASTELLO NORMANNO E DELLE DELLE ISOLE ECOLOGICHE MOBILI, DIVIETO DI CIRCOLAZIONE DEI MEZZI A DUE RUOTE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380901</link>
+      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380901</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1439</title>
       <description>RILASCIO E RINNOVO TESSERINI FUNGHI ANNO 2021-VERSAMENTO ALLA REGIONE DEL 30% DEGLI INTROITI 1° E 2° QUADRIMESTRE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380888</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380670</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380670</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1433</title>
-      <description>AFFIDAMNETO DEI SERVIZI DI PULIZIA DEGLI IMMOBILI COMUNALI PER 11 SETTIMANE - CIG: ZCB326A441 - PROROGA TECNICA FINO AL 10/11/2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380667</link>
-      <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/380667</guid>
     </item>
   </channel>
 </rss>
