@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Fondo risorse decentrate. COSTITUZIONE FONDO PERSONALE DIPENDENTE ANNO 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3867</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3867</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblico per l'affidamento in concessione a favore di soggetti privati o pubblici del bene confiscato alla criminalità e acquisito al patrimonio indisponibile del Comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3866</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3866</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso pubblico di manifestazione di interesse per idonei in graduatorie di concorsi pubblici espletati da altri enti per la copertura di n. 1 posto di istruttore di vigilanza - Cat. C, CCNL Comparto Funzioni locali</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3865</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3840</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3840</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori per interventi di messa in sicurezza della pista ciclabile lungo la passeggiata a mare, tra il torrente Mela e il torrente Patrì.  Liquidazione  fattura per forniture all'impresa C &amp; C Infrastrutture S.r.l.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3839</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3839</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura prot. N° 49136 del 27/09/2021 alla s.r.l. Calor Sistem per la fornitura e posa in opera di condizionatori presso gli edifici di proprietà comunale.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3838</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3838</guid>
     </item>
   </channel>
 </rss>
