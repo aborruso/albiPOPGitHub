@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>BANDO DI CORSO CON SELEZIONE FINALE PER TECNICI COMUNALI A TEMPO DETERMINATO CAT. C1 FORMAZIONE DI UNA GRADUATORIA DI MERITO VALIDA PER I COMUNI DELLE PROVINCE D'ITALIA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=877</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=877</guid>
+    </item>
+    <item>
+      <title>02/11/2021 | Atti Elettorali</title>
+      <description>ALBO DEGLI SCRUTATORI A DOMANDA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=876</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=876</guid>
+    </item>
+    <item>
+      <title>02/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI IN PRONTA DISPONIBILITA' SERVIZIO IGIENE PUBBLICA E MEDICINA LEGALE  - PERIODO DI NOVEMBRE 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=875</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=875</guid>
+    </item>
+    <item>
       <title>29/10/2021 | Ordinanze Sindacali</title>
       <description>Smaltimento carcassa bovino ditta Caruso Massimo</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=874</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=843</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=843</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse contratto di comodato d'uso gratuito di locali della Parrocchia "Ognissanti di Mongiove" da utilizzare per la scuola materna comunale Case Nuove Malluzzo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=842</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=842</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA SOSTITUZIONE DEL LEGALE NEL GIUDIZIO PENDENTE DAVANTI AL TRIBUNALE DI PATTI R.G.N.1077/18 PROMOSSO DALLA SOCIETÀ BANCA FARMAFACTORING S.P.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=841</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=841</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Determinazioni Dirigenziali</title>
-      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021. EMERGENZA SANITARIA COVID-19 PROTOCOLLO SANITARIO -SANIFICAZIONE LOCALI ADIBITI A SEGGI ELETTORALI- - CIG ZC6330F44A LIQUIDAZIONE FATTURA  N. 256 del 15-10-2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=840</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=840</guid>
     </item>
   </channel>
 </rss>
