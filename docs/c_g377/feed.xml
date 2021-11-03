@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/11/2021 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito via S. Teodoro per lavori: dal 04/11 al 07/11/21.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=882</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=882</guid>
+    </item>
+    <item>
       <title>03/11/2021 | Determinazioni Dirigenziali</title>
       <description>FORNITURA MATERIALE VARIO NECESSARIO PER LA MANUTENZIONE DELLE STRADE E DEGLI STABILI COMUNALI DITTA SIRAME SRL CIG: ZD131F1E45 LIQUIDAZIONE FATTURA N. 19/E DEL 30.09.2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=881</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=848</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=848</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali | DITTA: AGENZIA NEBRODI"</title>
-      <description>"DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER  PRENOTAZIONI REVISIONI AANUALI E REVISIONE BIENNALE DEI CRONOTACHIGRAFI DIGITALI SUGLI   SCUOLABUS  DI PROPRIETA' COMUNALE.            </description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=847</link>
-      <pubDate>28/10/2021	Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=847</guid>
     </item>
   </channel>
 </rss>
