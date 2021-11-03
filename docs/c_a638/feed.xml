@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>VERBALE N. 7 FINALE GARA  MENSA 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3868</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3868</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Fondo risorse decentrate. COSTITUZIONE FONDO PERSONALE DIPENDENTE ANNO 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3867</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3841</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3841</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento servizio di direzione lavori contabilità, coordinamento sicurezza in fase di esecuzione relativo ai lavori di manutenzione straordinaria di un palazzo signorile sito in Via Mandanici in Barcellona Pozzo di Gotto. Procedura negoziata ad in</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3840</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3840</guid>
     </item>
   </channel>
 </rss>
