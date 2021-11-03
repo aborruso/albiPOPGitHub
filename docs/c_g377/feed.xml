@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/11/2021 | Avvisi Deposito Atti</title>
+      <description>ELENCO  DEI CONTRIBUENTI DI CUI SI CHIEDE LA   PUBBLICAZIONE PER IRREPERIBILITA' ASSOLUTA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=885</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=885</guid>
+    </item>
+    <item>
+      <title>03/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Software E-Governement e Messi comunali -  ANNO 2021. CIG ZA93148B33  liquidazione.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=884</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=884</guid>
+    </item>
+    <item>
+      <title>03/11/2021 | Determinazioni Dirigenziali</title>
+      <description>BORSA DI STUDIO "A. PISANI CACCIA" ANNO SCOLASTICO 2018/2019. LIQUIDAZIONE  SECONDA  RATA AL SIG.  DE LUCA GABRIELE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=883</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=883</guid>
+    </item>
+    <item>
       <title>03/11/2021 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito via S. Teodoro per lavori: dal 04/11 al 07/11/21.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=882</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=851</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=851</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONE STRAORDINARIA DEI BOX DI EMERGENZA PER CANI RANDAGI DI C/DA MULINELLO. DITTA: IMPRESA EDILE PAGANA NUNZIO LIQUIDAZIONE  FATTURA N. FPA 1/21 del 14.08.2021  CIG: Z60313A1C8</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=850</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=850</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURE N. 1305/04 E 1348/04 DEL 30.09.2021 - SERVIZIO DI SMALTIMENTO FINALE DELLA FRAZIONE DI SOPRAVAGLIO DEI RIFIUTI NON PERICOLOSI RACCOLTI NEL TERRITORIO DI QUESTO COMUNE PRESSO L'IMPIANTO SITO IN C.DA VALANGHE DINVERNO  MOTTA SANTAN</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=849</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=849</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI RIPARAZIONE DI ALCUNE ATTREZZATURE IN DOTAZIONE ALL'UFFICIO TECNICO.  CIG: ZE4331683A DITTA BRIDAFER  LIQUIDAZIONE FATTURA N. 29/PA DEL 19.10.2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=848</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=848</guid>
     </item>
   </channel>
 </rss>
