@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Rilascio attestazione per il trasferimento della Farmacia Flaccomio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3871</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3871</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Richiesta autorizzazione trasferimento Farmacia Flaccomio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3870</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3870</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Integrazione all'elenco degli esercizi commerciali e di somministrazione che garantiscono la spendibilità dei buoni spesa per l'acquisto di beni di prima necessità-Emergenza Covid 19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3869</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3869</guid>
+    </item>
+    <item>
       <title>Verbali Risultanze Di Gara</title>
       <description>VERBALE N. 7 FINALE GARA  MENSA 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3868</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3844</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3844</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento del servizio di Assistenza all'autonomia e comunicazione agli alunni disabili che frequentano le scuole dell'infanzia, primarie e secondarie di I grado nei comuni del Distretto socio-sanitario D28.  CIG:8944515F44</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3843</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3843</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Tombe site nell'Ampliamento del Cimitero Lotto C Tipo Edicola n. EB 76 rimborso somme pagate in eccedenza.  Ditta Imbesi Concetta.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3842</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3842</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RETTIFICA DETERMINAZIONE DIRIGENZIALE  N° 185 DEL  21/10/2021  (REG. Gen. N° 2387 del 21/10/2021)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3841</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3841</guid>
     </item>
   </channel>
 </rss>
