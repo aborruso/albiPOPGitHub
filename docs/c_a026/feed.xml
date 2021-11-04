@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/40662</title>
+      <description>AVVISO PER BILANCIO PARTECIPATIVO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381480</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381480</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/317</title>
       <description>LAVORI DI REGIMENTAZIONE E SMALTIMENTO DELLE ACQUE PIOVANE IN VIA TRIESTE ACI CASTELLO – PROVVEDIMENTI DI CIRCOLAZIONE SULLA VIA TRIESTE NEL TRATTO COMPRESO TRA LA VIA TRIPOLI E LA VIA SAN FILIPPO NERI.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381434</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381043</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381043</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1448</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA SICULA COMPOST S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200201) CONFERITI NEL MESE DI SETTEMBRE 2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381041</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381041</guid>
     </item>
   </channel>
 </rss>
