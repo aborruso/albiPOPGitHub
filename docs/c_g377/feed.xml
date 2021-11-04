@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Servizio di potenziamento Connettività internet con graduale upgrade dei collegamenti remoti in fibra ottica del Comune di Patti, ANNO 2021. CIG Z312FFE872. Liquidazione spese 4 (luglio/agosto 2021). e 5° bimestre (settembre/ottobre 2021).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=887</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=887</guid>
+    </item>
+    <item>
       <title>04/11/2021 | Ordinanze Dirigenziali</title>
       <description>Regolamentazione viabilità a Sorrentini per festività liturgica di San Teodoro M.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=886</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=853</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=853</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Determinazioni Dirigenziali</title>
-      <description>LAVORI PER LO SMALTIMENTO DELLE ACQUE PIOVANE PRESENTI NELLA VASCA COLLOCATA IN PROSSIMITÀ DEL SOTTOPASSO FERROVIARIO IN LOCALITÀ TORRE FORTUNATO. DITTA ELETTROEDIL  "RAPPAZZO" s.r.l.  LIQUIDAZIONE FATTURA N. 1281/00 del 18.10.2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=852</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=852</guid>
     </item>
   </channel>
 </rss>
