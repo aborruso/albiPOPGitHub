@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 4505</title>
+      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI CONFORTI ALESSIA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148206.pdf</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148206.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 4504</title>
       <description>EGNALAZIONE CERTIFICATA DI INIZIO ATTIVITÀ AI SENSI DELLART.87 BIS DEL D.LGS 259/03 PER MODIFICA DI UNA STAZIONE DI TELEFONIA MOBILE DI ILIAD ITALIA SPA DENOMINATA VE 30173_010 FAVARO VENETO EST. COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D. LGS.259/03). INDIRIZZO LAVORI: VIA TRIESTINA (FAVARO - TESSERA - AEROPORTO) N.48-54 DATI CATASTALI: C.T. SEZ.UNIFICATA, FG.165, MP.510;  C.T. SEZ.UNIFICATA, FG.165, MP.510;</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148205.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148177.pdf</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148177.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 4475</title>
-      <description>SCIA EX ART. 87 BIS DLGS 259/03 PE RICONFIGURAZIONE SRB TIM ESISTENTE E CONTESTUALE INSTALLAZIONE DI NUOVA SRB VODAFONE. CODICE SITO TIM: VE15 - VE PIAZZALE ROMA; VODAFONE: 2 VE 1579 B - SANTA CROCE SSI . COMUNICAZIONE DI AVVIO DEL PROCEDIMENTO (ARTT. 7 E 8, L. 241/90) E DI PUBBLICIZZAZIONE (ART. 87, COMMA 4 DEL D. LGS.259/03). INDIRIZZO LAVORI: RAMPA SANTA CHIARA (SANTA CROCE) N.496 C/O PARCHEGGIO COMUNALE</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148176.pdf</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148176.pdf</guid>
     </item>
   </channel>
 </rss>
