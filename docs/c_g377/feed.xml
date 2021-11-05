@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/11/2021 | Determinazioni Dirigenziali</title>
+      <description>SPESA REGISTRAZIONE CONTRATTO LOCALI DI PROPRIETA' COMUNALE  N. 2 LOTTI DELLA STRUTTURA AGRO-ALIMENTARE SITA IN LOCALITA CASE NUOVE RUSSO, TORRENTE TIMETO ALLA SOC. COOP. SOLCHI.- LIQUIDAZIONE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=892</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=892</guid>
+    </item>
+    <item>
       <title>04/11/2021 | Deliberazioni Di Giunta</title>
       <description>Lavori di manutenzione straordinaria dell'impianto di depurazione delle acque reflue sito in contrada Playa.  Assegnazione risorse</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=891</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=858</link>
       <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=858</guid>
-    </item>
-    <item>
-      <title>28/10/2021 | Ordinanze Sindacali</title>
-      <description>Chiusura di tutte le scuole pubbliche e private, di ogni ordine e grado, presenti sul territorio comunale per tutta la giornata del 29/10/2021 per allerta meteo zona rossa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=857</link>
-      <pubDate>Thu, 28 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=857</guid>
     </item>
   </channel>
 </rss>
