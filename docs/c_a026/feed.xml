@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/40868</title>
+      <description>RICHIESTA UTILIZZO GRADUATORI VIGENTI PER ASSUNZIONE DI PERSONALE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381603</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381603</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1474</title>
       <description>LIQUIDAZIONE FATTURE ALLA SOCIETÀ LEASYS S.P.A. PER NOLEGGIO AUTO A LUNGO TERMINE - CANONE DAL 01.09.2021 AL 30.09.2021. CIG: Z212A297EA E ZF12A2A2E0.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381598</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381555</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381555</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/33</title>
-      <description>APPROVAZIONE CONTRATTO DI SERVIZIO BIENNALE TRA IL COMUNE DI ACI CASTELLO E L'AZIENDA METROPOLITANA TRASPORTI E SOSTA CATANIA S.P.A. PER IL SERVIZIO PUBBLICO DI TRASPORTO COLLETTIVO DI PERSONE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381553</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381553</guid>
     </item>
   </channel>
 </rss>
