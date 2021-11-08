@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1481</title>
+      <description>AGGIUDICAZIONE DEFINITIVA RDO SUL MEPA N° 2846210 PER L'AFFIDAMENTO DEI SERVIZI DI PULIZIA DEGLI IMMOBILI COMUNALI PER 12 MESI - CIG: 8850808DCE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381899</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381899</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1480</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: 2I RETE GAS S.P.A. - SITO: VIA AMENA CIV.16 - SCAVO E POSA CONDOTTA GAS METANO.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381805</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381569</link>
       <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381569</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1462</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA ALLA WASTE ENGINEERING MANAGEMENT SRL PER SELEZIONE E MESSA IN RISERVA RIFIUTI DIFFERENZIATI CON CER 150104 - MESE DI SETTEMBRE 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381567</link>
-      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/381567</guid>
     </item>
   </channel>
 </rss>
