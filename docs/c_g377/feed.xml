@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/11/2021 | Determinazioni Dirigenziali</title>
+      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021. SPEDIZIONE CARTOLINE AVVISO AGLI ELETTORI RESIDENTI ALL'ESTERO.  CIG Z193301E00 LIQUIDAZIONE FATTURA  N. 143/PA del 15-10-2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=899</link>
+      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=899</guid>
+    </item>
+    <item>
       <title>05/11/2021 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO DI RACCOLTA, TRASPORTO E CONFERIMENTO A IMPIANTO AUTORIZZATO DI RIFIUTI URBANI NON DIFFERENZIATI PRODOTTI DA UTENZE TIPO "A" DI CUI ALL'ORDINANZA PRESIDENTE REGIONE SICILIANA N. 2/RIF DEL 25.09.2020  INTERVENTO IN VIA SOSTITUTIVA. DITTA :  P</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=898</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=864</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=864</guid>
-    </item>
-    <item>
-      <title>29/10/2021 | Ordinanze Sindacali</title>
-      <description>Ordinanza contingibile ed urgente ai sensi dell'art. 191 del D.Lgs. n. 152/2006 e del D.Lgs. n. 121/2011 e ss.mm.ii. - Espletamento del servizio di trattamento e smaltimento rifiuti urbani indifferenziati presso limpianto di TMB di C/da Belvedere di</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=863</link>
-      <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=863</guid>
     </item>
   </channel>
 </rss>
