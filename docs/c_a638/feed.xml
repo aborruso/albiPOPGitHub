@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto  a carico di Maggio Antonino ex art 143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3939</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3939</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>D.LGS. N. 65-2017. RIPARTO ANNUALITA' 2017-2018-2019-2020. AMPLIAMENTO ORARIO AL PERSONALE AMMINISTRATIVO IN SERVIZIO NEL II SETTORE- SERVIZIO 1- NELL'AMBITO DEI SERVIZI ATTINENTI IL FUNZIONAMENTO DEGLI ASILI NIDO COMUNALI.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3938</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3911</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3911</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Misure di sostegno all'Emergenza Socio-Assistenziale da Covid-19 ai sensi dell'art.9, comma 2, della L.R.12 Maggio 2020, n.9, e della delibera di Giunta Regionale n.574 del 15/12/2020,a valere del POC Sicilia 2014/2020</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3910</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=3910</guid>
     </item>
   </channel>
 </rss>
