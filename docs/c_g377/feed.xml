@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/11/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=915</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=915</guid>
+    </item>
+    <item>
+      <title>09/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione  a saldo spesa riconosciuta come d.f.b. a favore Dr. Coppolino Giuseppe.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=914</link>
+      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=914</guid>
+    </item>
+    <item>
       <title>09/11/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n. 107, del 23.10.21: ambulatorio veterinario Dr. Coppolino.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=913</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=880</link>
       <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=880</guid>
-    </item>
-    <item>
-      <title>03/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Servizio Tecnico di redazione relazione geologica ed esecuzione di indagini geognostiche per la progettazione esecutiva dei Lavori urgenti per il convogliamento delle acque meteoriche nel tratto compreso tra la via Tenente Natoli ed il torrente Monta</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=879</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=879</guid>
-    </item>
-    <item>
-      <title>03/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Approvazione ruolo dei contribuenti tenuti al pagamento del saldo TARI anno 2021 - Accertamento entrata.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=878</link>
-      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=878</guid>
     </item>
   </channel>
 </rss>
