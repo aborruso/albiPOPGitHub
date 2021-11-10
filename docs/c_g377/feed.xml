@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2021 | Avvisi Vari</title>
+      <description>Legge 12/03/1999 N. 68 - Censimento generale iscritti al collocamento mirato.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=937</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=937</guid>
+    </item>
+    <item>
+      <title>10/11/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=936</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=936</guid>
+    </item>
+    <item>
       <title>09/11/2021 | Determinazioni Dirigenziali</title>
       <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021. FORNITURA BIANCHERIA MONOUSO PER LE POSTAZIONI DI RIPOSO DELLE FORZE DELL'ORDINE A PRESIDIO DEI SEGGI ELETTORALI.     LIQUIDAZIONE FATTURA  Nr. 181 / 9-21 del 21-09-21</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=935</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=903</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=903</guid>
-    </item>
-    <item>
-      <title>08/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Fornitura Servizio Supporto Tecnico Specialistico finalizzato all'elaborazione e gestione del modello 770 Anno 2021, relativo all'anno d'imposta 2020. Ditta Immedia S.p.A. liquidazione fattura.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=902</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=902</guid>
-    </item>
-    <item>
-      <title>08/11/2021 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta per pulizia verde pubblico piazzetta via Mustazzo accanto scuole elementari: 09 e 10/11/21.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=901</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=901</guid>
     </item>
   </channel>
 </rss>
