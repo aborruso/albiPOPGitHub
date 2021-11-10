@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. GIARRIZZO  TINDARO IN SERVIZIO NEL SETTORE V° - SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO:  DA 01.10.2021  AL  31.10.2021 =</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=939</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=939</guid>
+    </item>
+    <item>
+      <title>10/11/2021 | Avvisi Di Gara</title>
+      <description>AFFIDAMENTO INCARICO DI ASSISTENZA TECNICA PER IL POTENZIAMENTO DEGLI UFFICI SERVIZI SOCIALI - DISTRETTO SOCIO-SANITARIO - AOD N. 1 - RIPUBBLICAZIONE RIAPERTURA AVVISO PUBBLICO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=938</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=938</guid>
+    </item>
+    <item>
       <title>10/11/2021 | Avvisi Vari</title>
       <description>Legge 12/03/1999 N. 68 - Censimento generale iscritti al collocamento mirato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=937</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=905</link>
       <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=905</guid>
-    </item>
-    <item>
-      <title>08/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>progetto 10.1.A - PSEPON-SI-2019-309.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=904</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=904</guid>
-    </item>
-    <item>
-      <title>08/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>Manifestazione di interesse finalizzata all'individuazione quale componente della Commissione Giudicatrice per i concorsi indetti dal Consorzio Tirreno Ecosviluppo 2000 Soc. Cons. a r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=903</link>
-      <pubDate>Mon, 08 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=903</guid>
     </item>
   </channel>
 </rss>
