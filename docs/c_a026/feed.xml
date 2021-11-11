@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 PER LA DITTA CAMPO DELIZIA S.R.L.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382370</link>
+      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382370</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1506</title>
       <description>CAUSA CIVILE N. 691/2016 RG PROMOSSA INNANZI AL GIUDICE DI PACE DI ACIREALE DEFINITA CON SENTENZA N. 279/2017. LIQUIDAZIONE CARTELLA N. 293 2018 0012625932001 RITARDATO PAGAMENTO SPESE DI REGISTRAZIONE SENTENZA.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382341</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382211</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382211</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/320</title>
-      <description>REVOCA DIVIETO DI CIRCOLAZIONE VEICOLARE E PEDONALE TEMPORANEO IN VIA NAPOLI NEL TRATTO ANTISTANTE LA STRUTTURA DENOMINATA “PALACANNIZZARO” -</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382166</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382166</guid>
     </item>
   </channel>
 </rss>
