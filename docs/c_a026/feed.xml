@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/42414</title>
+      <description>ELENCO BENI IMMOBILI CONFISCATI E TRASFERITI AL PATRIMONIO COMUNALE EX D.LGS N° 159/2011.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382819</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382819</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/115</title>
       <description>//AUTORIZZAZIONE ALLO SCARICO N°115/A/PEA DEL 27/09/2021 RILASCIATA AL SIG. COSTANZO DOMENICO ANTONIO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382739</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382370</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382370</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1506</title>
-      <description>CAUSA CIVILE N. 691/2016 RG PROMOSSA INNANZI AL GIUDICE DI PACE DI ACIREALE DEFINITA CON SENTENZA N. 279/2017. LIQUIDAZIONE CARTELLA N. 293 2018 0012625932001 RITARDATO PAGAMENTO SPESE DI REGISTRAZIONE SENTENZA.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382341</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382341</guid>
     </item>
   </channel>
 </rss>
