@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/11/2021 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=970</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=970</guid>
+    </item>
+    <item>
+      <title>15/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Impegno spesa e affidamento convenzione con ambulatorio veterinario.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=969</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=969</guid>
+    </item>
+    <item>
       <title>15/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>Iter 2370704 - Procedimento ai sensi del Regio Decreto N. 1775 del 1933 relativo al Raccordo MT Stazione-D&amp;D.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=968</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=936</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=936</guid>
-    </item>
-    <item>
-      <title>09/11/2021 | Determinazioni Dirigenziali</title>
-      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021. FORNITURA BIANCHERIA MONOUSO PER LE POSTAZIONI DI RIPOSO DELLE FORZE DELL'ORDINE A PRESIDIO DEI SEGGI ELETTORALI.     LIQUIDAZIONE FATTURA  Nr. 181 / 9-21 del 21-09-21</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=935</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=935</guid>
-    </item>
-    <item>
-      <title>09/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Assegnazione alloggio popolare</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=934</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=934</guid>
     </item>
   </channel>
 </rss>
