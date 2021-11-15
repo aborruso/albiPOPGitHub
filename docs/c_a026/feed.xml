@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/42275</title>
+      <description>AVVISO PUBBLICO:CENSIMENTO DISABILITÀ GRAVE - ANNO 2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382703</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382703</guid>
+    </item>
+    <item>
+      <title>Atto numero 2021/1510</title>
+      <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 36/2021 PER PROROGA DELLA CONCESSIONE N. 2020 DEL 27/11/2020 RILASCIATA PER LA COLLOCAZIONE DI UN PONTEGGIO IN VIA GRASSO N. 3/5/7 - DITTA VALASTRO GIUSEPPE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382701</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382701</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/42233</title>
       <description>PROCEDURA CONCORSUALE PER LA SELEZIONE DI DUE UNITA’ DI CATEGORIA D1 A TEMPO PIENO E INDETERMINATO DI ISTRUTTORE DIRETTIVO INGEGNERE-ARCHITETTO. - RICHIESTA PUBBLICAZIONE PRECISAZIONI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382656</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382339</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382339</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1504</title>
-      <description>IMPEGNO E LIQUIDAZIONE PER RIVERSAMENTO SOMMA A TITOLO SALDO TASI ANNO 2015 AL COMUNE DI ACI SANT'ANTONIO (CT) – CONTRIBUENTE: T.O.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382337</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382337</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1503</title>
-      <description>LIQUIDAZIONE FATTURA DITTA OPENCLOUD PA S.R.L. PER SALDO DELLA PRIMA FASE “OPENRISCOSSIONE” RISCOSSIONE DIRETTA BOLLETTE TA.RI (TASSA RIFIUTI) ANNO 2020.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382323</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382323</guid>
     </item>
   </channel>
 </rss>
