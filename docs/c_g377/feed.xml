@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Iter 2370704 - Procedimento ai sensi del Regio Decreto N. 1775 del 1933 relativo al Raccordo MT Stazione-D&amp;D.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=968</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=968</guid>
+    </item>
+    <item>
+      <title>15/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Iter 2370708 - Procedimento ai sensi del Regio Decreto N. 1775 del 1933 relativo al Raccordo MT Caselli-Timeto.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=967</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=967</guid>
+    </item>
+    <item>
+      <title>15/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Iter 2370704 - Procedimento ai sensi del Regio Decreto N. 1775 del 1933 relativo al Raccordo MT Stazione-D&amp;D.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=966</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=966</guid>
+    </item>
+    <item>
       <title>12/11/2021 | Deliberazioni Di Giunta</title>
       <description>Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per lInclusione Sociale - PAIS -  a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020- PON Inclusione. CUP C41B20000810006</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=965</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=934</link>
       <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=934</guid>
-    </item>
-    <item>
-      <title>09/11/2021 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE ORARIO DI LAVORO PER 15 ORE SETTIMANALI AL SIG. PANASCÌ CARMELO DAL 01/10/2021 AL 31/10/2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=933</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=933</guid>
-    </item>
-    <item>
-      <title>09/11/2021 | Avvisi Vari</title>
-      <description>AVVISO PUBBLICO PER GLI UTENTI DISABILI MINORI GRAVI D.R.S. N. 1716 DEL 16/12/2020.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=932</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=932</guid>
-    </item>
-    <item>
-      <title>09/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Servizio Tecnico di direzione lavori, coordinamento sicurezza in fase di esecuzione e redazione certificato di regolare esecuzione relativo all'Intervento di riqualificazione e realizzazione di percorsi naturalistici ed aree attrezzate finalizzato al</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=931</link>
-      <pubDate>Tue, 09 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=931</guid>
     </item>
   </channel>
 </rss>
