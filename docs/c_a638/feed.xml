@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Revoca ordinanza n. 86 del 12/12/2016 e successive precedentemente emesse</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4034</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4034</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rimborso Credito a favore della Sig.ra Arcoraci Domenica per l'utenza idrica n. 17893-2185351</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4033</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4005</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4005</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n° 303 del 24/08/2021 Soc. Coop. Sociale GENESI  per  " SERVIZIO SOCIALE PROFESSIONALE E SPAZIO PROTETTO"     CPV 85312400-3   GIG 842358416C   CUP  H61B16000410001</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4004</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4004</guid>
     </item>
   </channel>
 </rss>
