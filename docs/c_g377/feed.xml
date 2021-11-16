@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/11/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE    ORARIO DI LAVORO PERSONALE A.S.U. ZAMPINO CATIA IN SERVIZIO PRESSO IL II SETTORE  AREA "INFRASTRUTTURE E MANUTENZIONI" - PERIODO 01.10.2021  31.10.2021  E RECUPERO MESE DI AGOSTO 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=980</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=980</guid>
+    </item>
+    <item>
       <title>15/11/2021 | Determinazioni Dirigenziali</title>
       <description>Azione N. 7 "Spazio Lavoro" Integrazione alla Terza Annualità -  PdZ 2013-2015  - Liquidazione mese di  Ottobre  ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=979</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=946</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=946</guid>
-    </item>
-    <item>
-      <title>11/11/2021 | Ordinanze Sindacali</title>
-      <description>ORDINANZA T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=945</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=945</guid>
     </item>
   </channel>
 </rss>
