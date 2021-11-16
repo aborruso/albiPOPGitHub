@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso per la manifestazione di interesse finalizzata all'individuazione quale componente della Commissione giudicatrice per i concorsi indetti dal Comune di Cesaro'</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4038</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4038</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Impegno spesa di €.105.400,00 (€.156.188,11-€.50.788,11 contributi per abbattimento costi mensa scolastica) per riparto Decreto Legislativo 65/2017  Servizi per la prima infanzia  Scuola infanzia e sezioni primavera  Fondo Nazionale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4037</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4009</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4009</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>istituzione limitazione alla circolazione per giorno 14 Novembre dalla ore 07:30 fino a fine manifestazione IX TROFEO MTB S. VENERA  MEMORIAL MARCO RAVIDA'</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4008</link>
-      <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4008</guid>
     </item>
   </channel>
 </rss>
