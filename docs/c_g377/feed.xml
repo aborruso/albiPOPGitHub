@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/11/2021 | Avvisi Vari</title>
+      <description>RIPUBBLICAZIONE - AVVISO PUBBLICO PER ASSEGNAZIONE CONTRIBUTI A FRONTE DI SPESE SOSTENUTE TRA GIUGNO E DICEMBRE 2021 PER LA FRUIZIONE DI ATTIVITA' ORGANIZZATE DAI CENTRI ESTIVI, DAI SERVIZI SOCIO-EDUCATIVI TERRITORIALI E DAI CENTRI CON FRUIZIONE EDU</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</guid>
+    </item>
+    <item>
+      <title>17/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Rettifica determina n. 1273 del 16/11/2021 errore materiale</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=999</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=999</guid>
+    </item>
+    <item>
+      <title>17/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Elezioni del Sindaco e del Consiglio Comunale del 10 e 11 Ottobre 2021  Liquidazione Spesa per lavoro straordinario per il Periodo Dal 09 Settembre 2021 al 16 Ottobre 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=998</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=998</guid>
+    </item>
+    <item>
       <title>17/11/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture Maggioli, software "Concilia Service" relative ai mesi di Giu. Lu. Ago. e Sett. 2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=997</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=966</link>
       <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=966</guid>
-    </item>
-    <item>
-      <title>12/11/2021 | Deliberazioni Di Giunta</title>
-      <description>Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per lInclusione Sociale - PAIS -  a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020- PON Inclusione. CUP C41B20000810006</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=965</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=965</guid>
-    </item>
-    <item>
-      <title>12/11/2021 | Deliberazioni Di Giunta</title>
-      <description>intervento di manutenzione straordinaria per la fornitura e la posa in opera di materiale per il funzionamento degli impianti fognari sul territorio comunale</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=964</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=964</guid>
-    </item>
-    <item>
-      <title>12/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Nomina Commissione di gara per l'affidamento incarico di Assistenza Tecnica per il potenziamento degli uffici servizi sociali Distretto Socio Sanitario AOD N.1 - PdZ 2018/2019.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=963</link>
-      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=963</guid>
     </item>
   </channel>
 </rss>
