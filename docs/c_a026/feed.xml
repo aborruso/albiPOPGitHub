@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/42950</title>
+      <description>PROVVEDIMENTO DI CANCELLAZIONE ANAGRAFICA PER IRREPERIBILITA' ACCERTATA - SIG.RA VOICU ELENA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383028</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383028</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/324</title>
       <description>SOSPENSIONE DELLE ATTIVITÀ DIDATTICHE DI TUTTE LE SCUOLE PRESENTI NEL TERRITORIO COMUNALE, CHIUSURA CASTELLO NORMANNO PER 17/11/2021.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382957</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382837</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382837</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1521</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA DITTA AGESP S.P.A. - SERVIZI DI IGIENE URBANA - MESE DI OTTOBRE 2021 - CONTRATTO D'APPALTO REP. 988/2017.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382835</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/382835</guid>
     </item>
   </channel>
 </rss>
