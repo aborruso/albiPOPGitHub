@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Milone Antonino ex art.143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4072</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4072</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Lavori urgenti per la realizzazione di un gruppo di celle in adiacenza ai blocchi di recente costruzione per sopperire alla temporanea carenza di loculi. Importo a base asta Euro 39.440,10 oltre Euro 490,90 per oneri della sicurezza. Efficacia della</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4071</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4045</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4045</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero-Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - Approvato con Delibera C.C. n° 24 del 23/03/1998 Ditta" CRISAFULLI ROSARIO" Via Stretto II Catili 16 - Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4044</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4044</guid>
     </item>
   </channel>
 </rss>
