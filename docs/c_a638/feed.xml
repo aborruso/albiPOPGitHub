@@ -18,13 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>Progetto Sport nei Parchi promosso da SPORT E SALUTE e ANCI - Linea di intervento 2 - URBAN SPORT ACTIVITY E WEEKEND - Approvazione schema di Convenzione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4087</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4087</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Anticipazione di Tesoreria per l'esercizio 2022 (art. 222 D.Lgs. 267/2000). Utilizzo in termini di cassa delle entrate vincolate per l'esercizio 2022 (art. 195 D.Lgs 267/2000)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4086</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4086</guid>
     </item>
     <item>
-      <title>Delibere Del Consiglio Comunale</title>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Collocamento a riposo, a far data dall'1/01/2022, del dipendente xxxxxxxxx per l'avvenuto raggiungimento dei requisiti di età e di servizio previsti dall'art 14 del decreto legge 28 gennaio 2019 n. 4. (62 di età e 38 di servizio).</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4085</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4060</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4060</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>D. Lgs. 65-2017. Affidamento del servizio di integrazione personale educativo ed ausiliario negli Asili Nido Comunali ai sensi dell'art. 36 comma 2 lett. b) del D.lgs n. 50/2016 mediante R.d.O sul MePa.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4059</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4059</guid>
     </item>
   </channel>
 </rss>
