@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1556</title>
+      <description>FORNITURA IN CONVENZIONE CONSIP DEL SERVIZIO DI POSTA ELETTRONICA PER L'ENTE - LIQUIDAZIONE PERIODO 16/07/2021-15/09/2021 - CIG. ZE32A185B5</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383417</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383417</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1555</title>
       <description>LIQUIDAZIONE FATTURA ALL'AZIENDA METROPOLITANA TRASPORTI E SOSTA CATANIA S.P.A. PER IL SERVIZIO DI TRASPORTO PUBBLICO COLLETTIVO DI PERSONE MEDIATE L'ESERCIZIO DELLA LINEA 534 – ACCONTO IV° TRIMESTRE 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383312</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383129</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383129</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1544</title>
-      <description>ACQUISTO GIORNATA DI FORMAZIONE PER L'UFFICIO ECONOMATO E RAGIONERIA DITTA MAGGIOLI SPA - CIG ZA633EAD82</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383127</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383127</guid>
     </item>
   </channel>
 </rss>
