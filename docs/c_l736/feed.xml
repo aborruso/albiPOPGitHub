@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 4888</title>
+      <description>GRADUATORIA DEFINITIVA OPI DICEMBRE 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148589.pdf</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148589.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 4887</title>
       <description>LA V COMMISSIONE (CONGIUNTA ALLA IV COMMISSIONE) È CONVOCATA VENERDÌ 26 NOVEMBRE 2021 ALLE ORE 08:45 PRESSO VIDEOCONFERENZA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148588.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148560.pdf</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148560.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 4858</title>
-      <description>DD/2021/2238 - C.I. 14102/2 - 2.5.4 AMBIENTE E TERRITORIO-EX CASINÒ: MANUTENZIONE, RIUSO E RIFUNZIONAMENTO DEL PALAZZO EX CASINÒ LIDO - MOSTRA DEL CINEMA DI VENEZIA-CENTRO CONGRESSI IN COMUNE DI VENEZIA - II STRALCIO. APPROVAZIONE PERIZIA E DI VARIANTE N. 1 ASSESTAMENTO DEL QUADRO ECONOMICO. IMPEGNO DI SPESA EACCERT. ENTRATA - ATTO DA PUBBLICARE EX ART. 37, C 1 B) D. LGS. 33/2013 E ART. 29 C.1 D. LGS. N. 50/2016</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148559.pdf</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP148559.pdf</guid>
     </item>
   </channel>
 </rss>
