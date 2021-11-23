@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Contributo destinato alle spese di gestione a.s. 2021/2022 per le scuole dell'infanzia paritarie. (Direttiva Regionale prot. n. 36666 del 28 settembre 2021).</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4118</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4118</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Avviso pubblicazione mensa scolastica Comune di Librizzi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4117</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4090</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4090</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso spese di viaggio esperto del Sindaco</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4089</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4089</guid>
     </item>
   </channel>
 </rss>
