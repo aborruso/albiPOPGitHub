@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>23/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fornitura di Gas nei locali comunali  AG  SET  OTT  2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1021</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1021</guid>
+    </item>
+    <item>
+      <title>23/11/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione fornitura energia elettrica    OTTOBRE 2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1020</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=986</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=986</guid>
-    </item>
-    <item>
-      <title>16/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Servizi Tecnici di direzione lavori, coordinamento sicurezza in fase di esecuzione e redazione certificato di regolare esecuzione relativi ai Lavori di adeguamento e messa a norma dell'impianto elettrico, antincendio, termico e climatizzazione, adegu</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=985</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=985</guid>
     </item>
   </channel>
 </rss>
