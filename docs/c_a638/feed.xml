@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblicazione mensa scolastica Comune di Librizzi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4117</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4117</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta di autorizzazione alla costruzione di impianti interrati in Via Roma n. 235 -Utente Enel distribuzione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4116</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4116</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione somma dovuta per l'ospitalità della minore C.C. nella comunità alloggio gestita dal Comitato Italiano per il reinserimento sociale CIRS- Casa famiglia Onlus dal 01-09-2021 al 31-09-2021.  CIG: Z6F3325070</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4115</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4089</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4089</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Progetto Sport nei Parchi promosso da SPORT E SALUTE e ANCI - Linea di intervento 2 - URBAN SPORT ACTIVITY E WEEKEND - Approvazione schema di Convenzione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4087</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4087</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Anticipazione di Tesoreria per l'esercizio 2022 (art. 222 D.Lgs. 267/2000). Utilizzo in termini di cassa delle entrate vincolate per l'esercizio 2022 (art. 195 D.Lgs 267/2000)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4086</link>
-      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4086</guid>
     </item>
   </channel>
 </rss>
