@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fornitura energia elettrica    OTTOBRE 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1020</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1020</guid>
+    </item>
+    <item>
+      <title>23/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Affidamento Servizio di refezione scolastica a.s.2021/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</guid>
+    </item>
+    <item>
+      <title>23/11/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura ACI n.31655, del 16.11.21: servizio " T.P. Visure".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1018</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1018</guid>
+    </item>
+    <item>
       <title>22/11/2021 | Avvisi Vari</title>
       <description>REDDITO DI LIBERTA' DONNE VITTIME DI VIOLENZA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1017</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=985</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=985</guid>
-    </item>
-    <item>
-      <title>16/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Servizio sociale professionale-figura professionale assistente sociale- AVVISO 1/2019, nell'ambito del Progetto finalizzato all'attuazione dei Patti per l'Inclusione Sociale - PAIS -  a valere sul Fondo Sociale Europeo (FSE) programmazione 2014-2020-</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=984</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=984</guid>
-    </item>
-    <item>
-      <title>16/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Rettifica determina n.1250/2021 per errore materiale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=983</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=983</guid>
-    </item>
-    <item>
-      <title>16/11/2021 | Determinazioni Dirigenziali</title>
-      <description>FORNITURA DI GENERI ALIMENTARI, MATERIALE DI PULZIA E VARIE PER IL SERVIZIO DI MENSA PER GLI ALUNNI DELLE SCUOLE DELL'INFANZIA, PRIMARIE E SECONDARIE DI PRIMO GRADO.  DITTA: MARINO 1959 SRL.  LIQUIDAZIONE FATTURE MESE DI OTTOBRE 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=982</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=982</guid>
     </item>
   </channel>
 </rss>
