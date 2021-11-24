@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>AVVISO DEPOSITO CARTELLE ESATTORIALI NOMINATIVI DIVERSI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4119</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4119</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Contributo destinato alle spese di gestione a.s. 2021/2022 per le scuole dell'infanzia paritarie. (Direttiva Regionale prot. n. 36666 del 28 settembre 2021).</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4118</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4091</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4091</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Compensazione parziale e liquidazione residuo fatture Enel  Energia s.p.a. fornitura di luce presso le Scuole Elementari del 6  maggio 2021, relative al mese di aprile 2021 Totale residuo euro 19,79  oltre IVA euro 4,35</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4090</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4090</guid>
     </item>
   </channel>
 </rss>
