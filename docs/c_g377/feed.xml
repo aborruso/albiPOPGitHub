@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/11/2021 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO AUTOESPURGO PER MANUTENZIONE IMPIANTI FOGNARI COMUNALI. DITTA: SCIAMMETTA COSTRUZIONI S.R.L. LIQUIDAZIONE FATTURA N. 229/E2021 del 17.11.2021 CIG: ZF3334AEA6</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1023</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1023</guid>
+    </item>
+    <item>
+      <title>24/11/2021 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta piazzetta Cicerone per segnaletica orizzontale: 25.11.21.                                                                                              Divieto di sosta via Cattaneo per pulizia verde pubblico:26.11.21</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1022</link>
+      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1022</guid>
+    </item>
+    <item>
       <title>23/11/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione fornitura di Gas nei locali comunali  AG  SET  OTT  2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1021</link>
@@ -106,13 +120,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1009</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1009</guid>
-    </item>
-    <item>
-      <title>18/11/2021 | Atti Di Interesse Generale</title>
-      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1008</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1008</guid>
     </item>
     <item>
       <title>18/11/2021 | Avvisi Vari</title>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=987</link>
       <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=987</guid>
-    </item>
-    <item>
-      <title>16/11/2021 | Deliberazioni Di Giunta</title>
-      <description>Determinazione indennità di funzione spettanti al Sindaco, Vice Sindaco, Assessori e Presidente del Consiglio per il mandato amministrativo 2021-2026.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=986</link>
-      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=986</guid>
     </item>
   </channel>
 </rss>
