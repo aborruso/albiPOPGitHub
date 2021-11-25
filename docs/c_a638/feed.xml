@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Cancellazione per irreperibilità dall'anagrafe di Fama Antonino del Comune di Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4121</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4121</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Integrazione all'elenco degli esercizi commerciali e di somministrazione che garantiscono la spendibilità dei buoni spesa emessi dal Comune di Barcellona P.G.-Emergenza Covid 19</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4120</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4120</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>AVVISO DEPOSITO CARTELLE ESATTORIALI NOMINATIVI DIVERSI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4119</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4093</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4093</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Medie, del 10 giugno 2021, relative al mese maggio 2021. Totale euro 49,91 oltre IVA euro 10,98</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4092</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4092</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Elementari, del 10 giugno 2021, relativa al mese maggio 2021. Totale euro 11,78 oltre IVA euro 2,59</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4091</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4091</guid>
     </item>
   </channel>
 </rss>
