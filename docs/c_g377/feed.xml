@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/11/2021 | Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURA N. 0000899 DEL 13.10.2021 SERVIZIO DI TRATTAMENTO DEI RIFIUTI SOLIDI URBANI INDIFFERENZIATI PRESSO L'IMPIANTO DI TMB DI C.DA BELVEDERE DI TRAPANI   CIG: ZE232F2E09 DITTA TRAPANI SERVIZI S.P.A.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1038</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1038</guid>
+    </item>
+    <item>
+      <title>25/11/2021 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito zona industriale c.da Ronzino per VI Rally Tindari: 27 e 28.11.21</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1037</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1037</guid>
+    </item>
+    <item>
       <title>25/11/2021 | Avvisi Di Gara</title>
       <description>AVVIO OPERAZIONI DI GARA -   AFFIDAMENTO DI SERVIZIO DI ASSISTENTE TECNICO"PDZ 2018/2019</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1036</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1002</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1002</guid>
-    </item>
-    <item>
-      <title>18/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione alla CRESET S.p.A di altre fatture emesse nell'anno 2019-2020-2021 per il servizio di accertamento e riscossione, sia volontaria che coattiva, dellImposta Comunale sulla Pubblicità, Diritti sulle Pubbliche Affissioni e Tassa Occupazione</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1001</link>
-      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1001</guid>
-    </item>
-    <item>
-      <title>17/11/2021 | Avvisi Vari</title>
-      <description>RIPUBBLICAZIONE - AVVISO PUBBLICO PER ASSEGNAZIONE CONTRIBUTI A FRONTE DI SPESE SOSTENUTE TRA GIUGNO E DICEMBRE 2021 PER LA FRUIZIONE DI ATTIVITA' ORGANIZZATE DAI CENTRI ESTIVI, DAI SERVIZI SOCIO-EDUCATIVI TERRITORIALI E DAI CENTRI CON FRUIZIONE EDU</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</guid>
     </item>
   </channel>
 </rss>
