@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/11/2021 | Avvisi Di Gara</title>
+      <description>AVVIO OPERAZIONI DI GARA -   AFFIDAMENTO DI SERVIZIO DI ASSISTENTE TECNICO"PDZ 2018/2019</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1036</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1036</guid>
+    </item>
+    <item>
+      <title>25/11/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - IOSIA / PUTZU</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1035</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1035</guid>
+    </item>
+    <item>
       <title>25/11/2021 | Determinazioni Del Sindaco</title>
       <description>Attribuzione funzioni dirigenziali responsabile del 7° Settore Area Polizia Municipale Dott.ssa Mazzone Maria</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1034</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</link>
       <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1000</guid>
-    </item>
-    <item>
-      <title>17/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Rettifica determina n. 1273 del 16/11/2021 errore materiale</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=999</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=999</guid>
-    </item>
-    <item>
-      <title>17/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Elezioni del Sindaco e del Consiglio Comunale del 10 e 11 Ottobre 2021  Liquidazione Spesa per lavoro straordinario per il Periodo Dal 09 Settembre 2021 al 16 Ottobre 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=998</link>
-      <pubDate>Wed, 17 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=998</guid>
     </item>
   </channel>
 </rss>
