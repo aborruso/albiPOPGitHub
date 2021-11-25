@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbale di selezione n. 1 per il reperimento di n. 1 Sociologo-azione 5-Piano di zona 2019/2020- percorso di prevenzione delle dipendenze</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4123</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4123</guid>
+    </item>
+    <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbale di selezione n. 1 per il reperimento d n.  1 psicologo azione 5-Piano di zona 2019/2021-Percorso di prevenzione delle dipendenze</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4122</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4122</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Cancellazione per irreperibilità dall'anagrafe di Fama Antonino del Comune di Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4121</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4095</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4095</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n°597/21 del 28/10/21 per intermediazione relativa al conferimento delle terre di spazzamento presso impianto di recupero nel mese di settembre 2021 - Ditta Dusty S.r.l.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4094</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4094</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 11_21 DEL 01/10/2021 PROT. 50443 DEL 04/10/2021 DELL'IMPORTO DI  EURO 29.890,00     Ditta  RAFFAELE PERUZZI</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4093</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4093</guid>
     </item>
   </channel>
 </rss>
