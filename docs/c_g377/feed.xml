@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/11/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Rinnovo Commissione Comunale di cui all'art. 13 della L. N. 287 del 10/04/1951 - Formazione degli elenchi dei Giudici Popolari.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1054</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1054</guid>
+    </item>
+    <item>
+      <title>26/11/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Nomina Commissione Comunale Elettorale.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1053</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1053</guid>
+    </item>
+    <item>
       <title>25/11/2021 | Deliberazioni Di Giunta</title>
       <description>ASSEGNAZIONE RISORSE ER LA COSTITUZIONE NEL'ATTO DI CITAZIONE PER RIASSUNZIONE AI SENSI DELL'ART. 392 C.P.C. DAVANTI ALLA CORE D'APPELLO DI MESSINA PROMOSSO DALLA CURATELA DEL FALLIMENTO DELLA P.C.E. A SEGUITO ORDINANZA N.28798/2021 DELLA CORTE DI CA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1052</link>
@@ -127,13 +141,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1037</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1037</guid>
-    </item>
-    <item>
-      <title>25/11/2021 | Avvisi Di Gara</title>
-      <description>AVVIO OPERAZIONI DI GARA -   AFFIDAMENTO DI SERVIZIO DI ASSISTENTE TECNICO"PDZ 2018/2019</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1036</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1036</guid>
     </item>
     <item>
       <title>25/11/2021 | Pubblicazioni Di Matrimonio</title>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</guid>
-    </item>
-    <item>
-      <title>23/11/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura ACI n.31655, del 16.11.21: servizio " T.P. Visure".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1018</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1018</guid>
     </item>
   </channel>
 </rss>
