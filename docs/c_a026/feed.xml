@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/44199</title>
+      <description>CONTRIBUTO DESTINATO ALLE SPESE DI GESTIONE A.S. 2021/2022 PER LE SCUOLE DELL'INFANZIA PARITARIE. (DIRETTIVA REGIONALE PROT. N. 36666 DEL 28 SETTEMBRE 2021)</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384255</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384255</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/336</title>
       <description>LAVORI ABUSIVI ESEGUITI IN ACI CASTELLO, VIA FIRENZE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384221</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384062</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384062</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1582</title>
-      <description>LIQUIDAZIONE PAGAMENTO CONTRIBUTO UNIFICATO TRIBUTARIO PER RICORSO COMMISSIONE TRIBUTARIA PROVINCIALE DI PALERMO – APPELLO RGA N.6081/2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383897</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/383897</guid>
     </item>
   </channel>
 </rss>
