@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/11/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1055</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1055</guid>
+    </item>
+    <item>
       <title>26/11/2021 | Deliberazioni Del Consiglio Comunale</title>
       <description>Rinnovo Commissione Comunale di cui all'art. 13 della L. N. 287 del 10/04/1951 - Formazione degli elenchi dei Giudici Popolari.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1054</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1020</link>
       <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1020</guid>
-    </item>
-    <item>
-      <title>23/11/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>Affidamento Servizio di refezione scolastica a.s.2021/2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</link>
-      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1019</guid>
     </item>
   </channel>
 </rss>
