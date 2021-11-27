@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/11/2021 | Ordinanze Sindacali</title>
+      <description>ORDINANZA INTERDIZIONE DEL PASCOLO NELLE AREE VERDI A RIDOSSO DEL TRACCIATO DEL 6 RALLY TINDARI NELLE GIORNATE DEL 27 E 28 NOVEMBRE 2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1063</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1063</guid>
+    </item>
+    <item>
       <title>26/11/2021 | Determinazioni Dirigenziali</title>
       <description>LIQUIDAZIONE AL CREDITO VALTELLINESE  S.P.A. DEL COMPENSO PER IL SERVIZIO DI TESORERIA ANNO  2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1062</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1028</link>
       <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1028</guid>
-    </item>
-    <item>
-      <title>24/11/2021 | Determinazioni Del Sindaco</title>
-      <description>INTERVENTO DI RIQUALIFICAZIONE E REALIZZAZIONE DI PERCORSI NATURALISTICI ED AREE ATTREZZATE, FINALIZZATO AL MIGLIORAMENTO DELLA FRUIBILITÀ DELLA RISERVA NATURALE ORIENTATA "LAGHETTI MARINELLO". SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1027</link>
-      <pubDate>Wed, 24 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1027</guid>
     </item>
   </channel>
 </rss>
