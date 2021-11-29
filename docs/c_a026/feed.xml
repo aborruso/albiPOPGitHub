@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1591</title>
+      <description>LIQUIDAZIONE INDENNITÀ DI RISULTATO AGLI INCARICATI DI A.P.O. E AA.PP. PER L'ANNO 2020.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384429</link>
+      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384429</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1590</title>
       <description>IMPEGNO DI SPESA PER IL SERVIZIO DI TRASPORTO PUBBLICO TRA IL COMUNE DI ACI CASTELLO E L'AZIENDA METROPOLITANA TRASPORTI E SOSTA CATANIA S.P.A. PER LA DURATA DI ANNI DUE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384314</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384073</link>
       <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384073</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/330</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI LA SPINA ANGELO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384068</link>
-      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384068</guid>
     </item>
   </channel>
 </rss>
