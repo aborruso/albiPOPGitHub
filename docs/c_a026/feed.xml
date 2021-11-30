@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>AVVISO DI DEPOSITO ATTI NELLA CASA DEL COMUNE PER IRREPERIBILITA' : DITTA LA MEDITERRANEA DI MARLETTA SANTI E C.S.A.S. - RISCOSSIONE AGENZIA ENTRATE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384750</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384750</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/100</title>
       <description>ATTO DI CITAZIONE IN RIASSUNZIONE INNANZI AL TRIBUNALE CIVILE DI CATANIA SEZIONE QUINTA N. RG 9779/2021 CONTRO RISCOSSIONE SICILIA SPA, COMUNE DI CATANIA, COMUNE DI ACI CASTELLO, COMUNE DI MESSINA E SOSTARE SRL PER L’ANNULLAMENTO, PREVIA SOSPENSIONE DELL’EFFICACIA ESECUTIVA, DI SANZIONI AMMINISTRATIVE IN MATERIA DI COMMERCIO E CONTRAVVENZIONI AL CDS. COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384730</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384221</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384221</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1589</title>
-      <description>NOMINA COMMISSIONE DI GARA PER BANDO AFFIDAMENTO GESTIONE INDIRETTA DEL MERCATO DEL CONTADINO A KM. ZERO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384219</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/384219</guid>
     </item>
   </channel>
 </rss>
