@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Autorizzazioni</title>
+      <description>Richiesta di autorizzazione alla costruzione di impianti interrati in Via Str. Califi-Utente Enel Distribuzione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4203</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4203</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta autorizzazione per lo scavo e la posa di condotta telefonica sul suolo comunale in Via Cornelia-Utente FiberCop</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4202</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4202</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
       <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabile e civile. (L.R. n.27/86 e D.Lgs.vo n.152/06) - Validità anni 4 (quattro). Ditta:Buratti Beatrice per Attività Parrucchieria  Ubicazione: Via San Giovanni 67 Barcellona Pozzo di Gotto (ME)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4201</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4175</link>
       <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4175</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura emessa dalla  s.r.l. Tecno  Sistem prot. N° 53218 del 18/10/2021 per la fornitura di  fotocopiatrice, scanner e piccoli componenti hardware per l'Ufficio Tecnico Settore V.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4174</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4174</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione straordinario reso dai dipendenti part-time del VI Settore impegnati nella gestione delle attuali situazioni di emergenza del territorio locale. Periodo dal 01102021 al 29102021.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4173</link>
-      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4173</guid>
     </item>
   </channel>
 </rss>
