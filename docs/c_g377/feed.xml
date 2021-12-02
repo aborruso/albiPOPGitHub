@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>02/12/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione per l'anno 2013 dell'indennità per specifiche responsabilità di cui all'art.17 comma 2 lett. I del CCNL del 01/04/1999 come integrato dall'art. 36 del CCNL. del 22/01/2004 e dall'art. 7 del CCNL del 09/05/2006</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1110</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1110</guid>
+    </item>
+    <item>
+      <title>02/12/2021 | Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n. 86, del 26.11.21: ditta Bastino D.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1109</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1076</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1076</guid>
-    </item>
-    <item>
-      <title>29/11/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>INTEGRAZIONE ALL'ART. 1 DEL REGOLAMENTO COMUNALE PER IL FUNZIONAMENTO DEI GRUPPI CONSILIARI E DELLE COMMISSIONI CONSILIARI PERMANENTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1075</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1075</guid>
     </item>
   </channel>
 </rss>
