@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/12/2021 | Avvisi Vari</title>
+      <description>AVVISO SORTEGGIO PUBBLICO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1113</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1113</guid>
+    </item>
+    <item>
+      <title>03/12/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>POSTA CERTIFICATA: Azione di Pubblicita e Disseminazione "Spazi e strumenti digitali per le STEM"</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1112</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1112</guid>
+    </item>
+    <item>
       <title>03/12/2021 | Determinazioni Dirigenziali</title>
       <description>Fornitura  dei registri di Stato Civile per l'anno 2022  formato A4,  stampante con pacchetto service pack comprensivo di installazione, manutenzione preventiva e correttiva, manodopera per tre anni -</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1111</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1079</link>
       <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1079</guid>
-    </item>
-    <item>
-      <title>29/11/2021 | Ordinanze Dirigenziali</title>
-      <description>chiusura temporanea al transito via Ferriato,  per lavori: 30.11.21</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1078</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1078</guid>
-    </item>
-    <item>
-      <title>29/11/2021 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RATIFICA VARIAZIONE AL BILANCIO AI SENSI DELL'ART. 5 DELLA L. R. N. 13/2021 ADOTTATA DALLA GIUNTA COMUNALE CON DELIBERAZIONE N. 348 DEL 04/11/2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1077</link>
-      <pubDate>Mon, 29 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1077</guid>
     </item>
   </channel>
 </rss>
