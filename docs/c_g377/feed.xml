@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/12/2021 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1125</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1125</guid>
+    </item>
+    <item>
+      <title>06/12/2021 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1124</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1124</guid>
+    </item>
+    <item>
+      <title>06/12/2021 | Determinazioni Dirigenziali</title>
+      <description>ELEZIONI DEL SINDACO E DEL CONSIGLIO COMUNALE DEL 10 E 11 OTTOBRE 2021 " - APPROVAZIONE RENDICONTO ELETTORALE DELLE SPESE DI SANIFICAZIONE LOCALI SEDI DI SEGGIO ELETTORALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1123</link>
+      <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1123</guid>
+    </item>
+    <item>
       <title>03/12/2021 | Determinazioni Dirigenziali</title>
       <description>Servizio di manutenzione degli impianti di riscaldamento e di condizionamento degli edifici comunali. Determinazione a contrarre mediante affidamento diretto previa indagine di mercato ed impegno di spesa. Ditta: CARTAREGIA COSIMO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1122</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1091</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1091</guid>
-    </item>
-    <item>
-      <title>01/12/2021 | Ordinanze Sindacali</title>
-      <description>Ord. . T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1090</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1090</guid>
-    </item>
-    <item>
-      <title>01/12/2021 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI DICEMBRE 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1089</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1089</guid>
-    </item>
-    <item>
-      <title>01/12/2021 | Determinazioni Del Sindaco</title>
-      <description>RASSEGNA TINDARI FESTIVAL. NOMINA ESPERTO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1088</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1088</guid>
     </item>
   </channel>
 </rss>
