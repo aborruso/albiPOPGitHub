@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1661</title>
+      <description>APPROVAZIONE DELL'AVVISO E DEL MODELLO DI DOMANDA PER L'INDIVIDUAZIONE DI N. 1 PORTAVOCE COMUNALE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/386000</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/386000</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/45849</title>
       <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE, IN SESSIONE ORDINARIA PER DETERMINAZIONE DEL PRESIDENTE DEL CONSIGLIO COMUNALE AI SENSI DELL'ART. 50 - COMMA 7 E 8 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE - VIDEOCONFERENZA E IN MODALITA' MISTA PER GIORNO 14.12.2021 ALLE ORE 10,30.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385991</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385786</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385786</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1645</title>
-      <description>LIQUIDAZIONE CONTABILITÀ ISTITUTO MARIA REGINA. 4° BIMESTRE 2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385784</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385784</guid>
     </item>
   </channel>
 </rss>
