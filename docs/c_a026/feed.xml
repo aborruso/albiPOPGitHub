@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/2020/003/SC/1175/0/005</title>
+      <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI ART. 60 E AI SENSI DELL'ART. 65 COMMA 1° LETT. E) D.P.R. 600/1973 AL SIG. TONASELLO PASQUALE- 01.11.1920</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/386260</link>
+      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/386260</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1662</title>
       <description>CONCESSIONE BENEFICI D. L. DEL 18 LUGLIO 2011 N. 119 ART. 4 - DIPENDENTE MATRICOLA N. 433.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/386127</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385796</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385796</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1650</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA DITTA ARIOSTO SERVIZIO DI ACCALAPPIAMENTO, RICOVERO E MANTENIMENTO IN VITA DEI CANI RANDAGI CATTURATI NEL TERRITORIO COMUNALE NEL MESE DI OTTOBRE 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385794</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/385794</guid>
     </item>
   </channel>
 </rss>
