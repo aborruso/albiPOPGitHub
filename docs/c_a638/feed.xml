@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Chiusura plessi scolastici di proprietà comunale e - o alla cui manutenzione sia obbligato il Comune di Barcellona</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4321</link>
+      <pubDate>Thu, 09 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4321</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Circolare n°25 dell'1/12/2021-Contributo per l'ammissione gratuita di alunni in condizione di disabilità certificata ovvero di disagiate condizioni economiche. Anno Scolastico 2021/2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4320</link>
@@ -162,13 +169,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4300</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4300</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Convocazione Consiglio Comunale "Question Time" che si terrà il prossimo 09 Dicembre 2021, ore 19:00</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4299</link>
-      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4299</guid>
     </item>
     <item>
       <title>Avviso Deposito Atti</title>
