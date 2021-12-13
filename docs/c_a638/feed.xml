@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Teatro comunale Placido Mandanici.  Gran Concerto di Capodanno 2022.  Atto d'indirizzo e di assegnazione risorse</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4367</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4367</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Teatro "Placido Mandanici". 20 Anniversario del Centro servizio per il volontariato di Messina (CESV). Giorno 8 Gennaio 2022.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4366</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4366</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Ricorso per revocazione art 391 bis cpc promosso dinnanzi alla Corte di Cassazione dall'Arch Perdichizzi Giuseppe  contro Comune di Barcellona PG Acconto  Avv Mostaccio Chiara</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4365</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4340</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4340</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE COMPENSI PRESIDENTE di GARA -SERVIZIO DI PROGETTAZIONE LIVELLO DEFINITIVO ESECUTIVO COORDINAMENTO DELLA SICUREZZA IN FASE DI PROGETTAZIONE RELAZIONE GEOLOGICA VERIFICA DELLE STRUTTURE CALCOLO STATICO DIAGNOSI ENERGETICA ATTESTAZIONE ENER</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4339</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4339</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n°643/21 del 19/11/21 per intermediazione relativa al conferimento delle terre di spazzamento presso impianto di recupero nel mese di ottobre 2021 - Ditta Dusty S.r.l.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4338</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4338</guid>
     </item>
   </channel>
 </rss>
