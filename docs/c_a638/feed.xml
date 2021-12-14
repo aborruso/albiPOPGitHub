@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Decreto del Commissario ad Acta N.1 del 09 dicembre 2021 "Indizione dei Comizi elettorali per l'elezione del Consiglio metropolitano della Città metropolitana di Messina -22 gennaio 2022"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4369</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4369</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di demolizione di un manufatto edilizio su suolo pubblico a Barcellona P. G.  in Via Sant'Andrea. Art. 35 del D.P.R. n. 380 del 06.06.2001, per interventi abusivi su suoli di proprietà dello Stato o di enti pubblici, a rettifica dell'Ordina</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4368</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4368</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Teatro comunale Placido Mandanici.  Gran Concerto di Capodanno 2022.  Atto d'indirizzo e di assegnazione risorse</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4367</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4342</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4342</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.  25 del 1/10/2021 Ditta MMSECURITY di Marchetta Francesco Matteo per assistenza tecnica impianti elettrici e sicurezza, per spettacoli stagione estiva effettuati presso la villa primo levi - teatro Mandanici, Barcellona P.G. -</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4341</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4341</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LAVORI DI RIQUALIFICAZIONE URBANA DI PIAZZA GERONE ED  AREE  ADIACENTI NEL QUARTIERE MARSALINI DEL COMUNE DI   BARCELLONA P.G.   Liquidazione Competenze  Rup, collaboratori e personale di supporto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4340</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4340</guid>
     </item>
   </channel>
 </rss>
