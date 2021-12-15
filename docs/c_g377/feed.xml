@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/12/2021 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE AVV. L'ABBATE GIUSEPPE WALTER. APPELLO PONTILLO VALERIO. IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1206</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1206</guid>
+    </item>
+    <item>
+      <title>15/12/2021 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatture Maggioli n. 1164101 e n. 2150383, del 30.11.21 - Software Concilia Service.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1205</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1205</guid>
+    </item>
+    <item>
       <title>15/12/2021 | Determinazioni Del Sindaco</title>
       <description>CONSOLIDAMENTO AREA URBANA CENTRO STORICO  VIA GARIBALDI PER LA MITIGAZIONE DEL RISCHIO GEOMORFOLOGICO. SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1204</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1172</link>
       <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1172</guid>
-    </item>
-    <item>
-      <title>10/12/2021 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione spesa per registrazione contratto di comodato d'uso gratuito di locali della Parrocchia "Ognissanti di Mongiove" da utilizzare per la scuola materna comunale Case Nuove Malluzzo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1171</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1171</guid>
-    </item>
-    <item>
-      <title>10/12/2021 | Atti Di Interesse Generale</title>
-      <description>CONTROLLO DELL'ATTIVITA' EDILIZIA - ELENCO RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE - MSE DI NOVEMBRE 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1170</link>
-      <pubDate>Fri, 10 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1170</guid>
     </item>
   </channel>
 </rss>
