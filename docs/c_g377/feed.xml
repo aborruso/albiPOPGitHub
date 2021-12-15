@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>15/12/2021 | Determinazioni Dirigenziali</title>
+      <description>Integrazione salariale al lavoratore ASU Pansalorto Salvatore per il servizio di manutenzione dell'acquedotto e della fognatura. Periodo  07.12.2021  31.12.2021. Impegno di spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1220</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1220</guid>
+    </item>
+    <item>
+      <title>15/12/2021 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO TECNICO DI PROGETTAZIONE ESECUTIVA E COORDINAMENTO SICUREZZA IN FASE DI PROGETTAZIONE PER LA RIGENERAZIONE ED IL COMPLETAMENTO DELL'IMPIANTO SPORTIVO "GEPY FARANDA" MEDIANTE L'ADEGUAMENTO E MESSA IN SICUREZZA DELLA PISTA DI ATLETICA LEGGERA,</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1219</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1186</link>
       <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1186</guid>
-    </item>
-    <item>
-      <title>13/12/2021 | Deliberazioni Di Giunta</title>
-      <description>Approvazione Piano Azioni Positive triennio 2021/2023</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1185</link>
-      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1185</guid>
     </item>
   </channel>
 </rss>
