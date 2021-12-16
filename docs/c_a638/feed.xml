@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>ACCETTAZIONE DONAZIONE ALBERO PER IL S. NATALE 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4402</link>
+      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4402</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Atto di citazione  promosso dinnanzi il Giudice di Pace di Barcellona PG  dal Signor Sottile Carmelo contro Comune di Barcellona PG Nomina legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4401</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4373</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4373</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno somme per "Restituzione fondo di rotazione ex art. 243 ter D. Lgs. 267/2000"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4372</link>
-      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4372</guid>
     </item>
   </channel>
 </rss>
