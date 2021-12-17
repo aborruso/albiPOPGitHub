@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 5484</title>
+      <description>DISPOSIZIONE DIRIGENZIALE DI APPROVAZIONE GRADUATORIA PRECARI - FIERA DELLEPIFANIA: EDIZIONE 2022.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149185.pdf</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149185.pdf</guid>
+    </item>
+    <item>
       <title>#VARIE | Pubblicazione numero 5483</title>
       <description>DISPOSIZIONE DIRIGENZIALE - FIERA DELLEPIFANIA EDIZIONE 2022 IN VENEZIA CENTRO STORICO. SOSPENSIONE PLATEATICI.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149184.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149156.pdf</link>
       <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149156.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 5454</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI DUNKERLEY PATRICIA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149155.pdf</link>
-      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149155.pdf</guid>
     </item>
   </channel>
 </rss>
