@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/12/2021 | Ordinanze Sindacali</title>
+      <description>SOSPENSIONE DELLE ATTIVITA' DIDATTICHE DI TUTTE LE SCUOLE DI OGNI ORDINE E GRADO INSISTENTI SUL TERRITORIO DI QUESTO COMUNE - A CAUSA DELL'EMERGENZA EPIDEMIOLOGICA COVID-19 FINO AL 22/12/2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1254</link>
+      <pubDate>Fri, 17 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1254</guid>
+    </item>
+    <item>
       <title>17/12/2021 | Determinazioni Dirigenziali</title>
       <description>LAVORI DI RIQUALIFICAZIONE URBANA PER UNA MIGLIORE ACCESSIBILITÀ E FRUIZIONE DELLA PIAZZA QUASIMODO ANTISTANTE IL SANTUARIO DI TINDARI. INCARICO PROFESSIONALE DI SUPPORTO AL R.U.P. ED AL PROGETTISTA. LIQUIDAZIONE COMPETENZE TECNICHE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1253</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1220</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1220</guid>
-    </item>
-    <item>
-      <title>15/12/2021 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO TECNICO DI PROGETTAZIONE ESECUTIVA E COORDINAMENTO SICUREZZA IN FASE DI PROGETTAZIONE PER LA RIGENERAZIONE ED IL COMPLETAMENTO DELL'IMPIANTO SPORTIVO "GEPY FARANDA" MEDIANTE L'ADEGUAMENTO E MESSA IN SICUREZZA DELLA PISTA DI ATLETICA LEGGERA,</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1219</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1219</guid>
     </item>
   </channel>
 </rss>
