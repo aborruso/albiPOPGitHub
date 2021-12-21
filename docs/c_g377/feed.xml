@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/12/2021 | Avvisi Vari</title>
+      <description>PROCEDURA APERTA DI PARTECIPAZIONE AI FINI DELL'AGGIORNAMENTO DEL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E DELL'ILLEGALITA' 2022/2024 COMPRENSIVO DEL PROGRAMMA TRIENNALE PER LA TRASPARENZA E L'INTEGRITA'</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1275</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1275</guid>
+    </item>
+    <item>
+      <title>21/12/2021 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1274</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1274</guid>
+    </item>
+    <item>
       <title>21/12/2021 | Atti Elettorali</title>
       <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1273</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1241</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1241</guid>
-    </item>
-    <item>
-      <title>16/12/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per consultazione banca dati PRA - "Sistema TP Visure" ACI - anno 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1240</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1240</guid>
-    </item>
-    <item>
-      <title>16/12/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorsa finanziaria necessaria all'abbonamento, per l'anno 2022, al "Quotidiano telematico della pubblica amministrazione PAWEB".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1239</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1239</guid>
     </item>
   </channel>
 </rss>
