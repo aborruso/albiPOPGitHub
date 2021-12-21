@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 5540</title>
+      <description>ORDINANZA N. 793 DEL 21/12/2021: CANAL GRANDE, REGOLAZIONE DEL TRAFFICO DURANTE LA MANIFESTAZIONE REMIERA TRADIZIONALE "REGATA DELLE BEFANE".</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149241.pdf</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149241.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 5539</title>
       <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI PRESSO LA CASA COMUNALE (UFFICIO NOTIFICHE) A CARICO DI TODOS ALA - PROT. 15510</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149240.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149212.pdf</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149212.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 5510</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI DIMATORE DANIEL - DOCUMENTO N. 11920190010240113000</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149211.pdf</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149211.pdf</guid>
     </item>
   </channel>
 </rss>
