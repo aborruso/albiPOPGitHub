@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/12/2021 | Atti Elettorali</title>
+      <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1273</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1273</guid>
+    </item>
+    <item>
+      <title>21/12/2021 | Determinazioni Dirigenziali</title>
+      <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per l'acquisto dell'abbonamento anno 2022 al "Quotidiano telematico della pubblica amministrazione PAWEB" (C.I.G.: ZBA347FC89).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1272</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1272</guid>
+    </item>
+    <item>
       <title>20/12/2021 | Determinazioni Dirigenziali</title>
       <description>Servizi di attivazione del PagoPa, gestione integrata del SIOPE+ con il programma gestionale in dotazione all'Ente e il servizio di conservazione sostitutiva  dei documenti elettronici integrato con le procedure dell'Halley alla Unimatica S.p.A.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1271</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1239</link>
       <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1239</guid>
-    </item>
-    <item>
-      <title>16/12/2021 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per incarico al componente esterno del nucleo di valutazione monocratico</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1238</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1238</guid>
-    </item>
-    <item>
-      <title>16/12/2021 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA PROPOSIZIONE DELL'APPELLO AVVERSO LA SENTENZA N.167/2021 DEL GIUDICE DI PATTI. NIOSI ANTONNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1237</link>
-      <pubDate>Thu, 16 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1237</guid>
     </item>
   </channel>
 </rss>
