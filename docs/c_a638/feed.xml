@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Realizzazione di aree fitness dislocate in 3 punti strategici del lungomare di Barcellona Pozzo di Gotto (ME)  partecipazione al bando di cui al Decreto Direttoriale 30/07/2021 del Direttore Generale per gli incentivi alle imprese del MISE</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4518</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4518</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Comunicato stampa Autovelox integrazione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4517</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4517</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi del 22 dicembre 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4516</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4516</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito atto a carico di Genovese Angelo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4515</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4490</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4490</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 29 E BAR DEL 15/11/2021 Prot. N. 58868 del 15/11/2021  EMESSA DALLA LIBRERIA MONDADORI BOOKSTORE (SAPIAS) SRL PER ACQUISTO PUBBLICAZIONI PER LA BIBLIOTECA COMUNALE "NANNINO DI GIOVANNI" - DECRETO MiBACT N. 191 DEL 24/05/2021.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4489</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4489</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 12 DEL 22/11/2021  Prot. n. 60385  EMESSA DALLA LIBRERIA GUTENBERG DI MAZZEO GIOVANNI PER ACQUISTO PUBBLICAZIONI PER LA BIBLIOTECA COMUNALE "NANNINO DI GIOVANNI" - DECRETO MiBACT n. 191 del 24/05/2021. CIG ZC2337C763</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4488</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4488</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 70 DEL 25/10/2021 Prot. n. 56216 de 03/11/2021  EMESSA DA  AR LIBRI DI RIZZO ANTONINO PER ACQUISTO PUBBLICAZIONI PER LA BIBLIOTECA COMUNALE "NANNINO DI GIOVANNI" -  Decreto MiBACT n. 191 del 24/05/2021. CIG Z66337C61F</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4487</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4487</guid>
     </item>
   </channel>
 </rss>
