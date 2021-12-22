@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atto a carico di Genovese Angelo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4515</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4515</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4514</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4514</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Ulteriori misure urgenti per la prevenz. e gest. dell'emerg. epidemiologica da COVID-19 sospensione delle attiv. didattiche ed educative in presenza delle scuole dell'infanzia, primaria e secondaria di primo grado, dei serv. educat. per l'infanzia di cui al D.Lgs.13 aprile 2017,n.65, e degli asili nido, pubbl.e privati</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4513</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4513</guid>
+    </item>
+    <item>
       <title>Delibere Del Consiglio Comunale</title>
       <description>Approvazione verbali sedute Consiglio Comunale del 26/1, 28/1, 18/2, 25/2, 26/2, 4/3, 29/3, 27/4, 11/5 del 2021</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4512</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4487</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4487</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 14 DE 24/11/2021 PROT. N. 61143 DEL 25/11/2021 EMESSA DALLA LIBRERIA L'INCANTA STORIE DI POMA ELENA ALBERTINA PER ACQUISTO PUBBLICAZIONI PER LA BIBLIOTECA "NANNINO DI GIOVANNI".  DECRETO MiBACT N. 191 DEL 24/05/2021. CIG: Z0A3</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4486</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4486</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 27 E BAR 2021 DEL 4/11/2021  PROT. N. 59083 DEL 16/11/2021 ALLA LIBRERIA MONDADORI BOOKSTORE DI SAPIAS S.R.L.s  PER LA FORNITURA DI LIBRI ALLA BIBLIOTECA OASI SEZ. RAGAZZI CIG : Z6A33A2717</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4485</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4485</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 1 DEL 24/11/2021  Prot. N. 61145  del 25.11.2021 ALLA LIBRERIA L'INCANTA STORIE S.N.C.  PER LA FORNITURA DI LIBRI ALLA BIBLIOTECA OASI SEZ. RAGAZZI. CIG Z3B33A2630</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4484</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4484</guid>
     </item>
   </channel>
 </rss>
