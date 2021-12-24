@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/12/2021 | Determinazioni Dirigenziali</title>
+      <description>IMPEGNO  SPESA PER IL  COMPENSO PER LA PROROGA TECNICA DEL SERVIZIO DI TESORERIA COMUNALE PERIODO: 01.01.2022  30.06.2022, NELLE MORE DELL'INDIVIDUAZIONE DEL NUOVO TESORIERE COMUNALE  =</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1309</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1309</guid>
+    </item>
+    <item>
+      <title>24/12/2021 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Razionalizzazione periodica delle partecipazioni al 31/12/2020 ai sensi dell'art. 20 del D. Lgs. N. 175 del 19 agosto 2016.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1308</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1308</guid>
+    </item>
+    <item>
       <title>23/12/2021 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. SILVANO MARTELLA NEL RICORSO PER MOTIVI AGGIUNTI PROMOSSO DAI SIG.RI VARVARA' MASSIMO E KATIA DAVANTI AL TAR DI CATANIA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1307</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1275</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1275</guid>
-    </item>
-    <item>
-      <title>21/12/2021 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1274</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1274</guid>
-    </item>
-    <item>
-      <title>21/12/2021 | Atti Elettorali</title>
-      <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1273</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1273</guid>
     </item>
   </channel>
 </rss>
