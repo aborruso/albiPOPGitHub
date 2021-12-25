@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/135</title>
+      <description>INDIVIDUAZIONE SOMME NON SOGGETTE AD ESECUZIONE FORZATA AI SENSI DELL' ART. 59 D.LGS. N. 267/2000 - 1° SEMESTRE 2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/389533</link>
+      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/389533</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/136</title>
       <description>APPROVAZIONE "PROGETTO ESECUTIVO RELATIVO AI LAVORI DI MANUTENZIONE DEL COLOMBARIO A NEL CIMITERO DI ACI CASTELLO"</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/389523</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/388517</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/388517</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1790</title>
-      <description>RILASCIO E RINNOVO TESSERINI FUNGHI ANNO 2021-VERSAMENTO ALLA REGIONE DEL 30% DEGLI INTROITI 3° QUADRIMESTRE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/388515</link>
-      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/388515</guid>
     </item>
   </channel>
 </rss>
