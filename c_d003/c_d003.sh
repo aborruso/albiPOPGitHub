@@ -59,60 +59,60 @@ else
   exit 1
 fi
 
-exit 1
+#exit 1
 
 
-# estrai soltanto le righe
-scrape <"$folder"/tmp.html -be '//tbody/tr[contains(@class, "riga")]' | xq . >"$folder"/tmp.json
-# estrai titolo, data e id e converti in csv
-jq <"$folder"/tmp.json '.html.body.tr[]|{titolo:.td[1].div[1].strong["#text"],id:.td[2].a["@href"],data:.td[1].div[2]["#text"]}' | mlr --j2c put -S '$id=regextract($id,"[0-9]+")' >"$folder"/rawdata/"$iPA".csv
-
-# Link dettaglio di esempio
-# https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica=37
-
-URLdettaglioPath="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica="
-
-mlr <"$folder"/rawdata/"$iPA".csv --c2j clean-whitespace \
-  then filter -S '$data=~"dal ([0-9]{2}-[0-9]{2}-[0-9]{4})"' \
-  then put -S '$pubDate=strftime(strptime(regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%a, %d %b %Y %H:%M:%S %z");$date=strftime(strptime#regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%Y-%m-%d");$link="'"$URLdettaglioPath"'".$id' \
-  then put '$titolo=gsub($titolo,">","&gt;")' \
-  then put '$titolo=gsub($titolo,"&","&amp;")' \
-  then put '$titolo=gsub($titolo,"'\''","&apos;")' \
-  then put '$titolo=gsub($titolo,"\"","&quot;")' \
-  then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA".json
-
-# crea copia del template del feed
-cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
-
-# inserisci gli attributi anagrafici nel feed
-xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*name#()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n docs -v "$docs" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$type" -i "//channel/category[1]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-type" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$municipality" -i "//channel/category[2]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-municipality" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$province" -i "//channel/category[3]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-province" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$region" -i "//channel/category[4]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-region" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$latitude" -i "//channel/category[5]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-latitude" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$longitude" -i "//channel/category[6]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-longitude" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$country" -i "//channel/category[7]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-country" "$folder"/processing/eed.#xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$name" -i "//channel/category[8]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-name" "$folder"/processing/feed.xml
-xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//channel/category[9]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-uid" "$folder"/processing/feed.xml
-
-# leggi in loop i dati del file JSON e usali per creare nuovi item nel file XML
-newcounter=0
-cat "$folder"/rawdata/"$iPA".json | while read line; do
-  link=$(echo $line | jq -r .link)
-  title=$(echo $line | jq -r .titolo)
-  pubDate=$(echo $line | jq -r .pubDate)
-  newcounter=$(expr $newcounter + 1)
-  xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-    --subnode "//item[$newcounter]" --type elem -n title -v "$title" \
-    --subnode "//item[$newcounter]" --type elem -n link -v "$link" \
-    --subnode "//item[$newcounter]" --type elem -n pubDate -v "$pubDate" \
-    --subnode "//item[$newcounter]" --type elem -n guid -v "$link" \
-    "$folder"/processing/feed.xml
-done
-
-cp "$folder"/processing/feed.xml "$output"
+## estrai soltanto le righe
+#scrape <"$folder"/tmp.html -be '//tbody/tr[contains(@class, "riga")]' | xq . >"$folder"/tmp.json
+## estrai titolo, data e id e converti in csv
+#jq <"$folder"/tmp.json '.html.body.tr[]|{titolo:.td[1].div[1].strong["#text"],id:.td[2].a["@href"],data:.td[1].div[2]["#text"]}' | mlr --j2c put -S '$id=regextract($id,"[0-9]+")' >"$folder"/rawdata/"$iPA".#csv
+#
+## Link dettaglio di esempio
+## https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica=37
+#
+#URLdettaglioPath="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica="
+#
+#mlr <"$folder"/rawdata/"$iPA".csv --c2j clean-whitespace \
+#  then filter -S '$data=~"dal ([0-9]{2}-[0-9]{2}-[0-9]{4})"' \
+#  then put -S '$pubDate=strftime(strptime(regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%a, %d %b %Y %H:%M:%S %z");$date=strftime#(strptime#regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%Y-%m-%d");$link="'"$URLdettaglioPath"'".$id' \
+#  then put '$titolo=gsub($titolo,">","&gt;")' \
+#  then put '$titolo=gsub($titolo,"&","&amp;")' \
+#  then put '$titolo=gsub($titolo,"'\''","&apos;")' \
+#  then put '$titolo=gsub($titolo,"\"","&quot;")' \
+#  then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA".json
+#
+## crea copia del template del feed
+#cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
+#
+## inserisci gli attributi anagrafici nel feed
+#xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n "atom:link" -v "" -i "//*[name()='atom:link']" -t "attr" -n "rel" -v "self" -i "//*[name()='atom:link']" -t "attr" -n "href" -v "$selflink" -i "//*name##()='atom:link']" -t "attr" -n "type" -v "application/rss+xml" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n docs -v "$docs" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$type" -i "//channel/category[1]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-type" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$municipality" -i "//channel/category[2]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-municipality" "$folder"/#processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$province" -i "//channel/category[3]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-province" "$folder"/processing/#feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$region" -i "//channel/category[4]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-region" "$folder"/processing/feed.#xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$latitude" -i "//channel/category[5]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-latitude" "$folder"/processing/#feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$longitude" -i "//channel/category[6]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-longitude" "$folder"/processing/#feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$country" -i "//channel/category[7]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-country" "$folder"/processing/eed.##xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$name" -i "//channel/category[8]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-name" "$folder"/processing/feed.xml
+#xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//channel/category[9]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-uid" "$folder"/processing/feed.xml
+#
+## leggi in loop i dati del file JSON e usali per creare nuovi item nel file XML
+#newcounter=0
+#cat "$folder"/rawdata/"$iPA".json | while read line; do
+#  link=$(echo $line | jq -r .link)
+#  title=$(echo $line | jq -r .titolo)
+#  pubDate=$(echo $line | jq -r .pubDate)
+#  newcounter=$(expr $newcounter + 1)
+#  xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
+#    --subnode "//item[$newcounter]" --type elem -n title -v "$title" \
+#    --subnode "//item[$newcounter]" --type elem -n link -v "$link" \
+#    --subnode "//item[$newcounter]" --type elem -n pubDate -v "$pubDate" \
+#    --subnode "//item[$newcounter]" --type elem -n guid -v "$link" \
+#    "$folder"/processing/feed.xml
+#done
+#
+#cp "$folder"/processing/feed.xml "$output"
