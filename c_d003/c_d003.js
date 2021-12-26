@@ -23,7 +23,7 @@ const puppeteer = require('puppeteer');
   const fs = require('fs');
   // salva il contenuto HTML nella cartella corrente
   var ws = fs.createWriteStream(
-    './test.html'
+    './tmp.html'
   );
   ws.write(HTML);
   ws.end();

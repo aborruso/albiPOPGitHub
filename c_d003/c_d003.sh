@@ -54,6 +54,7 @@ if [ $code -eq 200 ]; then
   cd "$folder"
   npm i puppeteer
   node "$folder"/c_d003_test.js
+  node "$folder"/c_d003.js
 else
   echo "Il sito non è raggiungibile"
   exit 1
