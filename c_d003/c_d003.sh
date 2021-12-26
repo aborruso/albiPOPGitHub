@@ -52,9 +52,22 @@ code="200"
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
   cd "$folder"
-  curl -Is "$URLBase"
-  curl -I "$URLBase"
-  ping -c 5 cloud.urbi.it
+  curl 'https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1233954' \
+  -H 'authority: cloud.urbi.it' \
+  -H 'cache-control: max-age=0' \
+  -H 'sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="96", "Google Chrome";v="96"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9' \
+  -H 'sec-fetch-site: none' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'sec-fetch-dest: document' \
+  -H 'accept-language: en-US,en;q=0.9,it;q=0.8' \
+  -H 'cookie: URBISMART=S; ENHANCED_LOGIN=S' \
+  --compressed >./tt.html
   npm i puppeteer
   node "$folder"/c_d003_test.js
 #  node "$folder"/c_d003.js
