@@ -52,7 +52,9 @@ code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:8
 if [ $code -eq 200 ]; then
   cd "$folder"
   node "$folder"/"$iPA".js
-
+else
+  echo "Il sito non è raggiungibile"
+  exit 1
 fi
 
 # estrai soltanto le righe
@@ -95,7 +97,7 @@ xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//c
 
 # leggi in loop i dati del file JSON e usali per creare nuovi item nel file XML
 newcounter=0
-cat "$folder"/rawdata/"$iPA".json| while read line; do
+cat "$folder"/rawdata/"$iPA".json | while read line; do
   link=$(echo $line | jq -r .link)
   title=$(echo $line | jq -r .titolo)
   pubDate=$(echo $line | jq -r .pubDate)
