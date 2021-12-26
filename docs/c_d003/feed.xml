@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di Cori</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>https://aborruso.github.io/albiPOPGitHub/c_d003/feed.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_d003/feed.xml" type="application/rss+xml"/>
+    <docs>https://albopop.it/comune/cori/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">Cori</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Latina</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Lazio</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">41.643171</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">12.915165</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di Cori</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:059006</category>
+  </channel>
+</rss>
