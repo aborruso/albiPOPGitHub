@@ -53,7 +53,7 @@ code="200"
 if [ $code -eq 200 ]; then
   cd "$folder"
   curl -Is "$URLBase"
-  curl -I h"$URLBase"
+  curl -I "$URLBase"
   ping -c 5 cloud.urbi.it
   npm i puppeteer
   node "$folder"/c_d003_test.js
