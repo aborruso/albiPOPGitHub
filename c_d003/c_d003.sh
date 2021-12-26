@@ -52,15 +52,17 @@ code="200"
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
   cd "$folder"
+  curl -Is "$URLBase"
+  curl -I h"$URLBase"
+  ping -c 5 cloud.urbi.it
   npm i puppeteer
   node "$folder"/c_d003_test.js
-  node "$folder"/c_d003.js
+#  node "$folder"/c_d003.js
 else
   echo "Il sito non è raggiungibile"
   exit 1
 fi
 
-#exit 1
 
 
 ## estrai soltanto le righe
