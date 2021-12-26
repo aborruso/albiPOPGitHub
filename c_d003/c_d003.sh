@@ -52,6 +52,7 @@ code="200"
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
   cd "$folder"
+  npm i puppeteer
   node "$folder"/c_d003_test.js
 else
   echo "Il sito non è raggiungibile"
