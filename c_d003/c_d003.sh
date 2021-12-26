@@ -51,13 +51,13 @@ code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:8
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
   cd "$folder"
-  wget -O ./test.html "$URLBase"
-  node "$folder"/"$iPA".js
+  #node "$folder"/"$iPA".js
+  curl --socks5-hostname localhost:9050 "$URLBase" >./tor.html
 else
   cd "$folder"
-  wget -O ./test.html "$URLBase"
-  node "$folder"/"$iPA".js
+  #node "$folder"/"$iPA".js
   echo "Il sito non è raggiungibile"
+  curl --socks5-hostname localhost:9050 "$URLBase" >./tor.html
 fi
 
 ## estrai soltanto le righe
