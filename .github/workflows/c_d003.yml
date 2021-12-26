@@ -3,8 +3,8 @@ name: crea feed RSS c_d003
 on:
 #  push:
   repository_dispatch:
-  schedule:
-    - cron:  '15 8,10,13,16 */1 * *'
+#  schedule:
+#    - cron:  '15 8,10,13,16 */1 * *'
   workflow_dispatch:
 
 jobs:
@@ -26,8 +26,6 @@ jobs:
         sudo apt-get install xmlstarlet
         sudo pip install yq
         sudo npm i --save puppeteer
-        sudo apt-get install tor
-        sudo service tor restart
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
