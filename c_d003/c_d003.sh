@@ -52,7 +52,6 @@ code="200"
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
   cd "$folder"
-  http 'https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1233954' >./tt.html
   npm i puppeteer
   node "$folder"/c_d003_test.js
 #  node "$folder"/c_d003.js
