@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/12/2021 | Determinazioni Dirigenziali</title>
+      <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per RIPARAZIONE TERMINALI PARCHEGGIO AUTOMATIZZATO -  CIG ZEF347ED68</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1313</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1313</guid>
+    </item>
+    <item>
       <title>24/12/2021 | Determinazioni Dirigenziali</title>
       <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALLINGEGNERIA E ALLARCHITETTURA ED ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N°</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1312</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1279</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1279</guid>
-    </item>
-    <item>
-      <title>21/12/2021 | Determinazioni Dirigenziali</title>
-      <description>Determinazione a contrarre e impegno di spesa per l'acquisto di strumentazione informatica hardware per la funzionalità dello Sportello Unico per l'Edilizia (SUE), da destinare al Settore III - Area Territorio e Ambiente e al Settore V Economico Fina</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1278</link>
-      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1278</guid>
     </item>
   </channel>
 </rss>
