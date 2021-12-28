@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Servizio di manutenzione e conduzione impianti di riscaldamento e climatizzazione scuole materne, scuole elementari, scuole medie, asili nido, impianti sportivi ed edifici pubblici. Anno 2020/2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4590</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4590</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia n. 32 del 23 dicembre 2021 in ditta Grasso Tindaro e Sciotto Rosaria Santina</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4589</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4589</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia n. 31 del 21 dicembre 2021 in ditta Barca Massimo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4588</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4588</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia n. 30 del 21 dicembre 2021 in ditta Calabrò Domenica</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4587</link>
+      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4587</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n 22E del 21 settembre 2021 prot  48799 del 24 settembre 2021 dell'importo di euro € 3.318,71    ditta  scilipoti snc di scilipoti</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4586</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4561</link>
       <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4561</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per costituzione fondo presso economo comunale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4560</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4560</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FORNITURA DI MATERIALE VARIO DA SERVIRE PER LA MANUTENZIONE ORDINARIA DEGLI EDIFICI PUBBLICI DI PROPRIETÀ' COMUNALE DA  ESEGUIRSI MEDIANTE LAVORI IN ECONOMIA O PER PICCOLI INTERVENTI DI MANUTENZIONE RICORRENTI.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4559</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4559</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Interventi di manutenzione, nonchè urgenti, presso il cimitero Comunale. Impegno spesa</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4558</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4558</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per  Servizi tecnici per il funzionamento del Teatro "Placido Mandanici" durante gli spettacoli</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4557</link>
-      <pubDate>Fri, 24 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4557</guid>
     </item>
   </channel>
 </rss>
