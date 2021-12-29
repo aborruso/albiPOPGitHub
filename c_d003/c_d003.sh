@@ -46,7 +46,7 @@ output="$folder"/../docs/"$iPA"
 URLBase="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1233954"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+code=$(curl -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
 #code="200"
 
 # se il server risponde fai partire lo script
