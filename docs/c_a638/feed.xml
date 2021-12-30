@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>RINNOVO ABBONAMENTI A RIVISTE E PERIODICI DELLA BIBLIOTECA COMUNALE NANNINO DI GIOVANNI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4617</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4617</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture n. 004180934665 e n. 004180934517 del 16.11.2021. Ditta Enel Energia S.p.a.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4616</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4590</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4590</guid>
-    </item>
-    <item>
-      <title>Concessioni Edilizie</title>
-      <description>Concessione edilizia n. 32 del 23 dicembre 2021 in ditta Grasso Tindaro e Sciotto Rosaria Santina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4589</link>
-      <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4589</guid>
     </item>
   </channel>
 </rss>
