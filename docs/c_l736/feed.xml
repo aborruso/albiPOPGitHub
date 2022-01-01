@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELETTORALE E LEVA | Pubblicazione numero 5766</title>
+      <description>MANIFESTO "FORMAZIONE LISTA DI LEVA DEI GIOVANI NATI NELLANNO 2005"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149467.pdf</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149467.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 5765</title>
       <description>ORDINANZA SINDACALE N. 808 DEL 31/12/2021 - EX ARTT. 50 E 54 TUEL, PER LADOZIONE DI MISURE COMPLEMENTARI AI PROVVEDIMENTI NAZIONALI E REGIONALI, ATTE A CONTENERE IL RISCHIO SANITARIO CONNESSO ALLEMERGENZA "COVID-19" ED A PRESERVARE LINTEGRITÀ FISICA DELLA POPOLAZIONE IN RELAZIONE ALLA TRADIZIONE DEI "PANEVIN", DAL 31 DICEMBRE 2021 AL 9 GENNAIO 2022.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149466.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149438.pdf</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149438.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 5736</title>
-      <description>DD/2021/2793 - SECI.GEDI.640 - DETERMINAZIONE A CONTRATTARE AI SENSI DELLART.192 DECRETO LEGISLATIVO 267/2000 E CONTESTUALE AFFIDAMENTO DEL SERVIZIO DI  SUPPORTO ATTIVITÀ ARCHIVISTICHE PRESSO ARCHIVIO GENERALE PERTINI A MESTRE. IMPEGNO DI SPESA ANNO 2022</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149437.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149437.pdf</guid>
     </item>
   </channel>
 </rss>
