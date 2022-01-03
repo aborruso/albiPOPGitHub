@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2021/1845</title>
+      <description>INDIVIDUAZIONE E NOMINA DEI RESPONSABILI DEI SERVIZI E DEI PROCEDIMENTI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391001</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391001</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1844</title>
       <description>LIQUIDAZIONE FATTURA ASSOCIAZIONE CROCE VERDE ODV</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390873</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390417</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390417</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1831</title>
-      <description>DECRETO DI OCCUPAZIONE TEMPORANEA, NON PREORDINATA ALL'ESPROPRIO, DELL'AREA OCCORRENTE PER L'ESECUZIONE DELL'INTERVENTO DEI LAVORI DI "REGIMENTAZIONE E SMALTIMENTO ACQUE METEORICHE IN VIA LITTERI NEL TRATTO COMPRESO TRA I CIVICI 12-64 E 5-43", F DI M N. 2 PART. 243. PROROGA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390415</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390415</guid>
     </item>
   </channel>
 </rss>
