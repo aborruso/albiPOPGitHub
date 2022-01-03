@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Comunicazione  servizio abusivismo edilizio per il mese di Dicembre 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4714</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4714</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia n. 34 del 30 dicembre 2021 in ditta Giunta Silvia</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4713</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4713</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia in sanatoria n. 33 del 2021 in ditta Rossitto Bianca Rosa</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4712</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4712</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Prosecuzione servizio residenziale in Comunità alloggio Sigg. T.D. e P.A. nella Comunità alloggio gestita dalla Cooperativa Sociale a.r.l. "Maria di Nazareth" periodo dal 01-06-2021 al 30-06-2022. CIG: Z2924AB7BF</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4711</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4687</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4687</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Copertura campo polifunzionale in contrada Manno (recupero funzionale) progetto a valere sull'Azione 9.6.6 del POR FESR 2014-2020 CUP  H62E17000040002.  Liquidazione O.P.T. (ex CPT)  convenzione l.r. n. 20/2007</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4686</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4686</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.190/03 del 15/12/21 per servizio di recupero dei rifiuti biodegradabili di cucine e del verde presso l'impianto di compostaggio della Ditta REM, sito in C/da Milisinni  Catania, dall'01 al 15 dicembre 2021.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4685</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4685</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Restituzione somme al Dipartimento di Protezione Civile della Regione Siciliana.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4684</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4684</guid>
     </item>
   </channel>
 </rss>
