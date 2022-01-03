@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/2</title>
+      <description>DIVIETO DI SOSTA VIA CAPPARELLI E TRATTO DI VIA L.MARE CICLOPI PER TRANSITO MEZZI PESANTI IL GIORNO 5/1/2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391036</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391036</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/1</title>
+      <description>AFFIDAMENTO DEI SERVIZI DI TRATTAMENTO, RECUPERO E SMALTIMENTO DEI RIFIUTI RACCOLTI NEL TERRITORIO COMUNALE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391021</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391021</guid>
+    </item>
+    <item>
       <title>Atto numero 2021/1845</title>
       <description>INDIVIDUAZIONE E NOMINA DEI RESPONSABILI DEI SERVIZI E DEI PROCEDIMENTI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391001</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390421</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390421</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/136/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA PULVIRENTI ALFIO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390419</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390419</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/135/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA LITRICO CARLO GIOVANNI</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390417</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390417</guid>
     </item>
   </channel>
 </rss>
