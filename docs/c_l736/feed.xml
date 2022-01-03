@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ISTANZE PER CAMBIO NOME/COGNOME | Pubblicazione numero 1</title>
+      <description>ISTANZA DI MODIFICA COGNOME DEL FIGLIO MINORE DONEGA ALVISE DA "DONEGA" A "DONEGA GONZALEZ"</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149468.pdf</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149468.pdf</guid>
+    </item>
+    <item>
       <title>#ELETTORALE E LEVA | Pubblicazione numero 5766</title>
       <description>MANIFESTO "FORMAZIONE LISTA DI LEVA DEI GIOVANI NATI NELLANNO 2005"</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149467.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149439.pdf</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149439.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 5737</title>
-      <description>DD/2021/2791 - NO21201 DETERMINA PER IMPEGNO DI SPESA E A CONTRARRE EX ART. 192 D.LGS. 267/2000 E DEL COMBINATO DISPOSTO DELLART. 36, COMMA 2, LETT. A) DEL D.LGS. 50/2016 E LEGGE 11 SETTEMBRE 2020, N. 120. DITTA HOLZHOF S.R.L., P. IVA 01762120226.  RIQUALIFICAZIONE DI ALCUNE AREE GIOCO NEL CENTRO STORICO DI VENEZIA E NELLE ISOLE  IMPEGNO DI SPESA PER EURO EURO 20.984,00 (IVA AL 22% INCLUSA)</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149438.pdf</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149438.pdf</guid>
     </item>
   </channel>
 </rss>
