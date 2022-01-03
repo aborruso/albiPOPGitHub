@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/01/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Promozione e creazione di Comunità Energetiche Rinnovabili e Gruppi di Autoconsumo Collettivo - Mozione.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</guid>
+    </item>
+    <item>
       <title>31/12/2021 | Determinazioni Dirigenziali</title>
       <description>DETERMINAZIONE A CONTRARRE MEDIANTE TRATTATIVA DIRETTA ED IMPEGNO SPESA. REALIZZAZIONE DI N. 2 PARCHI GIOCO INCLUSIVI NEL TERRITORIO DEL COMUNE DI PATTI</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1376</link>
@@ -32,14 +39,14 @@
     </item>
     <item>
       <title>31/12/2021 | Determinazioni Del Sindaco</title>
-      <description>CICLOVIA   STORICO-NATURALISTICA   TRA LA VILLA ROMANA E IL CENTRO STORICO DI PATTI A MARGINE DEL TORRENTE MONTAGNAREALE.  SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
+      <description>CICLOVIA STORICO-NATURALISTICA TRA LA VILLA ROMANA E IL CENTRO STORICO DI PATTI A MARGINE DEL TORRENTE MONTAGNAREALE - SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1374</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1374</guid>
     </item>
     <item>
       <title>31/12/2021 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO TECNICO DI PROGETTO DI LIVELLO ESECUTIVO RELATIVO "ALL'INTERVENTO FINALIZZATO ALL'ESECUZIONE DI OPERE PER ELIMINARE IL PERICOLO DERIVANTE DA RISCHIO IDROGEOLOGICO DELLAREA SUD DEL CIMITERO DI PATTI CENTRO". DETERMINAZIONE A CONTRARRE MEDIANT</description>
+      <description>SERVIZIO TECNICO DI PROGETTO DI LIVELLO ESECUTIVO RELATIVO "ALL'INTERVENTO FINALIZZATO ALL'ESECUZIONE DI OPERE PER ELIMINARE IL PERICOLO DERIVANTE DA RISCHIO IDROGEOLOGICO DELLAREA SUD DEL CIMITERO DI PATTI CENTRO" - DETERMINAZIONE A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO PREVIA INDAGINE DI MERCATO ED IMPEGNO SPESA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1373</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1373</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1342</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1342</guid>
-    </item>
-    <item>
-      <title>29/12/2021 | Deliberazioni Di Giunta</title>
-      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul territorio del  Comune di Patti presso l'impianto di TMB sito in Trapani  C/da Belvedere  e gestito dalla Ditta Trapani Servizi SpA  -  Assegnazione Risorse periodo 01.01.20</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1341</link>
-      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1341</guid>
     </item>
   </channel>
 </rss>
