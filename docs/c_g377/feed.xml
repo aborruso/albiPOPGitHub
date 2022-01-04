@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/01/2022 | Deliberazioni Di Giunta</title>
+      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul territorio del Comune di Patti presso l'impianto di TMB sito in Trapani  C/da Belvedere e gestito dalla Ditta Trapani Servizi SpA - Assegnazione Risorse periodo 01.01.2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1384</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1384</guid>
+    </item>
+    <item>
+      <title>04/01/2022 | Deliberazioni Di Giunta</title>
+      <description>Servizio di smaltimento finale della frazione di sopravaglio CER 19.12.12 dei rifiuti non pericolosi raccolti nel territorio di questo Comune, presso l'impianto sito in C/da Valanghe d'Inverno  Motta Sant'Anastasia (CT), gestito dalla OIKOS S.p.A.  -</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</guid>
+    </item>
+    <item>
       <title>04/01/2022 | Determinazioni Del Sindaco</title>
       <description>Rettifica determina sindacale n.41 del 24/11/2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1382</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1349</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1349</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. RENATO RIFICI PER LA COSTITUZIONE NEL GIUDIZIO DI RIASSUNZIONE PROMOSSO DALLA DITTA LEPRINO COSTRUZIONI S.R.L. DAVANTI ALLA CORTE D'APPELLO DI MESSINA. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1348</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1348</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Avvisi Vari</title>
-      <description>RINVIO ELEZIONI CONSIGLIO METROPOLITANO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1347</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1347</guid>
     </item>
   </channel>
 </rss>
