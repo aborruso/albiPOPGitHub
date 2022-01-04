@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 ELENCO NR. 1 IRREPERIBILI</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391068</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391068</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/240</title>
       <description>PATTO TERRITORIALE DELLE ACI. TRASMISSIONE AVVISO E RELATIVI ALLEGATI PER LA UBBLICAZIONE ALL'ABO PRETORIO SINO AL 25 GENNAIO 2022</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391058</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390512</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390512</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1834</title>
-      <description>DECRETO DI OCCUPAZIONE TEMPORANEA, NON PREORDINATO ALL'ESPROPRIO, DELL'AREA OCCORRENTE PER L'ESECUZIONE DELL'INTERVENTO DEI LAVORI DI "REGIMENTAZIONE E SMALTIMENTO ACQUE METEORICHE IN VIA LITTERI NEL TRATTO COMPRESO TRA I CIVICI 12-64 E 5-43". F. DI M. N. 2 PART 242. PROROGA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390435</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390435</guid>
     </item>
   </channel>
 </rss>
