@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso Esplorativo per Acquisire le Canditature e i Curricula dei Dipendenti Interessati al Conferimento di Incarico di Posizione Organizzative Presso il IV Settore - Sezione 1</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4717</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4717</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Corso base d 1 livello con selezione finale di merito per la formulazione di una graduatoria di validità triennale per Agente di Polizia Locale Cat. C.1</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4716</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4690</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4690</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per la manutenzione automezzi comunali di pertinenza dell'Autoparco Municipale;</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4689</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4689</guid>
     </item>
   </channel>
 </rss>
