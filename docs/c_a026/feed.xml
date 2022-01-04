@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1</title>
+      <description>REVOCA DETERMINAZIONE N. REG.GEN. 1750/2021 AVENTE AD OGGETTO: "AUTORIZZAZIONE ALLA TUMULAZIONE URNA CINERARIA IN TOMBA N. 7 RETTANGOLO S. PIETRO" FASCICOLO CIMITERIALE: TOMBA N. 7 RETT. S. PIETRO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391042</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391042</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/2</title>
       <description>DIVIETO DI SOSTA VIA CAPPARELLI E TRATTO DI VIA L.MARE CICLOPI PER TRANSITO MEZZI PESANTI IL GIORNO 5/1/2022</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391036</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390423</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390423</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/137/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA BELLIA IVAN</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390421</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390421</guid>
     </item>
   </channel>
 </rss>
