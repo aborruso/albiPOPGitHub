@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/01/2022 | Atti Di Interesse Generale</title>
+      <description>CORSO BASE DI 1° LIVELLO CON SELEZIONE FINALE DI MERITO PER LA FORMULAZIONE DI UNA GRADUATORIA DI VALIDITA' TRIENNALE PER AGENTE DI POLIZIA LOCALE CAT. C1.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1380</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1380</guid>
+    </item>
+    <item>
       <title>03/01/2022 | Ordinanze Sindacali</title>
       <description>Ordinanza T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1345</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1345</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>INTERVENTO DI: "LAVORI DI DEMOLIZIONE E RICOSTRUZIONE DELL'IMPIANTO SPORTIVO POLIVALENTE DI VIA MAZZINI E VALORIZZAZIONE DELLE AREE ADIACENTI" - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1344</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1344</guid>
     </item>
   </channel>
 </rss>
