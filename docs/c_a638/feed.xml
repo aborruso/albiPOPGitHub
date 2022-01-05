@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Schuller Daniel</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4723</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4723</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Lavori di taglio piante e deramificazione piante sottostanti le linee elettriche</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4722</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4722</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>DETERMINAZIONE GIACENZA DI CASSA VINCOLATA ALLA DATA DEL 1 GENNAIO 2022 AI SENSI DEL PUNTO 10 ALLEGATO 4.2 DEL D LGS 118/2011</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4721</link>
@@ -193,24 +207,10 @@
     </item>
     <item>
       <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo, a far data dal 1 febbraio 2022, della dipendente  XXXX  per l'avvenuto raggiungimento dei limiti di età</description>
+      <description>Collocamento a riposo, a far data dal 1 febbraio 2022, della dipendente  XXXX  per l'avvenuto raggiungimento dei limiti di età - Ripubblicata per avvenuta correzione</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4696</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4696</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Presa atto del giudizio della Commissione di Verifica di Palermo e collocamento a riposo per sopravvenuta inidoneità permanente al servizio, a causa di infermità, art 2 c 12 della  legge 335 del 1995, del  dipendente   - con decorrenza dal 1/01/2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4695</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4695</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo a far data dal 1 febbraio 2022 della dipendente XXXX per l'avvenuto raggiungimento dei requisiti di età e di servizio previsti dall'art. 14 del DL28 gennaio 2019 n. 4 -</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4694</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4694</guid>
     </item>
   </channel>
 </rss>
