@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/2</title>
+      <description>PROROGA AUTORIZZAZIONE A SVOLGERE L'ATTIVITA' LAVORATIVA IN MODALITA' AGILE ALLA DIPENDENTE CON MATRICOLA 459 IN FORZA PRESSO L'AREA 4</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391070</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391070</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 ELENCO NR. 1 IRREPERIBILI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391068</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390522</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390522</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/348</title>
-      <description>ORDINANZA DEL SINDACO SUL DIVIETO ASSOLUTO SU TUTTO IL TERRITORIO COMUNALE, DAL 31/12/2021 ALLE ORE 08.00 DEL 01/01/2022, DI ACCENDERE, LANCIARE E SPARARE MATERIALE PIROTECNICO E SIMILARE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390512</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390512</guid>
     </item>
   </channel>
 </rss>
