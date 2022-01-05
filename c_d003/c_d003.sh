@@ -5,6 +5,7 @@
 # xmlstarlet http://xmlstar.sourceforge.net/
 # jq https://github.com/stedolan/jq
 # scrape https://github.com/aborruso/scrape-cli
+#
 ### requisiti ###
 
 set -x
