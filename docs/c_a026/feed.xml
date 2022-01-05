@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1</title>
+      <description>PANDEMIA DA COVID 19. CHIUSURA UFFICI COMUNALI GIORNO 7 GENNAIO 2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391122</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391122</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/3</title>
       <description>CONCESSIONE ALL'ASD SATURNIA ACICASTELLO DELLA PALESTRA DELL'ICS FALCONE DI ACICASTELLO VIA CESARE BATTISTI N.12 FINO AL 31/05/2022.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/391089</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390526</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390526</guid>
-    </item>
-    <item>
-      <title>Atto numero 2021/1837</title>
-      <description>LIQUIDAZIONE FATTURE DEL 07/12/2021 DELLA SOCIETÀ ENEL ENERGIA S.P.A. PER SOMMINISTRAZIONE ENERGIA ELETTRICA PER PUBBLICA ILLUMINAZIONE E USI DIVERSI PER N° 2 IMPIANTI PER 12 MESI MEDIANTE ADESIONE A CONVENZIONE CONSIP “ENERGIA ELETTRICA 18” - PERIODO: NOVEMBRE 2021</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390524</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/390524</guid>
     </item>
   </channel>
 </rss>
