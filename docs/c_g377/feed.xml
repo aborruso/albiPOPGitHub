@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione per l'anno 2013 delle indennità di rischio, prevista dall'art. 17, comma 2, lett. D, del C.C.N.L. 01.04.1999 e dell'art. 37 del C.C.N.L. 14.09. 2000</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1395</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1395</guid>
+    </item>
+    <item>
+      <title>05/01/2022 | Deliberazioni Di Giunta</title>
+      <description>Riammissione in servizio a far data dal 10 Gennaio 2022 della dipendente Sig.ra Farina Tiziana.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1394</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1394</guid>
+    </item>
+    <item>
       <title>05/01/2022 | Determinazioni Del Sindaco</title>
       <description>RETTIFICA DETERMINA SINDACALE N.59 del 31/12/2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1393</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1360</link>
       <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1360</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. LA SPADA ANTONIO GIANLUCA IN SERVIZIO AL SETTORE V° = PERIODO:  01.01.2022 -  30.06.2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1359</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1359</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>determinazione a contrarre e affidamento fornitura di segnaletica stradale</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1358</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1358</guid>
     </item>
   </channel>
 </rss>
