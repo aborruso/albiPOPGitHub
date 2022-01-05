@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto  di pagamento nei confronti della Ditta  GAO GAISHENG</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4720</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4720</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>O.d.G. Aggiuntivo convocazione consiglio comunale "Question Time" del 10/01/2022, ore 19:30</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4719</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4719</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale "Question Time" che si terrà il prossimo 10 gennaio 2022, ore 19,30</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4718</link>
+      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4718</guid>
+    </item>
+    <item>
       <title>Bando Di Concorso</title>
       <description>Avviso Esplorativo per Acquisire le Canditature e i Curricula dei Dipendenti Interessati al Conferimento di Incarico di Posizione Organizzative Presso il IV Settore - Sezione 1</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4717</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4693</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4693</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno somme per liquidazione competenze Medico del lavoro per gli accessi presso il Comune di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4692</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4692</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SPESA  QUOTA SOCIETARIA GAL TIRRENICO 2017-2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4691</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4691</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno somme per rimborso al Comune di Monreale del trattamento economico di dipendente in posizione di comando a tempo parziale presso questo Ente.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4690</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4690</guid>
     </item>
   </channel>
 </rss>
