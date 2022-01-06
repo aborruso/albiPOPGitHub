@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ELENCO DELLE CONCESSIONI EDILIZIE | Pubblicazione numero 60</title>
+      <description>ELENCO PERMESSI DI COSTRUIRE DEL MESE DI DICEMBRE 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149527.pdf</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149527.pdf</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 59</title>
       <description>LA IV COMMISSIONE (CONGIUNTA ALLA VII COMMISSIONE) È CONVOCATA MERCOLEDÌ 12 GENNAIO 2022 ALLE ORE 09:30 PRESSO VIDEOCONFERENZA</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149526.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_346_38924_testo.pdf</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_346_38924_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 30</title>
-      <description>DELIBERA DI GIUNTA N. 2021/345: LAVORI PUBBLICI - VE 4.2.1.B-2 ADEGUAMENTI FUNZIONALI DEL CENTRO CIVICO DELLA BISSUOLA. RECUPERO EDIFICI PER ATTIVITÀ SOCIO-CULTURALI FINALIZZATE ALLANIMAZIONE DELLE COMUNITÀ EMARGINATE"  - APPROVAZIONE PROGETTO DEFINITIVO COMPRENSIVO DEL PROGETTO DI FATTIBILITA TECNICO ECONOMICA . C.I. 14829</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_345_38836_testo.pdf</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_345_38836_testo.pdf</guid>
     </item>
   </channel>
 </rss>
