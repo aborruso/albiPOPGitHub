@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/01/2022 | Ordinanze Sindacali</title>
+      <description>Sospensione delle attività didattiche in presenza, di tutte le scuole di ogni ordine e grado, sia pubbliche che private, insistenti sul territorio di questo comune, a causa dell'emergenza epidemiologica Covid-19, dal 10 gennaio 2022 e fino al 15 genn</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1397</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1397</guid>
+    </item>
+    <item>
+      <title>07/01/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1396</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1396</guid>
+    </item>
+    <item>
       <title>05/01/2022 | Determinazioni Dirigenziali</title>
       <description>Liquidazione per l'anno 2013 delle indennità di rischio, prevista dall'art. 17, comma 2, lett. D, del C.C.N.L. 01.04.1999 e dell'art. 37 del C.C.N.L. 14.09. 2000</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1395</link>
@@ -130,7 +144,7 @@
     </item>
     <item>
       <title>03/01/2022 | Ordinanze Sindacali</title>
-      <description>Ordinanza T.S.O.</description>
+      <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1362</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1362</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>Determinazione a contrarre e affidamento fornitura vestiario d'ordinanza</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1361</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1361</guid>
-    </item>
-    <item>
-      <title>30/12/2021 | Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. SIG. GIARRIZZO  TINDARO IN  SERVIZIO NEL SETTORE V°- SUPPORTO SERVIZIO ACQUEDOTTO  - PERIODO DAL 01/01/2022 AL 30/06/2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1360</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1360</guid>
     </item>
   </channel>
 </rss>
