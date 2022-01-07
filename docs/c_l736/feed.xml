@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 61</title>
+      <description>BANDO DI GARA N. 02/2022 - AFFIDAMENTO IN CONCESSIONE DUSO DI N. 244 IMPIANTI PUBBLICITARI DI GRANDE FORMATO DENOMINATI STENDARDO TOPOGRAFICO E POSTER 6X3 CIG 905228343F.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149528.pdf</link>
+      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149528.pdf</guid>
+    </item>
+    <item>
       <title>#ELENCO DELLE CONCESSIONI EDILIZIE | Pubblicazione numero 60</title>
       <description>ELENCO PERMESSI DI COSTRUIRE DEL MESE DI DICEMBRE 2021</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149527.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_347_39237_testo.pdf</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_347_39237_testo.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 31</title>
-      <description>DELIBERA DI GIUNTA N. 2021/346: LAVORI PUBBLICI - C.I. 14520 REALIZZAZIONE RETE ANTINCENDIO DI VENEZIA IV LOTTO IV STRALCIO. APPROVAZIONE PROGETTO DEFINITIVO</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_346_38924_testo.pdf</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2021/DG_2021_346_38924_testo.pdf</guid>
     </item>
   </channel>
 </rss>
