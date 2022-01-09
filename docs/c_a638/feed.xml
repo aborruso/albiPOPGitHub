@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Ulteriori misure urgenti per emergenza da Covid 19. Sospensione di tutte le attività didattiche ed educative in presenza nelle scuole di ogni ordine e grado pubbliche e private.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4725</link>
+      <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4725</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Lavori di risparmio energetico e sostenibilità ambientale anche attraverso il miglioramento tecnologico presso l Istituto comprensivo L Capuana PO FESR 2014 2020 Asse prioritario energia sostenibile e qualità della vita Azione 4.1.1. Aggiudicataria</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4724</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4698</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4698</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Autorizzazione  al dipendente di ruolo  (omissis) da tempo pieno a tempo parziale orizzontale a 18 ore  dal 1/01//2022 al 30/06/2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4697</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4697</guid>
     </item>
   </channel>
 </rss>
