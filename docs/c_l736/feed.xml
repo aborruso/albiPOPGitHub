@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 64</title>
+      <description>ESITO DI GARA G22679 - PROCEDURA NEGOZIATA PER LAFFIDAMENTO DELLA FORNITURA DI GASOLIO AGEVOLATO AI  MEZZI  AZIENDALI  IN  SERVIZIO  SULLA  LINEA PELLESTRINA/CHIOGGIA E VICEVERSA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149531.pdf</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149531.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 63</title>
       <description>AVVISO PUBBLICO N. 39/2021 PER LATTRIBUZIONE DI UN INCARICO DI: DIRIGENTE MEDICO DIRETTORE DI STRUTTURA COMPLESSA UOC PEDIATRIA PRESIDIO OSPEDALIERO DI VENEZIA DISCIPLINA: PEDIATRIA AREA MEDICA E DELLE SPECIALITÀ MEDICHE A RAPPORTO ESCLUSIVO</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149530.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149502.pdf</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149502.pdf</guid>
-    </item>
-    <item>
-      <title>#ELENCO DEI RAPPORTI DELLE OPERE ABUSIVE | Pubblicazione numero 34</title>
-      <description>ELENCO DEI RAPPORTI E DELLE ORDINANZE DI SOSPENSIONE DI OPERE E LOTTIZZAZIONI ABUSIVE (ART.31 COMMA 7 D.P.R. N. 380/2001) - MESE DI DICEMBRE 2021</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149501.pdf</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149501.pdf</guid>
     </item>
   </channel>
 </rss>
