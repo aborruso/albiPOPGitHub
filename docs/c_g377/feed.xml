@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/01/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieti di sosta c.so Matteotti -  piazza Gramsci e  via  Rasola per pulizia verde pubblico: 13 e 14/01/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1417</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1417</guid>
+    </item>
+    <item>
+      <title>11/01/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI GENNAIO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1416</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1416</guid>
+    </item>
+    <item>
+      <title>11/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fatture Maggioli n. 1170271 e n. 2155714, del 31.12.21.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1415</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1415</guid>
+    </item>
+    <item>
+      <title>11/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Anticipazione a Favore dell'Economo di cui all'art. 15 del vigente regolamento comunale per il servizio economato - Impegno di spesa relativo alla somma presumibilmente occorrente nell'esercizio finanziario 2022 per gli acquisti tramite il servizio e</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1414</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1414</guid>
+    </item>
+    <item>
       <title>11/01/2022 | Atti Di Interesse Generale</title>
       <description>RELAZIONE DI INIZIO MANDATO - ANNI 2021/2026 - (Art. 4-bis, D. Lgs. N. 6 settembre 2011, N. 149).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1413</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</guid>
-    </item>
-    <item>
-      <title>04/01/2022 | Determinazioni Del Sindaco</title>
-      <description>Rettifica determina sindacale n.41 del 24/11/2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1382</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1382</guid>
-    </item>
-    <item>
-      <title>04/01/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Conferimento Cittadinanza Onoraria al Campione Mondiale di Motocross Antonio Cairoli.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1381</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1381</guid>
-    </item>
-    <item>
-      <title>04/01/2022 | Atti Di Interesse Generale</title>
-      <description>CORSO BASE DI 1° LIVELLO CON SELEZIONE FINALE DI MERITO PER LA FORMULAZIONE DI UNA GRADUATORIA DI VALIDITA' TRIENNALE PER AGENTE DI POLIZIA LOCALE CAT. C1.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1380</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1380</guid>
-    </item>
-    <item>
-      <title>03/01/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</guid>
     </item>
   </channel>
 </rss>
