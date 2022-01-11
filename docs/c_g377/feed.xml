@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/01/2022 | Atti Di Interesse Generale</title>
+      <description>RELAZIONE DI INIZIO MANDATO - ANNI 2021/2026 - (Art. 4-bis, D. Lgs. N. 6 settembre 2011, N. 149).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1413</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1413</guid>
+    </item>
+    <item>
+      <title>11/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Elezioni Amministrative del 10 e 11 ottobre 2021  Liquidazione spesa per lavoro straordinario per gli adempimenti connessi con l'Ufficio Elettorale Circondariale.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1412</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1412</guid>
+    </item>
+    <item>
       <title>11/01/2022 | Determinazioni Dirigenziali</title>
       <description>RETTIFICA DETERMINA N.18 del 10/01/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1411</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1379</guid>
-    </item>
-    <item>
-      <title>03/01/2022 | Ordinanze Sindacali</title>
-      <description>Smaltimento carcassa cinghiale rinvenuto sull'arenile dell'area della Riserva naturale  di Marinello</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1378</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1378</guid>
-    </item>
-    <item>
-      <title>03/01/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Promozione e creazione di Comunità Energetiche Rinnovabili e Gruppi di Autoconsumo Collettivo - Mozione.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</guid>
     </item>
   </channel>
 </rss>
