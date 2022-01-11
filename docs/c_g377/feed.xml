@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/01/2022 | Determinazioni Dirigenziali</title>
+      <description>RETTIFICA DETERMINA N.18 del 10/01/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1411</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1411</guid>
+    </item>
+    <item>
       <title>10/01/2022 | Deliberazioni Di Giunta</title>
       <description>Anticipazione a Favore dell'Economo di cui all'art. 15 del vigente regolamento comunale per il servizio economato - Determinazione somme presumibilmente occorrenti nell'esercizio finanziario 2022 per gli acquisti tramite il servizio economato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1410</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1377</guid>
-    </item>
-    <item>
-      <title>31/12/2021 | Determinazioni Dirigenziali</title>
-      <description>DETERMINAZIONE A CONTRARRE MEDIANTE TRATTATIVA DIRETTA ED IMPEGNO SPESA. REALIZZAZIONE DI N. 2 PARCHI GIOCO INCLUSIVI NEL TERRITORIO DEL COMUNE DI PATTI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1376</link>
-      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1376</guid>
     </item>
   </channel>
 </rss>
