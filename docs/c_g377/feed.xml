@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Pagamento contributo degli oneri istruttori, così come previsto dall'ex Art. 91 della L.R. n° 9/2015 per lavvio delliter istruttorio per lattivazione della procedura di verifica di assoggettabilità alla Valutazione Ambientale Strategica (V.A.S.). rel</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1418</link>
+      <pubDate>Tue, 11 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1418</guid>
+    </item>
+    <item>
       <title>11/01/2022 | Ordinanze Dirigenziali</title>
       <description>Divieti di sosta c.so Matteotti -  piazza Gramsci e  via  Rasola per pulizia verde pubblico: 13 e 14/01/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1417</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1384</link>
       <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1384</guid>
-    </item>
-    <item>
-      <title>04/01/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di smaltimento finale della frazione di sopravaglio CER 19.12.12 dei rifiuti non pericolosi raccolti nel territorio di questo Comune, presso l'impianto sito in C/da Valanghe d'Inverno Motta Sant'Anastasia (CT), gestito dalla OIKOS S.p.A.  - Assegnazione risorse periodo 01/01/2022 - 30/06/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</link>
-      <pubDate>Tue, 04 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1383</guid>
     </item>
   </channel>
 </rss>
