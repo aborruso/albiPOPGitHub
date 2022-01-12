@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione  somme  avviso  n. TYXCOL500388 -2021   Agenzia delle Entrate</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4752</link>
+      <pubDate>Wed, 12 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4752</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>ME_084_RIF0004 - C.P. 1730 -Proponente:Commissario di Governo per il contrasto del dissesto idrogeologico nella Regione Sicil.-Progetto:"Completam.sistemaz. idraulica torrente Mela"Patto per il Sud- Comune di Santa Lucia del Mela(ME) -Procedimento verifica e valutazione di incidenza ambientale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4751</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4725</link>
       <pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4725</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di risparmio energetico e sostenibilità ambientale anche attraverso il miglioramento tecnologico presso l Istituto comprensivo L Capuana PO FESR 2014 2020 Asse prioritario energia sostenibile e qualità della vita Azione 4.1.1. Aggiudicataria</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4724</link>
-      <pubDate>Fri, 07 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4724</guid>
     </item>
   </channel>
 </rss>
