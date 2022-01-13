@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/01/2022 | Determinazioni Dirigenziali</title>
+      <description>SPESE LEGALI IN CONTO AVV. RENATO RIFICI. CONTROVERSIA GIUDIZIO DI RIASSUNZIONE LEPRINO COSTRUZIONI S.R.L.. LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1427</link>
+      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1427</guid>
+    </item>
+    <item>
       <title>12/01/2022 | Determinazioni Dirigenziali</title>
       <description>Elezioni amministrative del 05 giugno 2016  Liquidazione spesa per competenze ai componenti degli uffici elettorali di sezione e del Seggio dell'Adunanza dei Presidenti.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1426</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1393</link>
       <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1393</guid>
-    </item>
-    <item>
-      <title>05/01/2022 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE ORARIO DI LAVORO PER 15 ORE SETTIMANALI DAL 01/12/2021 AL 31/12/2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1392</link>
-      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1392</guid>
     </item>
   </channel>
 </rss>
