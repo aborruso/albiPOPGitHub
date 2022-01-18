@@ -17,8 +17,29 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. FATTPA 01/2022, ambulatorio veterinario Dott.ssa Niosi.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1469</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1469</guid>
+    </item>
+    <item>
+      <title>18/01/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1468</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1468</guid>
+    </item>
+    <item>
+      <title>18/01/2022 | Ordinanze Sindacali</title>
+      <description>Smaltimento  carcassa bovino</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1467</link>
+      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1467</guid>
+    </item>
+    <item>
       <title>17/01/2022 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione Buoni Spesa Emergenza Covid DPCM n. 658 del 29/03/2020</description>
+      <description>Liquidazione Buoni Spesa Emergenza Covid DPCM n. 658 del 29/03/2020.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1466</link>
       <pubDate>Mon, 17 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1466</guid>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1434</link>
       <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1434</guid>
-    </item>
-    <item>
-      <title>13/01/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONE STRAORDINARIA PER LA RIPARAZIONE DI UN TRATTO DI ACQUEDOTTO IN LOCALITÀ MONGIOVE, DELLA CONDOTTA IDRICA PASSANTE PER LA  VIA LUCA DELLA ROBBIA, NONCHÉ LA PULIZIA DI UNA CUNETTA IN C.DA  MUSTAZZO, LA SISTEMAZIONE DI UNA STRADA I</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1433</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1433</guid>
-    </item>
-    <item>
-      <title>13/01/2022 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI CONSULENZA TECNICA E SUPPORTO PER LA REDAZIONE DEL PIANO ECONOMICO FINANZIARIO E RIMODULAZIONE TARIFFE TARI 2021 IN CONFORMITA' A QUANTO PREVISTO DALLA DELIBERA  ARERA N. 443/2019. DITTA: POINT SERVICE SRL LIQUIDAZIONE  FATTURA N. 8/2022/</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1432</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1432</guid>
-    </item>
-    <item>
-      <title>13/01/2022 | Determinazioni Dirigenziali</title>
-      <description>Approvazione elenco dei destinatari aventi diritto dei buoni spesa/voucher per l'acquisto di generi alimentari art. 53 del Decreto Legge n. 73 del 25 maggio 2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1431</link>
-      <pubDate>Thu, 13 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1431</guid>
     </item>
   </channel>
 </rss>
