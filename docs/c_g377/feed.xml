@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Servizio di autocontrollo igienico sanitario per le cucine site rispettivamente nei locali dell'Istituto Comprensivo n. 3 "G. Lombardo Radice" e della scuola secondaria di I grado V. Bellini per il periodo gennaio/maggio  ottobre/dicembre 2021 e per</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1485</link>
+      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1485</guid>
+    </item>
+    <item>
       <title>19/01/2022 | Deliberazioni Di Giunta</title>
       <description>Servizio di sanificazione/disinfezione dei plessi scolastici di competenza comunale - Assegnazione risorse al Responsabile del II Settore Area "Infrastrutture e Manutenzioni".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1484</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1451</link>
       <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1451</guid>
-    </item>
-    <item>
-      <title>14/01/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta via Rasola per pulizia verde pubblico: 17.01.22</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1450</link>
-      <pubDate>Fri, 14 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1450</guid>
     </item>
   </channel>
 </rss>
