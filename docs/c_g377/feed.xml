@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/01/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1503</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1503</guid>
+    </item>
+    <item>
       <title>21/01/2022 | Deliberazioni Di Giunta</title>
       <description>Software gestione Atti Amministrativi, Protocollo Informatico, Messi Comunali, Portale e-gov, Run Time Ambiente.  Assegnazione somme.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1502</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1468</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1468</guid>
-    </item>
-    <item>
-      <title>18/01/2022 | Ordinanze Sindacali</title>
-      <description>Smaltimento  carcassa bovino</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1467</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1467</guid>
     </item>
   </channel>
 </rss>
