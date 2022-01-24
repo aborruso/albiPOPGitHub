@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 428</title>
+      <description>ELENCO AUTORIZZAZIONI PAESAGGISTICHE RILASCIATE NEL MESE DI DICEMBRE 2021 EX ART. 146 DEL D.LGS 22/01/2004 N° 42.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149895.pdf</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149895.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 427</title>
       <description>ORDINANZA N. 24 DEL 21.01.2022 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, DELLA SOSTA E PEDONALE PRESSO LE INTERSEZIONI PIAVE-CAVALLOTTI, BEMBO-CORSO DEL POPOLO,TORINO-NAPOLI E VIA CASTELLANA NELLE LOCALITÀ MESTRE E ZELARINO (VE) PER INTERVENTI DI MESSA IN SICUREZZA DEGLI INCROCI E DEI TRATTI MANCANTI DELLE CICLOVIE URBANE DA LUNEDÌ 24 GENNAIO 2022 A MERCOLEDÌ 23 FEBBRAIO 2022 DALLE ORE 00:00 ALLE ORE 24:00.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149894.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149866.pdf</link>
       <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149866.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 398</title>
-      <description>PARTCDS017 "CONTRATTI DI SERVIZIO PER LE MENSE SCOLASTICHE" A.M.E.S. S.P.A. - SERVIZIO DI RISTORAZIONE SCOLASTICA - MAGGIORI COSTI E ONERI RELATIVI ALLE MISURE ANTI COVID-19. IMPEGNO DI SPESA EURO 1.000.000,00.= INTEGRAZIONE.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149865.pdf</link>
-      <pubDate>Fri, 21 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149865.pdf</guid>
     </item>
   </channel>
 </rss>
