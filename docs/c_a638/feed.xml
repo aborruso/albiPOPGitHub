@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Selezione pubblica per titoli ed esperienze lavorative per la formazione di  n. 3 graduatorie per il conferimento di incarichi di lavoro autonomo a partita iva nell'ambito dei progetti del D.S.S. N. 28-Approvazione elenco assistenti sociali (profilo A) ammessi alla selezione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4931</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4931</guid>
+    </item>
+    <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Servizio di Trasporto Alunni Sulla Linea Denominata "Femminamorta" Per L'Anno Scolastico 2021 -2022 ( dal 07/02/2022 al 31/05/2022). C.I.G.: Z3C345BD5B Verbale di procedura aperta sul Me.Pa.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4930</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4930</guid>
+    </item>
+    <item>
       <title>Delibere Del Consiglio Comunale</title>
       <description>Approvazione documento unico di programmazione 2021-2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4929</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4902</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4902</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Dichiarazione di efficacia dell'aggiudicazione definitiva del servizio di assistenza alla autonomia e comunicazione agli alunni disabili che frequentano le scuole dell'infanzia, primarie e secondarie di I grado nei Comuni del Distretto Socio-Sanitari</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4901</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4901</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriali per irreperibiltà nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4900</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4900</guid>
     </item>
   </channel>
 </rss>
