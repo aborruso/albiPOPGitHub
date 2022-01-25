@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/01/2022 | Determinazioni Dirigenziali</title>
+      <description>Integrazione e rettifica determine n.18/2022  e n.19/2022 - Nomina Responsabili procedimenti Servizio alla persona.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1507</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1507</guid>
+    </item>
+    <item>
+      <title>25/01/2022 | Determinazioni Dirigenziali</title>
+      <description>NUOVA CARTA DI IDENTITA' ELETTRONICA (CIE) TRASFERIMENTO DEI CORRISPETTIVI AL MINISTERO IMPEGNO SPESA E LIQUIDAZIONE Dal 01.12.2021 al 31-12-2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1506</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1506</guid>
+    </item>
+    <item>
       <title>24/01/2022 | Ordinanze Dirigenziali</title>
       <description>DIVIETO DI SOSTA IN VIA RANDAZZO E PIAZZA ADELASIA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1505</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1472</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1472</guid>
-    </item>
-    <item>
-      <title>18/01/2022 | Determinazioni Dirigenziali</title>
-      <description>REALIZZAZIONE DI NUOVI LOCULI ED OSSARI NEL CIMITERO DEL CENTRO - CUP: C41B21007850002 - LIQUIDAZIONE ANTICIPAZIONE 20% DELL'IMPORTO CONTRATTUALE AI SENSI DELLART.35 COMMA 18 DEL D.LGS 50/2016  IN FAVORE DELLA DITTA AFFIDATARIA. IMPRESA: COGEX TRADE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1471</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1471</guid>
-    </item>
-    <item>
-      <title>18/01/2022 | Deliberazioni Del Comitato Dei Sindaci</title>
-      <description>D.D.G. 2877 del 31/12/2021 - Dipartimento per la Famiglia e Politiche Sociali - Autorizzazione al Presidente per partecipazione Manifestazione di interesse per la realizzazione del PNRR Missione 5 "Inclusione e Coesione" - Decreto Ministero del Lavoro e delle Politiche Sociali N. 450 del 09/12/2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1470</link>
-      <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1470</guid>
     </item>
   </channel>
 </rss>
