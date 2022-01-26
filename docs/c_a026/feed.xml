@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/3327</title>
+      <description>“LAVORI DI MANUTENZIONE STRAORDINARIA, MERCATO ITTICO DI ACITREZZA – RIFACIMENTO DELLA PORZIONE CENTRALE DI PAVIMENTAZIONE DEL TERRAZZO DI COPERTURA”</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393973</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393973</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/10</title>
       <description>RETTIFICA DELIBERAZIONE DI G.C. N. 7 DEL 25/01/2022 AVENTE AD OGGETTO: “ATTO DI MODIFICA PARZIALE DELL'ORGANIGRAMMA DI CUI ALLA DELIBERAZIONE G.C. N. 122/2016 E SS. MM. II. “</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393924</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393737</link>
       <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393737</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/47</title>
-      <description>CONCESSIONE PERMESSI EX LEGGE N. 104/92 – DIPENDENTE MATRICOLA N. 142</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393727</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/393727</guid>
     </item>
   </channel>
 </rss>
