@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/01/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'INDIVIDUAZIONE QUALE COMPONENTE DELLA COMMISSIONE GIUDICATRICE PER I CONCORSI INDETTI DAL COMUNE DI CONDRO'.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1512</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1512</guid>
+    </item>
+    <item>
       <title>26/01/2022 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE n. 1 del 25/01/2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1511</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1478</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1478</guid>
-    </item>
-    <item>
-      <title>19/01/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1477</link>
-      <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1477</guid>
     </item>
   </channel>
 </rss>
