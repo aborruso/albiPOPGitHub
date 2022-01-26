@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Cod. 458_B1  - Ripristino della  fognatura  proveniente  da  Portosalvo ed opere di  difesa  della  stessa  in argine destro del torrente Patri (o Termini) nel tratto  immediatamente a  monte e a valle della SS  113 ME-PA  nel Comune di Barcellona Po</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4941</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4941</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Revoca con effetto immediato Assessore Dr. Catalfamo Rosario</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4940</link>
+      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4940</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4939</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4912</link>
       <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4912</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatt. prot. 1633 del 13/01/2022 emessa dalla s.r.l. NANIA, con sede in San Filippo del Mela, Via Nazionale Olivarella, per forniture di asciugamano elettrici, dispenser automatici, gel mani igienizzanti, etc  CIG   Z0934B6E50</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4911</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4911</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Atto di citazione in appello avverso sentenza n.52 del 2021 del Tribunale di Barcellona PG promosso  dinnanzi la Corte di Appello ME da Carlo Gavazzi Impianti spa in proprio e nq contro Comune di Barcellona PG Acconto Avv Librizzi Salvatore</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4910</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4910</guid>
     </item>
   </channel>
 </rss>
