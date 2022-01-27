@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#ORDINANZE | Pubblicazione numero 506</title>
+      <description>ORDINANZA N. 34 DEL 27.01.2022 - PROROGA ORDINANZA REP 549 DEL 07/08/2020 MODIFICHE ALLA VIABILITÀ IN VENEZIA S. CROCE FONDAMENTA DE LA FABBRICA DEI TABACCHI E FONDAMENTA BURCHIELLE DAL 21 FEBBRAIO AL 31 DICEMBRE 2022.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149973.pdf</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149973.pdf</guid>
+    </item>
+    <item>
       <title>#DETERMINE | Pubblicazione numero 505</title>
       <description>TRAS.TCE.022  TRASFERIMENTO CORRENTE ISTITUZIONE BEVILACQUA LA MASA. PRIMO TRASFERIMENTO IN CONTO ESERCIZIO 2022 E IMPEGNO DI SPESA DI EURO 85.000,00= A CARICO DELLANNUALITÀ 2022 DEL BILANCIO DI PREVISIONE 2022-2024 PER GARANTIRE IL REGOLARE FUNZIONAMENTO DELLISTITUZIONE FONDAZIONE OPERA BEVILACQUA LA MASA E LA REALIZZAZIONE DELLE ATTIVITÀ PROGRAMMATE PER IL QUADRIMESTRE GENNAIO  APRILE 2022</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149972.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149944.pdf</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149944.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 476</title>
-      <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI NELLA CASA DEL COMUNE A NOME DI RUBINO GIUSEPPE</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149943.pdf</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP149943.pdf</guid>
     </item>
   </channel>
 </rss>
