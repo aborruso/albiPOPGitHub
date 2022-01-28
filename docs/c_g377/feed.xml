@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/01/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI FEBBRAIO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1543</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1543</guid>
+    </item>
+    <item>
+      <title>28/01/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1542</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1542</guid>
+    </item>
+    <item>
+      <title>28/01/2022 | Ordinanze Sindacali</title>
+      <description>A.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1541</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1541</guid>
+    </item>
+    <item>
+      <title>28/01/2022 | Avvisi Vari</title>
+      <description>MANIFESTAZIOE DI INTERESSE PER L'ADESIONE ALLA RETE TERRITORIALE PER LA PROTEZIONE E L'INCLUSIONE SOCIALE LUOGO DI CONCERTAZIONE TERRITORIALE DEGLI INTERVENTI SOSTENUTI A VALERE SUL FONDO NAZIONALE DELLE POLITICHE SOCIALI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1540</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1540</guid>
+    </item>
+    <item>
       <title>28/01/2022 | Determinazioni Dirigenziali</title>
       <description>APPROVAZIONE MANIFESTAZIONE DI INTERESSE PER L'ADESIONE ALLA RETE TERRITORIALE PER LA PROTEZIONE E LINCLUSIONE SOCIALE LUOGO DI CONCERTAZIONE TERRITORIALE DEGLI INTERVENTI SOSTENUTI A VALERE SUL FONDO NAZIONALE DELLE POLITICHE SOCIALI".L.328/2000.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1539</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1509</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1509</guid>
-    </item>
-    <item>
-      <title>26/01/2022 | Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE SALDO  INDENNITA' AI SOGGETTI OCCUPATI NEL CANTIERE DI SERVIZI PER INTERVENTI DI MANUTENZIONE E CURA DEL VERDE PUBBLICO NEL CENTRO URBANO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1508</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1508</guid>
-    </item>
-    <item>
-      <title>25/01/2022 | Determinazioni Dirigenziali</title>
-      <description>Integrazione e rettifica determine n.18/2022  e n.19/2022 - Nomina Responsabili procedimenti Servizio alla persona.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1507</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1507</guid>
-    </item>
-    <item>
-      <title>25/01/2022 | Determinazioni Dirigenziali</title>
-      <description>NUOVA CARTA DI IDENTITA' ELETTRONICA (CIE) TRASFERIMENTO DEI CORRISPETTIVI AL MINISTERO IMPEGNO SPESA E LIQUIDAZIONE Dal 01.12.2021 al 31-12-2021</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1506</link>
-      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1506</guid>
-    </item>
-    <item>
-      <title>24/01/2022 | Ordinanze Dirigenziali</title>
-      <description>DIVIETO DI SOSTA IN VIA RANDAZZO E PIAZZA ADELASIA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1505</link>
-      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1505</guid>
     </item>
   </channel>
 </rss>
