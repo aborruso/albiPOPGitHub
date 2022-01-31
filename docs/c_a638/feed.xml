@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa nei confronti A.S.D. Socio Culturale Meteora</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4989</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4989</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa nei confronti di Mirabile Giuseppe</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4988</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4988</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>liquidazione fatt prot 64170 del 13 12 2021  emessa dalla  D.S.P. Costruzioni Generali s r l   per lavori di rifacimento della nuova condotta idrica  e il ripristino dello stato dei luoghi  presso la scuola media B. Genovese</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4987</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4962</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4962</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI LETTURA CONTATORI IDROMETRICI CON CERTIFICAZIONE FOTOGRAFICA E GEOREFERENZIAZIONE LIQUIDAZIONE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4961</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4961</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>:  Cod. 458_B1  - Ripristino della  fognatura  proveniente  da  Portosalvo ed opere di  difesa   della  stessa  in argine destro del torrente Patri (o Termini) nel tratto  immediatamente a  monte e a valle della SS  113 ME-PA  nel Comune di Barcellon</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4960</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=4960</guid>
     </item>
   </channel>
 </rss>
