@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/01/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE ALLA COPROGETTAZIONE DI INTERVENTI DI SISTEMA A VALERE SULL'ART. 21 DEL DECRETO LEGGE DEL 6 NOVEMBRE 2021, N. 152 (CONVERTITO IN L. 233/2021) - PIANI INTEGRATI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1551</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1551</guid>
+    </item>
+    <item>
       <title>28/01/2022 | Deliberazioni Di Giunta</title>
       <description>FUS 2022/2024. APPROVAZIONE PROTOCOLLO D'INTESA TRA IL PARCO ARCHEOLOGICO DI SEGESTA ED IL COMUNE DI PATTI</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1550</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1517</link>
       <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1517</guid>
-    </item>
-    <item>
-      <title>26/01/2022 | Avvisi Vari</title>
-      <description>SOSPENSIONE ATTIVITA' DIDATTICHE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1516</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1516</guid>
     </item>
   </channel>
 </rss>
