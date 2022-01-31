@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/01/2022 | Ordinanze Dirigenziali</title>
+      <description>Riapertura al transito corsia lato monte lungomare C.F. Zuccarello</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1552</link>
+      <pubDate>Mon, 31 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1552</guid>
+    </item>
+    <item>
       <title>31/01/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE ALLA COPROGETTAZIONE DI INTERVENTI DI SISTEMA A VALERE SULL'ART. 21 DEL DECRETO LEGGE DEL 6 NOVEMBRE 2021, N. 152 (CONVERTITO IN L. 233/2021) - PIANI INTEGRATI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1551</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1518</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1518</guid>
-    </item>
-    <item>
-      <title>26/01/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. MARIUCCIA CONDIPODARO MARCHETTA. COSTITUZIONE NEL RICORSO IN CASSAZIONE SANGIORGIO ALESSANDRO. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1517</link>
-      <pubDate>Wed, 26 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1517</guid>
     </item>
   </channel>
 </rss>
