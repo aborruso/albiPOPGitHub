@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/02/2022 | Determinazioni Dirigenziali</title>
+      <description>ELEVAZIONE ORARIO DI LAVORO AL PERSONALE ASU  VI° SETTORE .  PERIODO 01.02.2022-31.05.2022.  IMPEGNO DI SPESA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</guid>
+    </item>
+    <item>
+      <title>01/02/2022 | Determinazioni Dirigenziali</title>
+      <description>Art. 192 del T.U.E.L. - Determina a contrarre, impegno somme ed affidamento del servizio di responsabile della protezione dei dati a un soggetto esterno. ANNO 2022. CIG: Z4A34F253D</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1557</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1557</guid>
+    </item>
+    <item>
       <title>01/02/2022 | Atti Di Interesse Generale</title>
       <description>ELENCO DEI GIOVANI NATTI NEL 2005 ISCRITTI  NELLA LISTA DI LEVA NEL COMUNE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1556</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1524</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1524</guid>
-    </item>
-    <item>
-      <title>27/01/2022 | Deliberazioni Di Giunta</title>
-      <description>Adozione programma biennale degli acquisti di beni e servizi 2021/2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1523</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1523</guid>
-    </item>
-    <item>
-      <title>27/01/2022 | Determinazioni Dirigenziali</title>
-      <description>IMPEGNO DI SPESA PER ELEVAZIONE ORARIO SETTIMANALE A 35 ORE SETTIMANALI DAL 01/01/2022 AL 30/06/2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1522</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1522</guid>
     </item>
   </channel>
 </rss>
