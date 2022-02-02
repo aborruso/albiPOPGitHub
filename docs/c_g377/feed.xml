@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/02/2022 | Determinazioni Dirigenziali</title>
+      <description>Canone di locazione fitto Scuola Materna Mongiove anno 2020</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1564</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1564</guid>
+    </item>
+    <item>
       <title>02/02/2022 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE n. 2 del 02/02/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1563</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1530</link>
       <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1530</guid>
-    </item>
-    <item>
-      <title>27/01/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di centralizzazione -  "PARKFOLIO" e fornitura carta termica per n. 3 parcometri installati sul territorio comunale- Anno 2022. - Assegnazione risorse al Responsabile del II Settore Area "Infrastrutture e Manutenzioni"</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1529</link>
-      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1529</guid>
     </item>
   </channel>
 </rss>
