@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/18</title>
+      <description>NOMINA COMMISSIONE PER LA SELEZIONE DI N. 6 OPERAI QUALIFICATI PER 2 CANTIERI DI LAVORO REGIONALI N.599/CT E N. 601/CT.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394988</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394988</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/130</title>
       <description>LIQUIDAZIONE FATTURE POSTE ITALIANE SPA PER SPESE SPEDIZIONE ATTI GIUDIZIARI MESE DI NOVEMBRE E PARTE SETTEMBRE 2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394985</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394909</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394909</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1</title>
-      <description>DISCUSSIONE REALIZZAZIONE DEL COLLETTORE FOGNARAIO. STATO DELL'ARTE. RINVIO PER MANCANZA DEL NUMERO LEGALE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394907</link>
-      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/394907</guid>
     </item>
   </channel>
 </rss>
