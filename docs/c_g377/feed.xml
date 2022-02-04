@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/02/2022 | Determinazioni Dirigenziali</title>
+      <description>Compensi legali all'Avv. Antonella Fogliani per l'affidamento dell'incarico nella controversia Crifò Maria giusta Determina Dirigenziale n.42/2022.Impegno.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1579</link>
+      <pubDate>Thu, 03 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1579</guid>
+    </item>
+    <item>
       <title>03/02/2022 | Ordinanze Dirigenziali</title>
       <description>INGIUNZIONE DI PAGAMENTO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1578</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1545</link>
       <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1545</guid>
-    </item>
-    <item>
-      <title>28/01/2022 | Determinazioni Del Sindaco</title>
-      <description>LAVORI  PER  L'AMPLIAMENTO  SCUOLA MEDIA PIRANDELLO. SOSTITUZIONE  RESPONSABILE UNICO DEL PROCEDIMENTO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1544</link>
-      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1544</guid>
     </item>
   </channel>
 </rss>
