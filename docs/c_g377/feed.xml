@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/02/2022 | Ordinanze Sindacali</title>
+      <description>ORDINANZA T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1592</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1592</guid>
+    </item>
+    <item>
+      <title>05/02/2022 | Ordinanze Sindacali</title>
+      <description>ORDINANZA T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1591</link>
+      <pubDate>Sat, 05 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1591</guid>
+    </item>
+    <item>
       <title>04/02/2022 | Deliberazioni Di Giunta</title>
       <description>Incarico di consulenza e supporto specialistico per redazione Piano Economico Finanziario TARI Anno 2022  Assegnazione Risorse al Responsabile del II Settore  Area Infrastrutture e Manutenzioni.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1590</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</guid>
-    </item>
-    <item>
-      <title>01/02/2022 | Determinazioni Dirigenziali</title>
-      <description>Art. 192 del T.U.E.L. - Determina a contrarre, impegno somme ed affidamento del servizio di responsabile della protezione dei dati a un soggetto esterno. ANNO 2022. CIG: Z4A34F253D</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1557</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1557</guid>
-    </item>
-    <item>
-      <title>01/02/2022 | Atti Di Interesse Generale</title>
-      <description>ELENCO DEI GIOVANI NATTI NEL 2005 ISCRITTI  NELLA LISTA DI LEVA NEL COMUNE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1556</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1556</guid>
     </item>
   </channel>
 </rss>
