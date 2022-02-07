@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/02/2022 | Determinazioni Dirigenziali</title>
+      <description>Servizio di "Assistenza all'autonomia e alla comunicazione per i minori delle scuole primarie e secondarie di primo grado" nei Comuni  dellAOD N. 1  Prima  annualità  -  PdZ 2018-2019 -  L. 328/00.Liquidazione.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1593</link>
+      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1593</guid>
+    </item>
+    <item>
       <title>05/02/2022 | Ordinanze Sindacali</title>
       <description>ORDINANZA T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1592</link>
@@ -60,7 +67,7 @@
     </item>
     <item>
       <title>04/02/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER SALDO SPESE LEGALI ALL' AVV. FRANCESCO PIZZUTO. CONTROVERSIA PELLIGRA CORRADO. LIQUIDAZIONE.</description>
+      <description>ASSEGNAZIONE RISORSE PER SALDO SPESE LEGALI ALL' AVV. FRANCESCO PIZZUTO - CONTROVERSIA PELLIGRA CORRADO - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1586</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1586</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1559</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1559</guid>
-    </item>
-    <item>
-      <title>01/02/2022 | Determinazioni Dirigenziali</title>
-      <description>ELEVAZIONE ORARIO DI LAVORO AL PERSONALE ASU  VI° SETTORE .  PERIODO 01.02.2022-31.05.2022.  IMPEGNO DI SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1558</guid>
     </item>
   </channel>
 </rss>
