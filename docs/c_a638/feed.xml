@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n° 01 del 08/02/2022 Ditta Brigandì Santi e Zarcone Tommasa</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5118</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5118</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>"Centro Territoriale Socio educativo riabilitativo Piano di zona 2013-2015-Distretto Socio Sanitario D.28 CIG: 7111794610" cap.1946/20, liquidazione fattura mese di dicembre 2021.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5117</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5090</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5090</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Medie, del 9 e 10 dicembre 2021, relative al mese novembre 2021. Totale euro  759,21 oltre IVA euro  37,98</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5089</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5089</guid>
     </item>
   </channel>
 </rss>
