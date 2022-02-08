@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>"Centro Territoriale Socio educativo riabilitativo Piano di zona 2013-2015-Distretto Socio Sanitario D.28 CIG: 7111794610" cap.1946/20, liquidazione fattura mese di dicembre 2021.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5117</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5117</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Ricorso in appello avverso sentenza n3144 del 2021 emessa dal Tar di Catania nel giudizio RG N1256 del 2020 promosso dal Ministero dell'Economia e delle Finanze contro Comune di Barcellona PG Liquidazione Avv Saitta Antonio</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5116</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5089</link>
       <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5089</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Compensazione parziale e liquidazione residuo fatture Enel Energia s.p.a. fornitura di gas del 10.12.2021 presso le Scuole Elementari Totale residuo euro 1.092,68  oltre iva  euro  54,64</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5088</link>
-      <pubDate>Mon, 07 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5088</guid>
     </item>
   </channel>
 </rss>
