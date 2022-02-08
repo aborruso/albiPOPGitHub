@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/02/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito via Ferriato, prossimità civ. 8, per lavori:09.02.22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1596</link>
+      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1596</guid>
+    </item>
+    <item>
       <title>08/02/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>LAVORI TAGLIO PIANTE E DERAMIFICAZIONE PIANTE SOTTOSTANTI LE LINEE ELETTRICHE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1595</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1562</link>
       <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1562</guid>
-    </item>
-    <item>
-      <title>01/02/2022 | Determinazioni Dirigenziali</title>
-      <description>:   LIQUIDAZIONE COMPENSO AI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI.   PERIODO: DAL 25/SETTEMBRE/2021 AL 31/DICEMBRE/2021 =</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1561</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1561</guid>
     </item>
   </channel>
 </rss>
