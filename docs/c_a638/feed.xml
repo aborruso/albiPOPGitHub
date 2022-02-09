@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa nei confronti di Coop. Edilizia Nova Domus</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5151</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5151</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Lavori privati nel Cimitero-Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale- Ditta ITER S.R.L.S. Via Stretto Mecurio 2 Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5150</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5150</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Lavori privati nel Cimitero-Regolamento Comunale di polizia Mortuaria e di Edilizia Cimiteriale-Ditta MAGIC HAMMER c/da Timpanara 14 Santa Lucia del Mela</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5149</link>
+      <pubDate>Wed, 09 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5149</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture Società Consorzio Sociale Insieme mese di ottobre, novembre e dicembre 2021 per il servizio residenziale Gruppo Appartamento Sig  LPE  CIG Z6A3492E73 Cap 1949</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5147</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5123</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5123</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso spese di viaggio esperto del Sindaco</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5122</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5122</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>affidamento prestazioni artistiche per la realizzazione dello spettacolo Ennio Morricone Tributo presso il Teatro Placido Mandanici.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5121</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5121</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>servizio di biglietteria informatizzata per gli spettacoli e gli eventi del Teatro Placido Mandanici. Ripetizione servizi affidati con determinazione R.G. n. 172/2019.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5120</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5120</guid>
     </item>
   </channel>
 </rss>
