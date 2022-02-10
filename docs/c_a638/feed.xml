@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Procedura negoziata per l'affidamento delle attività previste dal Progettp "CENTRO TERRITORIALE SOCIO RIABILITATIVO-EDUCATIVO-PIANO DI ZONA</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5165</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5165</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Cancellazione dall'anagrafe della popolazione del Comune di Barcellona P.G. per irreperibilità della Sig.ra Nobarda Semsije+ altri 15 nominativi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5164</link>
+      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5164</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>PAGAMENTO FORNITURE  DITTA  INFO SYS</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5162</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5136</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5136</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PON INCLUSIONE     CUP : H91E17000790006       Sostegno alle funzioni di Segretariato Sociale        Liquidazione integrazione oraria vari dipendenti mesi di Ottobre, Novembre e Dicembre 2021.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5135</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5135</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19- DDG n 304 del 04.04.2020 quota PO FSE e DDG n 129 dell01/02/2021 quota POC Rimborso buoni spesa-voucher Società GRAG SRL prot 65092-2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5134</link>
-      <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5134</guid>
     </item>
   </channel>
 </rss>
