@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/02/2022 | Atti Di Interesse Generale</title>
+      <description>CONTROLLO DELL'ATTIVITA' EDILIZIA - ELENCO RAPPORTI E ORDINAZE DI SOSPENSIONE DI ILLECITI EDILIZI - MESE DI GENNAIO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1654</link>
+      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1654</guid>
+    </item>
+    <item>
       <title>14/02/2022 | Determinazioni Dirigenziali</title>
       <description>Verifiche tecniche di vulnerabilità sismica finalizzate alla valutazione del rischio sismico degli edifici scolastici previste dall'OPCM 3274/2003  Procedura N. 2. Approvazione del certificato di verifica di conformità dei servizi di ingegneria rigua</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1653</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1620</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1620</guid>
-    </item>
-    <item>
-      <title>10/02/2022 | Determinazioni Dirigenziali</title>
-      <description>Liquidazione lavoro straordinario  nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale - PAIS  a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020- PON Inclusione. CUP C41B20000810006. Mese di Gennaio 2</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1619</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1619</guid>
     </item>
   </channel>
 </rss>
