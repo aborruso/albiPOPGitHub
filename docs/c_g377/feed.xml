@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/02/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1663</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1663</guid>
+    </item>
+    <item>
       <title>14/02/2022 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. MIKE BONOMO. CONTROVERSIA RUFFO MATRICARDI LUCILLA. IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1662</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1629</link>
       <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1629</guid>
-    </item>
-    <item>
-      <title>10/02/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI POTATURA, TRASPORTO E SMALTIMENTO DEI RESIDUI DI SFASCIAMENTO DELLE PALME WASHINGTONIA PRESENTI NELLO SLARGO SOTTOSTANTE LA VIA REGINA ELENA E LA VIA PISACANE.  DITTA MADDALENA ANTONINO  LIQUIDAZIONE FATTURA N. 1 del 31.01.2022 CIG: Z3733DB</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1628</link>
-      <pubDate>Thu, 10 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1628</guid>
     </item>
   </channel>
 </rss>
