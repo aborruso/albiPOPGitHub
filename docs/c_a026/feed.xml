@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/6476</title>
+      <description>AVVISO ESTUMULAZIONE D'UFFICIO LOCULO CIMITERIALE N. 102 COL. B</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397112</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397112</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/185</title>
       <description>PROROGA CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 13/2022 PER POSA DI UN PONTEGGIO IN VIA FONTANA VECCHIA N. 4/6 DITTA FALCONE MARIA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397025</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396779</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396779</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/173</title>
-      <description>IMPEGNO E LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI PER LA PARTECIPAZIONE ALLE COMMISSIONI CONSILIARI PERMANENTI. - MESE DI NOVEMBRE 2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396777</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396777</guid>
     </item>
   </channel>
 </rss>
