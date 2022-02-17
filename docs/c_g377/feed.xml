@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/02/2022 | Determinazioni Dirigenziali</title>
+      <description>IMPEGNO DI SPESA PER ELEVAZIONE ORARIO SETTIMANALE A 30 ORE SETTIMANALI DAL 01/02/2022 AL 30/06/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1692</link>
+      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1692</guid>
+    </item>
+    <item>
       <title>16/02/2022 | Deliberazioni Di Giunta</title>
       <description>ART. 174 T.U.E.L. -  NUOVO SCHEMA DI BILANCIO DI PREVISIONE FINANZIARIO 2021/2023 - APPROVAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1691</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1658</link>
       <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1658</guid>
-    </item>
-    <item>
-      <title>14/02/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" Integrazione alla Terza Annualità - PdZ 2013-2015 - Liquidazione mese di Gennaio ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1657</link>
-      <pubDate>Mon, 14 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1657</guid>
     </item>
   </channel>
 </rss>
