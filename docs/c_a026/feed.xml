@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/194</title>
+      <description>CONCESSIONE 150 ORE DI PERMESSI RETRIBUITI DI STUDIO ANNO 2022/2023</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397404</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397404</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/28</title>
       <description>RICORSO INNANZI AL CONSIGLIO DI GIUSTIZIA AMMINISTRATIVA PER LA REGIONE SICILIANA RR N. 126/2022 PROMOSSO CONTRO COMUNE DI ACI CASTELLO PER L’ANNULLAMENTO DELLA SENTENZA TARS CATANIA N. 2490/2021 REG.PROVV.COLL.. COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/397383</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396920</link>
       <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396920</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/180</title>
-      <description>AUTORIZZAZIONE AI LAVORTI DI SCAVO PER PER LA REALIZZAZIONE DI UN TRATTO DI LINEA IN CAVO INTERRATO IN VIA PARAFERA PRESSI CIV. 55.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396918</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/396918</guid>
     </item>
   </channel>
 </rss>
