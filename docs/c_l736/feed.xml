@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 1035</title>
+      <description>GRADUATORIA DEFINITIVA ARTISTI DI STRADA MESE DI MARZO 2022</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150502.pdf</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150502.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1034</title>
+      <description>LA V COMMISSIONE (CONGIUNTA ALLA VII COMMISSIONE) È CONVOCATA MARTEDÌ 22 FEBBRAIO 2022 ALLE ORE 14:00 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150501.pdf</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150501.pdf</guid>
+    </item>
+    <item>
+      <title>#CONVOCAZIONI DELLE COMMISSIONI CONSILIARI | Pubblicazione numero 1033</title>
+      <description>LA VIII COMMISSIONE (CONGIUNTA ALLA IV COMMISSIONE) È CONVOCATA MARTEDÌ 22 FEBBRAIO 2022 ALLE ORE 11:00 PRESSO VIDEOCONFERENZA</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150500.pdf</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150500.pdf</guid>
+    </item>
+    <item>
       <title>#BANDI DI SELEZIONE E CONCORSI | Pubblicazione numero 1032</title>
       <description>AVVISO DI MOBILITA ESTERNA VOLONTARIA PER LA COPERTURA DI N. 1 POSTO DI ISTRUTTORE TECNICO - GEOMETRA - A TEMPO PIENO ED INDETERMINATO CAT. C. - CCNL COMPARTO FUNZIONI LOCALI</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150499.pdf</link>
@@ -204,27 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150472.pdf</link>
       <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150472.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 1004</title>
-      <description>AVVISO DI DEPOSITO VEICOLO CITROEN BERLINGO TARGATO CN161GY SOTTOPOSTO A SEQUESTRO/FERMO AMMINISTRATIVO EX ARTT. 213/214 DEL CDS E AFFIDATO A SOGGETTO DI CUI ALLART. 214 BIS CDS. RELATIVO AL VERBALE  N. 10090849S/2022/V DEL 26/01/2022</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150471.pdf</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150471.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 1003</title>
-      <description>AVVISO DI DEPOSITO VEICOLO HONDA TARGATA BM56155 SOTTOPOSTO A SEQUESTRO/FERMO AMMINISTRATIVO EX ARTT. 213/214 DEL CDS E AFFIDATO A SOGGETTO DI CUI ALLART. 214 BIS CDS. RELATIVO AL VERBALE N. 10090593S/2022/V DEL 25/01/2022</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150470.pdf</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150470.pdf</guid>
-    </item>
-    <item>
-      <title>#ORDINANZE | Pubblicazione numero 995</title>
-      <description>ORDINANZA DI SGOMBERO DI MATERIALE PRESENTE ALLINTERNO DEL MANUFATTO ABUSIVO "BOX METALLICO" POSTO ALLINTERNO DELLUMI 10 - P.I.P. LIDO TERRE PERSE - COMPARTO NORD. VIA ANITA MEZZALIRA (MALAMOCCO) - SEZ. "UNIFICATA" FG. 39 MAPP. 1025</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150462.pdf</link>
-      <pubDate>Thu, 17 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150462.pdf</guid>
     </item>
   </channel>
 </rss>
