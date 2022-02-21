@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#GRADUATORIE VARIE | Pubblicazione numero 1070</title>
+      <description>GRADUATORIA DEFINITIVA OPI MARZO 2022</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150537.pdf</link>
+      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150537.pdf</guid>
+    </item>
+    <item>
       <title>#ORDINANZE | Pubblicazione numero 1069</title>
       <description>ORDINANZA N. 81 DEL 21/02/2022 - REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE, DELLA SOSTA E PEDONALE PRESSO LE VIE SAN PIO X, BACCHIGLIONE, DANDOLO, VOLTURNO E LAMARMORA IN LOCALITÀ MESTRE (VE) PER INTERVENTI DI MESSA IN SICUREZZA DEGLI INCROCI E DEI TRATTI MANCANTI DELLE CICLOVIE URBANE DA LUNEDÌ 21 FEBBRAIO 2022 A VENERDÌ 18 MARZO 2022 DALLE ORE 00:00 ALLE ORE 24:00.</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150536.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150508.pdf</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150508.pdf</guid>
-    </item>
-    <item>
-      <title>#DETERMINE | Pubblicazione numero 1040</title>
-      <description>DD/2022/183 - ONER.GEDI.001 - EREDI V. C/COMUNE DI VENEZIA C/ACTV SPA TRIBUNALE DI VENEZIA R.G. 8982/2015 ORDINANZA DEL 23.05.2019. RIMBORSO IMPOSTA DI REGISTRO QUOTA PARTE COMUNE DI VENEZIA ANTICIPATA DA ACTV SPA. IMPEGNO DI SPESA (REG. UFF. LEGALE 1061/2015)</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150507.pdf</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150507.pdf</guid>
     </item>
   </channel>
 </rss>
