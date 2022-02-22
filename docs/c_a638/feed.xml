@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>istituzione divieto di transito e divieto di sosta con rimozione in via Olimpia e Piazza Borsellino da giorno 22 al 25 febbraio 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5355</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5355</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento prestazioni artistiche per la realizzazione dello spettacolo Stay Hungry presso il Teatro Placido Mandanici</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5354</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5354</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rimborso spese  annullamento concerto capodanno</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5353</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5328</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5328</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione gettoni di presenza ai consiglieri comunali per le riunioni delle commissioni consiliari permanenti di studio e consultazione e per le sedute di Consiglio Comunale  Periodo Luglio  Agosto e Settembre 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5327</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5327</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Invito alla Stipula di convenzione di negoziazione assistita proposta da Impallomeni Maria  C Comune di Barcellona PG   Liquidazione Legale  Avv Mazzeo Cristian Antonino</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5326</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5326</guid>
     </item>
   </channel>
 </rss>
