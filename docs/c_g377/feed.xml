@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/02/2022 | Ordinanze Dirigenziali</title>
+      <description>Revoca ordinanze N. 71 e 181/2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1756</link>
+      <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1756</guid>
+    </item>
+    <item>
       <title>23/02/2022 | Determinazioni Dirigenziali</title>
       <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALL'INGEGNERIA ED ALL'ARCHITETTURA E AD ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N. 77 DI MODIFICA DEL DECRETO LEGGE 16 LUGLIO 2020 N. 76, CONVERTITO CON MODIFICAZIONE DALLA LEGGE 11 SETTEMBRE 2020, N, 120, AGGIORNATO AL 21 FEBBRAIO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1755</link>
@@ -95,14 +102,14 @@
     </item>
     <item>
       <title>23/02/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio per un "Centro diurno per persone con disabilità intellettiva e relazionale. Impara un'arte o mestiere". L.328/00 - PdZ2013-2015 - Terza annualità - Liquidazione nota di debito mese Gennaio 2022.</description>
+      <description>Servizio per un "Centro diurno per persone con disabilità intellettiva e relazionale - Impara un'arte o mestiere" - L.328/00 - PdZ2013-2015 - Terza annualità - Liquidazione nota di debito mese Gennaio 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1744</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1744</guid>
     </item>
     <item>
       <title>23/02/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieti di sosta nei piazzali adibiti a parcheggio di via De Gasperi: 24 e 25/02/22</description>
+      <description>Divieti di sosta nei piazzali adibiti a parcheggio di Via De Gasperi: 24 e 25/02/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1743</link>
       <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1743</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1722</link>
       <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1722</guid>
-    </item>
-    <item>
-      <title>21/02/2022 | Determinazioni Dirigenziali</title>
-      <description>Iscrizione all' Albo Comunale ex art.27 della L. R. N. 22/1986 - Casa di Riposo per Anziani denominata "Casa di Riposo Orchidea".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1721</link>
-      <pubDate>Mon, 21 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1721</guid>
     </item>
   </channel>
 </rss>
