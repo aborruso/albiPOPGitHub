@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/02/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 4 DEL 25/02/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1766</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1766</guid>
+    </item>
+    <item>
+      <title>25/02/2022 | Atti Di Interesse Generale</title>
+      <description>DEPOSITO ATTI</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1765</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1765</guid>
+    </item>
+    <item>
+      <title>25/02/2022 | Ordinanze Sindacali</title>
+      <description>Disinfezione locali 28 febbraio e 01 marzo 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1764</link>
+      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1764</guid>
+    </item>
+    <item>
       <title>25/02/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI FEBBRAIO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1763</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1732</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1732</guid>
-    </item>
-    <item>
-      <title>22/02/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO DEL SERVIZIO DI MANUTENZIONE ORDINARIA DELL'IMPIANTO ELEVATORE SITO NEL PALAZZO COMUNALE DI PIAZZA SCAFFIDI FINO AL 31.12.2022 ED IMPEGNO DI SPESA -  DITTA: SAME s.r.l. di M.le Saccà &amp; C.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1731</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1731</guid>
-    </item>
-    <item>
-      <title>22/02/2022 | Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per nuova Convenzione con Ambulatorio Veterinario per prestazioni inerenti il randagismo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1730</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1730</guid>
-    </item>
-    <item>
-      <title>22/02/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE COMPETENZE PER RILEVAZIONE E COMPILAZIONE DELLE SCHEDE DI CARATTERIZZAZIONE ARCHITETTONICA DI CIASCUN FABBRICATO DEL CENTRO STORICO, DA ALLEGARE E UTILIZZARE NELLO STUDIO DI DETTAGLIO DI CUI ALLA L.R. 13/2015 - ING. ANTONIO GIORGIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1729</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1729</guid>
     </item>
   </channel>
 </rss>
