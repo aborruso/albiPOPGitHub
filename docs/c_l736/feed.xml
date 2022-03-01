@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#VARIE | Pubblicazione numero 1309</title>
+      <description>VERBALE DEL CONSIGLIO GENERALE DEL 24 FEBBRAIO 2022 DELLA FONDAZIONE CENTRO MUSICALE MALIPIERO. APPROVAZIONE DEL CONTO CONSUNTIVO 2021 E BILANCIO DI PREVISIONE 2022</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150776.pdf</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150776.pdf</guid>
+    </item>
+    <item>
       <title>#AVVISI DI DEPOSITO ATTI | Pubblicazione numero 1308</title>
       <description>AVVISO IN BUSTA CHIUSA DI DEPOSITO ATTI PRESSO LA CASA COMUNALE (UFFICIO NOTIFICHE) A CARICO DI LLESHAJ ROLAND - PROT. 2545</description>
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150775.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150746.pdf</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150746.pdf</guid>
-    </item>
-    <item>
-      <title>#ELENCO DELLE CONCESSIONI EDILIZIE | Pubblicazione numero 1278</title>
-      <description>ELENCO PERMESSI DI COSTRUIRE DEL MESE DI FEBBRAIO 2022</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150745.pdf</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/prod/stampe/albo/AP150745.pdf</guid>
     </item>
   </channel>
 </rss>
