@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>RIMBORSO CAUZIONE PER ALLACCIO FOGNARIO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1805</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1805</guid>
+    </item>
+    <item>
       <title>07/03/2022 | Determinazioni Dirigenziali</title>
       <description>Tassa registro locale "Vecchia Pescheria" - anno 2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1804</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1771</link>
       <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1771</guid>
-    </item>
-    <item>
-      <title>25/02/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE AL RESPONSABILE DEL II° SETTORE PER MANUTENZIONE STRAORDINARIA AUTOCARRO IVECO 35.10 TARGATO BT569EF.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1770</link>
-      <pubDate>Fri, 25 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1770</guid>
     </item>
   </channel>
 </rss>
