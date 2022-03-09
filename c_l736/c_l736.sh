@@ -11,7 +11,7 @@ set -x
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 ### anagrafica albo
-titolo="AlboPOP del comune di Venizia"
+titolo="AlboPOP del comune di Venezia"
 descrizione="L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo."
 nomecomune="Venezia"
 webMaster="fabrizio.puce82@gmail.com (Fabrizio Puce)"
