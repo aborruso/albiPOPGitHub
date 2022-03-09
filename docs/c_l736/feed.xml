@@ -2,7 +2,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
   <channel>
     <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
-    <title>AlboPOP del comune di Venizia</title>
+    <title>AlboPOP del comune di Venezia</title>
     <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
     <link>https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml</link>
     <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_l736/feed.xml" type="application/rss+xml"/>
