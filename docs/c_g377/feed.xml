@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Integrazione salariale al lavoratore ASU Giarrizzo Salvatore come supporto per l'espletamento di lavori e servizi - Periodo: Marzo 2022 - Impegno di spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1832</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1832</guid>
+    </item>
+    <item>
+      <title>10/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>QUOTA DI PARTECIPAZIONE A CARICO DEL COMUNE DI PATTI PER LA COPERTURA DELLE SPESE DI GESTIONE RELATIVE ALL'ANNO 2022 DELLA "SRR MESSINA PROVINCIA SOCIETA' CONSORTILE S.P.A." - LIQUIDAZIONE FATTURE - PERIODO: GENNAIO/MARZO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1831</link>
+      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1831</guid>
+    </item>
+    <item>
       <title>10/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE LAVORATORE ASU - MESI DI GENNAIO E FEBBRAIO 2022 - SERVIZIO DISTRIBUZIONE ACQUA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1830</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1798</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1798</guid>
-    </item>
-    <item>
-      <title>04/03/2022 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI MANUTENZIONE DEGLI IMPIANTI ANTINCENDIO DEGLI STABILI COMUNALI FINO AL 31.12.2022. DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA. DITTA: CANNISTRACI SALVATORE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1797</link>
-      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1797</guid>
-    </item>
-    <item>
-      <title>04/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>L. 328/00 - PdZ 2013-2015 - Integrazione alla Terza Annualità azione N. 8 "Emergenza ed Urgenza Sociale" - Liquidazione contributo Utenti N. 01 del Comune di Patti, N.03 del Comune di Piraino, N.03 del Comune di San Piero Patti e N. 3 del Comune di Brolo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1796</link>
-      <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1796</guid>
     </item>
   </channel>
 </rss>
