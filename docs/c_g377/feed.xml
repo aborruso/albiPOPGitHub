@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/03/2022 | Atti Di Interesse Generale</title>
+      <description>AVVISO AFFIDAMENTO INCARICO ASSISTENTE SOCIALE PROFESSIONALE - PRESENTAZIONE ISTANZA ENTRO IL 24 MARZO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1837</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1837</guid>
+    </item>
+    <item>
       <title>11/03/2022 | Determinazioni Dirigenziali</title>
       <description>Affidamento Servizio Sociale Professionale.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1836</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1803</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1803</guid>
-    </item>
-    <item>
-      <title>07/03/2022 | Deliberazioni Del Comitato Dei Sindaci</title>
-      <description>RETTIFICA DELIBERA DEL COMITATO DEI SINDACI N. 8 DEL 09/12/2021 - PIANO DI ATTUAZIONE LOCALE (PAL) - FONDO DELLA POVERTA' ANNO 2020 - TRASFERIMENTO RISORSE AI COMUNI DEL DISTRETTO N. 30.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1802</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1802</guid>
     </item>
   </channel>
 </rss>
