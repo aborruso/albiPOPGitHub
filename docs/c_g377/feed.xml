@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Affidamento Servizio Sociale Professionale.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1836</link>
+      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1836</guid>
+    </item>
+    <item>
       <title>10/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N. 7 "Spazio Lavoro" - Integrazione alla Terza Annualità - PdZ 2013-2015 - Liquidazione mese di Febbraio ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1835</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1802</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1802</guid>
-    </item>
-    <item>
-      <title>07/03/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1801</link>
-      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1801</guid>
     </item>
   </channel>
 </rss>
