@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/03/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>APPROVAZONE DOCUMENTO UNICO DI PROGRAMMAZIONE 2021/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1856</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1856</guid>
+    </item>
+    <item>
+      <title>15/03/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Quantità e qualità delle aree e dei fabbricati da destinarsi alla residenza, alle attività produttive e terziarie.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1855</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1855</guid>
+    </item>
+    <item>
       <title>15/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale - PAIS  a valere sul Fondo Sociale Europeo (FSE), programmazione 2014/2020 - PON Inclusione - CUP C41B20000810006.- Mese di Febbraio 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1854</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1822</link>
       <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1822</guid>
-    </item>
-    <item>
-      <title>09/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Collocamento a riposo della dipendente Sig.ra Caleca Maria Grazia a far data dall'01 agosto 2022 per raggiunti limiti di età.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1821</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1821</guid>
-    </item>
-    <item>
-      <title>09/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Collocamento a riposo della dipendente Sig.ra Lo Iacono Margherita a far data dall'01 Luglio 2022 per raggiunti limiti di età.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1820</link>
-      <pubDate>Wed, 09 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1820</guid>
     </item>
   </channel>
 </rss>
