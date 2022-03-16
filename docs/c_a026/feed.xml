@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/10708</title>
+      <description>PIANO DI ZONA 2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400504</link>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400504</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>ELENCO NR.15 DEL 16.03.2022 DI DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERRIBILITÀ</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400479</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400217</link>
       <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400217</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/353</title>
-      <description>APPROVAZIONE DELL'AVVISO PUBBLICO ESPLORATIVO PER LA DEFINIZIONE DELLA PROGRAMMAZIONE ESTIVA PER LA STAGIONE 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400215</link>
-      <pubDate>Mon, 14 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400215</guid>
     </item>
   </channel>
 </rss>
