@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/03/2022 | Avvisi Vari</title>
+      <description>AVVISO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1871</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1871</guid>
+    </item>
+    <item>
+      <title>17/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura di Gas nei locali comunali gennaio 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1870</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1870</guid>
+    </item>
+    <item>
+      <title>17/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Censimento Permanente della Popolazione e delle Abitazioni 2020: attività propedeutiche all'edizione 2021 e successive: liquidazione compensi allufficio di censimento.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1869</link>
+      <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1869</guid>
+    </item>
+    <item>
       <title>16/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI 2021 - LIQUIDAZIONE IN ACCONTO IN FAVORE DEI RILEVATORI</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1868</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1837</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1837</guid>
-    </item>
-    <item>
-      <title>11/03/2022 | Determinazioni Dirigenziali</title>
-      <description>Affidamento Servizio Sociale Professionale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1836</link>
-      <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1836</guid>
-    </item>
-    <item>
-      <title>10/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" - Integrazione alla Terza Annualità - PdZ 2013-2015 - Liquidazione mese di Febbraio ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1835</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1835</guid>
-    </item>
-    <item>
-      <title>10/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione buoni covid DPCM TER.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1834</link>
-      <pubDate>Thu, 10 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1834</guid>
     </item>
   </channel>
 </rss>
