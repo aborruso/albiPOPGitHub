@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/03/2022 | Avvisi Vari</title>
+      <description>AVVISO PER LA MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'INDIVIDUAZIONE QUALE COMPONENTE DELLA COMMISSIONE GIUDICATRICE PER I CONCORSI INTERNI, PER LE PROCEDURE DI STABILIZZAZIONE E PER LE PROCEDURE EX ART. 3/TER DEL D.L. 80/2021 INDETTI DAL COMUNE DI LIPARI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1898</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1898</guid>
+    </item>
+    <item>
       <title>17/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura  di camici e grembiuli per il personale dell'Asilo Nido "M: Faranda" - Assegnazione somme.</description>
+      <description>Fornitura di camici e grembiuli per il personale dell'Asilo Nido "M. Faranda" - Assegnazione somme.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1897</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1897</guid>
@@ -46,7 +53,7 @@
     </item>
     <item>
       <title>17/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L.R. n. 13/2021 - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del Fondo per la Progettazione Territoriale di cui al D.P.C.M. 17/12/2021.</description>
+      <description>Art. 5 della L.R. N. 13/2021 - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del Fondo per la Progettazione Territoriale di cui al D.P.C.M. 17/12/2021.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1893</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1893</guid>
@@ -60,7 +67,7 @@
     </item>
     <item>
       <title>17/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L.R. n. 13/2021 - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del contributo erogato dal Ministero dell'Interno per investimenti alla manutenzione straordinaria delle strade comunali, dei marciapiedi e dell'arredo urbano.</description>
+      <description>Art. 5 della L.R. N. 13/2021 - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del contributo erogato dal Ministero dell'Interno per investimenti alla manutenzione straordinaria delle Strade Comunali, dei marciapiedi e dell'arredo urbano.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1891</link>
       <pubDate>Thu, 17 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1891</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1864</link>
       <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1864</guid>
-    </item>
-    <item>
-      <title>15/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE ORDINARIA E STRAORDINARIA DEGLI IMPIANTI DI RISCALDAMENTO E DI CONDIZIONAMENTO DEGLI EDIFICI COMUNALI - DITTA: COSPIN s.r.l. - LIQUIDAZIONE FATTURA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1863</link>
-      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1863</guid>
     </item>
   </channel>
 </rss>
