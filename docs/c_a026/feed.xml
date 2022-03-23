@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/388</title>
+      <description>LIQUIDAZIONE FATTURA DITTA OPENCLOUD PA S.R.L. PER ACCONTO DEL SERVIZIO DI STAMPA, IMBUSTAMENTO, ACQUISIZIONE VERSAMENTI E RENDICONTAZIONE INCASSI DEGLI AVVISI DI ACCERTAMENTO PER OMESSA/INFEDELE DENUNCIA TARI ANNO 2016</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401351</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401351</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/387</title>
+      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE S. V. - IMU 2016</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401349</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401349</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/20360</title>
       <description>TRASMISSIONE CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 20360 DEL 22/03/2022 PER AFFISSIONE ALL' ALBO PRETORIO COMUNALE - PRATICA N. 500/N.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401105</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400801</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400801</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/373</title>
-      <description>CONCESSIONE DI ML. 4,00 PER PASSO CARRABILE, SITO IN ACI CASTELLO VIA CAPPARELLI N. 54, CAT. VIARIA 1^, CONTRASSEGNATO CON IL N. 39/2022 – SIG.RA MACCARONE CARLA.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400799</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400799</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/42</title>
-      <description>AUTORIZZAZIONE ALLA TUMULAZIONE DEL DEFUNTO DI RE ORAZIO NELLA TOMBA N. 38 RETTANGOLO SAN PAOLO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400779</link>
-      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/400779</guid>
     </item>
   </channel>
 </rss>
