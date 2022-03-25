@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/03/2022 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE STRAORDINARIO PER IL GIORNO 28/03/2022 ALLE ORE 18:00</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1959</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1959</guid>
+    </item>
+    <item>
+      <title>25/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI PRONTA DISPONIBILITA' DEL  SERVIZIO MESE APRILE 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1958</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1958</guid>
+    </item>
+    <item>
+      <title>25/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>CAMBIO TURNO DI PRONTA DISPONIBILITA' PERIODO MARZO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1957</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1957</guid>
+    </item>
+    <item>
+      <title>25/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TRASMISSIONE TURNI SERVIZIO VETERINARIO APRILE 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1956</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1956</guid>
+    </item>
+    <item>
       <title>25/03/2022 | Concessioni E Permessi Di Costruire</title>
       <description>Permesso a costruire N.6 del 24/03/2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1955</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1925</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1925</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1924</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1924</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1923</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1923</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Determinazioni Dirigenziali</title>
-      <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per l'affidamento del servizio di supporto formativo per il monitoraggio del Piano di Riequilibrio Finanziario Pluriennale ivi compreso il riscontro alle richieste istruttorie da parte del Ministero.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1922</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1922</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Approvazione Schema Convenzione per la gestione associata e coordinata delle funzioni di Segreteria Comunale tra i Comuni di Patti e Ficarra.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1921</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1921</guid>
     </item>
   </channel>
 </rss>
