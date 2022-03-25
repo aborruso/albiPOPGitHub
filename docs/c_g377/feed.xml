@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>CONTRIBUTO " UNA TANTUM" EROGATO A VALERE SU FONDI EUROPEI FINALIZZATI AD INCENTIVARE IL SUBENTRO IN A.N.P.R ENTRO IL 31-12-2020</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1949</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1949</guid>
+    </item>
+    <item>
+      <title>25/03/2022 | Determinazioni Del Sindaco</title>
+      <description>RINNOVO C.O.C.  RIORGANIZZAZIONE E COSTITUZIONE DELLE FUNZIONI DI SUPPORTO DELLA PROTEZIONE CIVILE, PER L'ORGANIZZAZIONE, DIREZIONE E COORDINAMENTO DEI SERVIZI DI SOCCORSO ED ASSISTENZA ALLA POPOLAZIONE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1948</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1948</guid>
+    </item>
+    <item>
       <title>24/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' SERVIZI IGIENICI PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI MARZO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1947</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1915</link>
       <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1915</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1914</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1914</guid>
-    </item>
-    <item>
-      <title>21/03/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1913</link>
-      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1913</guid>
     </item>
   </channel>
 </rss>
