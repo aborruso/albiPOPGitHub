@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/12274</title>
+      <description>PUBBLICAZIONE DEI CANDIDATI RSU</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401858</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401858</guid>
+    </item>
+    <item>
+      <title>Atto numero 0/0</title>
+      <description>AVVISO DI DEPOSITO DI ATTO ALLA CASA COMUNALE AI SENSI E PER EFFETTO DELL'ART. 60 1° COMMA E) D.P.R. N. 600/73 PER IL SIG. JURISIC EGON NATO IL 18/08/1988 A FIUME (CROAZIA)</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401812</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401812</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/12155</title>
       <description>RICHIESTA AFFISSIONE ALL'ALBO PRETORIO ON-LINE AI SENSI DELL'ART. 60 D.P.R. 29/09/73 N. 600</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401720</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401534</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401534</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/39</title>
-      <description>PRESA D'ATTO DELLA RELAZIONE ANNUALE DEL COMITATO UNICO DI GARANZIA PER L'ANNO 2021.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401532</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401532</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/38</title>
-      <description>PROGETTI UTILI ALLA COLLETTIVITÀ (P.U.C.) DI CUI AL DECRETO MINISTERIALE 22 OTTOBRE 2019. AUTORIZZAZIONE PROGETTI</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401530</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/401530</guid>
     </item>
   </channel>
 </rss>
