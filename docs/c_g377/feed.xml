@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/03/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1963</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1963</guid>
+    </item>
+    <item>
+      <title>28/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Trasferimento somma Assessorato Regionale dei Beni Culturali e dell'Identità Siciliana  Dipartimento Regionale dei Beni Culturali e dell' Identità Siciliana  Servizio 5  Valorizzazione e Promozione del Patrimonio Culturale Pubblico e Privato</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1962</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1962</guid>
+    </item>
+    <item>
       <title>28/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione a favore dell'Associazione "Rangers International - Sez. 552 ME" per servizi di supporto - anno 2019.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1961</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1929</link>
       <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1929</guid>
-    </item>
-    <item>
-      <title>22/03/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. FORTUNATINA GIUFRE' PER LA COSTITUZIONE NELL'ATTO DI APPELLO PROMOSSO DAL SIG. OMISSIS AVVERSO LA SENTENZA N.823/2021 - TRIBUNALE DI PATTI - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1928</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1928</guid>
-    </item>
-    <item>
-      <title>22/03/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. LORENA LA GALIA PER LA PROPOSIZIONE DELL'APPELLO AVVERSO LA SENTENZA N.19/2022 DEL GIUDICE DI PACE DI PATTI - BATTAGLIOLA SEBASTIANO - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1927</link>
-      <pubDate>Tue, 22 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1927</guid>
     </item>
   </channel>
 </rss>
