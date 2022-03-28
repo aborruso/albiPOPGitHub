@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura emessa dalla Soc. Coop. Azione Sociale per il servizio di assistenza all'autonomia ed alla comunicazione agli alunni disabili che frequentano le scuole dell'infanzia primarie e secondarie di I grado reso nel mese di febbraio 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5906</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5906</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>affidamento prestazioni artistiche per la realizzazione dello spettacolo Aida presso il Teatro Placido Mandanici</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5905</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5905</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Esecuzione delibera di CC n 6 del 27012022 di riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi Liquidazioni parcelle Avv Mandanici Vincenzo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5904</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5904</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Esecuzione delibera di CC n 3 del 27012022 di riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi Liquidazioni parcelle Avv Mazzeo Loredana</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5903</link>
+      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5903</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atti a carico di Siragusa Antonina ai sensi dell'art.143</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5902</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5877</link>
       <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5877</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione Fattura Hera Comm  Banca Sistema :   2017 Acquedotto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5876</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5876</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.261 del 09/03/2022 per conferimento rifiuti solidi urbani indifferenziati presso l'impianto TMB di Trapani Servizi SpA, sito in Trapani C/da Belvedere, nel mese di febbraio 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5875</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5875</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.46/E del 28/02/22 alla Ditta Caruter Srl, per servizio di conferimento, selezione, pressatura e stoccaggio dei materiali differenziati, reso nel mese di Gennaio 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5874</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5874</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture n.175/04 e n.176/04 del 28/02/2022 per conferimento sovvalli dei rifiuti indifferenziati presso la discarica sita in C/da Valanghe d'inverno, Motta S.Anastasia, gestita dalla Oikos S.p.A., nel mese di Febbraio 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5873</link>
-      <pubDate>Thu, 24 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5873</guid>
     </item>
   </channel>
 </rss>
