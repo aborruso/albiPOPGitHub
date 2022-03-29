@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Rettifica parziale per mero errore determina dirigenziale n.163  del 24/03/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1971</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1971</guid>
+    </item>
+    <item>
       <title>29/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>CAMBIO TURNO - PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI MARZO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1936</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1936</guid>
-    </item>
-    <item>
-      <title>23/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURE N.RI 237/04 E 238/04 DEL 28/02/2022 - SERVIZIO DI SMALTIMENTO FINALE DELLA FRAZIONE DI SOPRAVAGLIO DEI RIFIUTI NON PERICOLOSI RACCOLTI NEL TERRITORIO DI QUESTO COMUNE PRESSO L'IMPIANTO SITO IN C.DA VALANGHE DINVERNO - MOTTA SANTANASIA - DITTA: OIKOS SPA - CIG: Z3F34B4CD3.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1935</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1935</guid>
     </item>
   </channel>
 </rss>
