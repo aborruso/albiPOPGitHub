@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>CAMBIO TURNO - PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI MARZO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</guid>
+    </item>
+    <item>
+      <title>29/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Fornitura camici e grembiuli per il personale dell'Asilo Nido "M. Faranda" - Impegno ed affidamento - Ditta: MATOS di Mannino Gabriella - CIG: Z3335C0542.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1969</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1969</guid>
+    </item>
+    <item>
       <title>29/03/2022 | Determinazioni Dirigenziali</title>
       <description>Fornitura materiale vario per i Centri di Cottura - Impegno delle somme e affidamento alla Ditta MATOS di Mannino Gabriella - CIG: ZD335BFD66.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1968</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1935</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1935</guid>
-    </item>
-    <item>
-      <title>23/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI CENTRALIZZAZIONE  "PARKFOLIO" E FORNITURA CARTA TERMICA PER N.3 PARCOMETRI INSTALLATI SUL TERRITORIO COMUNALE - ANNO 2022 - CIG: ZA0351355C - DITTA: FLOWBIRD ITALIA S.r.l. - LIQUIDAZIONE FATTURA N. 220391 DEL 23/02/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1934</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1934</guid>
-    </item>
-    <item>
-      <title>23/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURA N. 0000275 DEL 09/03/2022 RELATIVA AL MESE DI FEBBRAIO 2022 PER IL SERVIZIO DI TRATTAMENTO E SMALTIMENTO DEI RIFIUTI SOLIDI URBANI INDIFFERENZIATI PRESSO L'IMPIANTO DI TMB DI C.DA BELVEDERE DI TRAPANI - DITTA: TRAPANI SERVIZI S.P.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1933</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1933</guid>
     </item>
   </channel>
 </rss>
