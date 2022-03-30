@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Art. 63 Decreto L. 25 maggio 2021- Erogazione contributo Centri Estivi Comunali- Wonderland srls - prot 48096-2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5932</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5932</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Art. 63 Dl.L. 25 maggio 2021. Liquidazione fattura n. 58 del 01/03/2022 per l'affidamento dei servizi socioeducativi territoriali da realizzarsi nei locali del Centro Giovanile Comunale di Cairoli. CIG: 8944200B53</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5931</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5931</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto a carico di Famà  Antonino ai sensi art.143</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5930</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5904</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5904</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Esecuzione delibera di CC n 3 del 27012022 di riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi Liquidazioni parcelle Avv Mazzeo Loredana</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5903</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5903</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atti a carico di Siragusa Antonina ai sensi dell'art.143</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5902</link>
-      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5902</guid>
     </item>
   </channel>
 </rss>
