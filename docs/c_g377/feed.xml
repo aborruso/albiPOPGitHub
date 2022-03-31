@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Conferimento incarico professionale per la redazione della Valutazione Ambientale Strategica propedeutica alla stesura del PUG. Determina a contrarre, impegno spesa ed affidamento ai sensi dell'art. 1 comma 2 lettera a) della Legge n. 120/2020 come m</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2005</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2005</guid>
+    </item>
+    <item>
       <title>31/03/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>RIQUALIFICAZIONE DELLA PIAZZETTA GARIBALDI POSTA TRA LA VIA A. DORIA E LA VIA G: PUCCINI, RICADENTE IN ZONA A DESTINAZIONE VERDE ATTREZZATO NELLE PREVISIONI DEL VIGENTE P.R.G.. APPROVAZIONE ATTI DI CONTABILITÀ FINALE E CERTIFICATO DI ULTIMAZIONE E RE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2004</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1971</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1971</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>CAMBIO TURNO - PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI MARZO 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</guid>
     </item>
   </channel>
 </rss>
