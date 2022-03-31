@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/03/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>RIQUALIFICAZIONE DELLA PIAZZETTA GARIBALDI POSTA TRA LA VIA A. DORIA E LA VIA G: PUCCINI, RICADENTE IN ZONA A DESTINAZIONE VERDE ATTREZZATO NELLE PREVISIONI DEL VIGENTE P.R.G.. APPROVAZIONE ATTI DI CONTABILITÀ FINALE E CERTIFICATO DI ULTIMAZIONE E RE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2004</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2004</guid>
+    </item>
+    <item>
+      <title>31/03/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2003</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2003</guid>
+    </item>
+    <item>
       <title>31/03/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI APRILE 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2002</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1970</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura camici e grembiuli per il personale dell'Asilo Nido "M. Faranda" - Impegno ed affidamento - Ditta: MATOS di Mannino Gabriella - CIG: Z3335C0542.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1969</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1969</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura materiale vario per i Centri di Cottura - Impegno delle somme e affidamento alla Ditta MATOS di Mannino Gabriella - CIG: ZD335BFD66.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1968</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1968</guid>
     </item>
   </channel>
 </rss>
