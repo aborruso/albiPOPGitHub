@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/03/2022 | Determinazioni Dirigenziali</title>
+      <description>Affidamento in concessione del servizio di gestione del "Campo Sportivo Calcetto a sette", sito in C. da San Giovanni - CIG 8787250C16 - Assegnazione risorse integrative per assolvere al pagamento dei servizi di committenza da corrispondere ad ASMEL.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1996</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1996</guid>
+    </item>
+    <item>
+      <title>31/03/2022 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in Via XX Settembre alta e Piazza Scaffidi in occasione delle manifestazioni in memoria della Regina Adelasia: 01/02 e 09 Aprile p.v.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1995</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1995</guid>
+    </item>
+    <item>
       <title>30/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse al Responsabile del III Settore Area "Territorio e Ambiente" per attribuzione incarichi di studio compatibilità idraulica e valutazione ambientale strategica (VAS) propedeutici alla stesura del PUG</description>
+      <description>Assegnazione risorse al Responsabile del III° Settore Area "Territorio e Ambiente" per attribuzione incarichi di studio compatibilità idraulica e valutazione ambientale strategica (VAS) propedeutici alla stesura del PUG.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1994</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1994</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1962</link>
       <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1962</guid>
-    </item>
-    <item>
-      <title>28/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione a favore dell'Associazione "Rangers International - Sez. 552 ME" per servizi di supporto - Anno 2019.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1961</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1961</guid>
-    </item>
-    <item>
-      <title>28/03/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Via Mazzini per pulizia verde pubblico: 28 e 29/03/22 - Divieto di sosta Via A. Doria per lavori di sistemazione della pavimentazione stradale: 29/03/22 e segg.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1960</link>
-      <pubDate>Mon, 28 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1960</guid>
     </item>
   </channel>
 </rss>
