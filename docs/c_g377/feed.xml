@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/04/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di accesso via B. Ioppolo per lavori: dal 05.04.22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2011</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2011</guid>
+    </item>
+    <item>
+      <title>01/04/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Approvazione elenco dei destinatari aventi diritto misure urgenti di solidarietà alimentare e di sostegno alle famiglie per il pagamento dei canoni di locazione e delle utenze domestiche per l'anno 2021 - Decreto Legge N. 73 del 25 maggio 2021, c.d. "Sostegni bis".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2010</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2010</guid>
+    </item>
+    <item>
+      <title>01/04/2022 | Determinazioni Dirigenziali</title>
+      <description>Approvazione graduatoria ed elenco esclusi "Servizio di assistenza domiciliare integrata (ADI)" - I^ e II^ Annualità AOD N. 1 PdZ 2018-2019.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2009</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2009</guid>
+    </item>
+    <item>
       <title>31/03/2022 | Determinazioni Del Sindaco</title>
       <description>RECUPERO DELL'EDIFICIO STORICO EX CONVENTO SANTA MARIA DEL GESÙ GIÀ CASA CIRCONDARIALE" SITO TRA LA SALITA BUON GESÙ E LA VIA XX SETTEMBRE DI PATTI  DA DESTINARE A MUSEO DELLA CASA CIRCONDARIALE E DELLA RELATIVA ATTIVITÀ - SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO E PROGETTISTA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2008</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1977</link>
       <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1977</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per l'acquisto di N.1 terminale di rilevamento presenze modello Kronotech KP-01 RF.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1976</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1976</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA ROTTAMAZIONE DELLE CARTELLE DELLA RISCOSSIONE SICILIA S.P.A. SECONDO IL PIANO DI RATEIZZAZIONE PER L'ACCESSO ALLA ROTTAMAZIONE BIS COSIDETTA "PACE FISCALE".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1975</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1975</guid>
-    </item>
-    <item>
-      <title>29/03/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA COSTITUZIONE NELL'ATTO DI CITAZIONE PROMOSSO DAL SIG. STRINO PIETRO N.Q. DAVANTI AL GIUDICE DI  PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1974</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1974</guid>
     </item>
   </channel>
 </rss>
