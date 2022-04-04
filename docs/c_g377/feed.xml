@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/04/2022 | Atti Di Interesse Generale</title>
+      <description>CONTROLLO DELL'ATTIVITA' EDILIZIA - ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE MESI DI FEBBRAIO E MARZO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</link>
+      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</guid>
+    </item>
+    <item>
       <title>01/04/2022 | Determinazioni Dirigenziali</title>
       <description>INIZIATIVE DI PROMOZIONE, VALORIZZAZIONE  DEL TERRITORIO ED ATTRATTIVITA' TURISTICA  PROGETTO "ADELASIA E FEBRONIA, MODERNITA NELLA STORIA. DUE DONNE A CONFRONTO TRA EMANCIPAZIONE E VIOLENZA"  APRILE/LUGLIO 2022. AFFIDAMENTO SERVIZIO  DITTA DOVI DES</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2021</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1988</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1988</guid>
-    </item>
-    <item>
-      <title>30/03/2022 | Determinazioni Dirigenziali</title>
-      <description>Approvazione graduatoria ed elenco esclusi "Spazio Lavoro" - Terza  Annualità AOD N. 1 PdZ 2013-2015.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1987</link>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1987</guid>
     </item>
   </channel>
 </rss>
