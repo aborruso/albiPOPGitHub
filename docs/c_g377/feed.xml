@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/04/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - RECUPERO SALVATORE G. G. /BARI PAOLA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2028</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2028</guid>
+    </item>
+    <item>
       <title>05/04/2022 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta in via Orti e piazza Adelasia per pulizia verde pubblico: 07 - 08.04.22</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2027</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1994</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1994</guid>
-    </item>
-    <item>
-      <title>30/03/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI SPAZZAMENTO, RACCOLTA E TRASPORTO ALLO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI DIFFERENZIATI E INDIFFERENZIATI, COMPRESI QUELLI ASSIMILATI, ED ALTRI SERVIZI DI IGIENE PUBBLICA ALL'INTERNO DELL'ARO PATTI - MESE DI FEBBRAIO 2022 - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1993</link>
-      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=1993</guid>
     </item>
   </channel>
 </rss>
