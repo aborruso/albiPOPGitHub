@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per assenza  a carico di Calabrese Calogero</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6027</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6027</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>divieto di transito e di sosta in via dello Stadio, via Pirandello e Piazza Verga, incontro di calcio in data 10.04.22</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6026</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6026</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione compenso Revisore dei Conti Dott. Giulio Cordaro - periodo dal 01/01/2022 al 31/03/2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6025</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6025</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione unica Ambientale a favore della ditta "Perdichizzi  Antonino" per l'attività di lavorazione agrumi, svolta nello stabilimento di Via Medici n.258 del comune di Barcellona Pozzo di Gotto</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6024</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5999</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5999</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fattura  11_21 del 2 dicembre 2021 ditta ASV Soft</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5998</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5998</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURE IN DITTA ENEL ENERGIA SPA PER LA FORNITURA DI ENERGIA ELETTRICA. EMESSE A AGOSTO 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5997</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5997</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURE IN DITTA ENEL ENERGIA S.P.A. PER LA FORNITURA DI ENERGIA ELETTRICA. EMESSE A GENNAIO 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5996</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=5996</guid>
     </item>
   </channel>
 </rss>
