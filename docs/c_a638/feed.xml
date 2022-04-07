@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>divieto di transito e di sosta ambo i lati lungo la S.P. 75 tratto compreso tra il ponte torrente Mela e il torrente Patrì per giorno 12.04.2022 giro di Sicilia 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6041</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6041</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Servizio residenziale in comunità alloggio per minori presso la Comunità alloggio di Via Regina Margherita gestita dall'IPAB, per il periodo dal 01/01/2022 al 30/06/2022. CIG: Z3035E6166</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6040</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6040</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D. Lgs.vo n.152/06) - Validità mesi 6 (sei). Ditta: Iarrera Maria Carmela per attività: parruccheria. Ubicazione. Via Roma 240 Barcellona Pozzo di Gotto (Me)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6039</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6012</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6012</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n°116/22 dell'01/03/22 per il servizio di spazzamento, raccolta e trasporto allo smaltimento dei rifiuti solidi urbani differenziati e indifferenziati, compresi quelli assimilati, servizi di igiene pubblica ed altri servizi acces</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6011</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6011</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriali per assenza nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6010</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6010</guid>
     </item>
   </channel>
 </rss>
