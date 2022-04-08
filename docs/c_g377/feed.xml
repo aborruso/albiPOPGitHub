@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/04/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Accoglimento istanze di riversamento e di rimborso presentate dai contribuenti.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2056</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2056</guid>
+    </item>
+    <item>
       <title>07/04/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito e alla sosta della via XX Settembre alta e della piazza Scaffidi per manifestazione in onore della Regina Adelasia: domenica 10 Aprile 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2055</link>
@@ -164,6 +171,13 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2035</guid>
     </item>
     <item>
+      <title>08/04/2022 | Avvisi Vari</title>
+      <description>AVVISI DI VENDITA BENI DI PROPRIETA' REGIONALE PROVENIENTI DA PROCEDURA DI SDEMANIALIZZAZIONE [iride]257681[/iride] [prot]2022/8456[/prot]</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2034</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2034</guid>
+    </item>
+    <item>
       <title>06/04/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Servizio di copertura assicurativa nei confronti dell'Amministrazione Metropolitana di Messina relativa al Cantiere di Lavoro n.524/ME: "Realizzazione di un tratto della rete idrica interna nella frazione Moreri Soprani. Liquidazione somme</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2033</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</link>
       <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</guid>
-    </item>
-    <item>
-      <title>01/04/2022 | Determinazioni Dirigenziali</title>
-      <description>INIZIATIVE DI PROMOZIONE, VALORIZZAZIONE  DEL TERRITORIO ED ATTRATTIVITA' TURISTICA  PROGETTO "ADELASIA E FEBRONIA, MODERNITA NELLA STORIA. DUE DONNE A CONFRONTO TRA EMANCIPAZIONE E VIOLENZA"  APRILE/LUGLIO 2022. AFFIDAMENTO SERVIZIO  DITTA DOVI DES</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2021</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2021</guid>
-    </item>
-    <item>
-      <title>01/04/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. MARIA CANTALI PER LA COSTITUZIONE NELL'ATTO DI CITAZIONE PROMOSSO DA STRINO PIETRO N.Q. - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2020</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2020</guid>
     </item>
   </channel>
 </rss>
