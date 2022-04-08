@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/04/2022 | Determinazioni Del Sindaco</title>
+      <description>Nomina componenti del Consiglio di Biblioteca</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2060</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2060</guid>
+    </item>
+    <item>
+      <title>08/04/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LAVORI DI POTENZIAMENTO IMPIANTO ELETTRICO DEI LOCALI SITI NEL PALAZZO COMUNALE DI PIAZZA M. SCIACCA DA DESTINARE COME SEDE DEGLI UFFICI INPS.  LIQUIDAZIONE FATTURA. COMPENSAZIONE TRA CREDITI E DEBITI E VERSAMENTO QUOTA ECCEDENTE ALLA DITTA APPALTATR</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2059</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2059</guid>
+    </item>
+    <item>
+      <title>08/04/2022 | Determinazioni Del Sindaco</title>
+      <description>PROJECT FINANCING - "PROGETTO SMART CITY PATTI". SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO (RUP).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2058</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2058</guid>
+    </item>
+    <item>
       <title>08/04/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Accoglimento istanze di riversamento e di rimborso presentate dai contribuenti.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2056</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2025</link>
       <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2025</guid>
-    </item>
-    <item>
-      <title>05/04/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO DEL SERVIZIO SOCIALE PROFESSIONALE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2024</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2024</guid>
-    </item>
-    <item>
-      <title>05/04/2022 | Determinazioni Dirigenziali</title>
-      <description>ROTTAMAZIONE CARTELLE ESATTORIALI ALLA RISCOSSIONE SICILIA S.P.A. SECONDO IL PIANO DI RATEIZZAZIONE ALLA ROTTAMAZIONE BIS PACE FISCALE. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2023</link>
-      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2023</guid>
-    </item>
-    <item>
-      <title>04/04/2022 | Atti Di Interesse Generale</title>
-      <description>CONTROLLO DELL'ATTIVITA' EDILIZIA - ELENCO DEI RAPPORTI RICEVUTI E DELLE ORDINANZE EMESSE MESI DI FEBBRAIO E MARZO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</link>
-      <pubDate>Mon, 04 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2022</guid>
     </item>
   </channel>
 </rss>
