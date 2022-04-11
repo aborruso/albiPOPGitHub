@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/04/2022 | Ordinanze Sindacali</title>
+      <description>Ordinanza T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2071</link>
+      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2071</guid>
+    </item>
+    <item>
       <title>11/04/2022 | Determinazioni Dirigenziali</title>
       <description>Assegno nucleo familiare  di cui all'art. 65 della legge 448/98 e ss.mm.ii.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2070</link>
@@ -246,13 +253,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2038</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2038</guid>
-    </item>
-    <item>
-      <title>06/04/2022 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione sosta via XX Settembre - V. Emanuele - Via F. Gioia.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2037</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2037</guid>
     </item>
     <item>
       <title>08/04/2022 | Avvisi Vari</title>
