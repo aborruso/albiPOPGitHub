@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO NR.15 DEL 13/04/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERRIBILITÀ</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404048</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404048</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/572</title>
       <description>CONCESSIONE DI SUOLO PUBBLICO TEMPORANEA N.29/2022 PER L'INSTALLAZIONE DI GIOCHI E INTRATTENIMENTI DESTINATI AI BAMBINI IN VIA CANNIZZARO A RIDOSSO DEL PALAZZO MUNICIPALE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404009</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403776</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403776</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/559</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA DITTA AGESP S.P.A. - SERVIZI DI IGIENE URBANA - MESE DI MARZO 2022 - CONTRATTO D'APPALTO REP. 988/2017.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403774</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403774</guid>
     </item>
   </channel>
 </rss>
