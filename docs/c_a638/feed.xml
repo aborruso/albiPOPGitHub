@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Farmacia Maiorana dott Stefano Mauro comunica orari di apertura nei seguenti giorni 18/04/2022 e 25/04/2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6147</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6147</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Richiesta disponibilità utilizzo graduatorie concorsuali in corso di validità</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6145</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6107</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6107</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6106</link>
-      <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6106</guid>
     </item>
   </channel>
 </rss>
