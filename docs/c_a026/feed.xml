@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1935</title>
+      <description>TRASMISSIONE PERMESSO DI COSTRUIRE N. 1935 DEL 06/04/2022 - URBIX N° 253/2020</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404061</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404061</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>ELENCO NR.15 DEL 13/04/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERRIBILITÀ</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404048</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403778</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403778</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/560</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURE DITTA PAPALINI SPA PER IL SERVIZIO DI PULIZIA DEGLI IMMOBILI COMUNALI – PER I MESI DI NOVEMBRE E DICEMBRE 2021 – CIG: 8850808DCE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403776</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403776</guid>
     </item>
   </channel>
 </rss>
