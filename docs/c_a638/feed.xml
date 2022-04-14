@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Servizio di rimozione dei veicoli in occasione delle processioni del Venerdì Santo. Ditta F.lli Coppolino.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6169</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6169</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>"Riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi  Avv. Rocco Bruzzese.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6168</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6168</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Legge regionale n.9/2022 art.11, comma 1 - Fondo pereguativo degli enti locali - Esenzione/riduzione/concessione effettivamente operate agli operatori economici nell'anno 2021</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6167</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6167</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Determina a contrarre per affidamento dei lavori di MANUTENZIONE DELLA RETE IDIRCA COMUNALE ACCORDO QUADRO ANNO 2022-2023 CON UN UNICO OPERATORE ECONOMICO EX ART.54 DEL D.LGS.N.50/ 2016 E SS.MM.II mediante Accordo quadro ex art.54 del D.lgs.vo n.50/2</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6166</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6134</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6134</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via Vicolo I San Giovanni e Via G. Garibaldi "come da Planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6133</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6133</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>modulo per richiesta esercizio diritto di voto referendum del 12 giugno 2022 per i residenti all'estero</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6132</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6132</guid>
-    </item>
-    <item>
-      <title>Verbali Risultanze Di Gara</title>
-      <description>Verbale votazione per i progetti di Democrazia Partecipata 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6129</link>
-      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6129</guid>
     </item>
   </channel>
 </rss>
