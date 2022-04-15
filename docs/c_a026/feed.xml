@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO NR.10 DEL 15/04/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERRIBILITÀ</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404221</link>
+      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404221</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/584</title>
       <description>CONCESSIONE DI SUOLO PUBBLICO TEMPORANEA N. 32/2022 PER LA POSA DI UN PONTEGGIO IN ACI CASTELLO VIA G.MARCONI N. 9 ANGOLO VICO ANFORA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404205</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404005</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404005</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/569</title>
-      <description>RINNOVO CONCESSIONE DI SUOLO PUBBLICO TEMPORANEA N. 30/2022 PER POSA DI TAVOLI E SEDIE, PIANTE ORNAMENTALI INTERVALLATI DA PANNELLI DI VETRO PER LOCALE DI SOMMINISTRAZIONE IN PIAZZA CASTELLO N. 2/3</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403991</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/403991</guid>
     </item>
   </channel>
 </rss>
