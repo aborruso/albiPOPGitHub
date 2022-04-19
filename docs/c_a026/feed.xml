@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/</title>
+      <description>ELENCO NR.11 DEL 19/04/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERRIBILITÀ</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404458</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404458</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/67</title>
       <description>MANUFATTI ABUSIVI IN ACI CASTELLO, VIA LEONARDO VIGO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404411</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404203</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404203</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/49</title>
-      <description>PROCEDURA SELETTIVA PUBBLICA, PER SOLI TITOLI, PER LA FORMAZIONE DI UNA GRADUATORIA PER L’ASSUNZIONE STAGIONALE CON CONTRATTO DI LAVORO A TEMPO PIENO E DETERMINATO DI N. 8 AGENTI DI POLIZIA MUNICIPALE DI CAT.C. NOMINA COMMISSIONE ESAMINATRICE -.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404201</link>
-      <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/404201</guid>
     </item>
   </channel>
 </rss>
