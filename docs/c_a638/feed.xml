@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione  limitazioni alla circolazione stradale da giorno 19 Aprile 2022 a giorno 11 Maggio 2022 dalle ore 07:00 alle ore 18:00 per rifacimento manto stradale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6190</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6190</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Procedura negoziata per l'affidamento del servizio di Assistenza alla autonomia e Comunicazione agli alunni disabili che frequentano le scuole dell'infanzia, primarie e secondarie di I grado nei Comuni del Distretto Socio-Sanitario D28. - CIG 9190042691</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6189</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6189</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 3 "AZIONE DI SISTEMA" Piano di Zona 2013 - 2015. Liquidazione Fattura n° 05 del 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6188</link>
+      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6188</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6187</link>
@@ -122,7 +143,7 @@
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6173</guid>
     </item>
     <item>
-      <title>Avviso Deposito Atti</title>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6172</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6163</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6163</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Mozione presentata dal Consigliere Sidoti Gabriele ed altri avente ad oggetto realizzazione scivoli sui marciapiedi della città utilizzando le somme assegnate ai comuni per "investimenti finalizzati alla manutenzione straordinaria delle strade comunali, dei marciapiedi dell'arredo urbano"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6162</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6162</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Legge regionale n.9/2022 art.11, comma 1 - Fondo pereguativo degli enti locali - Esenzione/riduzione/concessione effettivamente operate agli operatori economici nell'anno 2020.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6160</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6160</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>OGGETTO :  Determinazione Dirigenziale n. 360 del 21.07.2020 Registro Generale n. 1925 del                            06.08.2020 adesione a convenzione CONSIP  "Apparecchiatura Multifunzione 30                                             Lotto" -Liqu</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6156</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6156</guid>
     </item>
   </channel>
 </rss>
