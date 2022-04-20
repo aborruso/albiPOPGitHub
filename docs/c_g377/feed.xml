@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/04/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE IN SANATORIA DITTA MAGGIO DOMENICA +2</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2215</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2215</guid>
+    </item>
+    <item>
+      <title>20/04/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO DI GESTIONE DEL "CAMPO SPORTIVO - CALCETTO A SETTE" SITO IN C.DA SAN GIOVANNI - CIG 8787250C16. LIQUIDAZIONE SERVIZIO DI COMMITTENZA ASMEL CONSORTILE S.R.L. E COMPONENTI ESTERNI COMMISSIONE DI GARA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2214</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2214</guid>
+    </item>
+    <item>
+      <title>20/04/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Servizio di potenziamento Connettività internet con graduale upgrade dei collegamenti remoti in fibra ottica del Comune di Patti, ANNO 2022. Liquidazione spese 1° Bimestre (gennaio/febbraio 2022). Cig: Z6734A81DD.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2213</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2213</guid>
+    </item>
+    <item>
       <title>20/04/2022 | Determinazioni Dirigenziali</title>
       <description>Impegno spesa per fornitura cartellonistica informativa in occasione del Giro di Sicilia 2022..</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2212</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2181</link>
       <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2181</guid>
-    </item>
-    <item>
-      <title>14/04/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA DANNI DA SINISTRO GALATI VALERIA. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2180</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2180</guid>
-    </item>
-    <item>
-      <title>14/04/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA DANNI DA SINISTRO GRANATA CARLO. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2179</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2179</guid>
-    </item>
-    <item>
-      <title>14/04/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA DANNI DA SINISTRO BUONSANTI RAFFAELE. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2178</link>
-      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2178</guid>
     </item>
   </channel>
 </rss>
