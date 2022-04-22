@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Bagheria</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082006</category>
     <item>
+      <title>1557/2022 | Ordinanze sindacali</title>
+      <description>Regolamentazione chiusura delle attività di panificazione presenti nel territorio comunale</description>
+      <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51238&amp;ap_show=detail</link>
+      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51238&amp;ap_show=detail</guid>
+    </item>
+    <item>
       <title>1556/2022 | Determinazioni apicali - dirigenziali</title>
       <description>“Progetto di demolizione di opera abusiva realizzata in Corso Baldassare Scaduto n. 90” Nomina Responsabile Unico del Procedimento e figure tecnico-amministrative</description>
       <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51237&amp;ap_show=detail</link>
@@ -288,13 +295,6 @@
       <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51195&amp;ap_show=detail</link>
       <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51195&amp;ap_show=detail</guid>
-    </item>
-    <item>
-      <title>1514/2022 | Determinazioni apicali - dirigenziali</title>
-      <description>Quota servizi del Fondo Povertà 2018. CUP B59J18002250006 Servizio di educativa domiciliare – Liquidaione Cooperativa Sociale Migma a.r.l. per progetto nucleo familiare *******- Novembre /2021 Gennaio 2022</description>
-      <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51194&amp;ap_show=detail</link>
-      <pubDate>Tue, 19 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51194&amp;ap_show=detail</guid>
     </item>
   </channel>
 </rss>
