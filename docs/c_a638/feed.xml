@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Pubblicazione avviso pubblico lotti pascolivi 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6270</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6270</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D. Lgs.vo n.152/06) - Validità mesi 6 (se). Ditta Puliafico  Antonino per Attività: ristorante ubicazione: Via Carrara, 52 Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6268</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6268</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione limitazioni alla circolazione stradale per il giorno 29.04.2022 dalle ore 07:00 alle ore 14:00 lato sud-est del piazzale antistante la stazione ferroviaria.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6267</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6267</guid>
+    </item>
+    <item>
       <title>Ordinanza Sindacale</title>
       <description>Divieto di balneazione  nei tratti di litorale pertinente di questo Comune</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6266</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6242</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6242</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di manutenzione ordinaria degli impianti di pubblica illuminazione comunali LIQUIDAZIONE 1 CERTIFICATO DI PAGAMENTO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6241</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6241</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Procedimento relativo al rilascio di autorizzazione per esercizio di commercio al dettaglio in media struttura di vendita, alimentare e non alimentare, nel comune di Barcellona Pozzo di Gotto. Ditta "Eurobon srl",  Via G. Amendola 134 Determinazione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6240</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6240</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO E LIQUIDAZIONE PER PAGAMENTO CONTRIBUTO UNIFICATO: APPELLI GIAMBO' M.-LONGANO MARMI SNC  RAPPAZZO C. - ROSSELLO A.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6239</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6239</guid>
     </item>
   </channel>
 </rss>
