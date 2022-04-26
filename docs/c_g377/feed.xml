@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/04/2022 | Determinazioni Del Sindaco</title>
+      <description>PROGETTO DI CONSOLIDAMENTO A PROTEZIONE DELLA VIA MAGRETTI, IN PROSSIMITÀ DELLA PIAZZETTA BELVEDERE, NEL TRATTO INTERESSATO DA FENOMENI DI DISSESTO. SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2259</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2259</guid>
+    </item>
+    <item>
+      <title>26/04/2022 | Ordinanze Sindacali</title>
+      <description>smaltimento carcassa bovino</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2258</link>
+      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2258</guid>
+    </item>
+    <item>
       <title>26/04/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito piazza Santa Febronia per festeggiamenti del 04.05.22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2257</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2225</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2225</guid>
-    </item>
-    <item>
-      <title>21/04/2022 | Ordinanze Sindacali</title>
-      <description>ORDINANZA T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2224</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2224</guid>
-    </item>
-    <item>
-      <title>21/04/2022 | Atti Elettorali</title>
-      <description>REFERENDUM ABROCATIVI GIUGNO 2022 - OPZIONE DEGLI ELETTORI TEMPORANEAMENTE ALL'ESTERO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2223</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2223</guid>
     </item>
   </channel>
 </rss>
