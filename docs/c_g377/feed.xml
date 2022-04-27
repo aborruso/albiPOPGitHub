@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/04/2022 | Atti Di Interesse Generale</title>
+      <description>Integrazione o.d.g. del Consiglio Comunale del 29 Aprile 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2261</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2261</guid>
+    </item>
+    <item>
+      <title>27/04/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Domanda di concessione per l'occupazione e l'uso di specchi acquei di mare territoriale</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2260</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2260</guid>
+    </item>
+    <item>
       <title>26/04/2022 | Determinazioni Del Sindaco</title>
       <description>PROGETTO DI CONSOLIDAMENTO A PROTEZIONE DELLA VIA MAGRETTI, IN PROSSIMITÀ DELLA PIAZZETTA BELVEDERE, NEL TRATTO INTERESSATO DA FENOMENI DI DISSESTO. SOSTITUZIONE RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2259</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2227</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2227</guid>
-    </item>
-    <item>
-      <title>21/04/2022 | Ordinanze Dirigenziali</title>
-      <description>ORDINANZA INGIUNZIONE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2226</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2226</guid>
-    </item>
-    <item>
-      <title>21/04/2022 | Determinazioni Dirigenziali</title>
-      <description>Art. 19 del D. Lgs. N° 504/92  Approvazione rendiconto T.E.F.A. relativo al 1 ° Trimestre 2022 - Riversamento alla Città Metropolitana di Messina del Tributo per l'Esercizio delle Funzioni di Tutela, Protezione ed Igiene dell Ambiente T.E.F.A..</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2225</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2225</guid>
     </item>
   </channel>
 </rss>
