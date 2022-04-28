@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/04/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - GIORDANO / RISTUCCIA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2274</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2274</guid>
+    </item>
+    <item>
+      <title>28/04/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - LANZAFAME / BUTTO'</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2273</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2273</guid>
+    </item>
+    <item>
       <title>28/04/2022 | Atti Elettorali</title>
       <description>REFRENDUM POPOLARI DOMENICA 12 GIUGNO 2022 - CONVOCAZIONE DEI COMIZI</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2272</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2240</link>
       <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2240</guid>
-    </item>
-    <item>
-      <title>22/04/2022 | Concessioni E Permessi Di Costruire</title>
-      <description>PERMESSO DI COSTRUIRE DITTA CORTORILLO ANTONINO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2239</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2239</guid>
-    </item>
-    <item>
-      <title>22/04/2022 | Ordinanze Sindacali</title>
-      <description>Misure di prevenzione contro gli incendi boschivi e di interfaccia - Anno 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2238</link>
-      <pubDate>Fri, 22 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2238</guid>
     </item>
   </channel>
 </rss>
