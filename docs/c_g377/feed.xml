@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/04/2022 | Avvisi Vari</title>
+      <description>Consulte territoriali del Comune di Patti - convocazione per il 05/05/2022, alle ore 18.30,</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2289</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2289</guid>
+    </item>
+    <item>
+      <title>29/04/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>SANITA' PUBBLICA VETERINARIA - TURNI PRONTA DISPONIBILITA' MESE MAGGIO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2288</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2288</guid>
+    </item>
+    <item>
+      <title>29/04/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI DI PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLCA MESE MAGGIO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2287</link>
+      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2287</guid>
+    </item>
+    <item>
       <title>29/04/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>L.448/98 Fornitura gratuita e semigratuita dei libri di testo  Erogazione contributo anno scolastico 2015/2016. Beneficiari dell'intervento sono gli studenti delle scuole secondarie di primo e secondo grado.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2286</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2255</link>
       <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2255</guid>
-    </item>
-    <item>
-      <title>26/04/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>POSTA CERTIFICATA: Richiesta pubblicazione del bando di corso con selezione finale per istruttore amministrativo cat. C1</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2254</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2254</guid>
-    </item>
-    <item>
-      <title>26/04/2022 | Atti Di Interesse Generale</title>
-      <description>MODIFICA CODICE IBAN  DEL CONTO CORRENTE TESORERIA COMUNALE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2253</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2253</guid>
-    </item>
-    <item>
-      <title>26/04/2022 | Deliberazioni Del Comitato Dei Sindaci</title>
-      <description>PROGRAMMA NAZIONALE PER I SERVIZI DI CURA ALL'INFANZIA E AGLI ANZIANI NON AUTOSUFFICIENTI (PNSCIA)</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2252</link>
-      <pubDate>Tue, 26 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2252</guid>
     </item>
   </channel>
 </rss>
