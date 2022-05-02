@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6357</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6357</guid>
+    </item>
+    <item>
+      <title>Atti Elettorali</title>
+      <description>Elezioni Referendarie del 12 Giugno 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6356</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6356</guid>
+    </item>
+    <item>
+      <title>Atti Elettorali</title>
+      <description>Referendum Costituzionale del 12 Giugno 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6355</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6355</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto signor La Fratta Domenico art.143 c.p.c.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6351</link>
@@ -78,13 +99,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6343</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6343</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriali assenza nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6342</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6342</guid>
     </item>
     <item>
       <title>Determinazioni Dirigenziali</title>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6322</link>
       <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6322</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Fornitura gratuita o semigratuita dei libri di testo ex art. 27  l. 23.12.1998 n. 448 e successive modifiche ed integrazioni. Anno scolastico 2020/2021.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6321</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6321</guid>
-    </item>
-    <item>
-      <title>Atti Elettorali</title>
-      <description>Referendum Popolari di Domenica 12 Giugno 2022. Convocazione dei Comizi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6320</link>
-      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6320</guid>
     </item>
   </channel>
 </rss>
