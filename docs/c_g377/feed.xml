@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito e alla sosta piazzetta Luigi Sturzo per celebrazione Santa Messa: 03.05.22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2304</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2304</guid>
+    </item>
+    <item>
+      <title>02/05/2022 | Avvisi Vari</title>
+      <description>RINNOVO CLASSIFICA QUINQUENNALE 2022-2026.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2303</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2303</guid>
+    </item>
+    <item>
       <title>Determine Dirigenziali Di Liquidazione | DECRETO DIRETTORIALE N. 550 DEL 01/09/2021 -MINISTERO PER I  BENI E LE ATTIVITA' CULTURALI  DIREZIONE GENERALE  BIBLIOTECHE E DIRITTO DAUTORE  CONTRIBUTO ALLE  BIBLIOTECHE   ANNO 2021.  LIQUIDAZIONE SERVIZIO LIBRERIA "MOSCA SAS PATTI"  - CIG Z04346"</title>
       <description>"-</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2302</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2270</link>
       <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2270</guid>
-    </item>
-    <item>
-      <title>27/04/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI NOLEGGIO A FREDDO ESCAVATORE. DITTA: MOTEX S.R.L. LIQUIDAZIONE FATTURA N. 32/N-22 del 20.04.2022 CIG: ZD531E330E</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2269</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2269</guid>
-    </item>
-    <item>
-      <title>27/04/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI RACCOLTA, TRASPORTO E CONFERIMENTO A IMPIANTO AUTORIZZATO DI RIFIUTI URBANI NON DIFFERENZIATI PRODOTTI DA UTENZE TIPO "A" DI CUI ALL'ORDINANZA PRESIDENTE REGIONE SICILIANA N. 2/RIF DEL 25.09.2020  INTERVENTO IN VIA SOSTITUTIVA. DITTA :  P</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2268</link>
-      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2268</guid>
     </item>
   </channel>
 </rss>
