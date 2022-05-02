@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Bagheria</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082006</category>
     <item>
+      <title>1673/2022 | Determinazioni Convocazioni e ODG Consiglio comunale</title>
+      <description>Convocazione del Consiglio comunale in seduta ordinaria per il 10/05/2022 alle ore 18.00</description>
+      <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51354&amp;ap_show=detail</link>
+      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51354&amp;ap_show=detail</guid>
+    </item>
+    <item>
       <title>1672/2022 | Determinazioni apicali - dirigenziali</title>
       <description>Variazione compensativa tra macroaggregati della stessa missione e programma annualità 2022 (Art. 175, comma 5- quater lett. a), D. LGS. 267/2000) per svolgimento referendum abrogativi, completamento procedure di reclutamento del personale ed adeguamento stanziamento ad esigenze gestionali</description>
       <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51353&amp;ap_show=detail</link>
@@ -288,13 +295,6 @@
       <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51314&amp;ap_show=detail</link>
       <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
       <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51314&amp;ap_show=detail</guid>
-    </item>
-    <item>
-      <title>1633/2022 | Determinazioni apicali - dirigenziali</title>
-      <description>Liquidazione fatture TIM S.P.A. per servizio di telefonia mobile, III Bimestre 2022 –CIG Z3C3490E71</description>
-      <link>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51313&amp;ap_show=detail</link>
-      <pubDate>Mon, 02 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://comune.bagheria.pa.it:443/albo-pretorio/albo-pretorio-online/?ap_id=51313&amp;ap_show=detail</guid>
     </item>
   </channel>
 </rss>
