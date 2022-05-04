@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/05/2022 | Atti Di Interesse Generale</title>
+      <description>CONTROLLO ATTIVITA' EDILIZIA - ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE ILLECITI EDILIZI - MESE APRILE 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2321</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2321</guid>
+    </item>
+    <item>
+      <title>04/05/2022 | Atti Di Interesse Generale</title>
+      <description>CONTROLLO ATTIVITA' EDILIZIA - ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE ILLECITI EDILIZI - MESE APRILE 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</guid>
+    </item>
+    <item>
       <title>04/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>PAGAMENTO CONTRIBUTO UNIFICATO SENTENZA N. 854/2018 CORTE D'APPELLO DI MESSINA. CONTI CUTUGNO.LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2319</link>
@@ -25,7 +39,7 @@
     </item>
     <item>
       <title>04/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA REGISTRAZIONE SENTENZA N.262/2020 GIUDICE DI PACE DI PATTI. LIQUIDAZIONE.</description>
+      <description>TASSA REGISTRAZIONE SENTENZA N. 262/2020 - GIUDICE DI PACE DI PATTI - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2318</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2318</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2287</link>
       <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2287</guid>
-    </item>
-    <item>
-      <title>29/04/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>L.448/98 Fornitura gratuita e semigratuita dei libri di testo  Erogazione contributo anno scolastico 2015/2016. Beneficiari dell'intervento sono gli studenti delle scuole secondarie di primo e secondo grado.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2286</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2286</guid>
-    </item>
-    <item>
-      <title>29/04/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>PROCEDURA DI AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36 C.2, LETTERA A) D.LGS.50/2016 BANDO WIFI4EU, MANUTENZIONE E CONNETTIVITA' - CIG. Z54312CCBA.- liquidazione fattura.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2285</link>
-      <pubDate>Fri, 29 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2285</guid>
     </item>
   </channel>
 </rss>
