@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Mangano Carmela art. 143 cpc</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6454</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6454</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>ACQUISTO BENI, STRUMENTAZIONI E TECNOLOGIE PER IL  SETTORE V  IMPEGNO SPESA</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6452</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6452</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Ampliamento del Cimitero Comunale Lotto C   -  Impegno spesa  per indennità di esproprio  e spese accessorie.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6451</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6451</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Ammortamento anticipazione di liquidità erogata dalla Cassa Depositi e Prestiti ex art. 1, comma 13, D.L. 08.04.2013 n. 35 - Erogazioni del 31/05/2013, 04/07/2014, 20/10/2014 e 14/12/2015, codice debitore 4789 - Liquidazione rate scadenza 31/05/2022.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6450</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6424</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6424</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione  limitazioni alla circolazione stradale per giorno 17/05/2022 dalle ore 07:00   alle ore 17:00 in via Del Mare dal c. 100/103 ;</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6423</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6423</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURA N. 004210523675 DEL 12/03/2022 PROT. N. 19798 DEL 20/04/2022 DI € 519,70 DI FORNITURA ENERGIA ELETTRICA DITTA ENEL ENERGIA SPA  BIBLIOTECA COMUNALE "N. DI GIOVANNI". CIG N. 807206813E</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6422</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6422</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Teatro comunale Placido Mandanici. Implementazione servizi promopubblicitari sui social network  per la stagione artistica 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6421</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6421</guid>
     </item>
   </channel>
 </rss>
