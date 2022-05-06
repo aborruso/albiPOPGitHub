@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/05/2022 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. SARA SPEZIALE - ATTO DI CITAZIONE GUMINA SALVATORE - IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2354</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2354</guid>
+    </item>
+    <item>
+      <title>06/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>NUOVA CARTA DI IDENTITA' ELETTRONICA (CIE) - TRASFERIMENTO DEI CORRISPETTIVI AL MINISTERO - IMPEGNO SPESA E LIQUIDAZIONE - DALL'01/04/2022 al 30/04/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2353</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2353</guid>
+    </item>
+    <item>
       <title>06/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione integrazione salariale per elevazione orario di lavoro Progetto finanziato a valere sul PON Inclusione, Fondo Sociale Europeo (FSE) - Azione A1a - Dall'01/07/2020 al 31/12/2020.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2352</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</guid>
-    </item>
-    <item>
-      <title>04/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>PAGAMENTO CONTRIBUTO UNIFICATO SENTENZA N. 854/2018 CORTE D'APPELLO DI MESSINA. CONTI CUTUGNO.LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2319</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2319</guid>
-    </item>
-    <item>
-      <title>04/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA REGISTRAZIONE SENTENZA N. 262/2020 - GIUDICE DI PACE DI PATTI - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2318</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2318</guid>
     </item>
   </channel>
 </rss>
