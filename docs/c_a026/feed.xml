@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/718</title>
+      <description>CONCESSIONE PATROCINIO E UTILIZZO GRATUITO DEL SALONE “ROBERTO RIMINI” DI VILLA FORTUNA ALL’ASSOCIAZIONE CSA PER MANIFESTAZIONI CULTURALI.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406802</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406802</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/717</title>
       <description>CONCESSIONE DI SUOLO PUBBLICO TEMPORANEA N. 45/2021 PER LA MANIFESTAZIONE AIRC "L'AZALEA DELLA RICERCA" SU PIAZZA CASTELLO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406689</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406400</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406400</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/707</title>
-      <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 41/2022 PER COLLOCAZIONEDI UN PONTEGGIO SU VIA VALASTRO N. 9</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406395</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406395</guid>
     </item>
   </channel>
 </rss>
