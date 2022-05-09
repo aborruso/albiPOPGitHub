@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/05/2022 | Determinazioni Dirigenziali</title>
+      <description>Previsione di spesa per Referendum abrogativi ex art. 75 della Legge Costituzionale - Domenica 12 giugno 2022 - Impegno di spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2357</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2357</guid>
+    </item>
+    <item>
+      <title>09/05/2022 | Determinazioni Dirigenziali</title>
+      <description>RIMBORSO SOMME VERBALI C.d.S. PAGATI DUE VOLTE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2356</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2356</guid>
+    </item>
+    <item>
+      <title>09/05/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2355</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2355</guid>
+    </item>
+    <item>
       <title>06/05/2022 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. SARA SPEZIALE - ATTO DI CITAZIONE GUMINA SALVATORE - IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2354</link>
@@ -116,7 +137,7 @@
     </item>
     <item>
       <title>06/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. GIARRIZZO TINDARO IN SERVIZIO NEL SETTORE V^ - SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO:  DALL'01/04/2022  AL 30/04/2022.</description>
+      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. GIARRIZZO TINDARO IN SERVIZIO NEL SETTORE V^ - SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO: DALL'01/04/2022 AL 30/04/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2340</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2340</guid>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2323</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2323</guid>
-    </item>
-    <item>
-      <title>05/05/2022 | Determinazioni Dirigenziali</title>
-      <description>AUTORIZZAZIONE A PRESTARE LAVORO STRAORDINARIO AL PERSONALE DIPENDENTE DEL SETTORE IV° - ANNO 2022 - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2322</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2322</guid>
-    </item>
-    <item>
-      <title>04/05/2022 | Atti Di Interesse Generale</title>
-      <description>CONTROLLO ATTIVITA' EDILIZIA - ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE ILLECITI EDILIZI - MESE APRILE 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2321</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2321</guid>
-    </item>
-    <item>
-      <title>04/05/2022 | Atti Di Interesse Generale</title>
-      <description>CONTROLLO ATTIVITA' EDILIZIA - ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE ILLECITI EDILIZI - MESE APRILE 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</link>
-      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2320</guid>
     </item>
   </channel>
 </rss>
