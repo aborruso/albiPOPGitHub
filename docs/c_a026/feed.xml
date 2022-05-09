@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/719</title>
+      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE C. D. -</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406842</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406842</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/18726</title>
+      <description>REVOCA DELL'AGGIUDICAZIONE ALLA DITTA ACS SRL E AGGIUDICAZIONE ALL'OPERATORE ECONOMICO TERZO IN GRADUATORIA - AFFIDAMENTO IN CONCESSIONE DEL SERVIZIO PARCHEGGI A PAGAMENTO - CIG: 8757363490</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406841</link>
+      <pubDate>Mon, 09 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406841</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/718</title>
       <description>CONCESSIONE PATROCINIO E UTILIZZO GRATUITO DEL SALONE “ROBERTO RIMINI” DI VILLA FORTUNA ALL’ASSOCIAZIONE CSA PER MANIFESTAZIONI CULTURALI.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406802</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406458</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406458</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/17/A/PEA</title>
-      <description>AUTORIZZAZIONE ALLO SCARICO RILASCIATA AL SIG. AMATO SALVATORE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406404</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406404</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/18182</title>
-      <description>RINVIO SEDUTA DI CONSIGLIO COMUNALE ORDINARIO DEL 26/04/2022 PER IL10/05/2022 ALLE ORE 10,30</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406400</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/406400</guid>
     </item>
   </channel>
 </rss>
