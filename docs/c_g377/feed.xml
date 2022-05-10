@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>10/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione lavoro straordinario secondo semestre 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2370</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2370</guid>
+    </item>
+    <item>
+      <title>10/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità nel lungomare  C.F. Zuccarello in occasione della Giornata dell'Arte del 13.05.22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2369</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2369</guid>
+    </item>
+    <item>
+      <title>10/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE INTEGRAZIONESALARIALEPERELEVAZIONE ORARIO DI LAVORO PERSONALE A.S.U. CONTI TINDARO, DE BENEDETTIS MAURO  E GALATI PAOLO IN SERVIZIO PRESSO IL III SETTORE AREA TERRITORIOEAMBIENTE PERIODO 01.04.2022 - 30.04.2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2368</link>
       <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2336</link>
       <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2336</guid>
-    </item>
-    <item>
-      <title>05/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione lavoro straordinario nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale PAIS a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020 - PON Inclusione. CUP C41B20000810006 - Mese di aprile 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2335</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2335</guid>
-    </item>
-    <item>
-      <title>05/05/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>APPROVAZIONE PIANO ECONOMICO FINANZIARIO DELLA TARI - ANNI 2022/2025.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2334</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2334</guid>
     </item>
   </channel>
 </rss>
