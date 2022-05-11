@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/05/2022 | Determinazioni Dirigenziali</title>
+      <description>PROGETTO DENOMINATO "PRIMI INTERVENTI DI MANUTENZIONE STRAORDINARIA URGENTI DEGLI EDIFICI DELLA COMPAGNIA CARABINIERI IN CORSO MATTEOTTI" NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO E PROGETTISTA - CUP: C43E22000170002</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2382</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2382</guid>
+    </item>
+    <item>
       <title>10/05/2022 | Determinazioni Dirigenziali</title>
       <description>AUTORIZZAZIONE A PRESTARE LAVORO STRAORDINARIO DA PARTE DEL PERSONALE DIPENDENTE DEL III SETTORE AREA TERRITORIO E AMBIENTE ANNO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2381</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2348</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2348</guid>
-    </item>
-    <item>
-      <title>06/05/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>APPROVAZIONE TARIFFE TARI PER L'ANNO 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2347</link>
-      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2347</guid>
     </item>
   </channel>
 </rss>
