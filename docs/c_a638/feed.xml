@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di Irrogazione Sanzione Amministrativa Pecuniaria per opere edilizie abusivamente realizzate in assenza di Comunicazione di Inizio Lavori Asseverata, C.I.L.A., nell'immobile sito in Via Papa Giovanni XXIII n. 130, al foglio di mappa n. 54 p</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6559</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6559</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi (L.R. n.27/86 e D.Lgs.vo n.152/069 - Validità mesi 6 (sei). Ditta: Eurobon srl per Attività: supermercato ubicazione: Via Giorgio Amendola. 134/D Barcellona P.G. (ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6558</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6558</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Coop. ANTERI società cooperativa con sede in Barcellona Pozzo di Gotto- Comunicazione avvio procedimento applicazione art. 223 septiesdecies del c.c.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6557</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6557</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6556</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6532</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6532</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Giudizio RG n 323 del 2017 vertente tra Comune di Barcellona PG e Unipol SAI Assicurazioni Spa  Pagamento contributo unificato sentenza 678 del 2019 della Corte di Appello di Messina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6531</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6531</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ricorso in Cassazione RG n 8694 del 2019 avverso sentenza emessa Corte Appello promosso dal Comune di Barcellona PG contro Genovese Adele Pagamento contributo unificato ordinanza Corte di Cassazione n 10584 del 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6530</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6530</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura  n 2_22 del 21 febbraio 2022  Intervento di manutenzione sul software  del sistema di rilevazione presenze presso Centro Giovanile Cairoli</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6529</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6529</guid>
     </item>
   </channel>
 </rss>
