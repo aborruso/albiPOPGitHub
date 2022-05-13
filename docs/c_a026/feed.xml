@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/759</title>
+      <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 48/2022 PROROGA PER LA COLLOCAZIONE DI UN PONTEGGIO IN VIA PROVINCIALE ANGOLO VIA CALEMENZANA N. /2/4</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407473</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407473</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/87</title>
       <description>PREVENZIONE INCENDI NELLA STAGIONE ESTIVA 2022</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407394</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407229</link>
       <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407229</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/743</title>
-      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE L* F* -</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407218</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/407218</guid>
     </item>
   </channel>
 </rss>
