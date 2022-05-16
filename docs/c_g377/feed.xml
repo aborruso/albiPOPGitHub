@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE COMPETENZE PER RILEVAZIONE E COMPILAZIONE DELLE SCHEDE DI CARATTERIZZAZIONE ARCHITETTONICA DI CIASCUN FABBRICATO DEL CENTRO STORICO, DA ALLEGARE E UTILIZZARE NELLO STUDIO DI DETTAGLIO DI CUI ALLA L.R. 13/2015.   ING. FRANCO SPANÒ</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2419</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2419</guid>
+    </item>
+    <item>
       <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TRANSAZIONE CONTROVERSIA GIUDIZIO R.G. 453/2020 GIUDICE DI PACE DI PATTI. CIME S.R.L. - 8318LIQUIDAZIONE.</description>
+      <description>TRANSAZIONE CONTROVERSIA GIUDIZIO R.G. 453/2020 GIUDICE DI PACE DI PATTI - CIME S.R.L. - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2418</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2418</guid>
@@ -137,7 +144,7 @@
     </item>
     <item>
       <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Canone di locazione del locale adibito ad alloggio di servizio del Comandante della Compagnia dei Carabinieri di Patti  Liquidazione fattura N.18/e del 20/04/2022 per mesi tre dal 01/12/2021 al 28/02/2022</description>
+      <description>Canone di locazione del locale adibito ad alloggio di servizio del Comandante della Compagnia dei Carabinieri di Patti - Liquidazione fattura N.18/e del 20/04/2022 per mesi tre dall'01/12/2021 al 28/02/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2401</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2401</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2385</link>
       <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2385</guid>
-    </item>
-    <item>
-      <title>11/05/2022 | Ordinanze Sindacali</title>
-      <description>Eliminazione inconveniente igienico - sanitario, frazione Scala.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2384</link>
-      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2384</guid>
     </item>
   </channel>
 </rss>
