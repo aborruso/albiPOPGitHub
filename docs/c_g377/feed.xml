@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>OMISSIS - LIQUIDAZIONE FATTURA - DITTA: OMISSIS.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2439</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2439</guid>
+    </item>
+    <item>
+      <title>17/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZIO DI POTATURA ALBERI E SCERBAMENTO DELLE AREE A VERDE PRESENTI SUL TERRITORIO COMUNALE - DITTA: MADDALENA ANTONINO - LIQUIDAZIONE FATTURA N. 7 DEL 02/05/2022 - CIG: Z9B3503612.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2438</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2438</guid>
+    </item>
+    <item>
       <title>17/05/2022 | Pubblicazioni Di Matrimonio</title>
       <description>PUBBLICAZIONE DI MATRIMONIO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2437</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2405</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2405</guid>
-    </item>
-    <item>
-      <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO SIG.RA GALATI VALERIA - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2404</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2404</guid>
-    </item>
-    <item>
-      <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO A FAVORE DEL SIG.FERRO CARMELO - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2403</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2403</guid>
     </item>
   </channel>
 </rss>
