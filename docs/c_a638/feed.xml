@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6592</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6592</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6591</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6591</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Legge 448 del 1998 art 66 Assegno di Maternità istanze pervenute nel mese di Aprile 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6590</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6590</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Richiesta autorizzazione per manomissione  suolo pubblico comunale utente Italgas reti in Via G. Pascoli n. 5</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6589</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6564</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6564</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FORNITURA DI MATERIALE VARIO DA SERVIRE PER LA MANUTENZIONE ORDINARIA DEGLI EDIFICI PUBBLICI DI PROPRIETÀ' COMUNALE DA   ESEGUIRSI MEDIANTE LAVORI IN CONOMIA O PER PICCOLI INTERVENTI DI MANUTENZIONE RICORRENTI.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6563</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6563</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Atto di impegno somme per l'acquisto di carta, cancelleria, periferiche, minuterie servizio SUAP.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6562</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6562</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Ordinanza d'istruttoria per la derivazione di acque da pozzo Ditta Barca Salvatore e Barca Santa Maria (eredi Barca Domenico)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6561</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6561</guid>
     </item>
   </channel>
 </rss>
