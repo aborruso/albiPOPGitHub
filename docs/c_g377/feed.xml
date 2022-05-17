@@ -17,22 +17,36 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/05/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2437</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2437</guid>
+    </item>
+    <item>
+      <title>17/05/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2436</link>
+      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2436</guid>
+    </item>
+    <item>
       <title>16/05/2022 | Atti Di Interesse Generale</title>
-      <description>AVVISO TRASPORTO GRATUITO EXTRAURBANO DEGLI ALUNNI PER L'ANNO SCOLASTICO 2022/2023 - TERMINE PRESENTAZIONE DOMANDA</description>
+      <description>AVVISO TRASPORTO GRATUITO EXTRAURBANO DEGLI ALUNNI PER L'ANNO SCOLASTICO 2022/2023 - TERMINE PRESENTAZIONE DOMANDA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2435</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2435</guid>
     </item>
     <item>
       <title>16/05/2022 | Atti Di Interesse Generale</title>
-      <description>AVVISO TRASPORTO GRATUITO DEGLI ALUNNI PER L'ANNO SCOLASTICO 2022/2023 - TERMINE PRESENTAZIONE DOMANDA</description>
+      <description>AVVISO TRASPORTO GRATUITO DEGLI ALUNNI PER L'ANNO SCOLASTICO 2022/2023 - TERMINE PRESENTAZIONE DOMANDA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2434</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2434</guid>
     </item>
     <item>
       <title>16/05/2022 | Atti Di Interesse Generale</title>
-      <description>AVVISO BANDO DI ISCRIZIONE ASILO NIDO COMUNALE ANNO 2022/2023 - TERMINE DI PRESENTAZIONE DOMANDA</description>
+      <description>AVVISO BANDO DI ISCRIZIONE ASILO NIDO COMUNALE - ANNO 2022/2023 - TERMINE DI PRESENTAZIONE DOMANDA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2433</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2433</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2403</link>
       <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2403</guid>
-    </item>
-    <item>
-      <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA A FAVORE DEL SIG. PINTAUDI SALVATORE. LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2402</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2402</guid>
-    </item>
-    <item>
-      <title>13/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Canone di locazione del locale adibito ad alloggio di servizio del Comandante della Compagnia dei Carabinieri di Patti - Liquidazione fattura N.18/e del 20/04/2022 per mesi tre dall'01/12/2021 al 28/02/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2401</link>
-      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2401</guid>
     </item>
   </channel>
 </rss>
