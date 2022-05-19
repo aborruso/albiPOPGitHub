@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/05/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2467</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2467</guid>
+    </item>
+    <item>
+      <title>19/05/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2466</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2466</guid>
+    </item>
+    <item>
       <title>19/05/2022 | Determinazioni Dirigenziali</title>
       <description>AUTORIZZAZIONE A PRESTARE LAVORO STRORDINARIO AL PERSONALE DIPENDENTE DEL SETTORE VI° - ANNO 2022_IMPEGNO SPESA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2465</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2433</link>
       <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2433</guid>
-    </item>
-    <item>
-      <title>16/05/2022 | Deliberazioni Di Giunta</title>
-      <description>Progetto esecutivo "Primi interventi di manutenzione straordinaria urgenti degli edifici della compagnia carabinieri in Corso Matteotti" - Approvazione amministrativa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2432</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2432</guid>
-    </item>
-    <item>
-      <title>16/05/2022 | Deliberazioni Di Giunta</title>
-      <description>SERVIZIO DI  SCERBAMENTO DELLE AREE A VERDE PRESENTI SUL TERRITORIO COMUNALE. ASSEGNAZIONE RISORSE AL RESPONSABILE DEL III SETTORE  SERVIZI TERRITORIALI ED URBANISTICI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2431</link>
-      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2431</guid>
     </item>
   </channel>
 </rss>
