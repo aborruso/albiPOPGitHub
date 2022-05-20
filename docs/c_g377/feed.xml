@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/05/2022 | Avvisi Vari</title>
+      <description>ELEZIONI REFERENDUM DEL 12 GIUGNO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2477</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2477</guid>
+    </item>
+    <item>
+      <title>20/05/2022 | Atti Elettorali</title>
+      <description>NOMINA SCRUTATORI - (ART. 9, LEGGE 30 APRILE 1999, N. 120 E LEGGE DEL 21/12/2005).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2476</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2476</guid>
+    </item>
+    <item>
+      <title>20/05/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2475</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2475</guid>
+    </item>
+    <item>
+      <title>20/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura di Gas nei locali comunali aprile 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</guid>
+    </item>
+    <item>
       <title>20/05/2022 | Ordinanze Dirigenziali</title>
       <description>Pulizia e messa in sicurezza dei luoghi.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2473</link>
@@ -53,7 +81,7 @@
     </item>
     <item>
       <title>20/05/2022 | Determinazioni Dirigenziali</title>
-      <description>Lavoro straordinario del personale dipendente del I° Settore per l'anno 2022  Impegno di spesa</description>
+      <description>Lavoro straordinario del personale dipendente del I° Settore per l'anno 2022 - Impegno di spesa.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2468</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2468</guid>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2443</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2443</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTO DI COMPLETAMENTO DELLA RETE IDRICA E FOGNARIA DI CONTRADA MONTE LAVORI COMPLEMENTARI - LIQUIDAZIONE FATTURA PER COMPETENZE TECNICHE PROFESSIONALI - CUP: C47B16000340004.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2442</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2442</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTO DI COMPLETAMENTO DELLA RETE IDRICA E FOGNARIA DI CONTRADA MONTE - LIQUIDAZIONE FATTURA PER COMPETENZE TECNICHE PROGETTAZIONE - DIREZIONE LAVORI E COORDINAMENTO SICUREZZA.- CUP: C47B16000340004.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2441</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2441</guid>
-    </item>
-    <item>
-      <title>17/05/2022 | Atti Di Interesse Generale</title>
-      <description>CONSULTE TERRITORIALI COMUNE DI PATTI - ORGANI DIRETTIVI ELETTI IL 05/05/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2440</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2440</guid>
-    </item>
-    <item>
-      <title>17/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>OMISSIS - LIQUIDAZIONE FATTURA - DITTA: OMISSIS.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2439</link>
-      <pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2439</guid>
     </item>
   </channel>
 </rss>
