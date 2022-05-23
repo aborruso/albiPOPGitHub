@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di fermata Via Luca della Robbia e Via L. Rizzo - Istituzione stalli di sosta riservati Via Kennedy, Via L. della Robbia e Via C. Colombo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2483</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2483</guid>
+    </item>
+    <item>
+      <title>23/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieti di sosta per pulizia verde pubblico in Via N.G. Ceraolo (24/05/22) e in Piazza Marconi (25/05/22).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2482</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2482</guid>
+    </item>
+    <item>
       <title>20/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA DANNI DA SINISTRO A FAVORE DEL SIG. CITARELLA GUIDO - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2481</link>
@@ -67,7 +81,7 @@
     </item>
     <item>
       <title>20/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di Gas nei locali comunali aprile 2022</description>
+      <description>Liquidazione fornitura di Gas nei Locali Comunali - Aprile 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2449</link>
       <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2449</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURA N. FE/2022/0111 DEL 04/05/2022 - MAGGIORI ONERI DI TRASPORTO RIFIUTI URBANI NON DIFFERENZIATI PRESSO IMPIANTO - DITTA: TRAPANI SERVIZI SPA SITO IN TRAPANI, C/DA BELVEDERE - MESE DI MARZO 2022 - DITTA: PIZZO PIPPO - CIG: ZB635A90B1.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2448</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2448</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURA N. FE/2022/0110 DEL 04/05/2022 - MAGGIORI ONERI DI TRASPORTO RIFIUTI URBANI NON DIFFERENZIATI PRESSO IMPIANTO - DITTA: TRAPANI SERVIZI SPA SITO IN TRAPANI, C/DA BELVEDERE - MESE DI FEBBRAIO 2022 - DITTA: PIZZO PIPPO - CIG: ZB635A90.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2447</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2447</guid>
     </item>
   </channel>
 </rss>
