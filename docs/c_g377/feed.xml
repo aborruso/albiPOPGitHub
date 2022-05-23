@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/05/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Legge 12/03/1999, N. 68 - Collocamento mirato delle persone con disabilità - Ulteriori disposizioni.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2485</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2485</guid>
+    </item>
+    <item>
+      <title>23/05/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>"NUOVO COLLEGAMENTO SOTTOMARINO A FIBRA OTTICA PROGETTO ISOLE MINORI ISOLE EOLIE - PATTI".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2484</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2484</guid>
+    </item>
+    <item>
       <title>23/05/2022 | Ordinanze Dirigenziali</title>
       <description>Divieto di fermata Via Luca della Robbia e Via L. Rizzo - Istituzione stalli di sosta riservati Via Kennedy, Via L. della Robbia e Via C. Colombo.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2483</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2451</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2451</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE COMPENSO AI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI - PERIODO: DALL'01/01/2022 AL 31/03/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2450</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2450</guid>
-    </item>
-    <item>
-      <title>18/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURA N. FE/2022/0112 DEL 04/05/2022 - MAGGIORI ONERI DI TRASPORTO RIFIUTI URBANI NON DIFFERENZIATI PRESSO IMPIANTO - DITTA: TRAPANI SERVIZI SPA SITO IN TRAPANI, C/DA BELVEDERE - MESE DI APRILE 2022 - DITTA: PIZZO PIPPO - CIG: Z1135E8D02.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2449</link>
-      <pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2449</guid>
     </item>
   </channel>
 </rss>
