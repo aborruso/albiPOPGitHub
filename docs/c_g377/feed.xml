@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/05/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI GIUGNO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2499</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2499</guid>
+    </item>
+    <item>
       <title>24/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio trasporto urbano alunni Ditta AST S.p.A. Liquidazione fattura.</description>
+      <description>Servizio trasporto urbano alunni Ditta AST S.p.A. - Liquidazione fattura.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2498</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2498</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2465</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2465</guid>
-    </item>
-    <item>
-      <title>19/05/2022 | Avvisi Vari</title>
-      <description>DICHIARAZIONE IMPOSTA DI SOGGIORNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2464</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2464</guid>
     </item>
   </channel>
 </rss>
