@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fattura N. 15351, del 18/05/2022 - ACI "Sistema TP Visure".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2506</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2506</guid>
+    </item>
+    <item>
+      <title>25/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura Lungomare C.F. Zuccarello in occasione della Manifestazione "Patti Music Fest": 27/05/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2505</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2505</guid>
+    </item>
+    <item>
+      <title>25/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito via Cattaneo per lavori: 27/05/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2504</link>
+      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2504</guid>
+    </item>
+    <item>
       <title>24/05/2022 | Determinazioni Dirigenziali</title>
       <description>Rettifica Determina  N. 174 del 30/03/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2503</link>
@@ -73,6 +94,20 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2496</guid>
     </item>
     <item>
+      <title>24/05/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2496</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2496</guid>
+    </item>
+    <item>
+      <title>24/05/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESA DANNI DA SINISTRO A FAVORE DEL SIG. FALLO FILIPPO - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2495</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2495</guid>
+    </item>
+    <item>
       <title>24/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA DANNI DA SINISTRO A FAVORE DEL SIG. FALLO FILIPPO - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2495</link>
@@ -85,6 +120,20 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</guid>
+    </item>
+    <item>
+      <title>24/05/2022 | Determinazioni Dirigenziali</title>
+      <description>SPESA DANNI DA SINISTRO PARLAVECCHIO TIZIANA - IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</guid>
+    </item>
+    <item>
+      <title>24/05/2022 | Determinazioni Dirigenziali</title>
+      <description>SPESA DANNI DA SINISTRO BONFIGLIO RITA - IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2493</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2493</guid>
     </item>
     <item>
       <title>24/05/2022 | Determinazioni Dirigenziali</title>
@@ -211,55 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2476</link>
       <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2476</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2475</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2475</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di Gas nei Locali Comunali - Aprile 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2474</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Ordinanze Dirigenziali</title>
-      <description>Pulizia e messa in sicurezza dei luoghi.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2473</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2473</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO SERVIZIO SPEDIZIONE POSTA ORDINARIA - CIG Z7E367B05F</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2472</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2472</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA DANNI DA SINISTRO CITARELLA GUIDO - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2471</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2471</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Determinazioni Del Sindaco</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2470</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2470</guid>
-    </item>
-    <item>
-      <title>20/05/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA DANNI DA SINISTRO GULLO GIUSEPPE - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2469</link>
-      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2469</guid>
     </item>
   </channel>
 </rss>
