@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/21355</title>
+      <description>PROT.N.0043375/2022 - ATTIVITA' DI PREVENZIONE INCENDI STAGIONE ESTIVA 2022 TRASMISSIONE ORDINANZA 2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409001</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409001</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/836</title>
       <description>LAVORI DI INSTALLAZIONE DI PALI FOTOVOLTAICI IN VIA MACALUSO. LIQUIDAZIONE PRIMO E ULTIMO SAL ALL’IMPRESA S.A.M.E. IMPIANTI SRL. - CUP H29J21005880001 - CIG 8885044A40</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408873</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408692</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408692</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/20782</title>
-      <description>EMERGENZAUMANITARIA IN UCRAINA. DIVULGAZIONE MATERIALE INFORMATIVO UNHCR</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408691</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408691</guid>
     </item>
   </channel>
 </rss>
