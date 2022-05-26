@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/05/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta a Case Nuove Russo per lavori di pulizia verde pubblico: 30.05.22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2521</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2521</guid>
+    </item>
+    <item>
+      <title>26/05/2022 | Ordinanze Dirigenziali</title>
+      <description>ORDINANZA FERMO IMPIANTO (AI SENSI DELL'ART. 12 E SS. DEL DPR N. 162/99)</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2520</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2520</guid>
+    </item>
+    <item>
       <title>25/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>REGOLARIZZAZIONE A SALDO PREMIO POLIZZA RCA CUMULATIVA AUTOMEZZI COMUNALI - PERIODO: 31/12/2020-31/12/2021 - CIG Z682F5E4A3 - LIQUIDAZIONE SPESA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2519</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2487</link>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2487</guid>
-    </item>
-    <item>
-      <title>23/05/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO A FAVORE DEI SIG.RI SORRENTI GIACOMO E GIORDANO GRAZIELLA - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2486</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2486</guid>
-    </item>
-    <item>
-      <title>23/05/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>Legge 12/03/1999, N. 68 - Collocamento mirato delle persone con disabilità - Ulteriori disposizioni.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2485</link>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2485</guid>
     </item>
   </channel>
 </rss>
