@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6756</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6756</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso ai Creditori - Lavori di manutenzione campo da tennis Manno. Fornitura di arredi per gli spogliatoi del campo polivalente Manno, da adibire a infrastruttura sociale per il tempo libero, socializzazione ed attività sportive.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6755</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6755</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Prevenzione degli incendi lungo le strade, nelle campagne e nei boschi - dichiarazione di pericolosità - prescrizioni e divieti</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6753</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6753</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Determinazione dirigenziale n. 148, Registro Generale n. 1213 del 18/05/2022. Liquidazione fattura n. 254 del 19/05/2022 emessa dalla Ditta Zeta Ufficio di Zagone Maria Grazia</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6751</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6727</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6727</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SPESA PER LA COPERTURA DEI SERVIZI SCENOTECNICI, ILLUMINOTECNICI, AUDIO E FACCHINAGGIO RICHIESTI DALLA SCHEDE TECNICHE DEGLI SPETTACOLI PROGRAMMATI NELLA STAGIONE TEATRALE FINO A GIUGNO 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6726</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6726</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Ordina la chiusura del Villino Liberty da Giovedì 26 a Venerdì 27 Maggio c.a. per permettere la disinfezione e la sanificazione di tutti i locali al fine della salvaguardia della pubblica salute.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6725</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6725</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6724</link>
-      <pubDate>Wed, 25 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6724</guid>
     </item>
   </channel>
 </rss>
