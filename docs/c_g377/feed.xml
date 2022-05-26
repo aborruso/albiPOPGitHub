@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/05/2022 | Avvisi Vari</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2528</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2528</guid>
+    </item>
+    <item>
       <title>26/05/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Servizio di potenziamento Connettività internet con graduale upgrade dei collegamenti remoti in fibra ottica del Comune di Patti - Anno 2022 - Liquidazione spese 2° Bimestre (Marzo/Aprile 2022).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2527</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2494</guid>
-    </item>
-    <item>
-      <title>24/05/2022 | Determinazioni Dirigenziali</title>
-      <description>SINISTRO - SIG.RA BONFIGLIO RITA - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2493</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2493</guid>
     </item>
   </channel>
 </rss>
