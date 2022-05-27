@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO DIRR N 13 DEL 27/05/22 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409210</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409210</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/21660</title>
+      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE, IN SESSIONE STRAORDINARIA E URGENTE PER DETERMINAZIONE DEL PRESIDENTE DEL CONSIGLIO COMUNALE, AI SENSI DELL'ART. 50 -COMMA 7 E 8 DEL REGOLAMENTO DEL CONSIGLIO COMUNALE - IN PRESENZA PER IL GIORNO 30.05.2022 ALLE ORE 11:00</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409206</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409206</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/838</title>
+      <description>LIQUIDAZIONE SENTENZA N. 44/2022 DEL 31 GENNAIO 2022 RESA DAL GIUDICE DI PACE DI ACIREALE NELLA CAUSA CIVILE ISCRITTA AL N. RG 12/2021</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409181</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409181</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/ 20363</title>
       <description>TRASMISSIONE CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 20363 DEL 26/05/2022 PER AFFISSIONE ALL' ALBO PRETORIO COMUNALE - PRATICA N. 498/N.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/409166</link>
@@ -134,27 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408724</link>
       <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408724</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/32/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA MARINO LAURA CONCETTA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408704</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408704</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/31/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA SAPIENZA SIMONA RITA</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408702</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408702</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/30/A/PEA</title>
-      <description>TRASMISSIONE AUTORIZZAZIONI E/O ATTESTAZIONI ALLO SCARICO DITTA BELFIORE SALVATORE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408700</link>
-      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/408700</guid>
     </item>
   </channel>
 </rss>
