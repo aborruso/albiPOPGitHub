@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/05/2022 | Determinazioni Dirigenziali</title>
+      <description>CONCORSO DI IDEE PER LA REALIZZAZIONE DEL LOGO DELLA BIBLIOTECA COMUNALE "FAMIGLIA NOBILE CERAOLO PISANI" - PRESA D'ATTO VERBALE CONCLUSIVO COMMISSIONE DI VALUTAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2558</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2558</guid>
+    </item>
+    <item>
       <title>31/05/2022 | Ordinanze Dirigenziali</title>
       <description>Divieti di sosta per pulizia verde pubblico in Via Ten. Natoli e Via Mustazzo (06 e 07 giugno 2022), Largo Pioppo, Via Luca della Robbia e Via A. Doria (08/06/22).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2557</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2524</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2524</guid>
-    </item>
-    <item>
-      <title>26/05/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA INTERVENTO URGENTE PER COLLOCAZIONE DI UN TRATTO DI RINGHIERA IN FERRO LAVORATO (DECORATO) NELLA FRAZIONE DI TINDARI - DITTA: LEVANTI STEFANO - CIG: Z9C3672A4A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2523</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2523</guid>
     </item>
   </channel>
 </rss>
