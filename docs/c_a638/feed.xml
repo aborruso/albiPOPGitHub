@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Turni di servizio Farmacie Urbane dal 30 Maggio 2022 al 31 luglio 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6834</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6834</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>CONTRATTO DI ASSISTENZA, MANUTENZIONE E SERVIZI SOFTWARE ACQUEDOTTO PER IL TRIENNIO 2022-2024            LIQUIDAZIONE  I SEM. 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6833</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6804</link>
       <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6804</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Elementari, del 23 aprile 2022, relative al mese Febbraio - Marzo 2022. Totale euro  2.534,54  oltre IVA euro 126,73</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6803</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6803</guid>
     </item>
   </channel>
 </rss>
