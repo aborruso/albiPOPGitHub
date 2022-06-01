@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/06/2022 | Determinazioni Del Sindaco</title>
+      <description>Attribuzione funzioni dirigenziali responsabile del 2° Settore Servizi Tecnici  Ing. Cilona Renato</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2571</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2571</guid>
+    </item>
+    <item>
       <title>01/06/2022 | Deliberazioni Di Giunta</title>
       <description>Utilizzo in forma associata dell'attività lavorativa di un istruttore direttivo tecnico Cat. D1 del Comune di Sinagra - Approvazione dello schema di convenzione allegato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2570</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2537</link>
       <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2537</guid>
-    </item>
-    <item>
-      <title>27/05/2022 | Deliberazioni Di Giunta</title>
-      <description>Art. 6 D.L. 28/02/1983, N. 55 e successive modifiche ed integrazioni                       Individuazione dei Servizi Pubblici a Domanda Individuale per l'Anno 2022.                      Definizione del tasso di copertura in percentuale del costo di</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2536</link>
-      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2536</guid>
     </item>
   </channel>
 </rss>
