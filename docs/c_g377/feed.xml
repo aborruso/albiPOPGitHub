@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>CONSULTAZIONI ELETTORALI E REFERENDARIE DI DOMENICA 12 GIUGNO 2022, CON EVENTUALE BALLOTTAGIO PER LE ELEZIONI COMUNALI DEL 26 GIUGNO 2022 - AGEVOLAZIONI TARIFFARIE PER I VIAGGI FERROVIARI, VIA MARE, AUTOSTRADALI E AEREI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2560</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2560</guid>
+    </item>
+    <item>
       <title>01/06/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito Lungomare Zuccarello in occasione della "Festa della mamma e dei bambini" - Domenica 05/06/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2559</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2526</link>
       <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2526</guid>
-    </item>
-    <item>
-      <title>26/05/2022 | Ordinanze Sindacali</title>
-      <description>Divieto di Balneazione da 100 metri a Est del torrente Timeto a 100 metri a Ovest del torrente Timeto, da 100 metri a Est scarico Depuratore C.da Playa a 100 metri a Ovest scarico Depuratore C.da Playa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2525</link>
-      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2525</guid>
     </item>
   </channel>
 </rss>
