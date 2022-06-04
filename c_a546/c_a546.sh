@@ -87,6 +87,7 @@ if [ $code -eq 200 ]; then
     then put '$des=gsub($des,"'\''","&apos;")' \
     then put '$des=gsub($des,"\"","&quot;")' \
     then put '$url=gsub($url,"&","&amp;")' \
+    then put '$url=sub($url,"[?].+","")' \
     then sort -r dataISO | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
