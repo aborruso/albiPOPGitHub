@@ -25,8 +25,8 @@ jobs:
         SUPER_SECRET_WEBARCHIVE: ${{ secrets.WEBARCHIVE }}
       run: |-
         export PATH=$PATH:~/bin
-        chmod +x ./script/webarchive.sh
-        ./script/webarchive.sh
+        chmod +x ./webarchive/webarchive.sh
+        ./webarchive/webarchive.sh
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
