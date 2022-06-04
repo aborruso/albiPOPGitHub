@@ -49,8 +49,24 @@ output="$folder"/../docs/"$iPA"
 URLBase="https://comune.bagheria.pa.it/albo-pretorio/albo-pretorio-online/?ap_page=1"
 URL="https://comune.bagheria.pa.it/albo-pretorio/albo-pretorio-online/?ap_page="
 
-# estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+# scarica prima pagina e salva codice risposta http
+code=$(curl 'https://bagheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=1&p_p_state=pop_up&p_p_mode=view&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=eseguiPaginazione' -X POST \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8' \
+  -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' \
+  -H 'Accept-Encoding: gzip, deflate, br' \
+  -H 'Referer: https://bagheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/39908/24264' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'Origin: https://bagheria.trasparenza-valutazione-merito.it' \
+  -H 'DNT: 1' \
+  -H 'Connection: keep-alive' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Pragma: no-cache' \
+  -H 'Cache-Control: no-cache' --data-raw 'hidden_page_size=50&hidden_page_to=' --compressed -o "$folder"/tmp.html -w "%{http_code}")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
@@ -59,23 +75,21 @@ if [ $code -eq 200 ]; then
     rm "$folder"/rawdata/albi.json
   fi
 
-  for i in {1..4}; do
-    curl -kL ''"$URL"''"$i"'' | \
-     scrape -be '//table[@class="ap-table"]//tr[td]' | xq -c '.html.body.tr[]|{des:.td[3].a["#text"],inizio:.td[4],tipo:.td[6],url:.td[3].a["@href"],id:.td[0]["#text"]}'>>"$folder"/rawdata/albi.json
-  done
+  scrape <"$folder"/tmp.html -be '//table//tr[position()>1]' | xq -c '.html.body.tr[]|{des:.td[3]."#text",inizio:.td[4]."#text",url:.td[6].a[1]."@href",id:.td[0]."#text"}' >"$folder"/rawdata/albi.json
 
   #html.body.tr[0]["@data-id"]
   #  # converti lista in TSV
-    jq <"$folder"/rawdata/albi.json | sed -r 's/\\r\\n/ /g' | mlr --j2t unsparsify then clean-whitespace then put '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' \
-      then put '$dataISO = strftime(strptime($inizio, "%d/%m/%Y"),"%Y-%m-%d")' \
-      then put '$des=gsub($des,"<","&lt")' \
-      then put '$des=gsub($des,">","&gt;")' \
-      then put '$des=gsub($des,"&","&amp;")' \
-      then put '$des=gsub($des,"'\''","&apos;")' \
-      then put '$des=gsub($des,"\"","&quot;")' \
-      then put '$url=gsub($url,"&","&amp;")' \
-      then put '$url=gsub($url,"ap_page=[0-9]+&amp;","")' \
-      then sort -r dataISO then  clean-whitespace | tail -n +2 >"$folder"/rawdata/albi.tsv
+  mlr <"$folder"/rawdata/albi.json --j2t clean-whitespace then \
+    put '$inizio=sub($inizio," .+","")' then put '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' \
+    then put '$dataISO = strftime(strptime($inizio, "%d/%m/%Y"),"%Y-%m-%d")' \
+    then put '$des=gsub($des,"<","&lt")' \
+    then put '$des=gsub($des,">","&gt;")' \
+    then put '$des=gsub($des,"&","&amp;")' \
+    then put '$des=gsub($des,"'\''","&apos;")' \
+    then put '$des=gsub($des,"\"","&quot;")' \
+    then put '$url=gsub($url,"&","&amp;")' \
+    then put '$url=gsub($url,"ap_page=[0-9]+&amp;","")' \
+    then sort -r dataISO | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -98,9 +112,9 @@ if [ $code -eq 200 ]; then
 
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
-  while IFS=$'\t' read -r oggetto data categoria URL id rssData isoData; do
+  while IFS=$'\t' read -r oggetto data URL id rssData isoData; do
     newcounter=$(expr $newcounter + 1)
-    titolo="$id | $categoria"
+    titolo="$id"
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
       --subnode "//item[$newcounter]" --type elem -n title -v "$titolo" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
@@ -112,5 +126,7 @@ if [ $code -eq 200 ]; then
 
   cp "$folder"/processing/feed.xml "$output"
   exit 0
-
+else
+  echo "sito non raggiungibile"
+  exit 1
 fi
