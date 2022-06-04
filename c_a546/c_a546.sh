@@ -77,8 +77,7 @@ if [ $code -eq 200 ]; then
 
   scrape <"$folder"/tmp.html -be '//table//tr[position()>1]' | xq -c '.html.body.tr[]|{des:.td[3]."#text",inizio:.td[4]."#text",url:.td[6].a[1]."@href",id:.td[0]."#text"}' >"$folder"/rawdata/albi.json
 
-  #html.body.tr[0]["@data-id"]
-  #  # converti lista in TSV
+  # converti lista in TSV
   mlr <"$folder"/rawdata/albi.json --j2t clean-whitespace then \
     put '$inizio=sub($inizio," .+","")' then put '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' \
     then put '$dataISO = strftime(strptime($inizio, "%d/%m/%Y"),"%Y-%m-%d")' \
@@ -88,7 +87,6 @@ if [ $code -eq 200 ]; then
     then put '$des=gsub($des,"'\''","&apos;")' \
     then put '$des=gsub($des,"\"","&quot;")' \
     then put '$url=gsub($url,"&","&amp;")' \
-    then put '$url=gsub($url,"ap_page=[0-9]+&amp;","")' \
     then sort -r dataISO | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
