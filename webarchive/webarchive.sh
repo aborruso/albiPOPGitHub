@@ -57,6 +57,6 @@ mlr --j2t unsparsify "$folder"/webarchiveLatest.log >"$folder"/../docs/webarchiv
 
 # fai check eventuali errori restituiti da archive
 
-sleep 30
+# sleep 30
 
-bash "$folder"/webarchiveCheckJob.sh
+# bash "$folder"/webarchiveCheckJob.sh
