@@ -54,14 +54,16 @@ if [ $code -eq 200 ]; then
   curl -skL "$URLBase" | jq . >"$folder"/rawdata/albo.json
 
   # converti lista in TSV
-  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
+  jq <"$folder"/rawdata/albo.json '.atti[]' | mlr --j2t unsparsify then reorder -f anno,numero,dataInizio,dataFine,sede,esibente,oggetto | tail -n +2 | head -n 30 >"$folder"/rawdata/albo.tsv
 
   # cancella lista esistente dei dettagli delle pubblicazioni in albo
   rm "$folder"/rawdata/dettagli.json
 
+  #https://portale.comune.venezia.it/sites/all/modules/yui_venis/augeAlboDetail.php?tipo=JSON&anno=2022&numero=3461&sede=M
+  #https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=2022&numero=3288&sede=M
   # a partire dalla lista delle pubbblicazioni, scarica dettagli di ogni pubblicazione in albo
-  while IFS=$'\t' read -r anno numero dataInizio dataFine esibente oggetto sede; do
-    curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/alboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" | iconv -f WINDOWS-1252 -t UTF-8 >>"$folder"/rawdata/dettagli.json
+  while IFS=$'\t' read -r anno numero dataInizio dataFine sede esibente oggetto; do
+    curl -skL "https://portale.comune.venezia.it/sites/all/modules/yui_venis/augeAlboDetail.php?tipo=JSON&anno=$anno&numero=$numero&sede=$sede" | iconv -f WINDOWS-1252 -t UTF-8 >>"$folder"/rawdata/dettagli.json
     echo -e "\n" >>"$folder"/rawdata/dettagli.json
   done <"$folder"/rawdata/albo.tsv
 
