@@ -44,7 +44,7 @@ output="$folder"/../docs/"$iPA"
 URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+code=$(curl -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
