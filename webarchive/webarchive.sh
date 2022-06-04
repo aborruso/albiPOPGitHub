@@ -1,0 +1,62 @@
+#!/bin/bash
+
+set -x
+set -e
+set -u
+set -o pipefail
+
+folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+# crea cartella per archiviare i log
+mkdir -p "$folder"/../docs/webarchive
+
+# se lo script è lanciato sulla mia macchina, leggi il file di config
+if [[ $(hostname) == "DESKTOP-7NVNDNF" ]]; then
+  source "$folder"/../conflocale
+fi
+
+# estrai lista di URL da archiviare in formato txt e tsv
+yq <"$folder"/../risorse/listArchive.yml -r '.[].URL' >"$folder"/../risorse/listArchive.txt
+yq <"$folder"/../risorse/listArchive.yml . | mlr --j2t cut -f URL,if_not_archived_within | tail -n +2 >"$folder"/../risorse/listArchive.tsv
+
+# rimuovi file di log
+if [ -f "$folder"/webarchiveLatest.log ]; then
+  rm "$folder"/webarchiveLatest.log
+fi
+
+# verifica se ci sono a carico dell'utente già elementi in processing su web archive
+statusUser=$(curl --max-time 10 --retry 5 --retry-delay 0 --retry-max-time 40 -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
+
+# finché ci sono elementi in processing aspetta
+while [[ "$statusUser" -gt 0 ]]; do
+  echo "wait"
+  sleep 4
+  statusUser=$(curl --max-time 10 --retry 5 --retry-delay 0 --retry-max-time 40 -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
+done
+
+# salva su archive
+while IFS=$'\t' read -r url time; do
+  curl --max-time 10 --retry 5 --retry-delay 0 --retry-max-time 40 -X POST -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" \
+    -d "url=$url" \
+    -d "skip_first_archive=1" \
+    -d "js_behavior_timeout=29" \
+    -d "if_not_archived_within=$time" https://web.archive.org/save -w "\n" >>"$folder"/webarchiveLatest.log
+  sleep 15
+
+  # verifica se ci sono processi in corso a carico dell'utente, se sì non procedere
+  statusUser=$(curl --max-time 10 --retry 5 --retry-delay 0 --retry-max-time 40 -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
+  while [[ "$statusUser" -gt 0 ]]; do
+    echo "wait"
+    sleep 4
+    statusUser=$(curl --max-time 10 --retry 5 --retry-delay 0 --retry-max-time 40 -X GET -H "Accept: application/json" -H "Authorization: LOW $SUPER_SECRET_WEBARCHIVE" http://web.archive.org/save/status/user | mlr --j2n cut -f 'processing')
+  done
+
+done <"$folder"/../risorse/listArchive.tsv
+
+mlr --j2t unsparsify "$folder"/webarchiveLatest.log >"$folder"/../docs/webarchive/webarchiveLatest.tsv
+
+# fai check eventuali errori restituiti da archive
+
+sleep 30
+
+bash "$folder"/webarchiveCheckJob.sh

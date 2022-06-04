@@ -3,3 +3,7 @@ tmp*
 */rawdata/*
 c_d003/node_modules/*
 c_d003/package*
+
+conflocale
+
+webarchive/webarchiveLatest.log
