@@ -45,7 +45,7 @@ URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretor
 #URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl --socks5-hostname localhost:9050 -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
+code=$(curl -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8' -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' -H 'Accept-Encoding: gzip, deflate' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Upgrade-Insecure-Requests: 1' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' --compressed -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
