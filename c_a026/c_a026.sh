@@ -41,16 +41,16 @@ mkdir -p "$folder"/../docs/"$iPA"
 output="$folder"/../docs/"$iPA"
 
 # URL di test risposta sito albo
-URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
-#URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
+#URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
+URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8' -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' -H 'Accept-Encoding: gzip, deflate' -H 'DNT: 1' -H 'Connection: keep-alive' -H 'Upgrade-Insecure-Requests: 1' -H 'Pragma: no-cache' -H 'Cache-Control: no-cache' --compressed -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
+code=$(curl -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-  <"$folder"/rawdata/tmp.html scrape -be '//table//tr[contains(@class, "master-detail-list-line")]' | xq -c '.html.body.tr[]|{id:.["@data-id"],atto:.td[1]["#text"],des:.td[3]["#text"],tipo:"b",date:.td[4]["#text"]}' >"$folder"/rawdata/albi.json
+  curl -kL "$URLBase" | scrape -be '//table//tr[contains(@class, "master-detail-list-line")]' | xq -c '.html.body.tr[]|{id:.["@data-id"],atto:.td[1]["#text"],des:.td[3]["#text"],tipo:"b",date:.td[4]["#text"]}' >"$folder"/rawdata/albi.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albi.json | mlr --j2t unsparsify \
