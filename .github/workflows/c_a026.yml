@@ -28,6 +28,7 @@ jobs:
         sudo apt install tor
         sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
         sudo systemctl start tor
+        sudo service tor restart
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
