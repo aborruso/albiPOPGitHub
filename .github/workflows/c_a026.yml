@@ -27,12 +27,12 @@ jobs:
         sudo pip install yq
         sudo apt install tor
         sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
-        sudo cat /etc/tor/torrc
         sudo systemctl start tor
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
+        curl --socks5-hostname localhost:9050 ifconfig.me
         export PATH=$PATH:~/bin
         cd ./c_a026
         chmod +x ./c_a026.sh

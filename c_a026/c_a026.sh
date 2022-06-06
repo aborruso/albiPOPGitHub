@@ -45,12 +45,12 @@ URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretor
 #URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 
 # estrai codici di risposta HTTP dell'albo
-code=$(curl --socks5-hostname localhost:9050 -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+code=$(curl --socks5-hostname localhost:9050 -s -kL -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o "$folder"/rawdata/tmp.html -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-  curl --socks5-hostname localhost:9050 -kL "$URLBase" | scrape -be '//table//tr[contains(@class, "master-detail-list-line")]' | xq -c '.html.body.tr[]|{id:.["@data-id"],atto:.td[1]["#text"],des:.td[3]["#text"],tipo:"b",date:.td[4]["#text"]}' >"$folder"/rawdata/albi.json
+  <"$folder"/rawdata/tmp.html scrape -be '//table//tr[contains(@class, "master-detail-list-line")]' | xq -c '.html.body.tr[]|{id:.["@data-id"],atto:.td[1]["#text"],des:.td[3]["#text"],tipo:"b",date:.td[4]["#text"]}' >"$folder"/rawdata/albi.json
 
   # converti lista in TSV
   jq <"$folder"/rawdata/albi.json | mlr --j2t unsparsify \
