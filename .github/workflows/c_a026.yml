@@ -25,6 +25,10 @@ jobs:
         chmod +x scrape
         sudo apt-get install xmlstarlet
         sudo pip install yq
+        sudo apt install tor
+        sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
+        sudo cat /etc/tor/torrc
+        sudo systemctl start tor
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
