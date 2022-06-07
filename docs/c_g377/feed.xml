@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>ELEVAZIONE ORARIO DI LAVORO AL PERSONALE ASU UTILIZZATO PER IL SERVIZIO ASILO NIDO COMUNALE "M. FARANDA" E PER IL SERVIZIO DI MENSA SCOLASTICA - PERIODO: 02/05/2022  31/05/2022- LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2596</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2596</guid>
+    </item>
+    <item>
       <title>07/06/2022 | Avvisi Vari</title>
       <description>ADESIONE ALLA CONSULTA GIOVANILE - RIAPERTURA TERMINI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2595</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2562</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2562</guid>
-    </item>
-    <item>
-      <title>01/06/2022 | Ordinanze Dirigenziali</title>
-      <description>ORDINANZE INGIUNZIONE DI PAGAMENTO - OMISSIS.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2561</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2561</guid>
     </item>
   </channel>
 </rss>
