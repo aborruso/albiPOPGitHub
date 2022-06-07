@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/06/2022 | Avvisi Vari</title>
+      <description>RIMBORSO DEL CREDITO SULLA PIATTAFORMA DONACOD PER LA MENSA DEGLI ALUNNI PER L'ANNO SCOLASTICO 2021/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2593</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2593</guid>
+    </item>
+    <item>
+      <title>07/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE ASU GIARRIZZO TINDARO IN SERVIZIO NEL SETTORE V° - SUPPORTO SERVIZIO ACQUEDOTTO - PERIODO:  DALL'01/05/2022  AL  31/05/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2592</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2592</guid>
+    </item>
+    <item>
+      <title>07/06/2022 | Determinazioni Dirigenziali</title>
+      <description>INTERVENTO DI LIVELLAMENTO E SERVIZIO DI PULIZIA STRAORDINARIA E MANTENIMENTO DELLE SPIAGGE LIBERE DI MARINA DI PATTI, MARINELLO E MONGIOVE - PERIODO: DALL'08/06/2022 AL 18/09/2022 - IMPEGNO SPESA E AFFIDAMENTO AI SENSI DELL'ART. 1, COMMA 2, DELLA L. N.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2591</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2591</guid>
+    </item>
+    <item>
       <title>06/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>FORNITURA MATERIALE VARIO NECESSARIO PER LA MANUTENZIONE DELLE STRADE E DEGLI STABILI COMUNALI - DITTA: SIRAME SRL - LIQUIDAZIONE FATTURA N. 9/E DEL 31/05/2022 - CIG: ZD131F1E45.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2590</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2559</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2559</guid>
-    </item>
-    <item>
-      <title>31/05/2022 | Determinazioni Dirigenziali</title>
-      <description>CONCORSO DI IDEE PER LA REALIZZAZIONE DEL LOGO DELLA BIBLIOTECA COMUNALE "FAMIGLIA NOBILE CERAOLO PISANI" - PRESA D'ATTO VERBALE CONCLUSIVO COMMISSIONE DI VALUTAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2558</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2558</guid>
-    </item>
-    <item>
-      <title>31/05/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieti di sosta per pulizia verde pubblico in Via Ten. Natoli e Via Mustazzo (06 e 07 giugno 2022) - Largo Pioppo, Via Luca della Robbia e Via A. Doria (08/06/22).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2557</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2557</guid>
-    </item>
-    <item>
-      <title>31/05/2022 | Ordinanze Dirigenziali</title>
-      <description>Revoca pass residenti Via C. Colombo - Pass stagionali residenti Via Zuccarello corsia lato monte.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2556</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2556</guid>
     </item>
   </channel>
 </rss>
