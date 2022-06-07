@@ -15,7 +15,7 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet e tor
       run: |-
         mkdir -p ~/bin
         cp bin/mlr ~/bin
