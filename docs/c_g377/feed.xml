@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>07/06/2022 | Avvisi Vari</title>
+      <description>ADESIONE ALLA CONSULTA GIOVANILE - RIAPERTURA TERMINI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2595</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2595</guid>
+    </item>
+    <item>
+      <title>07/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TRASFERIMENTO CORRISPETTIVI CIE AL MINISTERO - IMPEGNO SPESA E LIQUIDAZIONE DALL'01/05/2022 AL 31/05/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2594</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2594</guid>
+    </item>
+    <item>
+      <title>07/06/2022 | Avvisi Vari</title>
       <description>RIMBORSO DEL CREDITO SULLA PIATTAFORMA DONACOD PER LA MENSA DEGLI ALUNNI PER L'ANNO SCOLASTICO 2021/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2593</link>
       <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2561</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2561</guid>
-    </item>
-    <item>
-      <title>01/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>CONSULTAZIONI ELETTORALI E REFERENDARIE DI DOMENICA 12 GIUGNO 2022, CON EVENTUALE BALLOTTAGIO PER LE ELEZIONI COMUNALI DEL 26 GIUGNO 2022 - AGEVOLAZIONI TARIFFARIE PER I VIAGGI FERROVIARI, VIA MARE, AUTOSTRADALI E AEREI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2560</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2560</guid>
-    </item>
-    <item>
-      <title>01/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito Lungomare Zuccarello in occasione della "Festa della mamma e dei bambini" - Domenica 05/06/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2559</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2559</guid>
     </item>
   </channel>
 </rss>
