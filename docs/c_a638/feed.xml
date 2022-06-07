@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale "Question time" che si terrà il prossimo 14 giugno 2022, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6927</link>
+      <pubDate>Tue, 07 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6927</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Richiesta autorizzazione alla costruzione di impianti interrati utente Enel Distribuzione in Viai Filicudi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6926</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6899</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6899</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Gemellaggio con la città di Rodopi, Repubblica di Bulgaria.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6898</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6898</guid>
     </item>
   </channel>
 </rss>
