@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 cpc a carico di Imbesi Alfredo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6944</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6944</guid>
+    </item>
+    <item>
       <title>Ordinanza Sindacale</title>
       <description>Ordinanza di ricovero urgente in T.S.O.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6943</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6916</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6916</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Centro territoriale Socio educativo riabilitativo Piano di zona 2019-2020 Distretto Socio Sanitario D. 28 liquidazione fatture di marzo e aprile 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6915</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6915</guid>
     </item>
   </channel>
 </rss>
