@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2620</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2620</guid>
+    </item>
+    <item>
       <title>09/06/2022 | Determinazioni Dirigenziali</title>
       <description>DETERMINA N. 147 RG  DEL 10.03.2022 E DETERMINA N. 177 RG DEL 31.03.2022 - IMPEGNO DI SPESA E AFFIDAMENTO DEL SERVIZIO DI CONFERIMENTO A PIATTAFORMA AUTORIZZATA DEI RIFIUTI PROVENIENTI DALLO SPAZZAMENTO STRADALE (CER 20.03.03) ALLA DITTA FASULO MARCO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2619</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2586</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2586</guid>
-    </item>
-    <item>
-      <title>06/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>Lavori di manutenzione ricorrente per l'anno 2020 per il ripristino danni e funzionalità degli impianti tecnologici lungo le tratte stradali di competenza dell'Area Compartimentale Catania - COD. SIL.: CT02S20F1IT - CUP: F96G19001260001 - CIG: 8071174F79.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2585</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2585</guid>
     </item>
   </channel>
 </rss>
