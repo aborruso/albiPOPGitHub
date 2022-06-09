@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Servizio di "Assistenza all'autonomia e alla comunicazione per i minori delle scuole primarie e secondarie di primo grado" nei Comuni  dellAOD N. 1 - Prima  annualità - PdZ 2018/2019 - L. 328/00 - Liquidazione -  CIG: 8866815735.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2622</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2622</guid>
+    </item>
+    <item>
+      <title>09/06/2022 | Determinazioni Dirigenziali</title>
+      <description>Rimborso parziale delle spese per le utenze dei locali di proprietà dell'IPAB Conservatorio S. Rosa utilizzati ad aule per gli istituti Comprensivi del nostro territorio per l'anno scolastico 2021/2022 siti in Monte Pietà. Impegno delle somme.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2621</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2621</guid>
+    </item>
+    <item>
       <title>09/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>AVVISO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2620</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2588</link>
       <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2588</guid>
-    </item>
-    <item>
-      <title>06/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità in occasione della Processione del Corpus Domini (Cattedrale) - 19/06/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2587</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2587</guid>
-    </item>
-    <item>
-      <title>06/06/2022 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2586</link>
-      <pubDate>Mon, 06 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2586</guid>
     </item>
   </channel>
 </rss>
