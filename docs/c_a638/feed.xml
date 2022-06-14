@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito decreto confisca a carico signor Arcoraci Giuseppe ai sensi art. art. 143 c.p.c.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7025</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7025</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto per irreperibilità Calabrò Angela art.143 c.p.c.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7023</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6997</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6997</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6996</link>
-      <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=6996</guid>
     </item>
   </channel>
 </rss>
