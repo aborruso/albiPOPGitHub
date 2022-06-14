@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/06/2022 | Avvisi Vari</title>
+      <description>RIMBORSO BUONI LIBRO L. 448/98 - ANNO SCOLASTICO 2015/2016.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2643</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2643</guid>
+    </item>
+    <item>
       <title>14/06/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>MODIFICA PRONTA DISPONIBILITA' SERVIZIO IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO DI PATTI - PERIODO: GIUGNO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2642</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>14/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione  fattura n 64 del 21-03-2022 CIG Z2D35A4C64 fattura n 172 del 06-06-2022 CIG Z2D35A4C64 beneficiario Interdata cuzzola srl</description>
+      <description>Liquidazione Fattura N 64 del 21/03/2022 - CIG: Z2D35A4C64 - Fattura N 172 del 06/06/02022 - CIG: Z2D35A4C64 - Beneficiario Ditta: Interdata Cuzzola srl.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2641</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2641</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2608</link>
       <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2608</guid>
-    </item>
-    <item>
-      <title>08/06/2022 | Avvisi Vari</title>
-      <description>RETTIFICA BANDO DI ISCRIZIONE - ASILO NIDO COMUNALE "M. FARANDA".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2607</link>
-      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2607</guid>
     </item>
   </channel>
 </rss>
