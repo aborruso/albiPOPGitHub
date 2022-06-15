@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 3656</title>
+      <description>DELIBERA DI CONSIGLIO N. 2022.36 - Modifiche ai regolamenti comunali Imu, Tasi, Imposta di Soggiorno e Tari</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_36_001_1044_CC_2022_36.odt.pdf</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_36_001_1044_CC_2022_36.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 3442</title>
       <description>DELIBERA DI CONSIGLIO N. 2022.35 - Approvazione delle tariffe della TARI anno 2022 in conformit¿¿ al Piano Finanziario relativo al servizio di gestione dei rifiuti urbani del Comune di Venezia e delle ulteriori esenzioni e riduzioni ai sensi dell¿¿¿art. 15 del Regolamento Comunale TARI.</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_35_001_1036_CC_2022_35.odt.pdf</link>
@@ -78,27 +85,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_99_36583_TESTO.pdf</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_99_36583_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3388</title>
-      <description>DELIBERA DI GIUNTA N. 2022/109 - SPORT - Concessione a terzi della gestione ed uso della Piscina di Marghera, via delle Macchine - impianto sportivo ad uso non esclusivo privo di rilevanza imprenditoriale - Indirizzi</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_109_40218_TESTO.pdf</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_109_40218_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3386</title>
-      <description>DELIBERA DI GIUNTA N. 2022/108 - SPORT - "Salta, Cori, Zoga" palinsesto estivo per la promozione dello sport allaperto, nei parchi e aree verdi comunali. Indirizzi</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_108_39564_TESTO.pdf</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_108_39564_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 3385</title>
-      <description>DELIBERA DI GIUNTA N. 2022/107 - PROGRAMMAZIONE E CONTROLLO - Approvazione del Piano integrato di attività e organizzazione (PIAO) 2022-2024</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_107_39307_TESTO.pdf</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_107_39307_TESTO.pdf</guid>
     </item>
     <item>
       <title>#GRADUATORIE VARIE | Pubblicazione numero 1035</title>
@@ -225,6 +211,20 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</link>
       <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</guid>
+    </item>
+    <item>
+      <title>#AVVISI DI GARA | Pubblicazione numero 3110</title>
+      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI IMPRESE CHE PRODUCO O COMMERCIALIZZANO AUTOBUS</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</guid>
+    </item>
+    <item>
+      <title>#VARIE | Pubblicazione numero 973</title>
+      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI FORNITORI DI GASOLIO PER AUTOTRAZIONE PER I MEZZI DEL SERVIZIO AUTOMOBILISTICO E DEL SERVIZIO DI NAVIGAZIONE PER IL PERIODO 01/04/2019 - 31/03/2024.</description>
+      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</link>
+      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</guid>
     </item>
   </channel>
 </rss>
