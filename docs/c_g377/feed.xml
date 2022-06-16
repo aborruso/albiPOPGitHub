@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LAVORI DI EFFICIENTAMENTO ENERGETICO DELLA SCUOLA PRIMARIA "TENENTE NATOLI" - CUP: C46J20000770001 - LIQUIDAZIONE FATTURA AL I° S.A.L. - IMPRESA: LEGGIO IMPIANTI s.r.l.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2665</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2665</guid>
+    </item>
+    <item>
       <title>15/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Fattura per la fornitura di N.1 terminale di ricevimento presenze modello Kronotech KP-01 RF con all'interno una scheda di rete ditta Immedia S.P.A.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2664</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2630</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2630</guid>
-    </item>
-    <item>
-      <title>10/06/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER TRANSAZIONE CONTROVERSIA SIG.RA MAJU GEENA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2629</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2629</guid>
     </item>
   </channel>
 </rss>
