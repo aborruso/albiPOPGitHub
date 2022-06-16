@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/06/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2668</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2668</guid>
+    </item>
+    <item>
+      <title>16/06/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2667</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2667</guid>
+    </item>
+    <item>
+      <title>16/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Azione N. 7 "Spazio Lavoro" PdZ 2013-2015  - Liquidazione mese di  Maggio  ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2666</link>
+      <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2666</guid>
+    </item>
+    <item>
       <title>16/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>LAVORI DI EFFICIENTAMENTO ENERGETICO DELLA SCUOLA PRIMARIA "TENENTE NATOLI" - CUP: C46J20000770001 - LIQUIDAZIONE FATTURA AL I° S.A.L. - IMPRESA: LEGGIO IMPIANTI s.r.l.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2665</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2633</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2633</guid>
-    </item>
-    <item>
-      <title>10/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Utilizzo in forma associata dell'attività lavorativa di categoria "C" del Comune SantAngelo di Brolo - Approvazione dello schema di convenzione allegato.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2632</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2632</guid>
-    </item>
-    <item>
-      <title>10/06/2022 | Deliberazioni Di Giunta</title>
-      <description>APPROVAZIONE SCHEMA DI ACCORDO CON IL PARCO ARCHEOLOGICO DI TINDARI PER LA REALIZZAZIONE E LA PROMOZIONE CONGIUNTA DELLA 66^ EDIZIONE DEL TINDARI FESTIVAL.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2631</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2631</guid>
-    </item>
-    <item>
-      <title>10/06/2022 | Deliberazioni Di Giunta</title>
-      <description>UTILIZZO SALE E SPAZI COMUNALI - ATTO DI INDIRIZZO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2630</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2630</guid>
     </item>
   </channel>
 </rss>
