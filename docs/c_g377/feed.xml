@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/06/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito lungomare C.F. Zuccarello in occasione della Processione del Corpus Domini a Patti Marina - Parziale modifica Ordinanza N. 117/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2670</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2670</guid>
+    </item>
+    <item>
       <title>16/06/2022 | Determinazioni Dirigenziali</title>
       <description>Approvazione conto della gestione dell'Economo relativo al periodo dal 18/01/2022 al 15/06/2022 - Rimborso all'Economo delle spese pagate e rendicontate.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2669</link>
@@ -39,7 +46,7 @@
     </item>
     <item>
       <title>16/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" PdZ 2013-2015  - Liquidazione mese di  Maggio  ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30</description>
+      <description>Azione N. 7 "Spazio Lavoro" PdZ 2013/2015 - Liquidazione mese di  Maggio ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio-Sanitario N. 30.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2666</link>
       <pubDate>Thu, 16 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2666</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2636</link>
       <pubDate>Mon, 13 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2636</guid>
-    </item>
-    <item>
-      <title>10/06/2022 | Ordinanze Sindacali</title>
-      <description>Misure di prevenzioni su base genetica per l'eradicazione della scrapie classica, finalizzate all'incremento dell'allele di resistenza della proteina prionica (ARR) nell'intero patrimonio ovino nazionale", ordinanza di macellazione di ovini portatori</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2634</link>
-      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2634</guid>
     </item>
   </channel>
 </rss>
