@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione alla Ditta: WT S.R.L.S. - Fattura per adeguamento dei sistemi informatici centrali del Comune di Patti - CIG: Z0234ABBF1.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2688</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2688</guid>
+    </item>
+    <item>
+      <title>20/06/2022 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO DI DISINFESTAZIONE, DEBLATTIZZAZIONE E DERATTIZZAZIONE DI TUTTO IL TERRITORIO COMUNALE (N. 2 CICLI DI INTERVENTI) - IMPEGNO DI SPESA E AFFIDAMENTO AI SENSI DELL'ART. 1, COMMA 2, DELLA L. N. 120/2020 COME MODIFICATO DALLART. 51, COMMA 1, LETT. A) SUB. 2.1 DELLA LEGGE 108/2021 - DITTA: GECO SERVIZI - CIG: ZDB36AFF12.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2687</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2687</guid>
+    </item>
+    <item>
       <title>17/06/2022 | Deliberazioni Di Giunta</title>
       <description>Assegnazione risorse per il potenziamento del servizio di raccolta porta a porta dei rifiuti differenziati e indifferenziati presso le attività commerciali nelle zone: Patti Marina, Playa, Mongiove, Tindari  e centro urbano per il periodo estivo anno</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2686</link>
@@ -81,7 +95,7 @@
     </item>
     <item>
       <title>17/06/2022 | Determinazioni Dirigenziali</title>
-      <description>Programma di lavoro per la prosecuzione  cantiere  di servizi, destinato a disoccupati e inoccupati, in conformità della Direttiva Assessoriale n°97/GAB del 30 agosto 2018- PROGETTO n°1: Interventi di manutenzione e cura verde pubblico del Centro Urb</description>
+      <description>Programma di lavoro per la prosecuzione  cantiere  di servizi, destinato a disoccupati e inoccupati, in conformità della Direttiva Assessoriale n°97/GAB del 30 agosto 2018 - PROGETTO n°1: Interventi di  manutenzione e cura verde pubblico del Centro Urbano - Sostituzione del Responsabile Unico del Procedimento (RUP) e Responsabile Esterno delle Operazioni (REO) - Rettifica per errore materiale Cod. CUP: C46G21017420002.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2677</link>
       <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2677</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2654</link>
       <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2654</guid>
-    </item>
-    <item>
-      <title>14/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Artt. 151, comma 6° e 231 del D.Lgs. N. 267/2000 ed art. 11, comma 6° del D.Lgs. N. 118/2011 - Approvazione della relazione sulla gestione relativa all'Esercizio Finanziario 2021, nonché dello schema di Rendiconto della gestione relativo all'Esercizio Finanziario 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2653</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2653</guid>
-    </item>
-    <item>
-      <title>14/06/2022 | Deliberazioni Di Giunta</title>
-      <description>RIACCERTAMENTO ORDINARIO DEI RESIDUI ATTIVI E PASSIVI PER IL RENDICONTO DELLA GESTIONE 2021 E VARIAZIONE DI ESIGIBILITA'.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2652</link>
-      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2652</guid>
     </item>
   </channel>
 </rss>
