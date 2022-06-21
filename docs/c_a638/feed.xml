@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Teatro "Placido Mandanici". Concessione in uso temporaneo giorno 06/07/2022 all'Associazione Ottotempi Barcellona Pozzo Di Gotto.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7147</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7147</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°15 del 21 giugno 2022. Pratica Edilizia n°21206 a nome della ditta Biondo Maria Concetta</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7146</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7146</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>FORNITURA  MATERIALE DI PULIZIA, REGISTRI E VARIO,  ISTITUTO COMPRENSIVO "MILITI" .</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7142</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7117</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7117</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno Spesa per Acquisto  scanner per ufficio Protocollo.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7115</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7115</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determinazione dirigenziale Registro Generale n. 2685 del 29/11/2019 noleggio fotocopiatore KYOCERA matr. R3T9Y26948. Liquidazione fattura n. 1010750202 del 16.03.2022 in favore della ditta Kyocera Document Solutions Italia S.p.A.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7114</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7114</guid>
     </item>
   </channel>
 </rss>
