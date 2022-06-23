@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/06/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta per pulizia verde pubblico a Mongiove - Piazzale Longo e Via Messina: 24/06/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2742</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2742</guid>
+    </item>
+    <item>
+      <title>23/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Rimborsi delle spese di viaggio, per gli studenti che si recano in altri Comuni, per il periodo gennaio/giugno 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2741</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2741</guid>
+    </item>
+    <item>
+      <title>23/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Trasferimento componenti tariffarie UI1, UI2, UI3 e UI4 applicate al servizio idrico integrato a favore del CSEA. Ruolo secondo quadrimestre 2020.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2740</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2740</guid>
+    </item>
+    <item>
       <title>23/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Fattura N. 25/2022, del 17/06/22 - Ditta: Tecnosistemi di Bastino Domenico.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2739</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2708</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2708</guid>
-    </item>
-    <item>
-      <title>21/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito circonvallazione torrente Montagnareale in occasione dei festeggiamenti in onore di S. Febronia del 5 Luglio p.v.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2707</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2707</guid>
-    </item>
-    <item>
-      <title>21/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Modifica Ordinanza N. 127/22: per torneo di mini basket Lungomare C.F. Zuccarello: 20 - 26/06/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2706</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2706</guid>
-    </item>
-    <item>
-      <title>20/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SINISTRO - SIG. MANNINO SEBASTIANO - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2705</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2705</guid>
     </item>
   </channel>
 </rss>
