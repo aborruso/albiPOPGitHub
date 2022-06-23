@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 25/2022, del 17/06/22 - Ditta: Tecnosistemi di Bastino Domenico.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2739</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2739</guid>
+    </item>
+    <item>
+      <title>23/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura ACI N. 17722, del 16/06/22 - Sistema TP Visure.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2738</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2738</guid>
+    </item>
+    <item>
+      <title>23/06/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2737</link>
+      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2737</guid>
+    </item>
+    <item>
       <title>23/06/2022 | Determinazioni Dirigenziali</title>
       <description>TASSA DI REGISTRO PER I LOCALI ADIBITI A SEDE VV.FF. E SCUOLA MATERNA COMUNALE SAN GIOVANNI - ANNO 2022 - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2736</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2705</link>
       <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2705</guid>
-    </item>
-    <item>
-      <title>20/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Ordinanza di sgombero dell'Immobile Comunale Cine Teatro Comunale "Beniamino Ioppolo" sito in via Trieste N. 41.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2704</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2704</guid>
-    </item>
-    <item>
-      <title>20/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA - LIQUIDAZIONE FATTURA -  DITTA: RIZZO FRANCESCO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2703</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2703</guid>
-    </item>
-    <item>
-      <title>20/06/2022 | Determinazioni Dirigenziali</title>
-      <description>Convenzione tra i Comuni di Patti e San Filippo del Mela per l'utilizzo a tempo parziale della D.ssa Fiorello Nunziata ai sensi dell'ex art. 14 CCNL 22/1/2004 - Impegno di spesa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2702</link>
-      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2702</guid>
     </item>
   </channel>
 </rss>
