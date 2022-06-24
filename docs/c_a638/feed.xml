@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa a carico di Greco Roberto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7245</link>
+      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7245</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Rimborso spese sostenute dall'Associazione Musicale "Placido Mandanici" in occasione dell'annullo filatelico temporaneo e bollo speciale nella giornata del 06/06/2022.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7244</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7218</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7218</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19 DDG n. 129 dell01.02.2021 -quota POC Sicilia 2014 -2020 Rimborso buoni spesa-voucher Ditta MACELLERIA CRISAFULLI GIUSEPPE prot. 9600-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7217</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7217</guid>
     </item>
   </channel>
 </rss>
