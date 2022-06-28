@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di Rimozione situazione di pericolo nel fabbricato sito in Vicolo III Vallone Mazza nn. 1-3, angolo Vicolo II Vallone Mazza n. 19.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7272</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7272</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso di manifestazione di interesse per utilizzo di graduatorie di concorsi pubblici espletati da altri enti per la copertura di n.1 posto di Istruttore Tecnico -cat. C a tempo determinato fino al 31/12/2022 e parziale a 18 ore settimanali</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7271</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7244</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7244</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19- DDG n 304 del 04.04.2020 quota PO FSE e DDG n 129 dell01/02/2021 quota POC Rimborso buoni spesa-voucher Società EUROBON SRL prot 26182-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7243</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7243</guid>
     </item>
   </channel>
 </rss>
