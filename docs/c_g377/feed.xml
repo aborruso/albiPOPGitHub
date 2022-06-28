@@ -17,8 +17,29 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/06/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2771</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2771</guid>
+    </item>
+    <item>
+      <title>28/06/2022 | Determinazioni Dirigenziali</title>
+      <description>IMPEGNO SPESA PER IL COMPENSO PER LA PROROGA TECNICA DEL SERVIZIO DI TESORERIA COMUNALE - PERIODO: 01/07/2022-31/12/2022, NELLE MORE DELL'INDIVIDUAZIONE DEL NUOVO TESORIERE COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2770</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2770</guid>
+    </item>
+    <item>
+      <title>28/06/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2769</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2769</guid>
+    </item>
+    <item>
       <title>27/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A SALDO AVV. ROSA  VENTURA. CONTROVERSIA BANCA SISTEMA S.P.A. LIQUIDAZIONE.</description>
+      <description>SPESE LEGALI A SALDO AVV. ROSA  VENTURA - CONTROVERSIA BANCA SISTEMA S.P.A. - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2768</link>
       <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2768</guid>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2737</link>
       <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2737</guid>
-    </item>
-    <item>
-      <title>23/06/2022 | Determinazioni Dirigenziali</title>
-      <description>TASSA DI REGISTRO PER I LOCALI ADIBITI A SEDE VV.FF. E SCUOLA MATERNA COMUNALE SAN GIOVANNI - ANNO 2022 - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2736</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2736</guid>
-    </item>
-    <item>
-      <title>23/06/2022 | Determinazioni Dirigenziali</title>
-      <description>RETTIFICA DETERMINA N.213/2022 - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2735</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2735</guid>
-    </item>
-    <item>
-      <title>23/06/2022 | Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER VERIFICA PERIODICA ANNO 2022 SU GRU MARCA F.LLI FERRARI MOD. 530 A2  N. MATRICOLA 01/200490/ME MONTATA SU AUTOCARRO ALFA ROMEO TARGATO BT 569 EF.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2734</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2734</guid>
     </item>
   </channel>
 </rss>
