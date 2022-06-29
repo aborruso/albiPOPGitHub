@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DI PROPRIETÀ COMUNALE - ADESIONE ALLA CONVENZIONE CARBURANTI RETE - BUONI ACQUISTO - CIG MASTER 8137904AD1 - CIG DERIVATO  91118421E4 - DITTA: ENI S.P.A. - LIQUIDAZIONE FATTURA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2777</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2777</guid>
+    </item>
+    <item>
       <title>28/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Fattura di acconto Servizio di Responsabile della protezione dei dati a un soggetto esterno - Anno 2022 - CIG: Z4A34F253D.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2776</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2743</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2743</guid>
-    </item>
-    <item>
-      <title>23/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta per pulizia verde pubblico a Mongiove - Piazzale Longo e Via Messina: 24/06/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2742</link>
-      <pubDate>Thu, 23 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2742</guid>
     </item>
   </channel>
 </rss>
