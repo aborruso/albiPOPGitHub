@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
       <title>Atto numero 0/0</title>
+      <description>ELENCO IRR N 11 DEL 29/06/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412866</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412866</guid>
+    </item>
+    <item>
+      <title>Atto numero 0/0</title>
       <description>ELENCO DIRR N 10 DEL 29/06/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412835</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412637</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412637</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1040</title>
-      <description>CONCESSIONE PER PASSO CARRABILE DI ML. 2,41 - SITO: ACICASTELLO VIA TRIPOLI N. 73 - CAT. VIARIA 1° - CONTRASSEGNATO CN IL N. 722/2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412635</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/412635</guid>
     </item>
   </channel>
 </rss>
