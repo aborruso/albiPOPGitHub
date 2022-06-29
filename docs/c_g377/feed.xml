@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>29/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 409 del 31-03-2022 CIG ZCA35586E2 beneficiario Media s.r.l.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2778</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2778</guid>
+    </item>
+    <item>
+      <title>29/06/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DI PROPRIETÀ COMUNALE - ADESIONE ALLA CONVENZIONE CARBURANTI RETE - BUONI ACQUISTO - CIG MASTER 8137904AD1 - CIG DERIVATO  91118421E4 - DITTA: ENI S.P.A. - LIQUIDAZIONE FATTURA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2777</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2744</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2744</guid>
-    </item>
-    <item>
-      <title>24/06/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta per rifacimento segnaletica orizzontale nel Piazzale Longo e nel Largo Pintabona a Mongiove: 27/06/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2743</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2743</guid>
     </item>
   </channel>
 </rss>
