@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/06/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 79 del 02-03-2022 CIG ZA1344F712 beneficiario Proxima s.r.l.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2783</link>
+      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2783</guid>
+    </item>
+    <item>
       <title>29/06/2022 | Ordinanze Sindacali</title>
       <description>Interventi urgenti per ragioni di sicurezza pubblica e viabilità nei confronti dei proprietari dell'Immobile sito nel Centro Storico, ovvero nella Via Roma, nn.cc. 55 e 57 e distinto in catasto al foglio di mappa n. 63, part. 586 sub. 1, part. 586 sub. 1, part. 586 sub. 2, part. 586 sub. 3 e part. 588 sub. 5.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2782</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2749</link>
       <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2749</guid>
-    </item>
-    <item>
-      <title>24/06/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>CONVENZIONE TRA I COMUNI DI PATTI E SAN FILIPPO DEL MELA PER UTILIZZO A TEMPO PARZIALE D.SSA FIORELLO NUNZIATA AI SENSI DELL' EX ART. 14 CCNL 22/01/2004 - LIQUIDAZIONE SOMME.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2748</link>
-      <pubDate>Fri, 24 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2748</guid>
     </item>
   </channel>
 </rss>
