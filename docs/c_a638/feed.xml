@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza divieto di transito e di sosta con rimozione ambo i lari in via Del Mare bassatratto a valle del nuovo ponte di Calderà</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7307</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7307</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>liquidazione compenso  al dott. Paterniti Martello bimestre aprile -giugno</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7306</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7279</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7279</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PROVVEDIMENTO DI LIQUIDAZIONE DI SPESA PER CANONE DI NOLEGGIO AUTOVETTURE IN DOTAZIONE ALLA POLIZIA MUNICIPALE  DITTA LEASEPLAN ITALIA SPA PERIODO DI RIFERIMENTO: 01.04.2022  30.04.2022.          Fattura n.  32388518   del  16.05.2022;     Importo to</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7278</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7278</guid>
     </item>
   </channel>
 </rss>
