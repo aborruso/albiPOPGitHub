@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>liquidazione compenso  al dott. Paterniti Martello bimestre aprile -giugno</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7306</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7306</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Modifica profilo professionale all'interno della stessa categoria giuridica Dott. Salvatrice Genovesi categoria D</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7305</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7278</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7278</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PROVVEDIMENTO DI LIQUIDAZIONE DI SPESA PER CANONE DI NOLEGGIO AUTOVETTURE IN DOTAZIONE ALLA POLIZIA MUNICIPALE.      PERIODO DI RIFERIMENTO: 01.05.2022  31.05.2022.      Fattura elettronica,  documento n. INR432498 del 01.06.2022;     Importo totale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7277</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7277</guid>
     </item>
   </channel>
 </rss>
