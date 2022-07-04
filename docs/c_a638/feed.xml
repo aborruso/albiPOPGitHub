@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>elenco abusivismo mese di giugno 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7310</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7310</guid>
+    </item>
+    <item>
       <title>Verbali</title>
       <description>Verbale seduta consiliare del 24 maggio 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7309</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7282</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7282</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>OGGETTO: Determinazione a contrarre per l'individuazione del soggetto attuatore del Progetto RETE SAI - Prog 714-PR- 2 - per 49 posti categoria 'Ordinari' autorizzato alla prosecuzione- Procedura aperta - CIG 9300660B6C</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7281</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7281</guid>
     </item>
   </channel>
 </rss>
