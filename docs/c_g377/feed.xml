@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/07/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta Via Garibaldi per realizzazione segnaletica orizzontale: 06/07/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2834</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2834</guid>
+    </item>
+    <item>
+      <title>04/07/2022 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO NOLEGGIO AMPLIFICAZIONE E LUCI PER GLI SPETTACOLI E GLI EVENTI DEL "66° TINDARI FESTIVAL 2022 L'ACCOGLIENZA" - AFFIDAMENTO SERVIZIO E IMPEGNO SPESA - CIG:  ZBF3706ABB.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2833</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2833</guid>
+    </item>
+    <item>
+      <title>04/07/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito Via Boito - Periodo estivo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2832</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2832</guid>
+    </item>
+    <item>
       <title>01/07/2022 | Determinazioni Dirigenziali</title>
       <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 1 COMMA 1 E COMMA 2 LETT. A) DELLA LEGGE N.120/2020 (DECRETO SEMPLIFICAZIONI) COME MODIFICATA DALLA LEGGE N.108/2021 (DECRETO SEMPLIFICAZIONI BIS) ED IMPEGNO DI SPESA PER LA MANUTE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2831</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2800</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2800</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L.R. n. 13/2021 - Variazione al bilancio in corso di esercizio provvisorio necessaria per la programmazione delle risorse regionali per il finanziamento della prosecuzione del cantiere di servizio n. 267/ME.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2799</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2799</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura di materiale didattico per la scuola dell'infanzia Comunale Caleca. Assegnazione somme.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2798</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2798</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura materiale vario per i centri di cottura delle mense scolastiche. Assegnazione somme.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2797</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2797</guid>
     </item>
   </channel>
 </rss>
