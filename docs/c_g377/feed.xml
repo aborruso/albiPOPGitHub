@@ -17,6 +17,48 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/07/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>LETTURA ED APPROVAZIONE VERBALI PRECEDENTI SEDUTE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2841</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2841</guid>
+    </item>
+    <item>
+      <title>06/07/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Bando di corso con selezione finale per agenti di Polizia Locale Cat. C1.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2840</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2840</guid>
+    </item>
+    <item>
+      <title>06/07/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Procedura ad evidenza pubblica per la selezione, per titoli e colloquio, per l'assunzione a tempo determinato part time (20 ore settimanali) di n. 10 Assistenti Sociali, catD1 a valere sui Fondi del P</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2839</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2839</guid>
+    </item>
+    <item>
+      <title>06/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZIO DI MANUTENZIONE ORDINARIA PER MESI 12 DELL'IMPIANTO ELEVATORE SITO NEL PALAZZO COMUNALE DI PIAZZA SCAFFIDI - DITTA: SAME DI MICHELE SACCÀ &amp; C. s.r.l. - LIQUIDAZIONE FATTURA IV° TRIMESTRE 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2838</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2838</guid>
+    </item>
+    <item>
+      <title>06/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>MANUTENZIONE STRAORDINARIA DELL'ELETTROPOMPA SOMMERSA COLLOCATA NELL'IMPIANTO DI SOLLEVAMENTO FOGNARIO DI VIA PLAYA - LIQUIDAZIONE FATTURA - DITTA: XYLEM WATER SOLUTIONS ITALIA s.r.l.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2837</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2837</guid>
+    </item>
+    <item>
+      <title>06/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>VERIFICA PERIODICA ANNO 2021 SU GRU MARCA F.LLI FERRARI MOD. 530 A2 N. MATRICOLA 01/200490/ME MONTATA SU AUTOCARRO ALFA ROMEO TARGATO BT 569 EF - DITTA: ASP MESSINA - LIQUIDAZIONE FATTURA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2836</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2836</guid>
+    </item>
+    <item>
       <title>04/07/2022 | Determinazioni Dirigenziali</title>
       <description>OGGETTO:CARTELLONE "66° TINDARI FESTIVAL 2022  L'ACCOGLIENZA. AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA ALLA FONDAZIONE TRIGONA ONLUS PER SPETTACOLO MEDEA, CONFESSIONI". GIORNI 4 E 5 LUGLIO 2022. - CIG:  ZDC3707F4B</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2835</link>
@@ -136,13 +178,6 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2819</guid>
     </item>
     <item>
-      <title>01/07/2022 | Atti Di Interesse Generale</title>
-      <description>CHIUSURA UFFICI PER FESTIVITA' PATRONALE IN DATA DEL 05/07/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2818</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2818</guid>
-    </item>
-    <item>
       <title>01/07/2022 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2817</link>
@@ -200,66 +235,31 @@
     </item>
     <item>
       <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di smaltimento finale della frazione di sopravaglio CER 19.12.12 dei rifiuti non pericolosi raccolti nel territorio di questo Comune, presso l'impianto sito in C/da Valanghe dInverno  Motta SantAnastasia (CT), gestito dalla OIKOS S.p.A.  - A</description>
+      <description>Servizio di smaltimento finale della frazione di sopravaglio CER 19.12.12 dei rifiuti non pericolosi raccolti nel Territorio di questo Comune, presso l'impianto sito in C/da Valanghe d'Inverno Motta Sant'Anastasia (CT), gestito dalla OIKOS S.p.A.  - Assegnazione risorse - Periodo: 041/07/2022-31/12/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2809</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2809</guid>
     </item>
     <item>
       <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul territorio del  Comune di Patti presso l'impianto di TMB sito in Trapani  C/da Belvedere  e gestito dalla Ditta Trapani Servizi SpA  -  Assegnazione Risorse periodo 01.07.20</description>
+      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul Territorio del Comune di Patti presso l'impianto di TMB sito in Trapani C/da Belvedere e gestito dalla Ditta Trapani Servizi S.p.A. -  Assegnazione Risorse - Periodo:  01/07/2022 - 31/12/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2808</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2808</guid>
     </item>
     <item>
       <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Canone Autorizzazione temporanea per l'occupazione di un'area demaniale di mq 4800 dal 4 luglio al 1 settembre 2022  Istanza N. 9078 del 25.05.2022. Assegnazione risorse al Responsabile del Settore Servizi Tecnici.</description>
+      <description>Canone Autorizzazione temporanea per l'occupazione di un'area demaniale di mq 4800 dal 4 luglio all'1 settembre 2022 - Istanza N. 9078 del 25/05/2022 - Assegnazione risorse al Responsabile del Settore Servizi Tecnici.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2807</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2807</guid>
     </item>
     <item>
       <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Integrazione salariale alla lavoratrice ASU Catia Zampino per il periodo 01.07.2022  30.09.2022  Assegnazione risorse.</description>
+      <description>Integrazione salariale alla lavoratrice ASU Catia Zampino per il periodo 01/07/2022-30/09/2022 - Assegnazione risorse.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2806</link>
       <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2806</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Integrazione salariale lavoratori ASU in servizio presso il II Settore  "Servizi Tecnici" per il periodo 01.07.2022    30.09.2022  Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2805</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2805</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Intervento di  riparazione impianto di videosorveglianza e fornitura segnaletica e cartellonistica direzionale  nel parcheggio denominato  (Locanda 2) in località Tindari. Assegnazione risorse</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2804</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2804</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>ACQUISTO DI VERNICE AIRLITE PER LA REALIZAZIONE DI UN MURALES SULLE CASETTE PRESENTI IN PIAZZALE ALIOTO PATTI MARINA - ASSEGNAZIONE RISORSE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2803</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2803</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura pannelli in legno da collocare sulle spiagge libere Stagione Estiva  2022  Assegnazione risorse al Responsabile del Settore Servizi Tecnici.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2802</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2802</guid>
-    </item>
-    <item>
-      <title>30/06/2022 | Deliberazioni Di Giunta</title>
-      <description>"1° TORNEO CITTÀ DI PATTI". ASSEGNAZIONE CONTRIBUTO A.S.D. TERZO TEMPO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2801</link>
-      <pubDate>Thu, 30 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2801</guid>
     </item>
   </channel>
 </rss>
