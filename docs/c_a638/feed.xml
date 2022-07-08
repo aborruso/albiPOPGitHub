@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Stato di emergenza idrica informazioni per i cittadini</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7364</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7364</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Determina Dirigenziale n. 97, Reg. Gen. n. 819 del 04/04/2022. Ricevuta fiscale  n. 1 del 06/07/2022 emessa dal "duo Harmonia Lirica". Liquidazione</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7362</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7335</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7335</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriale per assenza Eurocasa S.R.L. società unipersonale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7334</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7334</guid>
     </item>
   </channel>
 </rss>
