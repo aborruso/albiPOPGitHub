@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA ACQUISTO MATERIALE DI CONSUMO VARIO NECESSARIO PER LA MANUTENZIONE ORDINARIA DEGLI IMPIANTI IDRICI E FOGNARI, DEL VERDE PUBBLICO E DEGLI STABILI COMUNALI - DITTA: BRIDAFER DI BRIGUGLIO ANGELA - CIG: Z4A3646AC3 - LIQUIDAZIONE FATTURA N. 25/PA DEL 24/06/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2900</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2900</guid>
+    </item>
+    <item>
       <title>07/07/2022 | Determinazioni Dirigenziali</title>
       <description>SPESA A FAVORE DEI SIGG.RI DI CUI ALL'ELENCO DEPOSITATO AGLI ATTI D'UFFICIO IN ESECUZIONE DELLA DELIBERA DI C.C. N. 45/2022 - IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2899</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2866</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2866</guid>
-    </item>
-    <item>
-      <title>07/07/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 COMMA 1° LETT. A) DEL DECRETO L.VO N. 267/2000 A FAVORE DELLA SIG.RA PIETRINI ROSA IN ESECUZIONE DELLA SENTENZA N. 74/2020 TRIBUNALE DI PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2865</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2865</guid>
     </item>
   </channel>
 </rss>
