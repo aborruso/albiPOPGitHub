@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale in via Catili nei giorni 11, 12 e13 luglio 2022 dalle ore 07:00 alle 18:00 e comunque fino ad ultimazione dei lavori.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7368</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7368</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione limitazioni alla circolazione stradale giorno 09 luglio 2022 dalle ore 08:00 fino ad ultimazione dei lavori.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7367</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7367</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Autorizzazione lavoro straordinario per il funzionamento della Commissione Elettorale circondariale per il 2° semestre 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7366</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7366</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento per la fornitura di service per la manifestazione: Presentazione del libro "Al di sopra della legge. Come la mafia comanda dal carcere" di Sebastiano Ardita. Venerdì 8 luglio 2022, dalle ore 19 presso la Villa Primo Levi. Ditta Sal.Mar. S</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7365</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7365</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Stato di emergenza idrica informazioni per i cittadini</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7364</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7330</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7330</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Proroga all'ordinanza n.78 del 01.07.2022 per listituzione limitazione alla circolazione stradale dalle ore 12:00 del 05 luglio 2022 fino alle ore 15:00 del 08 luglio 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7329</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7329</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Corso base di 1° livello con selezione finale di merito per la formulazione di una graduatoria di validità triennale per Agenti di Polizia Locale Cat. C1</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7328</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7328</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Convocazione Consiglio Comunale " Question Time"  che si terrà il 12 luglio 2022, ore 19:00</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7326</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7326</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7325</link>
-      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7325</guid>
     </item>
   </channel>
 </rss>
