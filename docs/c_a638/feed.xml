@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D.Lgs n.152/06) - Validità mesi 6 (sei). Ditta Trovato Daniele per attività: lido balneare ubicazione: contrada Spinesante Barcellona Pozzo di Gotto (ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7380</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7380</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Autorizzazione temporanea per lo svolgimento di attività lavorativa presso il Comune di Merì di n 2 unita' di personale partime  a tempo indeterminato della polizia municipale ai sensi del'art 92 del dlgs 267/2000 (tuel) fino al 31 dicembre 2022.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7375</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7346</link>
       <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7346</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>costituzione di un fondo presso l'Economo comunale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7345</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7345</guid>
     </item>
   </channel>
 </rss>
