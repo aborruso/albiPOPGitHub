@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/07/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2916</link>
+      <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2916</guid>
+    </item>
+    <item>
       <title>11/07/2022 | Determinazioni Dirigenziali</title>
       <description>SPESA A FAVORE DELL'AVV. LIOTTA MARIA PAOLA IN ESECUZIONE DELLA DELIBERA DI C.C. N. 37/22 - IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2915</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>11/07/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA A FAVORE DEI SIG.RI SCARBACI GIOVANNA IN PROPRIO E N.Q. DI EREDE DI PAPA FILIPPO , ROSARIA, MARIA, VERONIVA E IGNAZIO N.Q. IN ESECUZIONE DELLA DELIBERA DI C.C. N.44/2022 - IMPEGNO.</description>
+      <description>SPESA A FAVORE DEI SIG.RI SCARBACI GIOVANNA IN PROPRIO E N.Q. DI EREDE DI PAPA FILIPPO, ROSARIA, MARIA, VERONIVA E IGNAZIO N.Q. IN ESECUZIONE DELLA DELIBERA DI C.C. N.44/2022 - IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2914</link>
       <pubDate>Mon, 11 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2914</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2882</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2882</guid>
-    </item>
-    <item>
-      <title>07/07/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito via Zuccarello - lato mare -  tutte le sere.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2881</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2881</guid>
     </item>
   </channel>
 </rss>
