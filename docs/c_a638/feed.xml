@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire N°17 del 07 luglio 2022  - pratica edilizia N°20770 a nome della ditta Russo Vito Natale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7383</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7383</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Domanda rilascio tessera di libera circolazione A.S.T. anziani valida per l'anno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7382</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7382</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di demolizione delle opere eseguiti in assenza di titolo abilitativo e di ripristino dei luoghi in Via Torrente Idria n. 115.  Opere consistenti nella realizzazione di un unico accesso carrabile invece dei due pedonali, nella realizzazione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7381</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7381</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione provvisoria allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D.Lgs n.152/06) - Validità mesi 6 (sei). Ditta Trovato Daniele per attività: lido balneare ubicazione: contrada Spinesante Barcellona Pozzo di Gotto (ME)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7380</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7350</link>
       <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7350</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE FATTURE IN DITTA ENEL ENERGIA SPA PER LA FORNITURA DI ENERGIA ELETTRICA. EMESSE A DICEMBRE 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7349</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7349</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione Fattura Enel : Aprile 2022 Fognatura</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7348</link>
-      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7348</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Approvazione del parere tecnico del RUP al progetto di manutenzione straordinaria per lavori di rifacimento di marciapiedi in alcune vie cittadine del Comune di Barcellona P.G.-</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7346</link>
-      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7346</guid>
     </item>
   </channel>
 </rss>
