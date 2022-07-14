@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/07/2022 | Determinazioni Del Sindaco</title>
+      <description>PROJECT FINANCING - "PROGETTO SMART CITY PATTI" - NUOVO RESPONSABILE UNICO DEL PROCEDIMENTO (RUP).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2953</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2953</guid>
+    </item>
+    <item>
+      <title>14/07/2022 | Atti Di Interesse Generale</title>
+      <description>Comuni di Patti e Raccuja - Invio decreto provvisorio di autorizzazione cambio cognome Ben Soltane Ines in Scalia.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2952</link>
+      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2952</guid>
+    </item>
+    <item>
       <title>14/07/2022 | Atti Di Interesse Generale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2951</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2919</link>
       <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2919</guid>
-    </item>
-    <item>
-      <title>12/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>COVID-19 PROTOCOLLO SANITARIO - LIQUIDAZIONE SANIFICAZIONE LOCALI ADIBITI A SEGGI  ELETTORALI - REFERENDUM ABROGATIVI EX ART. 75 DELLA LEGGE COSTITUZIONALE DI DOMENICA 12 GIUGNO 2022 - CIG: Z0C368B1E7.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2918</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2918</guid>
-    </item>
-    <item>
-      <title>12/07/2022 | Determinazioni Dirigenziali</title>
-      <description>COMPENSI AL COMMISSARIO AD ACTA DR. MANFRE' GIUSEPPE - CONTROVERSIA BONEN + ALTRI - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2917</link>
-      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2917</guid>
     </item>
   </channel>
 </rss>
