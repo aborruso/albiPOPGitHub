@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/07/2022 | Determinazioni Dirigenziali</title>
+      <description>SPESA A FAVORE DELLA SIG.RA VENTURA MARIA CARMELA - DELIBERA DI C.C. N. 28/22 - IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3002</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3002</guid>
+    </item>
+    <item>
+      <title>18/07/2022 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO DI ASSISTENZA DI PROGETTAZIONE GRAFICA, STAMPA E DIFFUSIONE MATERIALE PROMOZIONALE - DITTA GV DI GABRIELE SANTOROMITA VILLA - IMPEGNO DI SPESA ED AFFIDAMENTO SERVIZIO - CIG: Z9C372F42C.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3001</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3001</guid>
+    </item>
+    <item>
       <title>18/07/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fatture Maggioli N.ri  1136673 e 2132645, del 30/06/22 - Maggioli S.p.A. - "Concilia Service".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3000</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2968</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2968</guid>
-    </item>
-    <item>
-      <title>14/07/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di Noleggio con conducente di autocisterna per il trasporto di acqua potabile, indispensabile a rimuovere lo stato di pregiudizio alla pubblica e privata incolumità per il tempo strettamente necessario - Presa atto Ordinanza Sindacale N. 46/20.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2967</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2967</guid>
-    </item>
-    <item>
-      <title>14/07/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio Sociale Professionale - Assegnazione obiettivi e risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2966</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2966</guid>
     </item>
   </channel>
 </rss>
