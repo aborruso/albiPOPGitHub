@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1143</title>
+      <description>CONCESSIONE LOCULO CIMITERIALE N. 106, 2^FILA, DEL COLOMBARIO "A" PER LA TUMULAZIONE DELLA SALMA DI PATANE' GRAZIO, DECEDUTO IL 15/07/2022. FASCICOLO CIMITERIALE: LOC. N. 106 COL. A</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/415103</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/415103</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/141</title>
       <description>MANCATO PAGAMENTO SANZIONE AMMINISTRATIVA O.A. 2727</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/415092</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/414747</link>
       <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/414747</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1129</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA RACO S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200108) CONFERITI NEL MESE DI GIUGNO 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/414745</link>
-      <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/414745</guid>
     </item>
   </channel>
 </rss>
