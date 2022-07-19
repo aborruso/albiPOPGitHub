@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/07/2022 | Atti Di Interesse Generale</title>
+      <description>RILASCIO TESSERA A.S.T. PER ANZIANI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3010</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3010</guid>
+    </item>
+    <item>
+      <title>19/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura di Gas nei Locali Comunali - Maggio 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3009</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3009</guid>
+    </item>
+    <item>
+      <title>19/07/2022 | Determinazioni Dirigenziali</title>
+      <description>Concessione congedo retribuito ai sensi dell'art 42 comma 5 del D. Lgs. N.151/2001.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3008</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3008</guid>
+    </item>
+    <item>
       <title>19/07/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura energia elettrica  maggio 2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3007</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2976</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2976</guid>
-    </item>
-    <item>
-      <title>15/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura N. FATTPA 3/2022, dell'08/07/22 - D.ssa Niosi Giusy.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2975</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2975</guid>
-    </item>
-    <item>
-      <title>15/07/2022 | Ordinanze Dirigenziali</title>
-      <description>Modifica Ord. 149/22 - Anticipo chiusura Via Zuccarello per il 17/07/22 - Chiusura al transito e alla sosta Via Garibaldi per lavori di bitumazione: 18 e 19/07/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2974</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2974</guid>
-    </item>
-    <item>
-      <title>15/07/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2973</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2973</guid>
     </item>
   </channel>
 </rss>
