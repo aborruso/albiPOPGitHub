@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/07/2022 | Determinazioni Dirigenziali</title>
+      <description>Assegnazione alloggio popolare in locazione semplice di proprietà dell'I.A.C.P. di Messina alla richiedente collocata in 13^ posizione della graduatoria.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3011</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3011</guid>
+    </item>
+    <item>
       <title>19/07/2022 | Atti Di Interesse Generale</title>
       <description>RILASCIO TESSERA A.S.T. PER ANZIANI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3010</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2977</link>
       <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2977</guid>
-    </item>
-    <item>
-      <title>15/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" PDZ 2013/2015 - Liquidazione mese di Giugno ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio Sanitario.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2976</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2976</guid>
     </item>
   </channel>
 </rss>
