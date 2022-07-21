@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>21/07/2022 | Determinazioni Dirigenziali</title>
+      <description>Approvazione graduatoria per l'ammissione al Servizio Asilo Nido Comunale "M. Faranda" - Anno Scolastico 2022/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3022</link>
+      <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3022</guid>
+    </item>
+    <item>
+      <title>21/07/2022 | Determinazioni Dirigenziali</title>
       <description>66° TINDARI FESTIVAL 2022 L'ACCOGLIENZA - AFFIDAMENTO SERVIZIO ASSICURATIVO DI R. C. T. PER N. 2 EVENTI - CIG: ZC73738CF3.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3021</link>
       <pubDate>Thu, 21 Jul 2022 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2988</link>
       <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2988</guid>
-    </item>
-    <item>
-      <title>15/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE STRAORDINARIA DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE SITO IN CONTRADA PLAYA - LIQUIDAZIONE FATTURA - DITTA: RIZZO FRANCESCO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2987</link>
-      <pubDate>Fri, 15 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=2987</guid>
     </item>
   </channel>
 </rss>
