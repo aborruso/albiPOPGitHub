@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/07/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di fermata via Messina.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3037</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3037</guid>
+    </item>
+    <item>
+      <title>22/07/2022 | Determinazioni Dirigenziali</title>
+      <description>66° TINDARI FESTIVAL 2022  L'ACCOGLIENZA - AFFIDAMENTO SERVIZIO ASSICURATIVO DI R. C. T. PER N. 1 EVENTO E PER POLIZZA FIDEJUSSORIA PER CAUZIONE VALEVOLE SINO AL 31/12/2022. - CIG:  ZFA374097D</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3036</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3036</guid>
+    </item>
+    <item>
+      <title>22/07/2022 | Determinazioni Dirigenziali</title>
+      <description>Impegno spesa per convenzione con Associazioni di volontariato per attività di supporto.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3035</link>
+      <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3035</guid>
+    </item>
+    <item>
       <title>22/07/2022 | Atti Di Interesse Generale</title>
       <description>Avviso pubblico esplorativo - manifestazione di interesse a partecipare alla procedura negoziata ai sensi dell'art. 63, comma 2, lett. c) del d. lgs. 18/04/2016, n. 50 e s.m.i., per l'affidamento del servizio di accoglienza in favore di cittadini ucraini ospitati presso la struttura di accoglienza "Ipab Sciacca Baratta" ubicata in via Vittorio Emanuele n. 5.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3034</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3003</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3003</guid>
-    </item>
-    <item>
-      <title>18/07/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA A FAVORE DELLA SIG.RA VENTURA MARIA CARMELA - DELIBERA DI C.C. N. 28/22 - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3002</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3002</guid>
-    </item>
-    <item>
-      <title>18/07/2022 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI ASSISTENZA DI PROGETTAZIONE GRAFICA, STAMPA E DIFFUSIONE MATERIALE PROMOZIONALE - DITTA GV DI GABRIELE SANTOROMITA VILLA - IMPEGNO DI SPESA ED AFFIDAMENTO SERVIZIO - CIG: Z9C372F42C.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3001</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3001</guid>
-    </item>
-    <item>
-      <title>18/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fatture Maggioli N.ri  1136673 e 2132645, del 30/06/22 - Maggioli S.p.A. - "Concilia Service".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3000</link>
-      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3000</guid>
     </item>
   </channel>
 </rss>
