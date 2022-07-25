@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/07/2022 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione della viabilità in occasione dei festeggiamenti in onore della Patrona Santa Febronia.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3045</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3045</guid>
+    </item>
+    <item>
+      <title>25/07/2022 | Determinazioni Dirigenziali</title>
+      <description>Concessione congedo straordinario retribuito ex art. 42 c. 5 - D. Lgs.N. 151/2001 al dipendente Iannelli Filippo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3044</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3044</guid>
+    </item>
+    <item>
+      <title>25/07/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione competenze ai componenti dei seggi elettorali che hanno effettivamente partecipato alle consultazioni Referendarie del 12 giugno 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3043</link>
+      <pubDate>Mon, 25 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3043</guid>
+    </item>
+    <item>
       <title>25/07/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>Richiesta affissione all'Albo Pretorio on-line ai sensi dell'art. 60 D.P.R. 29/09/73 N. 600.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3042</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3011</link>
       <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3011</guid>
-    </item>
-    <item>
-      <title>19/07/2022 | Atti Di Interesse Generale</title>
-      <description>RILASCIO TESSERA A.S.T. PER ANZIANI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3010</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3010</guid>
-    </item>
-    <item>
-      <title>19/07/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di Gas nei Locali Comunali - Maggio 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3009</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3009</guid>
-    </item>
-    <item>
-      <title>19/07/2022 | Determinazioni Dirigenziali</title>
-      <description>Concessione congedo retribuito ai sensi dell'art 42 comma 5 del D. Lgs. N.151/2001.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3008</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3008</guid>
     </item>
   </channel>
 </rss>
