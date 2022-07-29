@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/07/2022 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità nel centro storico per "indiegeno Fest 2022": 01 - 02 Agosto</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3096</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3096</guid>
+    </item>
+    <item>
       <title>28/07/2022 | Determinazioni Dirigenziali</title>
       <description>Liquidazione - Avviso di liquidazione Agenzia delle Entrate N. 22077020257.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3095</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3061</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3061</guid>
-    </item>
-    <item>
-      <title>26/07/2022 | Atti Di Interesse Generale</title>
-      <description>PUBBLICAZIONE AVVISO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3060</link>
-      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3060</guid>
     </item>
   </channel>
 </rss>
