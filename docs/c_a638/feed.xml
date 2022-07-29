@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 a carico di Chiru Alexanoru Sergiu</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7627</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7627</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto ex art. 143 a carico di Gulino Giovanna</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7626</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7626</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Ordinanza Dirigenziale di Irrogazione Sanzione Amministrativa Pecuniaria, ai sensi dell'art.37 del D.P.R 380/2001, per avere eseguito,  in Via Statale n. 506 - ang. Via Medici lavori in assenza di segnalazione certificata di inizio attività di cui al</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7625</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7598</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7598</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione limitazione alla circolazione stradale per i giorni 03 e 04 agosto 2022 con Divieto di transito , Vicolo III Colonna, via Colonna e via Meucci</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7597</link>
-      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7597</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di demolizione dei lavori eseguiti in assenza di titolo abilitativo edilizio (PDC) in ampliamento alla Concessione Edilizia n. 167/2011 del 23.12.2011 e pertinenze,  di ripristino dei luoghi in Via Statale Sant'Antonio n. 153 (art. 31 del D</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7596</link>
-      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7596</guid>
     </item>
   </channel>
 </rss>
