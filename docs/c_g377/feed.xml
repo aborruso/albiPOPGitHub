@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/08/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3102</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3102</guid>
+    </item>
+    <item>
+      <title>01/08/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3101</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3101</guid>
+    </item>
+    <item>
+      <title>01/08/2022 | Determinazioni Dirigenziali</title>
+      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA PER IL SERVIZIO DI NOLEGGIO BAGNI CHIMICI NELLA FRAZIONE TINDARI DAL 01.08.2022 AL 30.09.2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3100</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3100</guid>
+    </item>
+    <item>
       <title>29/07/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA CARTELLE AGENZIA DELLE ENTRATE RISCOSSIONE MESSINA - D.I. N. 150/2015 RE SENTENZA 427/2016 - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3099</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3068</link>
       <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3068</guid>
-    </item>
-    <item>
-      <title>26/07/2022 | Determinazioni Dirigenziali</title>
-      <description>66° TINDARI FESTIVAL 2022 L'ACCOGLIENZA - AFFIDAMENTO SERVIZIO ASSICURATIVO DI R. C. T. PER N. 8 EVENTI - CIG: Z943747648.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3066</link>
-      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3066</guid>
-    </item>
-    <item>
-      <title>26/07/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3064</link>
-      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3064</guid>
-    </item>
-    <item>
-      <title>26/07/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER L'INTERVENTO URGENTE ED INDIFFERIBILE PER LA PULIZIA E LO SCERBAMENTO DELLAREA ESTERNA SERBATOI DELLACQUEDOTTO COMUNALE.  DITTA MADDALENA ANTONINO   CIG:  Z793733F0F</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3063</link>
-      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3063</guid>
     </item>
   </channel>
 </rss>
