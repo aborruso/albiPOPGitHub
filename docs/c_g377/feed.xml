@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>02/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>L.448/98 Fornitura gratuita e semigratuita dei libri di testo  Erogazione contributi anno scolastico 2020/2021. Beneficiari dell'intervento sono gli studenti delle scuole secondarie di primo e secondo grado.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3117</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3117</guid>
+    </item>
+    <item>
+      <title>02/08/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura di Gas nei locali comunali giugno 2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3116</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3083</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3083</guid>
-    </item>
-    <item>
-      <title>28/07/2022 | Deliberazioni Di Giunta</title>
-      <description>Istituzione "Stalli Rosa"  per agevolare la sosta delle donne in gravidanza e dei neo genitori.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3082</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3082</guid>
     </item>
   </channel>
 </rss>
