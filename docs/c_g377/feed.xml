@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/08/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3141</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3141</guid>
+    </item>
+    <item>
+      <title>04/08/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONI DI MATRIMONIO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3140</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3140</guid>
+    </item>
+    <item>
+      <title>04/08/2022 | Determinazioni Dirigenziali</title>
+      <description>Rettifica Determinazione  n° 12/426 del 19-07-2022 avente ad oggetto "Assegnazione alloggio popolare in locazione semplice di proprietà dell'I.A.C.P. di Messina alla richiedente collocata in 13° posizione della graduatoria.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3139</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3139</guid>
+    </item>
+    <item>
+      <title>04/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio  In Cammino  Barcellona P.G. dall' 01.01.2022 al 30.06.2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3138</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3138</guid>
+    </item>
+    <item>
       <title>03/08/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. SIG.RA LATTANZIO  CRISTINA IN SERVIZIO NEL SETTORE V__PERIODO:  DA 01.07.2022  AL  31.07.2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3137</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3107</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3107</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Determinazioni Del Sindaco</title>
-      <description>PROGETTO DI CONSOLIDAMENTO A PROTEZIONE DELLA VIA MAGRETTI, IN PROSSIMITÀ DELLA PIAZZETTA BELVEDERE, NEL TRATTO INTERESSATO DA FENOMENI DI DISSESTO - NUOVO RESPONSABILE UNICO DEL PROCEDIMENTO (RUP).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3106</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3106</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Ordinanze Sindacali</title>
-      <description>Regolamentazione viabilità centro storico in occasione dell'"Indiegeno Fest 2022": 01/02 AGOSTO 22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3105</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3105</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito e alla sosta Piazza Sturzo e Piazzetta Belvedere - "Notte per la cultura": 01 agosto 22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3104</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3104</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3103</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3103</guid>
     </item>
   </channel>
 </rss>
