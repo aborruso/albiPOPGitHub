@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/08/2022 | Ordinanze Sindacali</title>
+      <description>ORDINANZA T.S.O. OMISSIS</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3147</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3147</guid>
+    </item>
+    <item>
+      <title>04/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale - PAIS  a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020-PON Inclusione.                  CUP C41B20000810</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3146</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3146</guid>
+    </item>
+    <item>
+      <title>04/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione lavoro straordinario nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale - PAIS a valere sul Fondo Sociale Europeo (FSE), programmazione 2014-2020- PON Inclusione.                                        C</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3145</link>
+      <pubDate>Thu, 04 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3145</guid>
+    </item>
+    <item>
       <title>04/08/2022 | Determinazioni Dirigenziali</title>
       <description>INIZIATIVE DI PROMOZIONE, VALORIZZAZIONE EL TERRITORIO ED ATTRATTIVITA' TURISTICA ESTATE 2022- IMPEGNO DI SPESA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3144</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3113</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3113</guid>
-    </item>
-    <item>
-      <title>02/08/2022 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità a Marinello in occasione dell'  "Indiegeno Fest 2022" :  03 e 04 Agosto.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3112</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3112</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 DEL DECRETO L.VO N. 267/2000 LETT. A) COMMA 1° IN ESECUZIONE DELLA SENTENZA N. 1045/2017 DELLA CORTE D'APPELLO DI MESSINA A FAVORE DELLA SOCIETA' CICIRELLA RICAMBI S.R.L.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3111</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3111</guid>
-    </item>
-    <item>
-      <title>01/08/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 COMMA 1° LETT. A) DEL DECRETO L.VO N. 267/2000 A FAVORE DEL SIG. AIELLO PIPPO MARIO IN ESECUZIONE DELLA SENTENZA N. 26/2020 DELLA CORTE D'APPELLO DI MESSINA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3110</link>
-      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3110</guid>
     </item>
   </channel>
 </rss>
