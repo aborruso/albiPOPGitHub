@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale per i giorni 07.08.2022 e 16.08.2022 dalle ore 08:00 alle ore 21:00 in via G. Leopardi tratto di strada (Arena Montecroci).</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7727</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7727</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale per giorno 08.08.2022 in via Del Mare dalle ore 07:00 alle ore 17:00.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7726</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7726</guid>
+    </item>
+    <item>
+      <title>Bando Di Concorso</title>
+      <description>Concorso di ammissione scuola dell'Arte della Medaglia per l'anno 2022-2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7725</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7725</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7723</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7695</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7695</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia n° 4242865794 del 11.07.2022 fornitura di  ultima istanza Gas Naturale - locali scolastici di Via S. Andrea n.174 per euro 67,01</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7694</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7694</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di gas presso le Scuole Elementari, dal 10 e 13 giugno 2022, relative al mese maggio 2022. Totale euro 1.116,36  oltre IVA euro 55,82</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7693</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7693</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di gas presso le Scuole Materne, del 10 - 11 e 12 giugno 2022, relative al mese maggio 2022.  Totale euro 192,74 oltre IVA euro 9,64</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7692</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7692</guid>
     </item>
   </channel>
 </rss>
