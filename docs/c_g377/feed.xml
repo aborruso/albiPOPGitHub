@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/08/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3149</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3149</guid>
+    </item>
+    <item>
+      <title>05/08/2022 | Determinazioni Dirigenziali</title>
+      <description>DISIMPEGNO SOMME  SERVIZIO DI SMALTIMENTO FINALE DELLA FRAZIONE DI SOPRAVAGLIO CER 19.02.02 DEI RIFIUTI NON PERICOLOSI RACCOLTI NEL TERRITORIO DI QUESTO COMUNE PRESSO L'IMPIANTO SITO IN C.DA VALANGHE DINVERNO DEL COMUNE DI MOTTA SANTANASTASIA  SOCIET</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3148</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3148</guid>
+    </item>
+    <item>
       <title>04/08/2022 | Ordinanze Sindacali</title>
       <description>ORDINANZA T.S.O. OMISSIS</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3147</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3115</link>
       <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3115</guid>
-    </item>
-    <item>
-      <title>02/08/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESA  PER RISARCIMENTO DANNI DA SINISTRO A FAVORE DEL SIG. MANFRE' SEBASTIANUCCIO. IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3114</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3114</guid>
-    </item>
-    <item>
-      <title>02/08/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta via Mazzini area frontistante l'ex palazzetto dello sport  per sit-in dell'  Associazione . "Aretè: 03.08.22</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3113</link>
-      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3113</guid>
     </item>
   </channel>
 </rss>
