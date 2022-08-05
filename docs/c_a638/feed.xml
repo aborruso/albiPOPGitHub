@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7729</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7729</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7728</link>
+      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7728</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di limitazioni alla circolazione stradale per i giorni 07.08.2022 e 16.08.2022 dalle ore 08:00 alle ore 21:00 in via G. Leopardi tratto di strada (Arena Montecroci).</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7727</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7697</link>
       <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7697</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIMBORSO SOMME DOCENTI + PERSONALE SCOLASTICO PER ESPLETAMENTO REFEZIONE SCOLATICA AUTOGESTITA - A.S. 2021/2022 - SCUOLA MATERNA GIRASOLE  ISTITUTO COMPRENSIVO  "MILITI".</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7696</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7696</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIMBORSO SOMME DOCENTI + PERSONALE SCOLASTICO PER ESPLETAMENTO REFEZIONE SCOLATICA AUTOGESTITA - A.S. 2021/2022 - ISTITUTO COMPRENSIVO  "NINO PINO BALOTTA".</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7695</link>
-      <pubDate>Wed, 03 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7695</guid>
     </item>
   </channel>
 </rss>
