@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESA A FAVORE DELLA DOTT.SSA CARCIONE CARLA FRANCESCA IN ESECUZIONE DELLA DELIBERA DI c.c.N.34/2022. LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3195</link>
+      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3195</guid>
+    </item>
+    <item>
       <title>09/08/2022 | Deliberazioni Di Giunta</title>
       <description>Modifica al Regolamento di Organizzazione degli Uffici e dei Servizi (ROUS). Approvazione appendice "Sedute in videoconferenza"</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3194</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3161</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3161</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determinazioni Dirigenziali</title>
-      <description>Concessione ulteriore periodo di congedo straordinario retribuito ex art. 42 c. 5 D.Lgs. 151/2001 al dipendente Iannelli Filippo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3160</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3160</guid>
     </item>
   </channel>
 </rss>
