@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/08/2022 | Determinazioni Dirigenziali</title>
+      <description>Elezioni Politiche e Regionali del 25 settembre 2022 - Costituzione Ufficio Elettorale ed autorizzazione al lavoro straordinario - PERIODO DAL 12/09/2022 AL 30/09/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3196</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3196</guid>
+    </item>
+    <item>
       <title>09/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA A FAVORE DELLA DOTT.SSA CARCIONE CARLA FRANCESCA IN ESECUZIONE DELLA DELIBERA DI c.c.N.34/2022. LIQUIDAZIONE.</description>
+      <description>SPESA A FAVORE DELLA D.SSA CARCIONE CARLA FRANCESCA - DELIBERA DI C. C. N. 34/2022 - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3195</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3195</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3162</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3162</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI ANALISI MERCEOLOGICA DEI RIFIUTI PROVENIENTI DALLO SPAZZAMENTO STRADALE CER 20.03.03 DA CONFERIRE IN IMPIANTO AUTORIZZATO - LIQUIDAZIONE FATTURA N. 40/PA DEL 07/07/2022 - DITTA: AMBIENTE E SICUREZZA S.R.L. - CIG: ZB435B487B.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3161</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3161</guid>
     </item>
   </channel>
 </rss>
