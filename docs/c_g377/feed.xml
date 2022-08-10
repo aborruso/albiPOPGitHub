@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/08/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3198</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3198</guid>
+    </item>
+    <item>
+      <title>10/08/2022 | Determinazioni Dirigenziali</title>
+      <description>Elezioni Politiche e Regionali del 25 settembre 2022 - Costituzione Ufficio Elettorale ed Autorizzazione al lavoro straordinario - Periodo dal 10/08/2022 AL 30/09/2022 - Rettifica determina N. 418 del 10/08/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3197</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3197</guid>
+    </item>
+    <item>
       <title>10/08/2022 | Determinazioni Dirigenziali</title>
       <description>Elezioni Politiche e Regionali del 25 settembre 2022 - Costituzione Ufficio Elettorale ed autorizzazione al lavoro straordinario - PERIODO DAL 12/09/2022 AL 30/09/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3196</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3164</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3164</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio "In Cammino" Barcellona P.G. dall'01/01/2022 al 30/06/2022 - F.E.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3163</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3163</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio di "Assistenza all'Autonomia e alla Comunicazione per i minori delle Scuole Primarie e Secondarie di primo grado" nei Comuni dell'AOD N. 1 - Prima annualità - Pdz 2018/2019 L.328/00 di cui alla Proroga Tecnica - Liquidazione - CIG: 8866815735.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3162</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3162</guid>
     </item>
   </channel>
 </rss>
