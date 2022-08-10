@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO N 12 DEL 10/08/2022 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417761</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417761</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/1271</title>
+      <description>CONCESSIONE TEMPORANEA DU SUOLO PUBBLICO N. 86/2022 PER LA SOSTA DI MEZZI PESANTI DA UTILIZZARE PER CARICO E SCARICO DI MATERIALI EDILI IN VIA V.VENETO N. 27/29/29A</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417759</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417759</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/162</title>
       <description>PROVVEDIMENTI PER L‘ELIMINAZIONE DI INCONVENIENTI IGIENICO SANITARI SUL LUNGOMARE DEI CICLOPI RELATIVI ALL'OSTRUZIONE DI CONDOTTE FOGNARIE PRIVATE AFFERENTI ALLE ATTIVITA' DI SOMMINISTRAZIONE SITE AL CIVICO 209 (TRATTORIA CASA DEL NESPOLO) E AL CIVICO 211 (CAFFE' DEL PORTO).</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417682</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417305</link>
       <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417305</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1258</title>
-      <description>LIQUIDAZIONE FATTURE ALLA DITTA ARCHE' SOCIETA' COOPERATIVA A.R.L. PER IL SERVIZIO DI GESTIONE INTEGRATA DELLA SALUTE E DELLA SICUREZZA SUI LUOGHI DI LAVORO- PERIODO MAGGIO 2022. CIG: 8738219E6C</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417300</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417300</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/161</title>
-      <description>EVENTO “TREZZARTE – IL VILLAGGIO DEGLI ARTISTI XII EDIZIONE” PROVVEDIMENTI DI CIRCOLAZIONE IN VIA PROVINCIALE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417298</link>
-      <pubDate>Fri, 05 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/417298</guid>
     </item>
   </channel>
 </rss>
