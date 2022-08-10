@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco definitivo dei beneficiari delle misure urgenti di solidarietà alimentare a seguito dell'emergenza epidemiologica da Covid 19 - Avviso Pubblico Comune di Barcellona Pozzo di Gotto del 15/03/202</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7778</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7778</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Provvedimento di liquidazione fattura n 1269 00 del 13 10 2021 Cimitero Ditta Elettroedil Rappazzo Srl</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7777</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7751</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7751</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PROVVEDIMENTO DI IMPEGNO  PER IL PAGAMENTO DI FORNITURA N. 3500 VERBALI AL C.D.S.. CIG:  Z963560CEB</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7750</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7750</guid>
     </item>
   </channel>
 </rss>
