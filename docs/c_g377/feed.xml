@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/08/2022 | Determinazioni Dirigenziali</title>
+      <description>66° TINDARI FESTIVA 2022  L'ACCOGLIEZA. PAGAMENTO CANONE CONCESSORIO  SPETTACOLO 20 AGOSTO 2022- ASS.NE DARLIN.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3199</link>
+      <pubDate>Wed, 10 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3199</guid>
+    </item>
+    <item>
       <title>10/08/2022 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3198</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3165</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3165</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" III^ Annualità - AOD N. 1 - PdZ 2013/2015 - Liquidazione mese di luglio ai soggetti del Comune di Patti.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3164</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3164</guid>
     </item>
   </channel>
 </rss>
