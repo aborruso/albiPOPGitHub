@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/08/2022 | Determinazioni Dirigenziali</title>
+      <description>LAVORI DI INCAPSULAMENTO, CARICO, TRASPORTO E CONFERIMENTO PRESSO IMPIANTO AUTORIZZATO DI MATERIALE DA COSTRUZIONE CONTENENTE AMIANTO ABBANDONATO DA IGNOTI NELLA VIA PANCALDO DI QUESTO COMUNE - DITTA : PIZZO PIPPO - AFFIDAMENTO E IMPEGNO DI SPESA - CIG: Z4B376D32A.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3209</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3209</guid>
+    </item>
+    <item>
       <title>11/08/2022 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3208</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3175</link>
       <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3175</guid>
-    </item>
-    <item>
-      <title>08/08/2022 | Determinazioni Dirigenziali</title>
-      <description>PROJECT FINANCING - "PROGETTO SMART CITY PATTI". NOMINA SUPPORTO AMMINISTRATIVO AL R.U.P.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3174</link>
-      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3174</guid>
     </item>
   </channel>
 </rss>
