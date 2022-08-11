@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Elettorali</title>
+      <description>Elezioni Politiche di Domenica 25 settembre 2022 Convocazione dei Comizi Elettorali</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7780</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7780</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>CONFERIMENTO POSIZIONE ORGANIZZATIVA SERVIZIO 3 DEL I SETTORE</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7779</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7779</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Elenco definitivo dei beneficiari delle misure urgenti di solidarietà alimentare a seguito dell'emergenza epidemiologica da Covid 19 - Avviso Pubblico Comune di Barcellona Pozzo di Gotto del 15/03/202</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7778</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7753</link>
       <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7753</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale nel vicolo I Mandanici per giorno 20.08.2022 dalle ore 17:00 alle ore 24:00</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7752</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7752</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazione alla circolazione stradale per i giorni 15, 16 e 17 agosto 2022 festa San Rocco frazione Calderà.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7751</link>
-      <pubDate>Tue, 09 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7751</guid>
     </item>
   </channel>
 </rss>
