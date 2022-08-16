@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/08/2022 | Determinazioni Dirigenziali</title>
+      <description>Gara Telematica per l'affidamento del Servizio di gestione del Centro di Accoglienza per Cittadini Ucraini in fuga dal conflitto ai sensi dell'art. 11 del D. Lgs. 18 agosto 2015, N.142 e degli art. 36 comma 2 lett. b)  e 95 comma 4 del D.Lgs. 50/2016 e s.m.i. - Determina a contrarre - CIG: 93695236F9.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3239</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3239</guid>
+    </item>
+    <item>
+      <title>16/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione N. 06 UTENTI L. 328/00 - PdZ 2013-2015 Emergenza ed Urgenza- Terza Annualità azione N. 8.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3238</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3238</guid>
+    </item>
+    <item>
       <title>13/08/2022 | Ordinanze Dirigenziali</title>
       <description>Ordinanza T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3237</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3205</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3205</guid>
-    </item>
-    <item>
-      <title>11/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE AL LAVORATORE ASU GIARRIZZO SALVATORE MESE DI LUGLIO 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3204</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3204</guid>
-    </item>
-    <item>
-      <title>11/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE AI LAVORATORI ASU GATANI ANTONINO, SOFIA ENRICO, PANSALORTO SALVATORE MESE DI LUGLIO 2022 - SERVIZIO DI MANUTENZIONE DELL'ACQUEDOTTO E DELLA FOGNATURA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3203</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3203</guid>
     </item>
   </channel>
 </rss>
