@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Revisione Liste Elettorali</title>
+      <description>Revisione dinamica straordinaria delle liste elettorali. Indizione cinque referendum abrogativi EX Art. 75 della Costituzione</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7815</link>
+      <pubDate>Tue, 16 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7815</guid>
+    </item>
+    <item>
       <title>Atti Elettorali</title>
       <description>convocazione dei comizi elettorali per domenica 25 settembre 2022 per elezione Presidente regione e dei deputati dell'Assemblea Regionale Siciliana</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7814</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7787</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7787</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura  n. 579 del 25 Luglio 2022 . Servizio di esternalizzazione della gestione  dell'Asilo Nido Petraro -  Soc. Coop. Sociale IRIDE.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7786</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7786</guid>
     </item>
   </channel>
 </rss>
