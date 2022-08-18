@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>RICOGNIZIONE ANNUALE DELLA PRESENZA DELLE CONDIZIONI DI SOVRANNUMERO ED ECCEDENZA. ANNO 2022.  ESITO NEGATIVO</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7823</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7823</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>ESTATE 2022  EVENTI CALDERA' PIAZZA DELLE ANCORE. Festa dello sport - Compartecipazione</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7822</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7795</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7795</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19 DDG n. 129 dell01.02.2021 -quota POC Sicilia 2014 -2020 Rimborso buoni spesa-voucher Società SUPERMERCATI STANDA SRL prot. 21674-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7794</link>
-      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7794</guid>
     </item>
   </channel>
 </rss>
