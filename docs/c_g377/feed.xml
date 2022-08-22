@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/08/2022 | Avvisi Di Gara</title>
+      <description>AVVISO DI CONVOCAZIONE PRIMA SEDUTA PUBBLICA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3261</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3261</guid>
+    </item>
+    <item>
+      <title>22/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura di generi alimentari per il servizio di refezione per l'Asilo Nido Comunale M. Faranda.  Mese di luglio 2022. Liquidazione Ditta Marino 1959 s.r.l. Codice CIG ZF8347A06A</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3260</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3260</guid>
+    </item>
+    <item>
       <title>20/08/2022 | Determinazioni Dirigenziali</title>
       <description>Lavori urgenti per il convogliamento delle acque nel tratto compreso tra il Torrente Santa Venera e la Via Tenente Natoli finalizzati all'eliminazione del rischio idraulico e all'eliminazione dei fenomeni di allagamento dell'abitato urbano della località Patti Marina - CUP: C47B20000580001 - Determinazione di conclusione positiva della Conferenza di Servizi decisoria ex artt. 14, comma 2 e 14 bis comma 1 Legge 241/1990 e s.m.i. e Legge Regionale 21 magio 2019 N. 7, titolo IV° art. 18 - in forma semplificata e modalità asincrona</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3259</link>
@@ -95,7 +109,7 @@
     </item>
     <item>
       <title>18/08/2022 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse con anticipazione all'Economo per spese acquisto farmaci  e prodotti per la cura e l'igiene dei cani detenuti nei box comunali d'emergenza.</description>
+      <description>Assegnazione risorse con anticipazione all'Economo per spese acquisto farmaci e prodotti per la cura e l'igiene dei cani detenuti nei Box Comunali d'emergenza.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3248</link>
       <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3248</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3227</link>
       <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3227</guid>
-    </item>
-    <item>
-      <title>12/08/2022 | Determinazioni Dirigenziali</title>
-      <description>ART. 13 COMMA 59 LEGGE DI STABILITA'  REGIONALE 2022/2024, DEL 25/05/2022, N. 13 - DESTINAZIONE SOMME DA PARTE DEL CONSORZIO INTERCOMUNALE TINDARI-NEBRODI PER  - MANIFESTAZIONI "ESTATE 2022" -  AFFIDAMENTO FORNITURA MATERIALE VARIO - DITTA MAIL BOXES ETC - CIG: ZE6377843F.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3225</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3225</guid>
-    </item>
-    <item>
-      <title>12/08/2022 | Determinazioni Dirigenziali</title>
-      <description>ART. 13 COMMA 59 LEGGE DI STABILITA' REGIONALE 2022/2024, DEL 25/05/2022, N. 13 - DESTINAZIONE SOMME DA PARTE DEL CONSORZIO INTERCOMUNALE TINDARI-NEBRODI PER MANIFESTAZIONI "ESTATE 2022" - AFFIDAMENTO SERVIZIO DI SPETTACOLO PIROTECNICO GIORNO 14 AGOSTO 2022 - CIG: Z7D3776BDE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3224</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3224</guid>
     </item>
   </channel>
 </rss>
