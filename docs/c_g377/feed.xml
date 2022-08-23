@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/08/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura di Gas nei Locali Comunali - Luglio 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3271</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3271</guid>
+    </item>
+    <item>
+      <title>23/08/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta per pulizia verde pubblico in Piazza XXV Aprile e in Via Crispi: 26/08/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3270</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3270</guid>
+    </item>
+    <item>
+      <title>23/08/2022 | Determinazioni Dirigenziali</title>
+      <description>Elezioni Politiche ed Elezioni del Presidente della Regione Sicilia del 25 settembre 2022 - Autorizzazione ad effettuare lavoro straordinario ai dipendenti dell'Ufficio Commissione Elettorale Circondariale.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3269</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3269</guid>
+    </item>
+    <item>
       <title>22/08/2022 | Deliberazioni Del Consiglio Comunale</title>
       <description>RICHIESTA ACCANTONAMENTO SOMME NEL REDIGENDO BILANCIO 2022 PER IL COMPLETAMENTO DELL'ILLUMINAZIONE DI C/DA BELFIORE - MOZIONE E DISCUSSIONE - (SU RICHIESTA DEL CONS. COSTANZO + 4).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3268</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3237</link>
       <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3237</guid>
-    </item>
-    <item>
-      <title>13/08/2022 | Ordinanze Sindacali</title>
-      <description>DIVIETO DI SOMMINISTRAZIONE, VENDITA, CONSUMO E DETENZIONE DI ALIMENTI E BEVANDE IN CONTENITORI DI VETRO O METALLO NONCHE' DIVIETO DI SOMMINISTRAZIONE DI BEVANDE SUPERALCOLICHE OLTRE IL 25 PER CENTO DI ALCOL PER I GIORNI 13/14/15 AGOSTO 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3236</link>
-      <pubDate>Sat, 13 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3236</guid>
-    </item>
-    <item>
-      <title>12/08/2022 | Deliberazioni Di Giunta</title>
-      <description>ATTO DI INDIRIZZO PER INIZIATIVE CULTURALI, TURISTICHE E RELIGIOSE  ANNO 2022. ATTO DI INDIRIZZO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3235</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3235</guid>
-    </item>
-    <item>
-      <title>12/08/2022 | Deliberazioni Di Giunta</title>
-      <description>PROGETTO TINDARI FESTIVAL, 66^ EDIZIONE  ANNO 2022- "L'ACCOGLIENZA". CONCESSIONE CONTRIBUTO ISTITUTO FIGLIE DI MARIA AUSILIATRICE  SALESIANE DI DON BOSCO  ISPETTORIA MADRE MADDALENA MORANO  ISI CATANIA PER OSPITATILITA ARTISTI COMPAGNIE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3234</link>
-      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3234</guid>
     </item>
   </channel>
 </rss>
