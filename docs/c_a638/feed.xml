@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale nella giornata 24.08.2022 dalle ore 07:00 alle ore 19:00 e comunque fino a fine lavori.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7878</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7878</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di limitazioni alla circolazione stradale nella giornata di Domenica 28.08.2022 dalle ore 08:00 fino a termine dell'incontro di calcio.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7877</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7851</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7851</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Cella sita a fianco Palazzo "A", blocco F, fila 2^, n° 14; rimborso somme spettanti.  Ditta Caliri Angela</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7850</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7850</guid>
     </item>
   </channel>
 </rss>
