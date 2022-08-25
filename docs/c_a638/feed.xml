@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Avviso pubblico incanto per affitto Terreno in località Barcellona P.G. contrada Argentieri fg. di mappa 41 particelle 26,43,56,73,75,76,77,78,79,80,81,82,121,122,158,159,161,162. Estensione Fondo Ha. 12.09.30</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7880</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7880</guid>
+    </item>
+    <item>
       <title>Verbali Risultanze Di Gara</title>
       <description>Verbale di comparizione dei preventivi relativi al servizio di esternalizzazione asilo nido Petraro</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7879</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7853</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7853</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Cella sita nel Blocco F a fianco Palazzo "A", fila 4^, n° 28; rimborso somme spettanti.  Ditta Biondo Filippo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7852</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7852</guid>
     </item>
   </channel>
 </rss>
