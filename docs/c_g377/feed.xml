@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/08/2022 | Determinazioni Dirigenziali</title>
+      <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALL'INGEGNERIA E ALL'ARCHITETTURA ED ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N°. 77 DI MODIFICA DEL DECRETO LEGGE 16 LUGLIO 2020, N. 76, CONVERTITO, CON MODIFICAZIONE, DALLA LEGGE 11 SETTEMBRE 2020, N. 120, AGGIORNATO AL 21 AGOSTO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3290</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3290</guid>
+    </item>
+    <item>
+      <title>25/08/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3289</link>
+      <pubDate>Thu, 25 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3289</guid>
+    </item>
+    <item>
       <title>24/08/2022 | Deliberazioni Di Giunta</title>
       <description>SERVIZIO MEDICO COMPETENTE E SOGGETTO FORMATORE PER I SOGGETTI  AVVIATI NELLA PROSECUZIONE DEL CANTIERE DI SERVIZI N° 267/ME -  CODICE CUP C46G21017420002.                      ASSEGNAZIONE  RISORSE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3288</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3255</link>
       <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3255</guid>
-    </item>
-    <item>
-      <title>19/08/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Via Orti per pulizia verde pubblico - 22/08/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3254</link>
-      <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3254</guid>
-    </item>
-    <item>
-      <title>18/08/2022 | Determinazioni Dirigenziali</title>
-      <description>PROGETTO DI REALIZZAZIONE DI NUOVI LOCULI ED OSSARI NEL CIMITERO DEL CENTRO - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO - PROGETTISTA  DIRETTORE DEI LAVORI E COLLAUDATORE STATICO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3253</link>
-      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3253</guid>
     </item>
   </channel>
 </rss>
