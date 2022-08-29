@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/08/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 11 DEL 29/08/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3305</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3305</guid>
+    </item>
+    <item>
+      <title>29/08/2022 | Atti Elettorali</title>
+      <description>ELENCO CITTADINI ITALIANI RESIDENTI ALL'ESTERO CHE NON HANNO ESERCITATO L'OPZIONE PER VOTARE IN ITALIA E NON SONO RESIDENTI IN PAESI IN CUI NON PUO' VOTARSI PER CORRISPONDENZA PER ELEZIONI POLITICHE E ELEZIONI REGIONALI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3304</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3304</guid>
+    </item>
+    <item>
+      <title>29/08/2022 | Atti Elettorali</title>
+      <description>CONVOCAZIONE COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3303</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3303</guid>
+    </item>
+    <item>
       <title>29/08/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura energia elettrica - Luglio 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3302</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3271</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3271</guid>
-    </item>
-    <item>
-      <title>23/08/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta per pulizia verde pubblico in Piazza XXV Aprile e in Via Crispi: 26/08/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3270</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3270</guid>
-    </item>
-    <item>
-      <title>23/08/2022 | Determinazioni Dirigenziali</title>
-      <description>Elezioni Politiche ed Elezioni del Presidente della Regione Sicilia del 25 settembre 2022 - Autorizzazione ad effettuare lavoro straordinario ai dipendenti dell'Ufficio Commissione Elettorale Circondariale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3269</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3269</guid>
-    </item>
-    <item>
-      <title>22/08/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RICHIESTA ACCANTONAMENTO SOMME NEL REDIGENDO BILANCIO 2022 PER IL COMPLETAMENTO DELL'ILLUMINAZIONE DI C/DA BELFIORE - MOZIONE E DISCUSSIONE - (SU RICHIESTA DEL CONS. COSTANZO + 4).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3268</link>
-      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3268</guid>
     </item>
   </channel>
 </rss>
