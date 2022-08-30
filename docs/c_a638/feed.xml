@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili a civili. (L.R. n.27/87 e D.Lgs.vo n.152/06) - Validità anni 4 (quattro) Ditta: Pane al Pane di Saja Srls per Attività: Panificio ubicazione:Via Guglielmo Marconi 105 107 Barcellona Pozzo do Gotto (ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7904</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7904</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso Pubblico per l'individuazione dei beneficiari del finanziamento per i Centri Estivi territoriali 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7903</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7903</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>ACQUISTO CARTA BIANCA A4 IN RISME PER GLI UFFICI COMUNALI TRAMITE A AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 36, COMMA 2, LETTERA A) DEL D. LGS. 50/2016</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7902</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7902</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Piano di Zona 2019-2020 - Azione 8 " Sostegno al reddito" - Approvazione graduatoria assegni civici Comune di Rodì Milici</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7901</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7873</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7873</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>CONCESSIONI IMPIANTI SPORTIVI COMUNALI DAL MESE DI AGOSTO 2022 AL 31 DICEMBRE 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7872</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7872</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>elezioni politiche 25 Settembre 2022. Senato della Repubblica, determinazione degli spazi destinati all'affissione del materiale per la propaganda elettorale diretta.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7871</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7871</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Elezioni politiche 25 Settembre 2022. Camera dei Deputati. Determinazione degli spazi destinati all'affissione del materiale per la propaganda elettorale diretta.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7870</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7870</guid>
     </item>
   </channel>
 </rss>
