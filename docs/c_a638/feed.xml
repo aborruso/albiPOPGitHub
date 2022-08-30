@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Piano di Zona 2019-2020 - Azione 8 " Sostegno al reddito" - Approvazione graduatoria assegni civici Comune di Rodì Milici</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7901</link>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7901</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fatture da gennaio ad aprile 2022 utente M.F. Società Cooperativa Sociale onlus In Cammino . CIG: Z573629A95</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7899</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7870</link>
       <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7870</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>ESTATE 2022  EVENTI CALDERA' PIAZZA DELLE ANCORE. Patrocinio e Compartecipazione - Inserimento altra manifestazione.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7869</link>
-      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7869</guid>
     </item>
   </channel>
 </rss>
