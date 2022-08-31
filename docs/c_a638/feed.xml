@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Determinazione dirigenziale N. 234, Reg. Gen. n. 1984 del 31/08/2022. Rettifica.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7919</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7919</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>DECRETO MiBACT N. 8 del 14/01/2022 AFFIDAMENTO FORNITURA OPERE PER LA BIBLIOTECA "NANNINO DI GIOVANNI" ALLA CASA EDITRICE SALVATORE SCIASCIA - CIG Z843795702</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7918</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7891</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7891</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture da maggio a giugno utente D G  FORMAMENTIS SOCIETA COOPERATIVA SOCIALE CIG ZEA36BC830</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7890</link>
-      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7890</guid>
     </item>
   </channel>
 </rss>
