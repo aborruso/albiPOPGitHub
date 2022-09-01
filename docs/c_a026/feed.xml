@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO DIRR N 15 DEL 01/09/22 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419805</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419805</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/166</title>
       <description>FESTA MADONNA DELLA BUONA NUOVA ACITREZZA- PROVVEDIMENTI DI CIRCOLAZIONE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419801</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419564</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419564</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1370</title>
-      <description>IMPEGNO PER ACQUISTO TARGA “PREMIO FEDELTA’ ARTI E MESTIERI” - DITTA “CENTRO COPPE” . - CIG: ZC437883CF .</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419562</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/419562</guid>
     </item>
   </channel>
 </rss>
