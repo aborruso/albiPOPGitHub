@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/09/2022 | Avvisi Vari</title>
+      <description>RIMBORSO BUONI LIBRI SCUOLE SECONDARIE DI PRIMO E SECONDO GRADO ANNO SCOLASTICO 2015/2016</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3348</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3348</guid>
+    </item>
+    <item>
+      <title>02/09/2022 | Avvisi Vari</title>
+      <description>RIMBORSO BUONI LIBRI SCUOLE SECONDARIE PRIMO E SECOND GRADO ANNI SCOLASTICI 2012/2013 - 2014/2015 - E BUONI LIBRI COMUNALI 2019/2020 - 2020/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3347</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3347</guid>
+    </item>
+    <item>
+      <title>02/09/2022 | Avvisi Vari</title>
+      <description>FORNITURA GRATUITA E SEMIGRATUITA DEI LIBBRI DI TESTO ANNO SCOLASTICO 2022/2023 - MODULO DI DOMANDA DA PRESEMTERE ENTRO IL 14/10/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3346</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3346</guid>
+    </item>
+    <item>
+      <title>02/09/2022 | Avvisi Di Gara</title>
+      <description>GARA TELEMATICA PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DEL CENTRO DI ACCOGLIENZA PER CITTADINI UCRAINI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3345</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3345</guid>
+    </item>
+    <item>
       <title>01/09/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione acconto competenze tecniche per la Redazione del "Piano di Azione per l'Energia Sostenibile e il Clima (PAESC). CODICE CUP: C42G19000180002 - Codice Caronte SI_1_22429</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3344</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3314</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3314</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Ordinanze Sindacali</title>
-      <description>ORDINANZA T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3312</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3312</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PRONT DISPONIOBILITA' MESE DI SETTEMBRE 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3311</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3311</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3310</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3310</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA A FAVORE DELLA SIG.RA MONDELLO MARIA IN ESECUZIONE DELLA DELIBERA DI C.C. N. 40/2022. LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3309</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3309</guid>
     </item>
   </channel>
 </rss>
