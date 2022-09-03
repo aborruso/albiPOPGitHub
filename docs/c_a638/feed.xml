@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Elettorali</title>
+      <description>Elezione Politiche E Regionali.Verbale relativo alla compilazione dell'elenco dei cittadini residenti all'estero che non hanno esercitato l'opzione per votare in Italia e non sono residenti in Paesi in cui non può votarsi per corrispondenza, e dei cittadini italiani temporaneamente all'estero che hanno espresso l'opzione per votare per corrispondenza. Verbale N.34</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7969</link>
+      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7969</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>RIMBORSO PASTI MENSA AUTOGESTITA ALUNNI SCUOLA SECONDARIA DI SECONDO GRADO "I.C. U. FOSCOLO" - Anno scolastico 2021 2022.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7968</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7941</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7941</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza Sanzione Amministrativa ai sensi dell'art. 73, comma 2 del DPR n. 380/2001, per ritardata presentazione al competente Ufficio Tecnico Regionale indicata nellart. 65 comma 6 del DPR 380/2001, relativa al fabbricato per civile abitazione, sit</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7940</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7940</guid>
     </item>
   </channel>
 </rss>
