@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/09/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione spesa ricovero disabile  il Gruppo Appartamento " Raggio di Sole"  Patti periodo da Febbraio a Luglio 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3356</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3356</guid>
+    </item>
+    <item>
       <title>02/09/2022 | Deliberazioni Di Giunta</title>
       <description>Servizi di supporto ad adempimenti Fiscali e Contributivi.  Assegnazione somme.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3355</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3322</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3322</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura materiale per la manutenzione di quadri elettrici a servizio degli impianti di sollevamento fognario e impianti idrici. Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3321</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3321</guid>
     </item>
   </channel>
 </rss>
