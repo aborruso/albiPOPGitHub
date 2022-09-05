@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/09/2022 | Atti Elettorali</title>
+      <description>Elenco scrutatori per Elezioni del 25 settembre 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3363</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3363</guid>
+    </item>
+    <item>
+      <title>05/09/2022 | Atti Di Interesse Generale</title>
+      <description>Comunicato stampa del comune d'intesa con gli organi di polizia competenti in occasione della festività liturgica della madonna del Tindari della Madonna del Tindari del 07 e 08 settembre 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3362</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3362</guid>
+    </item>
+    <item>
       <title>05/09/2022 | Avvisi Vari</title>
       <description>Bando Borsa di studio "Pisani Caccia"</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3361</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3329</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3329</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Deliberazioni Di Giunta</title>
-      <description>Fornitura aggiuntiva dei registri di Stato Civile per l'anno 2022  Assegnazione risorse</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3328</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3328</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Deliberazioni Di Giunta</title>
-      <description>FESTEGGIAMENTI MARIA SS. ADDOLORATA ANNO 2022- PARROCCHIA "SANTA CATERINA".  CONCESSIONE CONTRIBUTO- ASSEGNAZIONE RISORSE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3327</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3327</guid>
     </item>
   </channel>
 </rss>
