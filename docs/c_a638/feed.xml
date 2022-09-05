@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco abusivismo edilizio mese di agosto 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7971</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7971</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURA N° 377/2022 DITTA ZETA UFFICIO DI ZAGONE MARIA GRAZIA  PER FORNITURA ARREDI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7970</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7970</guid>
+    </item>
+    <item>
       <title>Atti Elettorali</title>
       <description>Elezione Politiche E Regionali.Verbale relativo alla compilazione dell'elenco dei cittadini residenti all'estero che non hanno esercitato l'opzione per votare in Italia e non sono residenti in Paesi in cui non può votarsi per corrispondenza, e dei cittadini italiani temporaneamente all'estero che hanno espresso l'opzione per votare per corrispondenza. Verbale N.34</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7969</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7943</link>
       <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7943</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura alla Associazione Amici della Natura per il servizio di ricovero e mantenimento cani randagi ( periodo mese di Luglio 2022)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7942</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7942</guid>
-    </item>
-    <item>
-      <title>Bando Di Concorso</title>
-      <description>Avviso di manifestazione di interesse per utilizzo di graduatorie di concorsi pubblici espletati da altri Enti per la copertura di N.1 Posto di Dirigente Contabile e di N. 1 Posto di Dirigente Tecnico</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7941</link>
-      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7941</guid>
     </item>
   </channel>
 </rss>
