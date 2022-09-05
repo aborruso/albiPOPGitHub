@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/09/2022 | Avvisi Vari</title>
+      <description>Bando Borsa di studio "Pisani Caccia"</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3361</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3361</guid>
+    </item>
+    <item>
       <title>05/09/2022 | Determinazioni Dirigenziali</title>
       <description>CONCESSIONE PERMESSI LAVORATIVI RETRIBUITI AI SENSI DELL'ART. 33, COMMA  3, DELLA LEGGE 104/92 ALLA DIPENDENTE GIARRIZZO TIZIANA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3360</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3327</link>
       <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3327</guid>
-    </item>
-    <item>
-      <title>30/08/2022 | Deliberazioni Di Giunta</title>
-      <description>Elezioni della Camera dei deputati e del Senato della Repubblica ed Elezione diretta  del Presidente della Regione e dell'Assemblea Regionale del 25 settembre 2022 - Assegnazione somme al Responsabile dell'Area.Demografici Elettorale-</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3326</link>
-      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3326</guid>
     </item>
   </channel>
 </rss>
