@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 5430</title>
+      <description>DELIBERA DI GIUNTA N. 2022/193 - SINDACO - O.C.D.P.C. n. 616/2019 e n. 851/2022 - Piano degli interventi redatto ai sensi dellart. 25 c. 2 lett. d) del D.Lgs. 1/2018 in conseguenza degli eccezionali eventi meteorologici verificatisi a partire dal giorno 12 novembre 2019 nel territorio del Comune di Venezia e della sua Laguna. Murano Faro: ricostruzione approdo reso inagibile dallalta marea nella medesima posizione del precedente al fine di ripristinare le condizioni di mobilità ante emergenza di competenza del Gruppo A.V.M. S.p.a.. A</description>
+      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_193_34567_TESTO.pdf</link>
+      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_193_34567_TESTO.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 5389</title>
       <description>DELIBERA DI GIUNTA N. 2022/192 - POLITICHE EDUCATIVE - Linee di indirizzo per lerogazione di contributi a soggetti pubblici e/o privati finalizzati allorganizzazione dei centri estivi per lanno 2022 a seguito del Decreto Legge n.73 del 21.06.22 Misure urgenti in materia di semplificazioni fiscali e di rilascio del nulla osta al lavoro,Tesoreria dello Stato e ulteriori disposizioni finanziarie e sociali-pubblicazione ai sensi dellart.26e27del decreto legislativo 33/2013 nella sezione "amministrazione trasparente" del sito istituzionale dellente</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_192_35114_TESTO.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 4371</title>
-      <description>BANDO DAPPALTO SISTEMA DI QUALIFICAZIONE FORNITORI SMART CARDS</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</guid>
     </item>
   </channel>
 </rss>
