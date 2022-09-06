@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Concessione edilizia n. 21 del 5 settembre  2022 in ditta Genovese Antonino Via Battifoglia  n 1 Pal D int 6</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7990</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7990</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>CONCESSIONE ALL'USO DI PASSO CARRABILE: BONINA VINCENZO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7989</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7963</link>
       <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7963</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Atto di citazione contro ASP di Messina per il recupero delle somme pagate dal Comune di Barcellona PG per l'assistenza a favore dei disabili mentali Acconto e contributo unificato Avv Mazzeo Carmelo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7962</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=7962</guid>
     </item>
   </channel>
 </rss>
