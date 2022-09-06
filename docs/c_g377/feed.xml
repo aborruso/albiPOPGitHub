@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/09/2022 | Determinazioni Dirigenziali</title>
+      <description>Concessione ulteriore periodo di congedo straordinario retribuito ex art. 42 c. 5 del D. Lgs. n. 151/2001 al dipendente  Iannelli Filippo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3370</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3370</guid>
+    </item>
+    <item>
+      <title>06/09/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito lungomare C.F. Zuccarello  sabato e domenica. Revoca Ordinanza n. 148/22</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3369</link>
+      <pubDate>Tue, 06 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3369</guid>
+    </item>
+    <item>
       <title>06/09/2022 | Avvisi Vari</title>
       <description>Modulistica per istanza di parere di compatibilità per interventi o attività in aree perimetrate nel PAI a pericolosità elevata (P3), molto elevata (P4) e/o sito di attenzione (D.P. n. 9 del 06/05/2021) - CIRCOLARE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3368</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3336</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3336</guid>
-    </item>
-    <item>
-      <title>31/08/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER SALDO SPESE LEGALI ALL'AVV. LAURA PALAZZOLO. CONTROVERSIA FALLIMENTO CRISÀ COSTRUZIONI S.R.L..</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3335</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3335</guid>
-    </item>
-    <item>
-      <title>31/08/2022 | Determinazioni Dirigenziali</title>
-      <description>Elezioni della Camera dei deputati e del Senato della Repubblica ed Elezione diretta  del Presidente della Regione e dell'Assemblea Regionale del 25 settembre 2022 - Impegno di spesa per straordinario Elettorale-</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3334</link>
-      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3334</guid>
     </item>
   </channel>
 </rss>
