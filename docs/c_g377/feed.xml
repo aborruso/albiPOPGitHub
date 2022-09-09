@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/09/2022 | Bandi Di Concorso</title>
+      <description>Bando di corso con selezione finale per istruttori tecnici cat. C1</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3392</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3392</guid>
+    </item>
+    <item>
+      <title>09/09/2022 | Atti Elettorali</title>
+      <description>LISTE DEI CANDIDATI DEL COLLEGIO PLURINOMINALE - ELEZIONE DEL SENATO DELLA REPUBBLICA ANNO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3391</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3391</guid>
+    </item>
+    <item>
+      <title>09/09/2022 | Atti Elettorali</title>
+      <description>LISTE DEI CANDIDATI NEL COLLEGIO PLURINOMINALE - ELEZIONE DELLA CAMERA DEI DEPUTATI ANNO 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3390</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3390</guid>
+    </item>
+    <item>
       <title>09/09/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Buoni libri comunali per le scuole secondarie di primo grado. Anno scolastico 2021/2022. Liquidazione.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3389</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3358</link>
       <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3358</guid>
-    </item>
-    <item>
-      <title>05/09/2022 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione della viabilità in occasione dei festeggiamenti della Madonna  del Tindari: 07- 08.09.22</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3357</link>
-      <pubDate>Mon, 05 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3357</guid>
-    </item>
-    <item>
-      <title>03/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione spesa ricovero disabile  il Gruppo Appartamento " Raggio di Sole"  Patti periodo da Febbraio a Luglio 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3356</link>
-      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3356</guid>
-    </item>
-    <item>
-      <title>02/09/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizi di supporto ad adempimenti Fiscali e Contributivi.  Assegnazione somme.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3355</link>
-      <pubDate>Fri, 02 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3355</guid>
     </item>
   </channel>
 </rss>
