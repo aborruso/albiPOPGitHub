@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/37028</title>
+      <description>MANIFESTI CANDIDATI SENATO E CAMERA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420567</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420567</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1418</title>
       <description>CONCESSIONE PER PASSO CARRABILE DI ML. 3,00 - SITO: VIA GAGINI N. 8/A - CAT. VIARIA 2° - CONTRASSEGNATO CON IL N. 730/2022.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420545</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420362</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420362</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1407</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA RACO S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200108) CONFERITI NEL MESE DI AGOSTO 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420308</link>
-      <pubDate>Wed, 07 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420308</guid>
     </item>
   </channel>
 </rss>
