@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1419</title>
+      <description>VOLTURA PROVVEDIMENTO AUTORIZZATIVO UNICO ALLA SOCIETA' VISUAL ADV SRL A MANTENERE INSTALLATE N. 10 STRUTTURE PUBBLICITARIE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420841</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420841</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/140</title>
       <description>CELEBRAZIONI IN OCCASIONE DEL CENTENARIO DELLA MORTE DI GIOVANNI VERGA - INTEGRAZIONE E RETTIFICA DELLA DELIBERAZIONE DI GIUNTA COMUNALE N. 126 DEL 26/07/2022</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420803</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420372</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420372</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1409</title>
-      <description>REFERENDUM POPOLARI ABROGATIVI DEL 12/06/2022. LIQUIDAZIONE LAVORO STRAORDINARIO ALLA DOTT.SSA PRINCIOTTA CARIDDI, PERSONALE DIPENDENTE DI QUESTA AMMINISTRAZIONE.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420366</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420366</guid>
     </item>
   </channel>
 </rss>
