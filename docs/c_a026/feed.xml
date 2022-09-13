@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO NR. 15 DEL 13/09/22 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420882</link>
+      <pubDate>Tue, 13 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420882</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1419</title>
       <description>VOLTURA PROVVEDIMENTO AUTORIZZATIVO UNICO ALLA SOCIETA' VISUAL ADV SRL A MANTENERE INSTALLATE N. 10 STRUTTURE PUBBLICITARIE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420841</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420374</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420374</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1410</title>
-      <description>LIQUIDAZIONE ALLA DITTA “TIPOLITOGRAFIA FERLITO” DEL SIG. FERLITO RAIMONDO PER FORNITURA DI MATERIALE PROMO-PUBLICITARIO PER IL “CICLOPI SUMMER FEST” - CIG: Z8B3717B03</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420372</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420372</guid>
     </item>
   </channel>
 </rss>
