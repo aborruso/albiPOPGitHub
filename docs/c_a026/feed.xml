@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO NR. 12 DEL 14/09/22 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421009</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421009</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1420</title>
       <description>NOMINA COMMISSIONE DI GARA PER BANDO RELATIVO AL RILASCIO DELLE AUTORIZZAZIONI DI SOMMINISTRAZIONE AL PUBBLICO DI ALIMENTI E BEVANDE DI TIPOLOGIA “A” E “B” NELLE ZONE CONTINGENTATE DI ACI TREZZA, ACI CASTELLO E CANNIZZARO (ZONA SCOGLIERA), A SEGUITO DI SOSPENSIONE TEMPORANEA DELLE PROCEDURE DI CONCESSIONE DELLE LICENZE DI SOMMINISTRAZIONE PER LE AREE CONTINGENTATE, COSI' COME PREVISTO DALLA DELIBERA N. 21 DEL 19/07/2022.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420993</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420388</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420388</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/173</title>
-      <description>DIVIETO DI BALNEAZIONE TEMPORANEO NEL TRATTO DI MARE COMPRESO TRA IL LUNGOMARE GALATEA E IL CIV. 124 DI VIA LIVORNO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420380</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420380</guid>
     </item>
   </channel>
 </rss>
