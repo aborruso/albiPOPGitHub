@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/09/2022 | Avvisi Vari</title>
+      <description>AVVISO -SCHEDA   PARTECIPAZIONE AI PROGETTI DI DEMOGRAZIA PARTECIPATA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3441</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3441</guid>
+    </item>
+    <item>
+      <title>14/09/2022 | Avvisi Vari</title>
+      <description>Assemblea consulta giovanile</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3440</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3440</guid>
+    </item>
+    <item>
       <title>14/09/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito e alla sosta p.le Santa Venera.: dal 14.09 al 19.09.22.    Chiusura al transito via Manzoni: 15.09.22    Divieto di sosta Via XX Settembre slargo salita Brofferio: 16.09.22</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3439</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3407</link>
       <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3407</guid>
-    </item>
-    <item>
-      <title>12/09/2022 | Determinazioni Dirigenziali</title>
-      <description>SPESE LEGALI A SALDO AVV. LAURA PALAZZOLO. CONTROVERSIA FALLIMENTO CRISA' COSTRUZIONI S.R.L.-IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3406</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3406</guid>
-    </item>
-    <item>
-      <title>12/09/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura aggiuntiva dei registri di Stato civile Anno 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3405</link>
-      <pubDate>Mon, 12 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3405</guid>
     </item>
   </channel>
 </rss>
