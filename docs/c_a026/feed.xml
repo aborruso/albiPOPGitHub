@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/95</title>
+      <description>REVOCA NOMINA RESPONSABILE DELL’ANAGRAFE DELLA STAZIONE APPALTANTE (RASA) DEL COMUNE DI ACI CASTELLO E NOMINA NUOVO RESPONSABILE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421137</link>
+      <pubDate>Thu, 15 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421137</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/94</title>
       <description>RICORSO PROMOSSO INNANZI AL GIUDICE DI PACE DI ACIREALE RG N. 725/2022 IN OPPOSIZIONE A VERBALE DI CONTESTAZIONE PER VIOLAZIONE AMMINISTRATIVA ALLE NORME DETTATE DALL’ORDINANZA N. 73/2021. COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421104</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420541</link>
       <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420541</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/36954</title>
-      <description>PUBBLICAZIONE AVVISO "ADESIONE REFEZIONE SCOLASTICA"</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420522</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/420522</guid>
     </item>
   </channel>
 </rss>
