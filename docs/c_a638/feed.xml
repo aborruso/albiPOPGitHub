@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>determina dirigenziale n. 43, Reg. Gen. n. 346 del 14/02/2022. Integrazione.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8199</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8199</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>LAVORI DI MANUTENZIONE PRESSO IL CENTRO PER DISABILI DI ORETO E PRESSO LA  PALESTRA E  SERVIZI IGIENICI DELLO STADIO D'ALCONTRES, FORNITURA DI ARREDI PER INFRASTRUTTURE SOCIALI VARIE E FORNITURA DI APERTURE SCORREVOLI LATERALI E DI TESTATA PER CHIUSU</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8198</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8172</link>
       <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8172</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fatture Enel  Energia s.p.a. fornitura di luce presso le Scuole Medie del 13 luglio 2022, relative al mese di giugno 2022  Totale  euro 4.286,04 oltre IVA euro 942,93</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8171</link>
-      <pubDate>Mon, 19 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8171</guid>
     </item>
   </channel>
 </rss>
