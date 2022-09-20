@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/09/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE QUOTA CONSORTILE ANNO 2022 IN FAVORE DEL CONSORZIO INTERCOMUNALE TINDARI NEBRODI</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3478</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3478</guid>
+    </item>
+    <item>
       <title>20/09/2022 | Determinazioni Dirigenziali</title>
       <description>DOTAZIONE D.P.I. PER I SOGGETTI AVVIATI NELLA PROSECUZIONE DEL CANTIERE DI SERVIZI N° 267/ME - DITTA: F.E.P. S.r.l.s. - AFFIDAMENTO E IMPEGNO SPESA - CUP: C46G21017420002 - CIG: ZB837BCCC2.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3477</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3444</link>
       <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3444</guid>
-    </item>
-    <item>
-      <title>14/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATT. N. FPA-INT39_22 DEL 20/07/2022 - SERVIZIO DI INTERMEDIAZIONE PER IL CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE (CER 20/01/08) PRESSO IMPIANTO AUTORIZZATO - MESE DI GIUGNO - DITTA PROGITEC SRL - CIG: ZB135D7399.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3443</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3443</guid>
     </item>
   </channel>
 </rss>
