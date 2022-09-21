@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/67/A/PEA</title>
+      <description>TRASMISSIONE AUTORIZZAZIONE ALLO SCARICO DITTA MIRONE RICCARDO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421883</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421883</guid>
+    </item>
+    <item>
+      <title>Atto numero 2022/184</title>
+      <description>PROVVEDIMENTI DI CIRCOLAZIONE IN VIA CRISTOFORO COLOMBO - DIVIETO DI SOSTA GIORNO 23/09/2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421881</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421881</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1465</title>
       <description>IMPEGNO DI SPESA PER ESECUZIONE ANALISI AGGIUNTIVE SULLA RACCOLTA DEGLI IMBALLAGGI IN PLASTICA (CER 150102) AI SENSI DELLA VIGENTE CONVENZIONE COREPLA.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421819</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421689</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421689</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/38349</title>
-      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE, IN SESSIONE ORDINARIA PER DETERMINAZIONE DEL PRESIDENTE DEL CONSIGLIO COMUNALE AI SENSI DELL'ART. 50 - COMMA 7 E 8 DEL VIGENTE REGOLAMENTO COMUNALE - IN PRESENZA PER IL GIORNO 28.09.2022 ALLE ORE 10.00.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421685</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421685</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1452</title>
-      <description>LIQUIDAZIONE FATTURA ALLA DITTA SOIV S.R.L. PER IL SERVIZIO DI CONDUZIONE E MANUTENZIONE DEGLI IMPIANTI DI SOLLEVAMENTO A SERVIZIO DELLA RETE FOGNARIA COMUNALE PER IL MESE DI AGOSTO 2022 - CIG: ZCD34B4118</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421673</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/421673</guid>
     </item>
   </channel>
 </rss>
