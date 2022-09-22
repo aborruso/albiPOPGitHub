@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/09/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LAVORI DI RIPARAZIONE DELL'IMPIANTO DI VIDEOSORVEGLIANZA NEL PARCHEGGIO DENOMINATO "LOCANDA 2" IN LOCALITA TINDARI - DITTA: IMPIANTI SERVICE E COMMERCE SDDM S.r.l.s. - LIQUIDAZIONE FATTURA N. 68 del 20/09/2022 - CIG: ZDD3716308.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3496</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3496</guid>
+    </item>
+    <item>
+      <title>22/09/2022 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3495</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3495</guid>
+    </item>
+    <item>
       <title>22/09/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura Lungomare pomeriggio del 24/09/22 per manifestazione "Patti in Sport".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3494</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3462</link>
       <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3462</guid>
-    </item>
-    <item>
-      <title>16/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE URGENTE DELL'IMPIANTO DI PUBBLICA ILLUMINAZIONE - LIQUIDAZIONE FATTURA - DITTA: MARO IMPIANTI s.r.l.s.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3461</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3461</guid>
-    </item>
-    <item>
-      <title>16/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INCARICO DI CONSULENZA SPECIALISTICA PER LA REDAZIONE DEL PROGETTO CICLOVIA STORICO-NATURALISTICA TRA LA VILLA ROMANA E IL CENTRO STORICO DI PATTI A MARGINE DEL TORRENTE MONTAGNAREALE - LIQUIDAZIONE FATTURA COMPETENZE TECNICHE ARCH. LUCA DAVIDE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3460</link>
-      <pubDate>Fri, 16 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3460</guid>
     </item>
   </channel>
 </rss>
