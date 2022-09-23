@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di demolizione dei lavori eseguiti a Barcellona P. G. in Via Arciprete Bonsignore n. 20, individuati nel NCU del Comune di Barcellona P. G. al fg. 35 part.lla n. 1708.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8281</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8281</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°22 del 21 settembre 2022 - pratica edilizia n°19324 a nome della Ditta Costantino Antonina</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8280</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8280</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto per irreperibilità ai sensi dell'art. 143 C.P.C. a carico dei signori Genovese Giuseppe e La Rosa Francesca</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8279</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8279</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Modulistica istanza per realizzare interventi di rimozione dei depositi sovralluvionali (DSG n.60/2022, DSG n.237/2022 e D.S.G.n.265/2022)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8277</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8253</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8253</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta di autorizzazione per la posa di un cavidotto interrato per passaggio cavo enel. Come da relazione tecnica. Via Ugo di Sant'onofrio, Via Operia Barcellona P.G. "come da planimetria" Utente: Gabriele Salvo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8252</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8252</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture da maggio a giugno utente A C FORMAMENTIS SOCIETA COOPERATIVA SOCIALE CIG ZB436B3640</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8251</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8251</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture luglio 2022 utente D A G.  FORMAMENTIS SOCIETA COOPERATIVA SOCIALE CIG ZEA36BC830</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8250</link>
-      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8250</guid>
     </item>
   </channel>
 </rss>
