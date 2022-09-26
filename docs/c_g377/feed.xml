@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/09/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in Via Messina - Prossimità Caselli A 20 per lavor: 27/09/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3508</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3508</guid>
+    </item>
+    <item>
       <title>24/09/2022 | Determinazioni Dirigenziali</title>
-      <description>Anticipazione straordinaria all'economo e Determina a contrarre ed affidamento servizio di organizzazione evento inaugurale per i parchi giochi inclusivi di Case Nuove Russo e Parco Robinson -  CIG  Z6237E2A0F - DITTA:  TELE SERVICE Sound &amp; Light Equ</description>
+      <description>Anticipazione straordinaria all'economo e determina a contrarre ed affidamento servizio di organizzazione evento inaugurale per i parchi giochi inclusivi di Case Nuove Russo e Parco Robinson - CIG: Z6237E2A0F - Ditta: Tele Service Sound &amp; Light Equipment di Baragona Nicola.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3507</link>
       <pubDate>Sat, 24 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3507</guid>
@@ -123,7 +130,7 @@
     </item>
     <item>
       <title>22/09/2022 | Determinazioni Dirigenziali</title>
-      <description>MANUTENZIONE QUADRI ELETTRICI A SERVIZIO DEGLI IMPIANTI DI SOLLEVAMENTO FOGNARIO E IMPIANTI IDRICI - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA -  DITTA: LUIGI FLORIDIA.</description>
+      <description>MANUTENZIONE QUADRI ELETTRICI A SERVIZIO DEGLI IMPIANTI DI SOLLEVAMENTO FOGNARIO E IMPIANTI IDRICI - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA - DITTA: LUIGI FLORIDIA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3492</link>
       <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3492</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3474</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3474</guid>
-    </item>
-    <item>
-      <title>20/09/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI SOMMA URGENZA PER RIPARAZIONE ACQUEDOTTO ZONA VALLE - DELIBERA DI CONSIGLIO COMUNALE N. 20/2022 - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3473</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3473</guid>
     </item>
   </channel>
 </rss>
