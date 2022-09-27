@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa ai sensi dell'art. 60 D.P.R. a nome di Genovese Santina</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8327</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8327</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>FORNITURA SERVIZI CIMITERIALI PER IL RIPRISTINO DELLE CONDIZIONI IGIENICO-SANITARIE                C.I.G. Z1337E295B Attivazione delle procedure per la selezione del contraente- Autorizzazione a contrattare-Affidamento</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8326</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8326</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Prenotazione di Impegno spesa per il conferimento dei rifiuti biodegradabili presso la ditta REM Srl, gestore dell'impianto di compostaggio sito in C.da Milisinni Catania, per il periodo settembre/dicembre 2022.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8325</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8325</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>istituzione divieto di sosta con rimozione in via Dello stadio per incontro di calcio giorno 28.09.22 dalle ore 08:00 alle ore 20:00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8324</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8295</link>
       <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8295</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>INCARICO per attività di Direzione lavori e connesse  a dipendenti dell'Ente relative a: LAVORI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DI STRADE COMUNALI.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8294</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8294</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione fattura n11E del 31 08 2022 Ditta Scilipoti Snc di Scilipoti</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8293</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8293</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione fattura n 270 2022 FE del 23 08 2022 Ditta Salvo Antonino</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8292</link>
-      <pubDate>Fri, 23 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8292</guid>
     </item>
   </channel>
 </rss>
