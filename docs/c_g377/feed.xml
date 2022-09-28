@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/09/2022 | Determinazioni Dirigenziali</title>
+      <description>Rettifica premessa alla Determina N. 439, del 22/07/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3523</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3523</guid>
+    </item>
+    <item>
       <title>28/09/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>INTEGRAZIONE RIVERSAMENTO CIE - MESE DI MAGGIO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3522</link>
@@ -39,7 +46,7 @@
     </item>
     <item>
       <title>28/09/2022 | Atti Di Interesse Generale</title>
-      <description>PRESENTAZIONE ISTANZA DI CONCESSIONE O DI RINNOVO TESSERA DI LIBERA CIRCOLAZIONE A.S.T. PER PORTATORI DI HANDICAP - ANNO 2023/2024 AI SENSI DELLA L. R. N. 68 E SUCCESSIVE MODIFICHE.</description>
+      <description>PRESENTAZIONE ISTANZA DI CONCESSIONE O DI RINNOVO TESSERA DI LIBERA CIRCOLAZIONE A.S.T. PER PORTATORI DI HANDICAP - ANNO 2023/2024 - AI SENSI DELLA L. R. N. 68 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI..</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3519</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3519</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3489</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3489</guid>
-    </item>
-    <item>
-      <title>21/09/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. ANDREA PIRRI PER LA COSTITUZIONE NEL RICORSO IN APPELLO EX ART. 433 C.P.C. PROMOSSO DAL SIG. AIELLO GIUSEPPE - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3488</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3488</guid>
     </item>
   </channel>
 </rss>
