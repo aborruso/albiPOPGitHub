@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/09/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>INTEGRAZIONE RIVERSAMENTO CIE - MESE DI MAGGIO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3522</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3522</guid>
+    </item>
+    <item>
+      <title>28/09/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Trasferimento corrispettivi Cie al Ministero - Impegno spesa e liquidazione - Agosto 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3521</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3521</guid>
+    </item>
+    <item>
       <title>28/09/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito e alla sosta della piazza M. Sciacca per lavori: 30.09.22</description>
+      <description>Chiusura al transito e alla sosta della Piazza M. Sciacca per lavori: 30/09/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3520</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3520</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3488</link>
       <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3488</guid>
-    </item>
-    <item>
-      <title>21/09/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3487</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3487</guid>
-    </item>
-    <item>
-      <title>21/09/2022 | Determinazioni Dirigenziali</title>
-      <description>Assegnazione ulteriore periodo di congedo straordinario ex art. 42  c. 5 D. Lgs. N. 151/2001 e s.m.i. al dipendente Omissis.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3486</link>
-      <pubDate>Wed, 21 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3486</guid>
     </item>
   </channel>
 </rss>
