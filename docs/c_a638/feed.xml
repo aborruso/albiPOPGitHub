@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>verbale seduta consiliare del 23 febbraio 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8361</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8361</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>liquidazione fattura alla C.C. DOG S LIFE per il servizio di ricovero e mantenimento cani randagi  e cuccioli abbandonati ( periodo  Agosto-20 settembre)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8360</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8334</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8334</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avvisi deposito atti n. 2 in busta chiusa a carico di Lakatos  Adrian</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8333</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8333</guid>
     </item>
   </channel>
 </rss>
