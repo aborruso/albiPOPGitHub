@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in Via Padre Pio per potatura alberi: 06/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3563</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3563</guid>
+    </item>
+    <item>
+      <title>04/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3562</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3562</guid>
+    </item>
+    <item>
       <title>04/10/2022 | Deliberazioni Del Consiglio Comunale</title>
       <description>ANNULLAMENTO IN AUTOTUTELA, AI SENSI DELL'ART. 21-NONIES DELLA LEGGE N. 241/1990 DELLA DELIBERA DI CONSIGLIO COMUNALE N. 55/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3561</link>
@@ -172,7 +186,7 @@
     </item>
     <item>
       <title>29/09/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di conferimento dei rifiuti organici (CER 20.01.08) provenienti dalla raccolta differenziata presso impianto autorizzato - Periodo: 01/10/2022 - 15/10/2022 - Assegnazione risorse al Responsabile del II° Settore "Servizi Tecnici".</description>
+      <description>Servizio di conferimento dei rifiuti organici (CER 20.01.08) provenienti dalla raccolta differenziata presso impianto autorizzato - Periodo: 01/10/2022-15/10/2022 - Assegnazione risorse al Responsabile del II° Settore "Servizi Tecnici".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3539</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3539</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3529</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3529</guid>
-    </item>
-    <item>
-      <title>29/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI CONFERIMENTO PRESSO IMPIANTO AUTORIZZATO DEI RIFIUTI PROVENIENTI DALLA PULIZIA STRADALE (CER 20.03.03) - LIQUIDAZIONE FATTURA N. FE/2022/0858 DEL 31/08/2022 -  DITTA: PI.ECO S.R.L. - CIG: Z8B351182B.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3528</link>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3528</guid>
-    </item>
-    <item>
-      <title>29/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>VERIFICA PERIODICA ANNO 2022 SU GRU MARCA F.LLI FERRARI MOD. 530 A2 N. MATRICOLA 01/200490/ME MONTATA SU AUTOCARRO ALFA ROMEO TARGATO BT 569 EF - DITTA: ASP MESSINA - LIQUIDAZIONE FATTURA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3527</link>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3527</guid>
     </item>
   </channel>
 </rss>
