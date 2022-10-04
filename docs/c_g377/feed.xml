@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/10/2022 | Determinazioni Del Sindaco</title>
+      <description>Attribuzione funzioni dirigenziali responsabile del 8° Settore Welfare Politiche Giovanili e Partecipazione Civica  Dott.ssa Fiorello Nunziata</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3557</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3557</guid>
+    </item>
+    <item>
       <title>03/10/2022 | Deliberazioni Di Giunta</title>
       <description>Utilizzo in forma associata dell'attività lavorativa di categoria C del Comune di San Filippo del Mela - Approvazione dello schema di convenzione allegato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3556</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3523</link>
       <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3523</guid>
-    </item>
-    <item>
-      <title>28/09/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTEGRAZIONE RIVERSAMENTO CIE - MESE DI MAGGIO 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3522</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3522</guid>
     </item>
   </channel>
 </rss>
