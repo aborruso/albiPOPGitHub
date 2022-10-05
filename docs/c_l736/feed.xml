@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 6122</title>
+      <description>DELIBERA DI CONSIGLIO N. 2022.50 - Bilancio consolidato del Gruppo Citt¿¿ di Venezia - Anno 2021</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_50_001_1240_CC_2022_50.odt.pdf</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_50_001_1240_CC_2022_50.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 6080</title>
       <description>DELIBERA DI GIUNTA N. 2022/225 - LAVORI PUBBLICI - C.I. 15024.  Sicurezza e decoro Lido e Pellestrina. Approvazione del progetto definitivo comprensivo del progetto di fattibilità tecnico economica.</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_225_35446_TESTO.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP143915.pdf</link>
       <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP143915.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 6124</title>
-      <description>AVVISO PUBBLICO PER LA FORMAZIONE DELLELENCO APERTO DI OPERATORI ECONOMICI DA INTERPELLARE PER LESECUZIONE DI LAVORI PUBBLICI IN CASO DI RICORSO A PROCEDURE NEGOZIATE DI IMPORTO INFERIORE A 1.000.000,00 DI EURO, AI SENSI DELLARTICOLO 36 DEL DECRETO LEGISLATIVO 18 APRILE 2016 N. 50 E SMI</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136553.pdf</link>
-      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136553.pdf</guid>
     </item>
   </channel>
 </rss>
