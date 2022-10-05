@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/10/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>FORNITURA DI PIETRA LAVICA PER LA PAVIMENTAZIONE DELLA SCALINATA DEL PARCO ROBINSON - DITTA: PATTI MARMI DI ROBERTO DA CAMPO - CIG: Z273725FF6 - LIQUIDAZIONE FATTURA N. 68 DEL 28/09/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3565</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3565</guid>
+    </item>
+    <item>
       <title>04/10/2022 | Determinazioni Dirigenziali</title>
       <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3564</link>
@@ -102,7 +109,7 @@
     </item>
     <item>
       <title>03/10/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Art. 175, comma 4 D. Lgs: N. 267/2000 - Ratifica variazione di Bilancio adottata dalla Giunta Municipale con deliberazini N.ri 293, 294 e 295 dell'11/08/2022 e N.ri 312 e 313 del 24/08/2022.</description>
+      <description>Art. 175, comma 4 D. Lgs: N. 267/2000 - Ratifica variazione di Bilancio adottata dalla Giunta Municipale con deliberazioni N.ri 293, 294 e 295 dell'11/08/2022 e 312 e 313 del 24/08/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3552</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3552</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3531</link>
       <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3531</guid>
-    </item>
-    <item>
-      <title>29/09/2022 | Determinazioni Dirigenziali</title>
-      <description>CONCESSIONE PERMESSI MENSILI Al SENSI DELL'ART. 33 C. 3 DELLA LEGGE N. 104/92 E S.M.I. - DIPENDENTE DI RUOLO SIG. OMISSIS.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3530</link>
-      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3530</guid>
     </item>
   </channel>
 </rss>
