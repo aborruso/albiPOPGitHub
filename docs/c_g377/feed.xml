@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/10/2022 | Ordinanze Sindacali</title>
+      <description>NUOVO ORARIO DI APERTURA AL PUBBLICO DEI CIMITERI DEL COMUNE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3582</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3582</guid>
+    </item>
+    <item>
+      <title>06/10/2022 | Avvisi Di Gara</title>
+      <description>GARA CON PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI INTERMEDIAZIONE, RITIRO, TRASPORTO E CONFERIMENTO A RECUPERO DEI RIFIUTI INDIFFERENZIATI (EER 20.03.01) PROVENIENTI DAI 57 COMUNI DELLA SRR MESSINA PROVINCIA S.C.P.A., PER LA DURATA DI ANNI UNO E CHE NON RISULTA POSSIBILE CONFERIRE NEGLI IMPIANTI SITI SUL TERRITORIO REGIONALE SICILIA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3581</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3581</guid>
+    </item>
+    <item>
       <title>06/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione urgente Fattura ACI N. 25468, del 18/08/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3580</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3548</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3548</guid>
-    </item>
-    <item>
-      <title>30/09/2022 | Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per nuova Convenzione con Ambulatorio Veterinario per adempimenti in materia di prevenzione randagismo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3547</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3547</guid>
-    </item>
-    <item>
-      <title>30/09/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>MODIFICA REGOLAMENTO COMUNALE DELLA BIBLIOTECA COMUNALE "FAMIGLIA NOBILE CERAOLO PISANI" APPROVATO CON DELIBERA DI C. C. N. 4 DEL 28/01/2016.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3546</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3546</guid>
     </item>
   </channel>
 </rss>
