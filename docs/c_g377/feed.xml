@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/10/2022 | Atti Di Interesse Generale</title>
+      <description>ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE DI ILLECITI EDILIZI - MESE DI SETTEMBRE 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3591</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3591</guid>
+    </item>
+    <item>
+      <title>07/10/2022 | Atti Di Interesse Generale</title>
+      <description>COMUNICATO - MARTEDI' 11/10/2022: LIMITAZIONI ALLA CIRCOLAZIONE IN C/SO MATTEOTTI E IN VIA PADRE PIO IN OCCASIONE DEI LAVORI PREVISTI ALL'INCROCIO DEL C/SO MATTEOTTI CON LE VIE ORTI E P.ZZA MATTARELLA NONCHE' IN VIA PADRE PIO ALL'ALTEZZA DEL PARCO GIOCHI DEI COLORI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3590</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3590</guid>
+    </item>
+    <item>
       <title>07/10/2022 | Ordinanze Dirigenziali</title>
       <description>Limitazioni alla circolazione nel C.so Matteotti e in Via Padre Pio in occasione dei lavori della "Società Terna Reta Italia": martedì 11/10/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3589</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3557</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3557</guid>
-    </item>
-    <item>
-      <title>03/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Utilizzo in forma associata dell'attività lavorativa di Categoria "C" del Comune di San Filippo del Mela - Approvazione dello schema di convenzione allegato.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3556</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3556</guid>
-    </item>
-    <item>
-      <title>03/10/2022 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3555</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3555</guid>
     </item>
   </channel>
 </rss>
