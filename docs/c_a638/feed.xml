@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Applicativo software per la gestione dei pagamenti con adesione al nodo PagoPa - convenzione per il periodo dal 01/07/2023 al 31/12/2023. Affidamento diretto alla Società Immedia S.p.A.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8495</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8495</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Noleggio fotocopiatore Olivetti D Copia 7001 MF  matr RL29701162  Liquidazione fattura n A20020221000036549 del 30 settembre  2022 periodo 01luglio 2022 al 30 settembre 2022 in favore della Ditta  Olivetti SPA CIG ZD229BB6A8</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8494</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8468</link>
       <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8468</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determina a contrarre ai sensi dell'art. 32 del D.Lgs. 50/2016, per l'affidamento dei lavori di manutenzione ordinaria e di pronto intervento da effettuarsi solo su ordini di servizio nell'impianto di pubblica illuminazione tramite "Accordo Quadro" e</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8467</link>
-      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8467</guid>
     </item>
   </channel>
 </rss>
