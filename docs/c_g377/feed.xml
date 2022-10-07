@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Limitazioni alla circolazione nel C.so Matteotti e in Via Padre Pio in occasione dei lavori della "Società Terna Reta Italia": martedì 11/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3589</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3589</guid>
+    </item>
+    <item>
       <title>06/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Borse di Studio "Antonio Pisani Caccia" - Anno Scolastico 2018/2019 - Erogazione III^ rata al Signor Di Santo Andrea.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3588</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3555</link>
       <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3555</guid>
-    </item>
-    <item>
-      <title>03/10/2022 | Avvisi Vari</title>
-      <description>PROROGA TERMINI DI SCADENZA PER LA PRESENTAZIONE DELLE ISTANZE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3554</link>
-      <pubDate>Mon, 03 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3554</guid>
     </item>
   </channel>
 </rss>
