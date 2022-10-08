@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/10/2022 | Deliberazioni Di Giunta</title>
+      <description>Interventi urgenti ed indifferibili per il ripristino della funzionalità del pozzo trivellato n.8 e strutture varie - Impianto Centrale Timeto. Atto di indirizzo ed assegnazione risorse</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3594</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3594</guid>
+    </item>
+    <item>
       <title>07/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>FORNITURA VESTIARIO OPERATORI ECOLOGICI. DITTA BRIDAFER di Briguglio Angela  CIG: ZDA328FB71 LIQUIDAZIONE FATTURA N. 20/PA DEL 31.07.2021</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3593</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3560</link>
       <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3560</guid>
-    </item>
-    <item>
-      <title>04/10/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>RICONOSCIMENTO DEBITO FUORI BILANCIO AI SENSI DELL'ART. 194 DEL DECRETO L.VO N. 267/2000 LETT. A) COMMA 1 PER IL RIMBORSO ALL'IACP DELLA SPESA SOSTENUTA IN ESECUZIONE DELLA SENTENZA N. 1050/2018 DELLA CORTE D'APPELLO DI MESSINA NELLA MISURA DEL 50%.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3559</link>
-      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3559</guid>
     </item>
   </channel>
 </rss>
