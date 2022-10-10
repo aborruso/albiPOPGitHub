@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3604</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3604</guid>
+    </item>
+    <item>
       <title>10/10/2022 | Determinazioni Dirigenziali</title>
       <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3603</link>
@@ -74,14 +81,14 @@
     </item>
     <item>
       <title>10/10/2022 | Determinazioni Del Sindaco</title>
-      <description>Attribuzione funzioni dirigenziali Responsabile del 2° Settore "Servizi Tecnici" Ing. Tindaro Pietro Scaffidi.</description>
+      <description>Attribuzione funzioni dirigenziali responsabile del 2° Settore Servizi Tecnici  Ing. Tindaro Pino Scaffidi</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3595</link>
       <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3595</guid>
     </item>
     <item>
       <title>08/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Interventi urgenti ed indifferibili per il ripristino della funzionalità del pozzo trivellato n.8 e strutture varie - Impianto Centrale Timeto. Atto di indirizzo ed assegnazione risorse</description>
+      <description>Interventi urgenti ed indifferibili per il ripristino della funzionalità del pozzo trivellato N. 8 e strutture varie - Impianto Centrale Timeto - Atto di indirizzo ed assegnazione risorse.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3594</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3594</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3570</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3570</guid>
-    </item>
-    <item>
-      <title>05/10/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 1 COMMA 1 E COMMA 2 LETT. A) DELLA LEGGE N.120/2020 (DECRETO SEMPLIFICAZIONI) COME MODIFICATA DALLA LEGGE N.108/2021 (DECRETO SEMPLIFICAZIONI BIS) ED IMPEGNO SPESA PER LA MANUTENZIONE STRAORDINARIA DELL'AUTOBOTTE TARGATA AJ 259 XB - CIG: Z0437F563D.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3569</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3569</guid>
     </item>
   </channel>
 </rss>
