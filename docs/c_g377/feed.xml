@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/10/2022 | Avvisi Vari</title>
+      <description>AVVISO ALLA CITTADINANZA - DEMOCRAZIA PARTECIPATA - ANNO 2022 - ASSEMBLEA GIORNO 14 OTTOBRE 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3607</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3607</guid>
+    </item>
+    <item>
+      <title>10/10/2022 | Determinazioni Dirigenziali</title>
+      <description>INTERVENTI URGENTI ED INDIFFERIBILI PER IL RIPRISTINO DELLA FUNZIONALITÀ DEL POZZO TRIVELLATO N.8 E STRUTTURE VARIE - IMPIANTO CENTRALE TIMETO - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA - IMPRESA: RIZZO FRANCESCO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3606</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3606</guid>
+    </item>
+    <item>
       <title>10/10/2022 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3604</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3572</link>
       <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3572</guid>
-    </item>
-    <item>
-      <title>05/10/2022 | Determinazioni Dirigenziali</title>
-      <description>Acquisizione Parere Preventivo rilasciato dalla LND SERVIZI SRL ai sensi del Regolamento "LND STANDARD" per il progetto rimodulato e relativo ai Lavori di rigenerazione e completamento dell'Impianto Sportivo "Gepy Faranda" mediante adeguamento e messa in sicurezza della pista di atletica leggera, impianto di illuminazione e locali spogliatoi - 1° Stralcio - CUP: D42H17000050001.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3571</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3571</guid>
-    </item>
-    <item>
-      <title>05/10/2022 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI ANALISI DELLA RADIOATTIVITÀ' DELLE ACQUE DESTINATE AL CONSUMO UMANO "CONTROLLI INTERNI DI COMPETENZA DELL'ENTE" - BIENNIO 2021/2022, ANNO 2022 - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA - DITTA:  STUDIO CHIMICO PELORITANO S.R.L.S.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3570</link>
-      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3570</guid>
     </item>
   </channel>
 </rss>
