@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieti di sosta per pulizia verde pubblico Via S. Antonino e De Gasperi: 17/10/22 e Mega Parcheggio di Via De Gasperi 19/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3653</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3653</guid>
+    </item>
+    <item>
+      <title>13/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Anticipo chiusura al transito della Via Zuccarello, lato mare, sabato 15/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3652</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3652</guid>
+    </item>
+    <item>
+      <title>13/10/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>APPROVAZIONE CONTO CONSUNTIVO ESERCIZIO 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3651</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3651</guid>
+    </item>
+    <item>
+      <title>13/10/2022 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. LA ROCCA SIMONA PER LA COSTITUZIONE NELL'APPELLO AL CGA PROMOSSO DAL SIG. CASELLA GIUSEPPE AVVERSO LA SENTENZA N.379/2022 DEL TAR DI CATANIA - IMPEGNO SPESA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3649</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3649</guid>
+    </item>
+    <item>
       <title>13/10/2022 | Determinazioni Dirigenziali</title>
       <description>SPESA A FAVORE DELLA DITTA CICIRELLA RICAMBI S.R.L. IN ESECUZIONE DELLA DELIBERA DI C.C. N. 73/2022 - IMPEGNO SPESA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3648</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3618</link>
       <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3618</guid>
-    </item>
-    <item>
-      <title>11/10/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA IMPEGNO DI SPESA ED AFFIDAMENTO DIRETTO DEL SERVIZIO DI CONFERIMENTO PRESSO IMPIANTO AUTORIZZATO DEI RIFIUTI ORGANICI (CER 20.01.08) PROVENIENTI DALLA RACCOLTA DIFFERENZIATA "PORTA A PORTA"  PERIODO  1  15 OTTOBRE 2022. DITTA: PI.ECO SRL CI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3617</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3617</guid>
-    </item>
-    <item>
-      <title>11/10/2022 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI NOLEGGIO N°8 MACCHINE MULTIFUNZIONE DIGITALI PER GLI UFFICI COMUNALI. PROROGA TECNICA ED IMPEGNO DI SPESA. IMPRESA RICOH ITALIA s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3616</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3616</guid>
-    </item>
-    <item>
-      <title>11/10/2022 | Atti Elettorali</title>
-      <description>REVISIONE SEMESTRALE LISTE ELETTORALI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3615</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3615</guid>
-    </item>
-    <item>
-      <title>11/10/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3614</link>
-      <pubDate>Tue, 11 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3614</guid>
     </item>
   </channel>
 </rss>
