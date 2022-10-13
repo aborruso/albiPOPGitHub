@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Determinazione del calendario delle festività religiose Ebraiche per l'anno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8559</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8559</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>avviso di deposito cartelle esattoriali  per irreperibilità assoluta nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8558</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8558</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Svolgimento Fiera Annuale di Ottobre 2022 - Pescrizioni</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8557</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8557</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Deposito atto presso casa comunale a nome di Maio Grazia Maria</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8556</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8532</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8532</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso cartelle esattoriali  per  irreperibilità assoluta</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8531</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8531</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso di affidamento servizio di refezione scolastica a.s. 2022/2023 presso il Comune di Librizzi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8530</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8530</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso deposito cauzionale a favore del sig. Ciolaro Giuseppe utenza idrica n. 29960</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8529</link>
-      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8529</guid>
     </item>
   </channel>
 </rss>
