@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 6338</title>
+      <description>DELIBERA DI CONSIGLIO N. 2022.58 - CI 15085 - VE6.1.2.a_10 Lavori di ¿Completamento percorsi ciclabili di via Trincanato e messa in sicurezza delle connessioni intermodali con il quartiere¿ Approvazione progetto di fattibilità tecnica ed economica con contestuale adozione Variante n.91 al PI ex art.19 DPR 327/2001 dellart. 24 c.1 LR 27/2003 e dellart. 18 LR 11/2004, con apposizione vincolo preordinato all¿esproprio (artt. 10 e 19 DPR 327/2001). Partecipazione al procedimento e decisione sulle osservazioni, art. 11 DPR 327/2001</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_58_001_1310_CC_2022_58.odt.pdf</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_58_001_1310_CC_2022_58.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 6269</title>
       <description>DELIBERA DI CONSIGLIO N. 2022.57 - C.I.14585 "VE6.1.2.a_1 - Realizzazione pista ciclopedonale di via Asseggiano¿ - Approvazione del Progetto di Fattibilità Tecnica ed Economica con contestuale adozione di Variante n.84 al Piano degli Interventi, ai sensi dell¿art. 19 D.P.R. 327/2001, dellart. 24 comma 1 della LR 27/2003 e dellart. 18 della LR 11/2004, con apposizione del vincolo preordinato all¿esproprio (artt. 10 e 19 DPR 327/2001). Partecipazione al procedimento e decisione sulle osservazioni, art. 11 DPR 327/2001</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_57_001_1282_CC_2022_57.odt.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP150230.pdf</link>
       <pubDate>Tue, 08 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP150230.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 3713</title>
-      <description>COMUNICATO RELATIVO AL CALENDARIO DELLE FESTIVITA RELIGIOSE EBRAICHE PER LANNO 2022</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP147414.pdf</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP147414.pdf</guid>
     </item>
   </channel>
 </rss>
