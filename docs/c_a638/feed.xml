@@ -52,13 +52,6 @@
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8570</guid>
     </item>
     <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito atto presso casa comunale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8569</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8569</guid>
-    </item>
-    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura emessa dalla Etnos Società Cooperativa Sociale per il servizio di accoglienza protetta per ospiti T.N., G.R. e T.M. nel mese di Settembre 2022. CIG: ZAE3810E35</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8568</link>
@@ -211,6 +204,13 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8547</link>
       <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8547</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>APPROVAZIONE DOCUMENTO UNICO DI PROGRAMMAZIONE (DUP) 2022-2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8546</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8546</guid>
     </item>
   </channel>
 </rss>
