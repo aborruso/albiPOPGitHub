@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19 DDG n. 129 dell01.02.2021 - quota POC Sicilia 2014 -2020 Rimborso buoni spesa-voucher Società EUROSPIN SICILIA S.p.a prot. 46828-2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8587</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8587</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Rimborso Buoni spesa per acquisto di generi alimentari P&amp;A Srls punti vendita di via Rosmini e via Giorgio Amendola di Barcellona Pozzo di Gotto. Art.2 Decreto Legge 23 novembre 2020 n. 154 Avviso del 09/06/2022.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8586</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8586</guid>
+    </item>
+    <item>
       <title>Ordinanza Sindacale</title>
       <description>Ordinanza di ricovero urgente in T.S.O.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8585</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8559</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8559</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>avviso di deposito cartelle esattoriali  per irreperibilità assoluta nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8558</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8558</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Svolgimento Fiera Annuale di Ottobre 2022 - Pescrizioni</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8557</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8557</guid>
     </item>
   </channel>
 </rss>
