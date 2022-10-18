@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/10/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3695</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3695</guid>
+    </item>
+    <item>
       <title>17/10/2022 | Deliberazioni Di Giunta</title>
       <description>COLLOCAMENTO A RIPOSO DEL DIPENDENTE SIG. PALINO ANTONINO A FAR DATA DALL'01 APRILE 2023 PER RAGGIUNTI LIMITI DI ETÀ.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3694</link>
@@ -144,7 +151,7 @@
     </item>
     <item>
       <title>14/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA. LIQUIDAZIONE FATTURA 19_22. DITTA:  RIZZO FRANCESCO</description>
+      <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA - LIQUIDAZIONE FATTURA 19_22 - DITTA: RIZZO FRANCESCO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3676</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3676</guid>
@@ -246,13 +253,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3662</link>
       <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3662</guid>
-    </item>
-    <item>
-      <title>13/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Presa d'atto della fuoriuscita dalle attività socialmente utili della Sig.ra Natoli Rosamaria dall'01 novembre 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3661</link>
-      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3661</guid>
     </item>
     <item>
       <title>14/10/2022 | Avvisi Vari</title>
