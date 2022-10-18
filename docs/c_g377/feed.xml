@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/10/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 14 DEL 18/10/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3706</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3706</guid>
+    </item>
+    <item>
       <title>18/10/2022 | Avvisi Vari</title>
       <description>AVVISO PUBBLICO - PdZ 2019/2020 - AZIONE 2 "TRASPORTO SOCIALE" - I^ ANNUALITA'.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3705</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>18/10/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. SPANO' GIANFRANCO PER IL RECUPERO DELLA SOMMA LIQUIDATA NELLA SENTENZA N.183/11 DELLA CORTE D'APPELLO DI MESSINA , AI SIGG.RI ANZA' PER LA BONIFICA DEI TERRENI DI LORO PROPRIETA'.</description>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. SPANO' GIANFRANCO PER IL RECUPERO DELLA SOMMA LIQUIDATA NELLA SENTENZA N.183/11 DELLA CORTE D'APPELLO DI MESSINA, AI SIGG.RI ANZA' PER LA BONIFICA DEI TERRENI DI LORO PROPRIETA'.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3704</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3704</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3672</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3672</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Avvisi Vari</title>
-      <description>AVVISO DEPOSITO CONTO CONSUNTIVO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3650</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3650</guid>
     </item>
   </channel>
 </rss>
