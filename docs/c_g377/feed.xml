@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/10/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TASSA REGISTRAZIONE SENTENZA N.77/2022 DEL GIUDICE DI PACE DI PATTI - SIG.RA STUPPIA ANGELA - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3714</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3714</guid>
+    </item>
+    <item>
+      <title>19/10/2022 | Atti Di Interesse Generale</title>
+      <description>PROCLAMATI ELETTI SENATORI DELLA REGIONE - ELENCO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3713</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3713</guid>
+    </item>
+    <item>
+      <title>19/10/2022 | Atti Di Interesse Generale</title>
+      <description>PROCLAMATI ELETTI DEPUTATI DELLA CIRCOSCRIZIONE ELETTORAE - ELENCO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3712</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3712</guid>
+    </item>
+    <item>
       <title>19/10/2022 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3711</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3680</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3680</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Atti Di Interesse Generale</title>
-      <description>ELENCO DEGLI ELETTI PER L'UFFICIO DI PRESIDENZA DELLA CONSULTA GIOVANILE DI PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3679</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3679</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Atti Di Interesse Generale</title>
-      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3678</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3678</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE COMPETENZE TECNICHE PER LA REDAZIONE DI UNO STUDIO GEOLOGICO RELATIVO AI PROGETTI: COSTRUZIONE DI UNA SCUOLA MATERNA DEL CENTRO AMPLIAMENTO SCUOLA MEDIA PIRANDELLO RICOSTRUZIONE DI UN'AULA ED INTERVENTI FINALIZZATI ALLA RIDUZIONE DEL CON</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3677</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3677</guid>
     </item>
   </channel>
 </rss>
