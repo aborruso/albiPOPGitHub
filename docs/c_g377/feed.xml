@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3711</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3711</guid>
+    </item>
+    <item>
+      <title>19/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3710</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3710</guid>
+    </item>
+    <item>
+      <title>19/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3709</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3709</guid>
+    </item>
+    <item>
       <title>19/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Ricovero minore su disposizione Autorità Giudiziaria - Coop.Sociale ETNOS - Liquidazione per i mesi di marzo e aprile 2020 - CIG: Z153576E6A.             .</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3708</link>
@@ -25,7 +46,7 @@
     </item>
     <item>
       <title>19/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INIZIATIVE DI PROMOZIONE E VALORIZZAZIONE DEL TERRITORIO ED ATTRATTIVA TURISTICA ESTATE 2022 - LIQUIDAZIONE SERVIZIO DI PUBBLICO INTRATTENIMENTO GIORNO 8 AGOSTO 2022 - CIG : ZD2376967C.</description>
+      <description>INIZIATIVE DI PROMOZIONE E VALORIZZAZIONE DEL TERRITORIO ED ATTRATTIVA TURISTICA - ESTATE 2022 - LIQUIDAZIONE SERVIZIO DI PUBBLICO INTRATTENIMENTO - GIORNO 8 AGOSTO 2022 - CIG: ZD2376967C.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3707</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3707</guid>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3677</link>
       <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3677</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA - LIQUIDAZIONE FATTURA 19_22 - DITTA: RIZZO FRANCESCO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3676</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3676</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ANALISI ACQUE POTABILI DESTINATE AL CONSUMO UMANO - CONTROLLI INTERNI DI COMPETENZA DELL'ENTE. LIQUIDAZIONE FATTURA. DITTA:  TETRALAB s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3675</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3675</guid>
-    </item>
-    <item>
-      <title>14/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE LAVORATRICE ASU GIARRIZZO TIZIANA - PERIODO 01.09.2022  12.09.2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3674</link>
-      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3674</guid>
     </item>
   </channel>
 </rss>
