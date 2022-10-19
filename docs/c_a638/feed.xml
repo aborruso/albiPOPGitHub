@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>manifesto eletti Camera Sicilia 2</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8620</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8620</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>pubblicazione manifesto eletti Senato</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8619</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8619</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Affidamento  diretto alla società RTI MUNICIPIA S.p.A.  Gamma Tributi S.r.l. per il servizio di lavorazione delle istanze su posizioni accertate per IMU  e  TARI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8618</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8593</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8593</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.605/03 del 30/09/2022 alla Ditta REM,  per servizio di recupero dei rifiuti biodegradabili di cucine e del verde presso l'impianto di compostaggio sito in C/da Milisinni  Catania, dal 16 al 25 settembre 2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8592</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8592</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>servizio di svuotamento cestini, pulizia giornaliera e straordineria del Cimitero Anno 2021 2022 Provvedimento di liquidazione fattur n 167PA del 30 09 2022 Canone mese di Settembre 2022 Ditta Coopservice F M Società Cooperativa</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8591</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8591</guid>
     </item>
   </channel>
 </rss>
