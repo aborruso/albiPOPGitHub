@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/10/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZIO DI CENTRALIZZAZIONE "PARKFOLIO" E FORNITURA CARTA TERMICA PER N. 3 PARCOMETRI INSTALLATI SUL TERRITORIO COMUNALE - ANNO 2022 - CIG: ZA0351355C - DITTA: FLOWBIRD ITALIA S.r.l. - LIQUIDAZIONE FATTURA N. 221915 DELL'11/07/2022 - (SERVIZIO DI CENTRALIZZAZIONE - PERIODO: 01 LUGLIO 2022 - 30 SETTEMBRE 2022).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3721</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3721</guid>
+    </item>
+    <item>
+      <title>21/10/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETA' COMUNALE - DITTA: FRANCO LEMBO S.R.L. - LIQUIDAZIONE FATTURE - COMPENSAZIONE TRA CREDITI E DEBITI -  CIG: Z64356BAB6.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3720</link>
+      <pubDate>Fri, 21 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3720</guid>
+    </item>
+    <item>
       <title>20/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>L'ACQUISTO DI RACCORDERIA VARIA NECESSARIA PER LA MANUTENZIONE ORDINARIA DEGLI IMPIANTI IDRICI E FOGNARI COMUNALI - DITTA: SEPAF SOCIETA COOPERATIVA CIG: Z1E35134A3 - LIQUIDAZIONE FATTURA N. 418/2022 DEL 17/10/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3719</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3687</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3687</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Elezioni Politiche ed Elezioni del Presidente della Regione Sicilia del 25 settembre 2022 - Liquidazione spesa per lavoro straordinario per gli adempimenti connessi con l'Ufficio Elettorale Circondariale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3686</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3686</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Ordinanze Sindacali</title>
-      <description>T.S.O.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3685</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3685</guid>
     </item>
   </channel>
 </rss>
