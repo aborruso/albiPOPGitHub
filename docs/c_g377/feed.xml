@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/10/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 15 DEL 24/10/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3729</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3729</guid>
+    </item>
+    <item>
+      <title>24/10/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3728</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3728</guid>
+    </item>
+    <item>
+      <title>24/10/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>APPROVAZIONE BILANCIO DI PREVISIONE FINANZIARIO 2022/2024.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3727</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3727</guid>
+    </item>
+    <item>
+      <title>24/10/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>APPROVAZIONE DOCUMENTO UNICO DI PROGRAMMAZIONE (D.U.P.) 2022/2024.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3726</link>
+      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3726</guid>
+    </item>
+    <item>
       <title>21/10/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPETTACOLO 18 AGOSTO 2022 - LIQUIDAZIONE SERVIZIO NOLEGGIO GRUPPO ELETTROGENO - CIG: ZE5377639F.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3725</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3695</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3695</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Deliberazioni Di Giunta</title>
-      <description>COLLOCAMENTO A RIPOSO DEL DIPENDENTE SIG. PALINO ANTONINO A FAR DATA DALL'01 APRILE 2023 PER RAGGIUNTI LIMITI DI ETÀ.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3694</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3694</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Manutenzione urgente riparazione guasto Parcheggio Automatizzato Locanda 2 - Assegnazione risorse al Responsabile del II° Settore "Servizi Tecnici".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3693</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3693</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA COSTITUZIONE NEL RICORSO IN RIASSUNZIONE PROMOSSO DALLA PROFESSIONAL 3D DI D'ANDREA ANTONINO &amp; C S.A.S. DAVANTI AL TRIBUNALE DI MESSINA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3692</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3692</guid>
-    </item>
-    <item>
-      <title>17/10/2022 | Ordinanze Sindacali</title>
-      <description>Regolamentazione viabilità per lavori all'incrocio del C.so Matteotti con le Vie Orti e P.S. Mattarella: 18/10/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3691</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3691</guid>
     </item>
   </channel>
 </rss>
