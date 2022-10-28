@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Esecuzione atto di precetto relativo alla sentenza n 648 del 2022 emessa dal Tribunale di Barcellona PG  a definizione del giudizio iscritto al n1589 del 2020 promosso dall'Avv Eugenio Antonino Benvegna contro Comune di Barcellona PG</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8729</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8729</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali per irreperibilità nominativi diversi del 28/10/2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8728</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8728</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Manifestazione di Interesse per realizzare laboratori presso la Biblioteca Comunale Sez. Ragazzi "OASI"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8727</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8727</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Conservazione del Nuovo Catasto dei Terreni - Verificazioni Quinquennali Gratuite (Artt. 118 e 119 del Regolamento 8 Dicembre 1938 n. 2153)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8726</link>
+      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8726</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Convocazione consiglio comunale in sessione straordinaria che si terrà nella giornata di martedì 08 novembre 2022, ore 19:00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8725</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8702</link>
       <pubDate>Thu, 27 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8702</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>pagamento diritti di rogito per contratti rep. 5997 e 5998 rogati il 29 gennaio 2016</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8701</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8701</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FORNITURA DI n.1 SCANNER A4 FUJITSU SP 1120n  + N.1 STAMPANTE LASER A4 BROTHER HL 2310d</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8700</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8700</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>ordinanza di ricovero urgente in T.S.O.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8699</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8699</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Pagamento fattura  ditta   IMMEDIA S.P.A.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8698</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8698</guid>
     </item>
   </channel>
 </rss>
