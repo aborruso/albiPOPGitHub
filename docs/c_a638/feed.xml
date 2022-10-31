@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblico incanto  per locazione n. 1 immobile ad uso non abitativo (box) sito in Barcellona P.G. Via Immacolata N. 203</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8770</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8770</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriali elenco n°63 del 28/10/2022 per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8769</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8769</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti cartelle esattoriale elenco n°62 del 28/10/2022 per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8768</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8768</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>SERVIZIO ELETTORALE DI ALLESTIMENTO SEGGI E OPERAZIONI TECNICHE CONNESSE (TRASPORTI, FACCHINAGGIO, ALLESTIMENTO TABELLONI ELETTORALI, ATTACCHINAGGIO ETC.) IN OCCASIONE DELLE ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA E REGIONALI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8767</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8743</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8743</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19 DDG n. 129 dell01.02.2021 -quota POC Sicilia 2014 -2020 Rimborso buoni spesa-voucher Ditta ALIQUO SANTINA prot. 28557-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8742</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8742</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19- DDG n 304 del 04.04.2020 quota PO FSE e DDG n 129 dell01.02.2021 quota POC Rimborso buoni spesa-voucher Società EUROSPIN SICILIA S.p.a prot 46820-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8741</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8741</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Misure di Sostegno all'emergenza Socio-Assistenziale da Covid-19 - DDG n 304 del 04.04.2020 - quota PO FSE- e DDG n 129 dell01.02.2021  quota POC Rimborso buoni spesa-voucher Ditta GENOVESE ANTONIA ENOTRIA LOSTERIA prot. 39444-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8740</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8740</guid>
     </item>
   </channel>
 </rss>
