@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura lungomare Zuccarello per il 31/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</guid>
+    </item>
+    <item>
+      <title>31/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura corsia lato monte Lungomare da venerdì 28/10/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3789</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3789</guid>
+    </item>
+    <item>
       <title>28/10/2022 | Deliberazioni Di Giunta</title>
       <description>Interventi urgenti ed indifferibili di manutenzione straordinaria Immobili Comunali vari - Atto di indirizzo ed assegnazione somme al Responsabile del II° Settore "Servizi Tecnici".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3788</link>
@@ -25,7 +39,7 @@
     </item>
     <item>
       <title>28/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Presa d'atto della fuoriuscita dalle Attività Socialmente Utili della Sig.ra Busacca Maria Concetta dal 01 novembre 2022.</description>
+      <description>Presa d'atto della fuoriuscita dalle Attività Socialmente Utili della Sig.ra Busacca Maria Concetta dall'01 novembre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3756</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3756</guid>
-    </item>
-    <item>
-      <title>26/10/2022 | Avvisi Vari</title>
-      <description>PROVVEDIMENTO UNICO FINALE DI MODIFICA AUTORIZZAZIONE UNICA AMBIENTALE (A.U.A.) - ( AI SENSI DEL D.P.R. N. 59 DEL 13/03/2013 E S.M.I.) - A.U.A. N. 2 DEL 19/10/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3755</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3755</guid>
-    </item>
-    <item>
-      <title>26/10/2022 | Determinazioni Dirigenziali</title>
-      <description>Gara Telematica per l'affidamento del centro con funzione educativa e ricreativa per i minori - Affidamento diretto ai sensi dell'art. 36, comma 2 lett. b) del D.L. 50/2016 e s.m.i. mediante confronto di preventivi sul Mercato Elettronico della Pubblica Amministrazione - Determina a contrarre - CIG: ZF43849961.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3754</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3754</guid>
     </item>
   </channel>
 </rss>
