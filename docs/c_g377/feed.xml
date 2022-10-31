@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/10/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>SELEZIONE PER TITOLI E COLLOQUI AI FINI DELL'ASSUNZIONE A TEMPO DETERMINATO E PART-TIME (20 ORE SETIMANALI) PER N. 10 ASSISTENTI SOCIALI CAT. D1, A VALERE ESCLUSIVAMENTE SUI FONDI DEL PIANO DI AZIONE LOCALE (PAL) - FONDO POVERTA' 2020 - CUP: J45G22000050002 - APPROVAZIONE GRADUATORIA E ASSUNZIONE DEI VINCITORI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3792</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3792</guid>
+    </item>
+    <item>
       <title>31/10/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura lungomare Zuccarello per il 31/10/22.</description>
+      <description>Chiusura al transito e alla sosta della Via C. Colombo (tratto a senso unico) per lavori all'Impianto di Illuminazione: 03/11/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3791</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3791</guid>
+    </item>
+    <item>
+      <title>31/10/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura Lungomare Zuccarello per il 31/10/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</guid>
@@ -39,7 +53,7 @@
     </item>
     <item>
       <title>28/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Presa d'atto della fuoriuscita dalle Attività Socialmente Utili della Sig.ra Busacca Maria Concetta dall'01 novembre 2022.</description>
+      <description>Presa d'atto della fuoriuscita dalle Attività Socialmente Utili della Sig.ra Busacca Maria Concetta dal I° novembre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3758</link>
       <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3758</guid>
-    </item>
-    <item>
-      <title>26/10/2022 | Determinazioni Dirigenziali</title>
-      <description>Art. 19 del D. Lgs. N° 504/92 - Approvazione rendiconto "T.E.F.A." relativo al 3° Trimestre 2022 - Riversamento alla Città Metropolitana di Messina del Tributo per l'Esercizio delle Funzioni di Tutela, Protezione ed Igiene dell'Ambiente T.E.F.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3757</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3757</guid>
-    </item>
-    <item>
-      <title>26/10/2022 | Avvisi Vari</title>
-      <description>ISCRIZIONI APERTE DAL 25 OTTOBRE AL 4 NOVEMBRE 2022 PER PARTECIPAZIONE AL CENTRO SOCIO-EDUCATIVO E RICREATIVO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3756</link>
-      <pubDate>Wed, 26 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3756</guid>
     </item>
   </channel>
 </rss>
