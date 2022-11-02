@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/11/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta Via XX Settembre per lavori: 03/11/22 - Divieto di accesso Via XX Settembre alta e Via Sciacca Baratta per lavori: 04/11/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3824</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3824</guid>
+    </item>
+    <item>
+      <title>02/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TASSA REGISTRAZIONE SENTENZA N. 19/2022 DEL GIUDICE DI PACE DI PATTI - BATTAGLIOLA SEBASTIANO - IMPEGNO SPESA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3823</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3823</guid>
+    </item>
+    <item>
+      <title>02/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESE LEGALI A SALDO AVV. SARA SPEZIALE - CONTROVERSIA GUMINA SALVATORE - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3822</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3822</guid>
+    </item>
+    <item>
       <title>02/11/2022 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3821</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3790</guid>
-    </item>
-    <item>
-      <title>31/10/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura corsia lato monte Lungomare da venerdì 28/10/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3789</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3789</guid>
-    </item>
-    <item>
-      <title>28/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Interventi urgenti ed indifferibili di manutenzione straordinaria Immobili Comunali vari - Atto di indirizzo ed assegnazione somme al Responsabile del II° Settore "Servizi Tecnici".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3788</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3788</guid>
-    </item>
-    <item>
-      <title>28/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Presa d'atto della fuoriuscita dalle Attività Socialmente Utili della Sig.ra Busacca Maria Concetta dal I° novembre 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3787</guid>
     </item>
   </channel>
 </rss>
