@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/11/2022 | Determinazioni Dirigenziali</title>
+      <description>APPROVVIGIONAMENTO IDRICO. SERVIZIO DI SOMMA URGENZA - IMPEGNO DI SPESA DELIBERA CONSIGLIO COMUNALE N.51/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3813</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3813</guid>
+    </item>
+    <item>
+      <title>02/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 8/E/22, dell'08/10/22, Diita Cusmà Angelo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3812</link>
+      <pubDate>Wed, 02 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3812</guid>
+    </item>
+    <item>
       <title>01/11/2022 | Atti Elettorali</title>
       <description>ALBO DEGLI SCRUTATORI A DOMANDA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3811</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3779</link>
       <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3779</guid>
-    </item>
-    <item>
-      <title>28/10/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Lavori di somma urgenza per riparazione condotte idriche - Presa atto verbale somma urgenza - Approvazione perizia giustificativa dei lavori ai sensi dell'art. 163 del D. Lvo N. 50/2016 ed assegnazione risorse - Ratifica delibera di G. M. N. 380 del 13/10/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3778</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3778</guid>
-    </item>
-    <item>
-      <title>28/10/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Lavori di somma urgenza per rimozione muro pericolante e materiali crollati dalla Via Toti in Frazione Sorrentini - Presa atto verbale somma urgenza - Approvazione perizia giustificativa dei lavori ai sensi dell'art. 163 del Decreto L.vo N. 50/2016 - Ratifica delibera di G. M. N. 355 del 22/09/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3777</link>
-      <pubDate>Fri, 28 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3777</guid>
     </item>
   </channel>
 </rss>
