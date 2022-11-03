@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura materiale  vario per la scuola dell'infanzia comunale "Caleca. Ditta: Elettroservice   di Alessio Composto - CIG: ZBE37E5095-</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3826</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3826</guid>
+    </item>
+    <item>
       <title>03/11/2022 | Atti Di Interesse Generale</title>
-      <description>Manifesto Eletti 2022</description>
+      <description>ELEZIONI REGIONALI DEL 25 SETTEMBRE 2022 - MANIFESTI CANDITATI ELETTI</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3825</link>
       <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3825</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3792</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3792</guid>
-    </item>
-    <item>
-      <title>31/10/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito e alla sosta della Via C. Colombo (tratto a senso unico) per lavori all'Impianto di Illuminazione: 03/11/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3791</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3791</guid>
     </item>
   </channel>
 </rss>
