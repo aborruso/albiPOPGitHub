@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/11/2022 | Determinazioni Dirigenziali</title>
+      <description>ANTICIPAZIONE SOMME NECESSARIE AL PAGAMENTO DELLA PRIMA MENSILITA' DI RETRIBUZIONE E CONTRIBUTI IRAP A CARICO DELLENTE DEI SOGGETTI AVVIATI CANTIERE DI SERVIZI N° 267/ME -  CODICE CUP C46G21017420002  IMPEGNO DI SPESA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3832</link>
+      <pubDate>Thu, 03 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3832</guid>
+    </item>
+    <item>
       <title>03/11/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE COMPENSO AI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI.   PERIODO: DAL 01 LUGLIO 2022 AL 30 SETTEMBRE 2022</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3831</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3798</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3798</guid>
-    </item>
-    <item>
-      <title>31/10/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>CARTELLONE "66° TINDARI FESTIVAL 2022 - L'ACCOGLIENZA - LIQUIDAZIONE SERVIZIO DI PRESTAZIONE ARTISTICA ALL' ASSOCIAZIONE "DARTEVENTI" PER SPETTACOLO "STORIE DA LIOLA" - GIORNO 20 LUGLIO 2022 - CIG: Z1E37317D3.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3797</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3797</guid>
     </item>
   </channel>
 </rss>
