@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Rettifica Determina Dirigenziale N. 366, dell'11/05/2018 - Riliquidazione spese legali a favore di G.M.A. n. q. di Avvocato Distrattario.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3837</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3837</guid>
+    </item>
+    <item>
       <title>04/11/2022 | Determinazioni Dirigenziali</title>
       <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALL'INGEGNERIA E ALL'ARCHITETTURA ED ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N.77 DI MODIFICA DEL DECRETO LEGGE 16 LUGLIO 2020, N. 76, CONVERTITO CON MODIFICAZIONE DALLA LEGGE 11 SETTEMBRE 2020, N. 120 AGGIORNATO AL 21 OTTOBRE 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3835</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3801</link>
       <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3801</guid>
-    </item>
-    <item>
-      <title>31/10/2022 | Deliberazioni Di Giunta</title>
-      <description>Lavori di pulizia e scerbamento delle Aree Comunali - Acquisto materiali di consumo - Assegnazione risorse.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3800</link>
-      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3800</guid>
     </item>
   </channel>
 </rss>
