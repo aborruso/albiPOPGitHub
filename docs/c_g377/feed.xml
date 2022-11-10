@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3909</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3909</guid>
+    </item>
+    <item>
       <title>10/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale PAIS a valere sul Fondo Sociale Europeo (FSE) -  Programmazione 2014/2020 - PON Inclusione - CUP: C41B20000810006 - Mese di ottobre 2022..</description>
+      <description>Liquidazione Potenziamento orario lavoro nell'ambito del Progetto finalizzato all'attuazione dei Patti per Inclusione Sociale PAIS a valere sul Fondo Sociale Europeo (FSE) -  Programmazione 2014/2020 - PON Inclusione - CUP: C41B20000810006 - Mese di ottobre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3908</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3908</guid>
@@ -32,7 +39,7 @@
     </item>
     <item>
       <title>10/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI DI RECUPERO URBANO DELLE AREE ESTERNE DEGLI ALLOGGI IACP DI VIA CATAPANELLO CON RISTRUTTURAZIONE DEGLI IMPIANTI SPORTIVI - CUP:  C45I16000000005 - CIG: 875307412C - LIQUIDAZIONE ANTICIPAZIONE IN FAVORE DELLA DITTA AFFIDATARIA - IMPRESA: CAPIZZELLO EMANUELE S.R.L.</description>
+      <description>LAVORI DI RECUPERO URBANO DELLE AREE ESTERNE DEGLI ALLOGGI IACP DI VIA CATAPANELLO CON RISTRUTTURAZIONE DEGLI IMPIANTI SPORTIVI - CUP C45I16000000005  CIG 875307412C - LIQUIDAZIONE ANTICIPAZIONE IN FAVORE DELLA DITTA AFFIDATARIA - IMPRESA: CAPIZZELLO EMANUELE S.R.L.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3906</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3906</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3875</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3875</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER MANUTENZIONE STRAORDINARIA DELL' AUTOBOTTE TARGATA AJ 259 XB.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3874</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3874</guid>
     </item>
   </channel>
 </rss>
