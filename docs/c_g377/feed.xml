@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N 355 del 04/11/2022 - CIG: Z2D35A4C64 - Beneficiario Ditta "Interdata Cuzzola s.r.l.".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3910</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3910</guid>
+    </item>
+    <item>
       <title>10/11/2022 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3909</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3876</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3876</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Deliberazioni Di Giunta</title>
-      <description>Servizio di trattamento e smaltimento di rifiuti non pericolosi raccolti sul territorio del  Comune di Patti presso l'impianto di TMB sito in Trapani - C/da Belvedere e gestito dalla Ditta Trapani Servizi S.p.A. - Integrazione e assegnazione risorse al Responsabnile del Settore II° "Servizi Tecnici".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3875</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3875</guid>
     </item>
   </channel>
 </rss>
