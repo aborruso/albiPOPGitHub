@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Fornitura di un sistema mobile di amplificazione e diffusione sonora La Via Lattea S.p.A. CIG Z0E3880C8F</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8881</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8881</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Aggiudicazione definitiva l'affidamento dei lavori di messa in sicurezza della saia Ceraolo a seguito delle ultime piogge del 19/07/2021, tramite affidamento diretto ai sensi dell'art. 1), comma 2), lett. a), della Legge 120/2020 (Decreto Semplificaz</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8880</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8854</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8854</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Tim Rete Fissa  emesse nel mese di Agosto 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8853</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8853</guid>
     </item>
   </channel>
 </rss>
