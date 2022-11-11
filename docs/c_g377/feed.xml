@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/11/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE n. 16 del 11/11/2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3926</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3926</guid>
+    </item>
+    <item>
+      <title>11/11/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>ORDINANZA - "CAMPIONATO AUTUNNALE DEI NEBRODI E DELLE EOLIE - II^ EDIZIONE 2022"</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3925</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3925</guid>
+    </item>
+    <item>
       <title>11/11/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura temporanea al transito Via Sciacca Baratta per lavori: 11/11/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3924</link>
@@ -137,7 +151,7 @@
     </item>
     <item>
       <title>10/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 7 "Spazio Lavoro" Terza Annualità - PDZ 2013/2015 - Liquidazione mese di Ottobre 2022 ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio Sanitario.</description>
+      <description>Azione N. 7 "Spazio Lavoro" Terza Annualità - PDZ 2013/2015 - Liquidazione mese di Ottobre 2022 ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio/Sanitario.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3907</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3907</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3892</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3892</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONE STRAORDINARIA IMMOBILI COMUNALI VARI - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO - PROGETTISTA DIRETTORE DEI LAVORI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3891</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3891</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Via Fontanelle e Piazzetta Irato per pulizia verde pubblico: 10/11/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3890</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3890</guid>
     </item>
   </channel>
 </rss>
