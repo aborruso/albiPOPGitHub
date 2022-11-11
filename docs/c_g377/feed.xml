@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2022 | Determinazioni Dirigenziali</title>
+      <description>Impegno spesa per integrazione somma destinata nell'Esercizio 2022 agli acquisti tramite il Servizio Economato.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3921</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3921</guid>
+    </item>
+    <item>
       <title>10/11/2022 | Manifestazioni Di Interesse</title>
       <description>AVVISO PUBBLICO - INDAGINE DI MERCATO ESPLORATIVA RELATIVA AL SERVIZIO DI MANUTENZIONE DEGLI AUTOMEZZI COMUNALI - VEICOLI LEGGERI - MANIFESTAZIONE DI INTERESSE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3920</link>
@@ -193,7 +200,7 @@
     </item>
     <item>
       <title>08/11/2022 | Deliberazioni Di Giunta</title>
-      <description>Approvazione del Piano Integrato di Attività e Organizzazione 2022-2024 ai sensi dell'art. 6 del D.L. N. 80/2021, convertito con modificazioni in Legge N. 113/2021.</description>
+      <description>Approvazione del Piano Integrato di Attività e Organizzazione 2022/2024 ai sensi dell'art. 6 del D. L. N. 80/2021, convertito con modificazioni in Legge N. 113/2021.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3895</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3895</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3887</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3887</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fattura N. 95, dell'01/11/22 - Ambulatorio Veterinario Dr. Coppolino Giuseppe.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3886</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3886</guid>
     </item>
   </channel>
 </rss>
