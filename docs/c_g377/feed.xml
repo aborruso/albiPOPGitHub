@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/11/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito Via Sciacca Baratta per lavori: 11/11/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3924</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3924</guid>
+    </item>
+    <item>
+      <title>11/11/2022 | Atti Di Interesse Generale</title>
+      <description>ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE DI ILLECITI EDILIZI - MESE DI OTTOBRE 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3923</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3923</guid>
+    </item>
+    <item>
+      <title>11/11/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PUBBLICAZIONE AVVISO DI PRESENTAZIONE RICHIESTA CONCESSIONE DEMANIALE MARITTIMA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3922</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3922</guid>
+    </item>
+    <item>
       <title>10/11/2022 | Determinazioni Dirigenziali</title>
       <description>Impegno spesa per integrazione somma destinata nell'Esercizio 2022 agli acquisti tramite il Servizio Economato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3921</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3890</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3890</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>66° TINDARI FESTIVAL 2022 - REALIZZAZIONE SPETTACOLO " VERGINE MADRE" - LIQUIDAZIONE FATTURA N. 140 del 05/09/2022 - CIG: ZDB37248E7.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3889</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3889</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>66° TINDARI FESTIVAL 2022 - REALIZZAZIONE SPETTACOLO "VERGINE MADRE" - LIQUIDAZIONE FATTURA N. 139 del 05/09/2022 - CIG: ZDB37248E7.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3888</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3888</guid>
-    </item>
-    <item>
-      <title>08/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fattura N. 96, dell'01/11/22: Ambulatorio Veterinario Dr. Coppolino Giuseppe.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3887</link>
-      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3887</guid>
     </item>
   </channel>
 </rss>
