@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/11/2022 | Deliberazioni Di Giunta</title>
+      <description>Autorizzazione al Sindaco a proporre ricorso avverso la cartella di pagamento n. 295 2020 00210257 25 000 emessa dall'Agenzia delle Entrate  Riscossione, Agente della Riscossione MESSINA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3935</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3935</guid>
+    </item>
+    <item>
+      <title>14/11/2022 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3934</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3934</guid>
+    </item>
+    <item>
       <title>14/11/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>CONTRIBUTO PER IL FUNZIONAMENTO DELL'AUTORITA' DI REGOLAZIONE PER ENERGIA RETI E AMBIENTI (ARERA) DOVUTO PER L'ANNO 2022 DAI SOGGETTI OPERANTI NEL SETTORE IDRICO INTEGRATO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3933</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3901</link>
       <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3901</guid>
-    </item>
-    <item>
-      <title>09/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura di una lavastoviglie da allocare nella cucina sita nella struttura dell'asilo Nido "M. Faranda" - Impegno ed affidamento - Ditta: Arreturcom Group s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3900</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3900</guid>
-    </item>
-    <item>
-      <title>09/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura materiale vario per il Centro di Cottura della Mensa Scolastica - Plesso "Lombardo Radice" - Affidamento.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3899</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3899</guid>
     </item>
   </channel>
 </rss>
