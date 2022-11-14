@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/11/2022 | Determinazioni Dirigenziali</title>
+      <description>Affidamento incarico all'Avv. Rosario Di Marco,  al fine di proporre ricorso  e reclamo-mediazione ai sensi dellart. 17-bis del dlgs n. 546/92, avverso la cartella di pagamento n. 295 2020 00210257 25 000 emessa dallAgenzia delle Entrate  Riscossione</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3936</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3936</guid>
+    </item>
+    <item>
       <title>14/11/2022 | Deliberazioni Di Giunta</title>
       <description>Autorizzazione al Sindaco a proporre ricorso avverso la cartella di pagamento n. 295 2020 00210257 25 000 emessa dall'Agenzia delle Entrate  Riscossione, Agente della Riscossione MESSINA</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3935</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3902</link>
       <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3902</guid>
-    </item>
-    <item>
-      <title>09/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura di materiale ludico e ricreativo per l'Asilo Nido "M. Faranda" - Impegno ed affidamento - Ditta: Elettroservice di Alessio Composto.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3901</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3901</guid>
     </item>
   </channel>
 </rss>
