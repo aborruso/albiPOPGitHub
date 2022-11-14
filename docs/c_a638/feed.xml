@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n° 2 atti in busta chiusa a carico di KASUMI SENAT ai sensi dell'art.60 del D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8914</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8914</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8913</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8913</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via Cairoli "come da planimetria"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8912</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8887</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8887</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FORNITURA ATTREZZATURA INFORMATICA (STAMPANTE MULTIFUNZIONE) DA DESTINARE ALL'UFFICIO DI GABINETTO DELL'ENTE  DETERMINA A CONTRARRE, AFFIDAMENTO E IMPEGNO DI SPESA  CIG</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8886</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8886</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FORNITURA ATTREZZATURA INFORMATICA (PC) DA DESTINARE ALL'UFFICIO DI GABINETTO DELL'ENTE  DETERMINA A CONTRARRE, AFFIDAMENTO E IMPEGNO DI SPESA  C.I.G. ZD938820F5</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8885</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8885</guid>
     </item>
   </channel>
 </rss>
