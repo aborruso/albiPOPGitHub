@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 7077</title>
+      <description>Attuazione del Piano di razionalizzazione delle Società partecipate ex art. 20 del D. Lgs. n. 175/2016 - Approvazione della fusione inversa per incorporazione della società CMV S.p.A. nella società Casinò di Venezia Gioco S.p.A.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_60_001_1357_CC_2022_60.odt.pdf</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_60_001_1357_CC_2022_60.odt.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 7076</title>
+      <description>DELIBERA DI CONSIGLIO N. 2022.59 - Ratifica delibera di Giunta n. 212 del 14 settembre 2022 ad oggetto ¿Bilancio di previsione per gli esercizi finanziari 2022-2024 ¿ Variazione ai sensi dell¿art. 175, comma 4, del D. Lgs. 267/2000¿</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_59_001_1346_CC_2022_59.odt.pdf</link>
+      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_59_001_1346_CC_2022_59.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 7064</title>
       <description>DELIBERA DI GIUNTA N. 2022/260 - TOPONOMASTICA - Intitolazione a Leonardo Angiolin di un parco a Malamocco</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2022/DG_2022_260_36526_TESTO.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</link>
       <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 3377</title>
-      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI FORNITORI DI GAS METANO</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP126776.pdf</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP126776.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 5152</title>
-      <description>AVVISO  - SISTEMA DI QUALIFICAZIONE PER LA FORNITURA DI ENERGIA ELETTRICA</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP122885.pdf</link>
-      <pubDate>Wed, 06 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP122885.pdf</guid>
     </item>
   </channel>
 </rss>
