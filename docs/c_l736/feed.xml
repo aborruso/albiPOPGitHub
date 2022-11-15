@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 7080</title>
+      <description>DELIBERA DI CONSIGLIO N. 2022.61 - Adozione della Variante al Piano degli Interventi n. 94, finalizzata alla realizzazione del progetto di riforestazione denominato ¿Bosco di Asseggiano¿</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_61_001_1362_CC_2022_61.odt.pdf</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_61_001_1362_CC_2022_61.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 7077</title>
       <description>Attuazione del Piano di razionalizzazione delle Società partecipate ex art. 20 del D. Lgs. n. 175/2016 - Approvazione della fusione inversa per incorporazione della società CMV S.p.A. nella società Casinò di Venezia Gioco S.p.A.</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2022/DC_2022_60_001_1357_CC_2022_60.odt.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 973</title>
-      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI FORNITORI DI GASOLIO PER AUTOTRAZIONE PER I MEZZI DEL SERVIZIO AUTOMOBILISTICO E DEL SERVIZIO DI NAVIGAZIONE PER IL PERIODO 01/04/2019 - 31/03/2024.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</guid>
     </item>
   </channel>
 </rss>
