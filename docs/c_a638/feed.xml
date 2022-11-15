@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>SERVIZIO DI STAMPA IMBUSTAMENTO POSTALIZZAZIONE CON RACCOMANDATA SOLLECITI SERVIZIO IDRICO LIQUIDAZIONE FATTURA N. 2100423 DEL 25-10-2021 SPESE ATTIVITA' SERVIZI SOFTWARE, LAVORAZIONI RZA9335200C  ACCOMANDATE A/R, ESITI E DIGITALIZZAZIONI</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8935</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8935</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto N° 1 a nome di KASHTA AGRON ai sensi dell'art.60 D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8934</link>
+      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8934</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8933</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8908</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8908</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via San Andrea "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8907</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8907</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>avviso deposito atto in busta chiusa a carico di Krissane Salah</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8906</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8906</guid>
     </item>
   </channel>
 </rss>
