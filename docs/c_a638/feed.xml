@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Rimborso deposito cauzionale a favore del sig. Garofalo Salvatore utenza idrica n. 26653</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8959</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8959</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>MAI.CON.GROUP s.r.l. Unipersonale Intervento sostitutivo INPS: art. 4  comma 2 del D.P.R. n. 207/2010.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8958</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8932</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8932</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Terza modifica ruolo acqua, fognatura e depurazione anno 2017</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8931</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8931</guid>
     </item>
   </channel>
 </rss>
