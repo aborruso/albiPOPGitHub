@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/11/2022 | Determinazioni Dirigenziali</title>
+      <description>"Bonus Figlio" II° semestre 2021 D.R.S. 2217/S8 del 05/11/2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3957</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3957</guid>
+    </item>
+    <item>
       <title>16/11/2022 | Determinazioni Dirigenziali</title>
       <description>DETERMINA IMPEGNO SPESA ED AFFIDAMENTO DIRETTO DEL SERVIZIO DI CONFERIMENTO PRESSO IMPIANTO AUTORIZZATO DEI RIFIUTI ORGANICI (CER 20/01/08) PROVENIENTI DALLA RACCOLTA DIFFERENZIATA "PORTA A PORTA" - PERIODO: OTTOBRE/DICEMBRE 2022 - DITTA: PI.ECO S.R.L.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3956</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3923</link>
       <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3923</guid>
-    </item>
-    <item>
-      <title>11/11/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PUBBLICAZIONE AVVISO DI PRESENTAZIONE RICHIESTA CONCESSIONE DEMANIALE MARITTIMA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3922</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3922</guid>
     </item>
   </channel>
 </rss>
