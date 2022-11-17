@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso di deposito cartelle esattoriali per assenza  nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8980</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8980</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso di deposito cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8979</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8979</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>MAI.CON.GROUP s.r.l. Unipersonale Intervento sostitutivo INAIL: art. 4  comma 2 del D.P.R. n. 207/2010.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8978</link>
@@ -109,7 +123,7 @@
     </item>
     <item>
       <title>Delibere Di Giunta Municipale</title>
-      <description>Atto di indirizzo - Legge 25/05/2022 n. 13 art. 8 comm. 4 Legge di stabilità regionale 2022-2024. - D.D. n. 3541 del 11/10/2022 Contributi ai comuni danneggiati dagli eventi alluvionali dell'08/08/2020 a titolo di ristoro.</description>
+      <description>Atto di indirizzo - L 25/05/2022 n13 art. 8 comm. 4 L di stabilità regionale 2022-2024. - D.D. n. 3541 del 11/10/2022 Contributi ai comuni danneggiati dagli eventi alluvionali dell'08/08/2020 a titolo di ristoro. pubblicazione oscurata la proposta no</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8965</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8965</guid>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8953</link>
       <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8953</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione contributo all'Associazione di volontariato "Club Radio C.B." di Barcellona P.G. ( delibera di G.M 113 del 20.05.2021) Richiesta di liquidazione.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8952</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8952</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AMPLIAMENTO DELL'ORARIO DI LAVORO, A CARATTERE PROVVISORIO, PER DIPENDENTI PART-TIME IMPEGNATI PRESSO LAUTOPARCO COMUNALE LIQUIDAZIONE PRESTAZIONI</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8951</link>
-      <pubDate>Tue, 15 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=8951</guid>
     </item>
   </channel>
 </rss>
