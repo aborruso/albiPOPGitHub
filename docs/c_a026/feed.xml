@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/222</title>
+      <description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE COATTA TEMPORANEO SU VIA G.PEZZANA.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427759</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427759</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/47155</title>
       <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE, IN SESSIONE ORDINARIA PER DETERMINAZIONE DEL PRESIDENTE DEL CONSIGLIO COMUNALE AI SENSI DELL'ART. 50 - COMMA 7 E 8 DEL VIGENTE REGOLAMENTO COMUNALE - IN PRESENZA PER IL GIORNO 09.12.2022 ALLE ORE 10.30.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427758</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427527</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427527</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1755</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA TRINACRIA SCAVI SRL PER RECUPERO RIFIUTI DIFFERENZIATI CON CER 170904 - MESE DI SETTEMBRE 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427525</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/427525</guid>
     </item>
   </channel>
 </rss>
