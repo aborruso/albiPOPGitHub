@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione "Bonus Figlio" II° Semestre 2021.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3962</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3962</guid>
+    </item>
+    <item>
+      <title>17/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Piano di Zona 2018/2019 - Azione 1 - Assistenza domiciliare integrata (A.D.I) svolto tramite voucher - Liquidazione all'Associazione "Ialite" per il servizio erogato dal 02/05/2022 al 31/08/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3961</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3961</guid>
+    </item>
+    <item>
+      <title>17/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE SERVIZIO MEDICO COMPETENTE AI SENSI DEL D.LGS. N.81/2008 - TIROCINANTI TIROCINI INCLUSIVI PROGETTO PON AVVISO N.3/2016 - CUP: C71H17000080002 - CIG: ZED2BO4E12.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3960</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3960</guid>
+    </item>
+    <item>
       <title>17/11/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>Richiesta utilizzo graduatorie vigenti per assunzione di personale.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3959</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3928</link>
       <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3928</guid>
-    </item>
-    <item>
-      <title>14/11/2022 | Ordinanze Dirigenziali</title>
-      <description>Modifiche chiusura al transito Via Zuccarello per sabato e domenica.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3927</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3927</guid>
-    </item>
-    <item>
-      <title>11/11/2022 | Concessioni E Permessi Di Costruire</title>
-      <description>PERMESSO DI COSTRUIRE N. 16 dell'11/11/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3926</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3926</guid>
-    </item>
-    <item>
-      <title>11/11/2022 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>"CAMPIONATO AUTUNNALE DEI NEBRODI E DELLE EOLIE - II^ EDIZIONE 2022".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3925</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3925</guid>
     </item>
   </channel>
 </rss>
