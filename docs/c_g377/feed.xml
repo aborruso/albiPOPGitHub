@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/11/2022 | Determinazioni Dirigenziali</title>
+      <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3985</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3985</guid>
+    </item>
+    <item>
       <title>21/11/2022 | Ordinanze Dirigenziali</title>
       <description>Divieti di sosta in Via Crispi - Via S. Antonino - Via Gorizia e C.so Matteotti per lavori di relamping dell'impianto di illuminazione pubblica: 22-23-24/11/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3984</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3951</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3951</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Determinazioni Dirigenziali</title>
-      <description>INTERVENTI URGENTI ED INDIFFERIBILI DI MANUTENZIONE STRAORDINARIA CON RIFACIMENTO TRATTI DI PAVIMENTAZIONE STRADALE DELLA VIA SANDRO PERTINI E STRADE COMUNALI VARIE - CUP: C47H22002840004 - DETERMINAZIONE A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3950</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3950</guid>
     </item>
   </channel>
 </rss>
