@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/11/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieti di sosta in Via Crispi - Via S. Antonino - Via Gorizia e C.so Matteotti per lavori di relamping dell'impianto di illuminazione pubblica: 22-23-24/11/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3984</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3984</guid>
+    </item>
+    <item>
+      <title>21/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura materiale vario per la Mensa Scolastica del Plesso "Lombardo Radice".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3983</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3983</guid>
+    </item>
+    <item>
+      <title>21/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Riparazione lavastoviglie della Mensa Scolastica del Plesso "Lombardo Radice".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3982</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3982</guid>
+    </item>
+    <item>
+      <title>21/11/2022 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3981</link>
+      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3981</guid>
+    </item>
+    <item>
       <title>21/11/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura di Gas nei Locali Comunali - Ottobre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3980</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3950</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3950</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Approvazione ruolo dei contribuenti tenuti al pagamento del saldo TARI anno 2022 - Accertamento entrata.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3949</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3949</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fatture pregresse N.ri 1157455 e 2145029, del 31/10/2021 - Ditta: Maggioli S.p.a.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3948</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3948</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Ordinanze Dirigenziali</title>
-      <description>Chiusura temporanea al transito, per lavori, Via Sciacca Baratta e Via XX Settembre alta: 16/11/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3947</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3947</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione indennità di O.P. al personale della Polizia Locale per Servizi anti-Covid - Anno 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3946</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3946</guid>
     </item>
   </channel>
 </rss>
