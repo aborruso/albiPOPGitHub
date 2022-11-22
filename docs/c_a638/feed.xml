@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Atto di appello promosso dal Comune di Barcellona PG contro Genovese Angela e Attanasio Marinella  avverso sentenza n 801 del 2022 emessa dal Tribunale di Barcellona  PG Sez Lav  nel giudizio RG N  1043 del 2013  Nomina legale.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9058</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9058</guid>
+    </item>
+    <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso di Sorteggio componenti delle Commissioni Esaminatrici dei concorsi pubblici</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9057</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9057</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Compensazione contabile per recupero anticipazione dal fondo Autonomie Locali</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9056</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9056</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito N° 1 atto in busta chiusa a carico di WANG WEIMIN ai sensi dell'Art.60 D.P.R.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9055</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9031</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9031</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n. FPA 25-22 del 02 Novembre 2022. Servizio di integrazione personale educativo ed ausiliario negli Asilo Nido Comunali, mese di Ottobre 2022 -  Società Cooperativa Sociale C.A.S.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9030</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9030</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rimborso Buoni spesa per acquisto di generi alimentari Eurobon srl punto vendita via On. Martino Barcellona Pozzo di Gotto. Art.2 Decreto Legge 23 novembre 2020 n. 154  Avviso del 09/06/2022.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9029</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9029</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Legge 448 del 1998 art 66  Assegno di Maternità istanze pervenute nel mese di Ottobre 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9028</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9028</guid>
     </item>
   </channel>
 </rss>
