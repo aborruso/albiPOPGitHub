@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/11/2022 | Avvisi Vari</title>
+      <description>PROVVEDIMENTO UNICO FINALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</guid>
+    </item>
+    <item>
       <title>21/11/2022 | Determinazioni Dirigenziali</title>
       <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3985</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3952</link>
       <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3952</guid>
-    </item>
-    <item>
-      <title>16/11/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI SOMMA URGENZA PER PULIZIA CONDOTTA FOGNARIA CONTRADA CUTURI - IMPEGNO SPESA - DELIBERA CONSIGLIO COMUNALE N. 58/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3951</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3951</guid>
     </item>
   </channel>
 </rss>
