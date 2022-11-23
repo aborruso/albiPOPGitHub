@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione consiglio comunale per giorno 29 novembre 2022 ore 17:30</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9062</link>
+      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9062</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili a civili (L.R. n. 27/86 e D.Lgs.vo n. 152/06) validità mesi 6 Ditta Floramo Michele in Via Garibaldi n. 572 Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9061</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9035</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9035</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI SVUOTAMENTO CESTINI, PULIZIA GIORNALIERA E STRAORDINARIA DEL CIMITERO COMUNALE. ANNO 2021-2022 C.I.G. Z58388A0F2 Impegno spesa Proroga tecnica contratto</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9034</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9034</guid>
     </item>
   </channel>
 </rss>
