@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/11/2022 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4006</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4006</guid>
+    </item>
+    <item>
       <title>24/11/2022 | Determinazioni Dirigenziali</title>
       <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per fornitura sistema di comunicazione telefonica basato su protocolli VoIP PBX e su servizi Cloud per le principali sedi comunali - CIG: ZD538A8993.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4005</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3971</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3971</guid>
-    </item>
-    <item>
-      <title>18/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Riparazioni forni per cucina Mensa Scolastica "Lombardo Radice" - Impegno ed affidamento - Ditta: Collovà Giuseppe - CIG: Z1738A76B8.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3970</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3970</guid>
     </item>
   </channel>
 </rss>
