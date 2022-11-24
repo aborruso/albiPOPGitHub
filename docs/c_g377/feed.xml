@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/11/2022 | Determinazioni Dirigenziali</title>
+      <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4001</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4001</guid>
+    </item>
+    <item>
+      <title>23/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Piano di Zona 2018/2019 - Azione 1 - Assistenza domiciliare integrata (A.D.I.) svolto tramite voucher - Liquidazione alla Cooperativa Servizi 2000 per il servizio erogato dal mese di giugno al mese di settembre 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4000</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4000</guid>
+    </item>
+    <item>
+      <title>23/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione al Conzorzio Hera Società Cooperativa Sociale Onlus per il servizio di gestione del Centro di Accoglienza per cittadini ucraini in fuga dal conflitto dal 27 settembre al 31 ottobre 2022 - CIG: 93695236F9.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3999</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3999</guid>
+    </item>
+    <item>
       <title>23/11/2022 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito Via S. Pertini per lavori stradali: venerdì 25/11/22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3998</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3967</link>
       <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3967</guid>
-    </item>
-    <item>
-      <title>18/11/2022 | Avvisi Vari</title>
-      <description>Avviso pubblico per l'attivazione di N. 6 tirocini formativi da svolgersi presso il VI° Settore "Turistico, Informatico e Istruzione" del Comune di Patti.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3966</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3966</guid>
-    </item>
-    <item>
-      <title>18/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Polizza Assicurativa per i bambini dell'Asilo Nido Comunale "M. Faranda" e la Scuola dell'Infanzia Comunale - Anno 2023 - Impegno ed affidamento assicurativo.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3965</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3965</guid>
-    </item>
-    <item>
-      <title>18/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI SCERBAMENTO DELLE AREE A VERDE PRESENTI SUL TERRITORIO COMUNALE - DITTA: CA.FER  EDILIZIA S.A.S. DI CANDUCI TINDARO &amp; FIGLI - LIQUIDAZIONE FATTURA N. 13 DEL 09/09/2022 - CIG: ZEF372FADB.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3964</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3964</guid>
     </item>
   </channel>
 </rss>
