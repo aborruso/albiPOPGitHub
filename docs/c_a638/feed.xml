@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso aggiunta cognome materno alla Figlia minore Isabel da "AIOJOAIEI ISABEL" a "AIOJOAIEI MASTROJENI ISABEL"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9098</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9098</guid>
+    </item>
+    <item>
       <title>Cantiere di Lavoro n. 583/ME  CUP H16G18000250002, relativo alla -Realizzazione di marciapiedi in via La Pira tra Stretto Bartolella e Vico II Palestro- B.</title>
       <description>"SOSTITUZIONE R.E.O. E CONTESTUALE NOMINA R.E.O. PER: A.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9097</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9071</link>
       <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9071</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale nella giornata di Mercoledì 30.11.2022 dalle ore 08:00 fino al termine dell'incontro di calcio</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9070</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9070</guid>
     </item>
   </channel>
 </rss>
