@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/11/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito Zona Industriale, dalle 12:00 alle 14:00 del 25/11/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4014</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4014</guid>
+    </item>
+    <item>
+      <title>25/11/2022 | Atti Di Interesse Generale</title>
+      <description>AVVISO PUBBLICO - INDAGINE DI MERCATO ESPLORATIVA RELATIVA AL "SERVIZIO DI MANUTENZIONE AUTOMEZZI COMUNALI" - VEICOLI LEGGERI E VEICOLI PESANTI - PROROGA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4013</link>
+      <pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4013</guid>
+    </item>
+    <item>
       <title>24/11/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA - LIQUIDAZIONE FATTURA FATTPA 30_22 DEL 18/08/2022 - DITTA: RIZZO FRANCESCO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4012</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3979</link>
       <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3979</guid>
-    </item>
-    <item>
-      <title>21/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURE N.RI 1131049 E 2127578, DEL 31/05/22 - MAGGIOLI S.P.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3978</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3978</guid>
-    </item>
-    <item>
-      <title>21/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura energia elettrica - Ottobre 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3977</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3977</guid>
     </item>
   </channel>
 </rss>
