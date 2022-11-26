@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/11/2022 | Ordinanze Sindacali</title>
+      <description>AVVERSITÀ ATMOSFERICHE DEL 25/26 NOVEMBRE 2022 - ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4021</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4021</guid>
+    </item>
+    <item>
       <title>25/11/2022 | Determinazioni Dirigenziali</title>
       <description>Variazioni compensative del Piano Esecutivo di Gestione (PEG) 2022/2024 ai sensi dell'art. 175, comma 5-quater, lettera a), del Decreto Legislativo 18 agosto 2000, N. 267.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4020</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</guid>
-    </item>
-    <item>
-      <title>21/11/2022 | Determinazioni Dirigenziali</title>
-      <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3985</link>
-      <pubDate>Mon, 21 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3985</guid>
     </item>
   </channel>
 </rss>
