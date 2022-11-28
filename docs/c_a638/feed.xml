@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito N° 2 atti in busta chiusa a a carico di MOISA LIVIU ai sensi dell'art 60 D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9111</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9111</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Servizio di manutenzione e conduzione impianti di riscaldamento e climatizzazione scuole materne, scuole elementari, scuole medie, asili nido ed edifici pubblici comunali. Anno 2021/2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9110</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9110</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione straordinario reso dai dipendenti Part-Time del IV settore impegnati nella gestione delle attuali situazioni di emergenza sul territorio locale.Periodo dal  01/10/2022 AL 31/10/2022.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9109</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9109</guid>
+    </item>
+    <item>
       <title>Bando Di Concorso</title>
       <description>Avviso pubblico per la selezione di n. 1 Esperto per il conferimento di un incarico di lavoro autonomo ex art. 7, comma 6 del D.Lgs. n. 165/2001 ai sensi dell'art. 11 comma 2) del D L 30 aprile 2022, n. 36, convertito con modificazioni con la L n. 79 del 29 giugno 2022, "Ulteriori misure urgenti per lattuazione del Piano nazionale di ripresa e resilienza (PNRR)". Profilo MIDDLE</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9108</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9084</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9084</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>acquisto su Mepa di n. 7 Scanner per gli uffici del Primo Settore.   Cig: Z0038B7B35</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9083</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9083</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>parziale modifica contratto di mutuo tra I.C.S. e Comune di Barcellona Pozzo di Gotto  pratica n. 4554500 di euro 700.000,00.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9082</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9082</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>acquisto n. 2 distruggi documenti.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9081</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9081</guid>
     </item>
   </channel>
 </rss>
