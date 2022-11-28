@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/169</title>
+      <description>BILANCIO CONSOLIDATO 2021 DEL “GRUPPO COMUNE DI ACI CASTELLO” - INDIVIDUAZIONE DEI COMPONENTI E DEL PERIMETRO DI CONSOLIDAMENTO.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429014</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429014</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1851</title>
       <description>REVOCA DETERMINAZIONE N. REG. GEN. 1737 DEL 10/11/2022 PER SALMA INDECOMPOSTA. FASCICOLO CIMITERIALE: LOC. 563 COL. A</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428918</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428604</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428604</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1842</title>
-      <description>IMPEGNO DI SPESA PER IL NUCLEO DI VALUTAZIONE INTERNO - ANNO 2022 E 2023.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428602</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428602</guid>
     </item>
   </channel>
 </rss>
