@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1852</title>
+      <description>CONCESSIONE BENEFICI DI CUI ALLA LEGGE 119/2011 ART. 4- DIPENDENTE MATRICOLA N. 76.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429020</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429020</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/169</title>
       <description>BILANCIO CONSOLIDATO 2021 DEL “GRUPPO COMUNE DI ACI CASTELLO” - INDIVIDUAZIONE DEI COMPONENTI E DEL PERIMETRO DI CONSOLIDAMENTO.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429014</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428606</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428606</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1845</title>
-      <description>CONCESSIONE D'USO DEI LOCALI DI PALESTRA DELL’I.C.S. FALCONE ALL’ASSOCIAZIONE SPORTIVA A.S.D. CROSSROADS, PER GARA CHALLENGE ATTIVITA’ AGONISTICA PROFESSIONISTICA DI BADMINTON.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428604</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428604</guid>
     </item>
   </channel>
 </rss>
