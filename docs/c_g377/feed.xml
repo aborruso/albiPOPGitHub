@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TASSA REGISTRAZIONE SENTENZA N.45/2020 - TRIBUNALE DI PATTI - CONTROVERSIA AUTOFORNITURE CICIRELLA/CONSORZIO AUTOSTRADE SICILIANE/ COMUNE DI PATTI - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4022</link>
+      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4022</guid>
+    </item>
+    <item>
       <title>26/11/2022 | Ordinanze Sindacali</title>
-      <description>AVVERSITÀ ATMOSFERICHE DEL 25/26 NOVEMBRE 2022 - ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.).</description>
+      <description>AVVERSITÀ ATMOSFERICHE DEL 25 e 26 NOVEMBRE 2022 - ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4021</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4021</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3987</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3987</guid>
-    </item>
-    <item>
-      <title>22/11/2022 | Avvisi Vari</title>
-      <description>PROVVEDIMENTO UNICO FINALE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3986</guid>
     </item>
   </channel>
 </rss>
