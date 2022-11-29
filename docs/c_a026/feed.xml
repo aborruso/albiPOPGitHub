@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/240</title>
+      <description>SOSPENSIONE DELLE ATTIVITÀ DIDATTICHE DI TUTTE LE SCUOLE PRESENTI NEL TERRITORIO COMUNALE, CHIUSURA CASTELLO NORMANNOE CIMITERO COMUNALE PER IL 29/11/2022</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429048</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429048</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/1852</title>
       <description>CONCESSIONE BENEFICI DI CUI ALLA LEGGE 119/2011 ART. 4- DIPENDENTE MATRICOLA N. 76.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429020</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428608</link>
       <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428608</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1840</title>
-      <description>COMPENSO PER IL SERVIZIO DI TESORERIA COMUNALE CREDIT AGRICOLE S.P.A. – SEDE DI PARMA PERIODO 01/01/2020 – 31/12/2024 - ANNO 2022</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428606</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/428606</guid>
     </item>
   </channel>
 </rss>
