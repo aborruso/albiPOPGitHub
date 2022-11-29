@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/11/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>ASSICURAZIONE INFORTUNI, MALATTIA E RESPONSABILITA' CIVILE  GRUPPO COMUNALE VOLONTARI DI PROTEZIONE CIVILE LIQUIDAZIONE  ANNO 2022-2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4025</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4025</guid>
+    </item>
+    <item>
       <title>28/11/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA IN CONTO ALL'AVV. GIANFRANCO PASSALACQUA. CONTROVERSIA BANCA SISTEMA S.P.A. LIQUIDAZIONE.</description>
+      <description>SPESA IN CONTO ALL'AVV. GIANFRANCO PASSALACQUA - CONTROVERSIA BANCA SISTEMA S.P.A. - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4024</link>
       <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4024</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3990</link>
       <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3990</guid>
-    </item>
-    <item>
-      <title>22/11/2022 | Determinazioni Dirigenziali</title>
-      <description>FORNITURA CLORO PER IL TRATTAMENTO DELL'ACQUA DESTINATA AL CONSUMO UMANO - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA - DITTA:  CHIMICA NOTO s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3989</link>
-      <pubDate>Tue, 22 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=3989</guid>
     </item>
   </channel>
 </rss>
