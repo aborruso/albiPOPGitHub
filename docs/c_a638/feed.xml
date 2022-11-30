@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso: concorso per n. 1 posto di Istruttore direttivo informatico</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9182</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9182</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto in busta chiusa a carico di Emulo Helene</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9181</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9181</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n° 2 atti in busta chiusa a carico di BEN RHOUMA BORHANE ai sensi dell'art.60 D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9180</link>
+      <pubDate>Wed, 30 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9180</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Acquisto n. 6 PC computer Desktop I7 4770RAM 16 GB-SSD 480GB, su Me.Pa, per i Servizi Demografici.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9179</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9153</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9153</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Deliobera C.C. n°24 del 23/03/1998 Ditta "Calpona Sebastiano" impresa Omonima Via Roma, 307 - Barcellona P.G. (ME)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9152</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9152</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Delibera C.C. n°24 del 23/03/1998 Ditta "Chillemi Giuseppe" impresa Omonima Via Barcellona Acquaficara, 202 - Barcellona P.G. (ME)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9151</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9151</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto in busta chiusa a carico di Darqane Amine</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9150</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9150</guid>
     </item>
   </channel>
 </rss>
