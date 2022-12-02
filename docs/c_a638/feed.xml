@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco abusivismo edilizio mese di novembre 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9234</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9234</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Calendario festività religiose ortodosse anno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9233</link>
+      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9233</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>SERVIZIO PER IL SUPPORTO ALLO SVOLGIMENTO DELLA PROVA PRELIMINARE PER  LA COPERTURA DI N.1 POSTO DI ISTRUTTORE DIRETTIVO AMMINISTRATIVO.    C.I.G.: ZE138CCD53  PRESA ATTO MODALITA' TECNICHE E ISTRUZIONI CANDIDATI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9232</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9206</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9206</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Graduatorie definitive servizio civile universale 2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9205</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9205</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Liquidazione integrazione oraria mese di OTTOBRE 2022 al personale in servizio presso gli Asili Nido Comunali di "Casa del fanciullo", Petraro/Panteini e "S. Antonino". Fondi Pac CUP:H69G21000070001</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9204</link>
-      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9204</guid>
     </item>
   </channel>
 </rss>
