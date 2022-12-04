@@ -98,3 +98,5 @@ if [ $code -eq 200 ]; then
   cp "$folder"/processing/feed.xml "$output"
 
 fi
+
+git pull origin master
