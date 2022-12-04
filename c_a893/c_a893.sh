@@ -45,8 +45,7 @@ mkdir -p "$folder"/../docs/"$iPA"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-myip=$(curl --socks5-hostname localhost:9050 ifconfig.me)
-
+myip=$(curl --socks5-hostname localhost:9050 api.ipify.org)
 curl https://ipapi.co/"$myip"/json/
 
 # estrai codici di risposta HTTP dell'albo
