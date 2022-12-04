@@ -40,6 +40,10 @@ mkdir -p "$folder"/../docs/"$iPA"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
+myip=$(curl --socks5-hostname localhost:9050 ifconfig.me)
+
+curl https://ipapi.co/"$myip"/json/
+
 # URL di test risposta sito albo
 URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 #URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
