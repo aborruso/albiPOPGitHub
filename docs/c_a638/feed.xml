@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso di Interpello per la presentazione di Candidature per la nomina di n. 1 Funzionario Esperto in Gestione Rendicontazione e Controllo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9280</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9280</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>SOTTOSCRIZIONE DEL CCNL RELATIVO AL PERSONALE DEL COMPARTO FUNZIONI LOCALI PER IL TRIENNIO 2019/2022, SUA ATTUAZIONE E IMPEGNO DI SPESA PER IL PAGAMENTO DEGLI ONERI ARRETRATI RELATIVI AGLI INCREMENTI STIPENDIALI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9279</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9253</link>
       <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9253</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SOMME PER RESTITUZIONE FONDO DI ROTAZIONE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9252</link>
-      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9252</guid>
     </item>
   </channel>
 </rss>
