@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/12/2022 | Determinazioni Dirigenziali</title>
+      <description>LAVORI PER LA REALIZZAZIONE DI STRUTTURE COMMERCIALI SPECIALIZZATE PER LA VENDITA DI PRODOTTI AGRICOLI E ZOOTECNICI E DELLA FILIERA AGRO-ALIMENTARE NOMINA SUPPORTO AMMINISTRATIVO AL COLLAUDATORE TECNICO-AMMINISTRATIVO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4102</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4102</guid>
+    </item>
+    <item>
+      <title>06/12/2022 | Determinazioni Del Sindaco</title>
+      <description>INCARICO DI COLLAUDO TECNICO-AMMINISTRATIVO RELATIVO AI LAVORI PER LA REALIZZAZIONE DI STRUTTURE COMMERCIALI SPECIALIZZATE PER LA VENDITA DI PRODOTTI AGRICOLI E ZOOTECNICI E DELLA FILIERA AGRO-ALIMENTARE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4101</link>
+      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4101</guid>
+    </item>
+    <item>
       <title>06/12/2022 | Ordinanze Dirigenziali</title>
       <description>Istiruzione divieto di sosta via B. Croce e divieto di accesso agli autocarri in piazza Sciacca.  Chiusura al transito via Verdi e divieto di sosta via L. Sturzo: 08.12.22.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4100</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4068</link>
       <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4068</guid>
-    </item>
-    <item>
-      <title>02/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Impegno ed affidamento Servizio Medico all'attuazione dei Patti per l'Inclusione Sociale PAIS, Avviso 1 a valere sul Fondo Sociale Europeo (FSE), programmazione 2014/2020 - PON Inclusione - CUP:  C41B20000810006.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4067</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4067</guid>
-    </item>
-    <item>
-      <title>02/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Stipula Polizza Assicurativa progetti PUC finalizzati all'attuazione dei Patti per l'Inclusione Sociale PAIS, Avviso 1 a valere sul Fondo Sociale Europeo (FSE), programmazione 2014/2020 - PON Inclusione - CUP: C41B20000810006.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4066</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4066</guid>
     </item>
   </channel>
 </rss>
