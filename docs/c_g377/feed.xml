@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fattura ACI  n. 26860, del 12.09.22 - Servizio TP Visure</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4104</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4104</guid>
+    </item>
+    <item>
+      <title>07/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fattura ACI n. 32401, del 23.11.22 - Servizio TP Visure</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4103</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4103</guid>
+    </item>
+    <item>
       <title>06/12/2022 | Determinazioni Dirigenziali</title>
       <description>LAVORI PER LA REALIZZAZIONE DI STRUTTURE COMMERCIALI SPECIALIZZATE PER LA VENDITA DI PRODOTTI AGRICOLI E ZOOTECNICI E DELLA FILIERA AGRO-ALIMENTARE NOMINA SUPPORTO AMMINISTRATIVO AL COLLAUDATORE TECNICO-AMMINISTRATIVO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4102</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4070</link>
       <pubDate>Sat, 03 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4070</guid>
-    </item>
-    <item>
-      <title>02/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Concessione  ulteriore periodo di congedo straordinario retribuito ex art. 42 c. 5 D.Lgs. N. 151/2001 e s.m.i.al dipendente Omissis dal 05/12 al 13/12/22.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4069</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4069</guid>
-    </item>
-    <item>
-      <title>02/12/2022 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4068</link>
-      <pubDate>Fri, 02 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4068</guid>
     </item>
   </channel>
 </rss>
