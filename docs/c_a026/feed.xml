@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/1915</title>
+      <description>ASSEGNAZIONE NUMERI CIVICI ALL’IMMOBILE SITO IN VIA SCIARONE DI PROPRIETÀ DEL SIGNOR GANCI SALVATORE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/430188</link>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/430188</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/49982</title>
       <description>PROT.N.0101816/2022 - TRASMISSIONE BANDO PER LA STABILIZZAZIONE DI N.5 ASSISTENTI SOCIALI IN POSSESSO DEI REQUISITI PREVISTI DALL’ART. 20, COMMA 1, DEL D.LGS N.. 75 DEL 25 MAGGIO 2017.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/430170</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429931</link>
       <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429931</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/1901</title>
-      <description>LIQUIDAZIONE FATTURA N. 79 DEL 16/11/2022 IN FAVORE DELLA S.SPOTO S.R.L.S. PER I SERVIZI CIMITERIALI RESI DAL 15/10/2022 AL 15/11/2022. C.I.G.: 92998227E3</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429929</link>
-      <pubDate>Tue, 06 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/429929</guid>
     </item>
   </channel>
 </rss>
