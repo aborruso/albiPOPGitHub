@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento affissione manifesti saldo IMU 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9362</link>
+      <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9362</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Approvazione rendiconto Servizio Economato  anno 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9361</link>
       <pubDate>Mon, 12 Dec 2022 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9335</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9335</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Evento di animazione e beneficenza "Il sogno di Klaus  Le origini di Babbo Natale" . Accettazione proposta.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9334</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9334</guid>
     </item>
   </channel>
 </rss>
