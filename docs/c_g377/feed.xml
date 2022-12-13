@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/12/2022 | Determinazioni Dirigenziali</title>
+      <description>APPROVAZIONE DELL'AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA PER L'AFFIDAMENTO DEL SERVIZIO DI SORVEGLIANZA SANITARIA AI SENSI DEL D.LGS. 81/2008.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4145</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4145</guid>
+    </item>
+    <item>
       <title>13/12/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Servizio trasporto urbano alunni - Ditta AST S.p.A. - Liquidazione Fattura.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4144</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4111</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4111</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA PER IL SERVIZIO DI LAVORI DI MANUTENZIONE DEL VERDE PUBBLICO DEL PARCO ROBINSON, DELLA VILLA COMUNALE UMBERTO I E DELLA VILLA DI VIA ALDO MORO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4110</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4110</guid>
     </item>
   </channel>
 </rss>
