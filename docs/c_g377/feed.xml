@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/12/2022 | Determinazioni Dirigenziali</title>
+      <description>Affidamento e impegno spesa per fornitura tagliandi "Gratta e sosta".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4151</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4151</guid>
+    </item>
+    <item>
+      <title>14/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura energia elettrica - Settembre/ottobre 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4150</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4150</guid>
+    </item>
+    <item>
+      <title>14/12/2022 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito, per lavori - Via Agliastri: 16/12/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4149</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4149</guid>
+    </item>
+    <item>
+      <title>14/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura gas nei Locali Comunali - Novembre 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4148</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4148</guid>
+    </item>
+    <item>
       <title>14/12/2022 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 19 DEL 14/12/2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4147</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4117</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4117</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Deliberazioni Di Giunta</title>
-      <description>COSTITUZIONE DELLA DELEGAZIONE TRATTANTE DI PARTE DATORIALE ABILITATA ALLA CONTRATTAZIONE COLLETTIVA INTEGRATIVA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4116</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4116</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Deliberazioni Di Giunta</title>
-      <description>Assunzione vincitore della selezione pubblica per titoli ed esami per la copertura di N. 1 posto di Assistente Sociale, Cat. D posizione economica D1 a tempo pieno e indeterminato.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4115</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4115</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Deliberazioni Di Giunta</title>
-      <description>Assunzione concorrente risultato idoneo alla selezione pubblica per l'assunzione obbligatoria ai sensi della Legge 68 del 12 marzo 1999 e s.m.i. - N.1 Geometra Categoria C a tempo pieno e indeterminato.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4114</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4114</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>CRITICITA' DEL PRESIDIO OSPEDALIERO "BARONE ROMEO" E RIAPERTURA RSA DI CASE NUOVE RUSSO - MOZIONE E DISCUSSIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4113</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4113</guid>
     </item>
   </channel>
 </rss>
