@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via Cristoforo Colombo "come da planimetria"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9405</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9405</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via Eolie "come da Planimetria"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9404</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9404</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Richiesta autorizzazione per manomissione suolo pubblico comunale Utente: Italgas Reti - Via Catili civ.11 "come da planimetria"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9403</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9403</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Servizio di manutenzione e conduzione impianti di riscaldamento e climatizzazione scuole materne, scuole  elementari, scuole medie, asili nido ed edifici pubblici comunali. Anno 2021/2022. Approvazione dello Stato finale, del certificato di regolare</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9402</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9378</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9378</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Revoca dell'assegnazione Lotto artigianale n. 32, all'interno del Piano degli Insediamenti Produttivi", alla Ditta titolare, con conseguente risoluzione dell'atto stipulato e retrocessione dell'area al patrimonio disponibile del Comune</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9377</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9377</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>AMPLIAMENTO ORARIO A CARATTERE PROVVISORIO PER UN DIPENDENTE PART-TIME DI CATEGORIA C DEL VI SETTORE  UFFICIO LAVORI PUBBLICI.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9376</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9376</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Azione 8 Sostegno al reddito Piano di Zona 2019/2020 liquidazione contributo ai beneficiari per il Comune di Montalbano Elicona</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9375</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9375</guid>
     </item>
   </channel>
 </rss>
