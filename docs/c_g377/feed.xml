@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/12/2022 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 19 DEL 14/12/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4147</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4147</guid>
+    </item>
+    <item>
       <title>14/12/2022 | Manifestazioni Di Interesse</title>
-      <description>Avviso pubblico di manifestazione di interesse per l'affidamento dell'incarico di Medico Competente per il servizio di sorveglianza sanitaria - Scadenza: il termine per la ricezione della domanda di partecipazione è alle ore 23:59 di giovedì 29 dicembre 2022.</description>
+      <description>Avviso pubblico di manifestazione di interesse per l'affidamento dell'incarico di Medico Competente per il Servizio di Sorveglianza Sanitaria - Scadenza: il termine per la ricezione della domanda di partecipazione è alle ore 23:59 di giovedì 29 dicembre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4146</link>
       <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4146</guid>
@@ -235,14 +242,14 @@
     </item>
     <item>
       <title>09/12/2022 | Deliberazioni Di Giunta</title>
-      <description>Assunzione vincitore della selezione pubblica per titoli ed esami per la copertura di n. 1 posto di Assistente Sociale, Cat. D posizione economica D1 a tempo pieno e indeterminato.</description>
+      <description>Assunzione vincitore della selezione pubblica per titoli ed esami per la copertura di N. 1 posto di Assistente Sociale, Cat. D posizione economica D1 a tempo pieno e indeterminato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4115</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4115</guid>
     </item>
     <item>
       <title>09/12/2022 | Deliberazioni Di Giunta</title>
-      <description>Assunzione concorrente risultato idoneo alla selezione pubblica per l'assunzione obbligatoria ai sensi della Legge 68 del 12 marzo 1999 e s.m.i. n.1 Geometra Categoria C a tempo pieno e indeterminato.</description>
+      <description>Assunzione concorrente risultato idoneo alla selezione pubblica per l'assunzione obbligatoria ai sensi della Legge 68 del 12 marzo 1999 e s.m.i. - N.1 Geometra Categoria C a tempo pieno e indeterminato.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4114</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4114</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4113</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4113</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>SOSTEGNO ED ADESIONE ALLE INIZIATIVE DI COLDIRETTI CONTRO IL CIBO SINTETICO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4112</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4112</guid>
     </item>
   </channel>
 </rss>
