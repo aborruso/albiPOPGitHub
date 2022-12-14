@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/12/2022 | Manifestazioni Di Interesse</title>
+      <description>Avviso pubblico di manifestazione di interesse per l'affidamento dell'incarico di Medico Competente per il servizio di sorveglianza sanitaria - Scadenza: il termine per la ricezione della domanda di partecipazione è alle ore 23:59 di giovedì 29 dicembre 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4146</link>
+      <pubDate>Wed, 14 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4146</guid>
+    </item>
+    <item>
       <title>13/12/2022 | Determinazioni Dirigenziali</title>
       <description>APPROVAZIONE DELL'AVVISO ESPLORATIVO PER MANIFESTAZIONE DI INTERESSE A PARTECIPARE ALLA PROCEDURA PER L'AFFIDAMENTO DEL SERVIZIO DI SORVEGLIANZA SANITARIA AI SENSI DEL D.LGS. 81/2008.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4145</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4112</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4112</guid>
-    </item>
-    <item>
-      <title>09/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Servizio trasporto scolastico per gli alunni che viaggiano da: zone di Linea A Scarpiglia - Madoro - Masseria - Malafarina - Moreri - Patti e viceversa e Linea B: Scala, Locanda e Tindari e viceversa - Impegno e affidamento.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4111</link>
-      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4111</guid>
     </item>
   </channel>
 </rss>
