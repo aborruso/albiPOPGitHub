@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali Risultanze Di Gara</title>
+      <description>Verbale di comparizione delle offerte relative alla procedura sul MEPA denominata RDO SEMPLICE rivolta a n. 5 operatori economici registrati nella piattaforma alla categoria merceologica servizi sociali, per l'acquisizione del servizio di assistenza alla autonomia e comunicazione agli alunni disabili del Distretto Socio Sanitario D28</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9427</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9427</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Attività di pubblicizzazione degli elenchi di particelle oggetto di variazioni colturali, ai sensi dell'art. 2, comma 33, del decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286, e successive modificazioni e integrazioni</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9426</link>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9426</guid>
+    </item>
+    <item>
       <title>Concessioni Edilizie</title>
       <description>Permesso di costruire n° 29 del 15 dicembre 2022 - pratica edlizia n° 20296  a nome della Ditta Ficarra Tindaro, Ficarra Antonino Lucio e Italiano Rosa</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9425</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9400</link>
       <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9400</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno e affidamento per acquisto n. 5 monitor a colori Yashi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9399</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9399</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno e affidamento per acquisto n. 4 PC FISSO COMPUTER DESKTOP I7 3770-32 GB RAM- WIFI -WINDOWS 10 PRO, su Me.Pa, per il Servizi Demografici</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9398</link>
-      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9398</guid>
     </item>
   </channel>
 </rss>
