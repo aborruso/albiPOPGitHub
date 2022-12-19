@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/12/2022 | Determinazioni Dirigenziali</title>
+      <description>Affidamento ai sensi dell'art.36 comma 2° lett.a) del D. L.vo N. 50/2016 e s.m.i. per il Servizio Assicurativo alla Ditta Assicurazioni UNIPOLSAI con sede in Patti per lo svolgimento di Lavoro di pubblica Utilità presso questo Ente da svolgere in convenzione con il Ministero della Giustizia.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4196</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4196</guid>
+    </item>
+    <item>
+      <title>19/12/2022 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in Via Crispi per lavori: 20/12/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4195</link>
+      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4195</guid>
+    </item>
+    <item>
       <title>16/12/2022 | Deliberazioni Di Giunta</title>
       <description>MANIFESTAZIONI NATALE 2022. APPROVAZIONE PROGETTO GBSPORT ASD. ATTO DI INDIRIZZO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4194</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4162</link>
       <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4162</guid>
-    </item>
-    <item>
-      <title>15/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO TECNICO DI STUDIO GEOLOGICO ED ESECUZIONE DI INDAGINI GEOGNOSTICHE PER I LAVORI DI CONSOLIDAMENTO DELL'ABITATO DI VIA ALDO MORO DEL COMUNE DI PATTI. - COD. DISS. 013-5PT- 046 - LIQUIDAZIONE COMPETENZE TECNICHE - CUP: C47B17000260002.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4161</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4161</guid>
-    </item>
-    <item>
-      <title>15/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI DI MANUTENZIONE STRAORDINARIA DEI PROSPETTI E DEL SOLAIO DI COPERTURA DEL CINETEATRO COMUNALE "BENIAMINO JOPPOLO - I° STRALCIO - CODICE CARONTE: SI_1_25700 - CUP: C49G19000070002 - CIG: 8655135B57 - LIQUIDAZIONE ANTICIPAZIONE IN FAVORE DELLA DITTA AFFIDATARIA - IMPRESA: MOBA S.R.L.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4160</link>
-      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4160</guid>
     </item>
   </channel>
 </rss>
