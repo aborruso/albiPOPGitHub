@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/12/2022 | Avvisi Di Gara</title>
+      <description>AVVISO DI AVVIO DI PROCEDURA NEGOZIATA Ai sensi dell'art. 1, comma 2, lettera b) del D.L. 76/2020 convertito con legge n. 120/2020 come modificato dal DL 77/2021 convertito in Legge 108/2021</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4218</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4218</guid>
+    </item>
+    <item>
+      <title>20/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>ACQUISTO CONTATORI IDROMETRICI E MATERIALE PER SIGILLATURA - DITTA: SEPAF SOCIETA' COOPERATIVA - LIQUIDAZIONE FATTURA N. 513/2022 del 07/12/2022 - CIG: Z3C3876F56.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4217</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4217</guid>
+    </item>
+    <item>
+      <title>20/12/2022 | Determinazioni Dirigenziali</title>
+      <description>Lavori di consolidamento a protezione della Via Magretti, in prossimità della Piazza Belvedere, nel tratto interessato da fenomeni di dissesto - CUP: C47B18000170001 - CIG: 9561108BE9 - Determinazione a contrarre del Responsabile del Procedimento di spesa, ai sensi dell'art. 192 del D. Lgs. N. 267/2000 e dell'art. 32, comma 2 del D. Lgs. N. 50/2016 e s.m.i.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4216</link>
+      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4216</guid>
+    </item>
+    <item>
       <title>20/12/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione spesa ricovero disabile Gruppo Appartamento "Raggio di Sole" - Mese di Novembre 2022 - CIG: ZEA3576C04.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4215</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4184</link>
       <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4184</guid>
-    </item>
-    <item>
-      <title>16/12/2022 | Deliberazioni Di Giunta</title>
-      <description>RICONOSCIMENTO DANNI DA SINISTRO SIG.RA GARITO ELISA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4183</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4183</guid>
-    </item>
-    <item>
-      <title>16/12/2022 | Deliberazioni Di Giunta</title>
-      <description>SELEZIONE DI N. 1 ESPERTO DI PARTICOLARE E COMPROVATA SPECIALIZZAZIONE PER IL CONFERIMENTO DI UN INCARICO DI LAVORO AUTONOMO EX ART. 7, COMMA 6 DEL D.LGS. N. 165/2001 AI SENSI DELL'ART. 11 COMMA 2) DEL DECRETO-LEGGE 30 APRILE 2022, N. 36, CONVERTITO CON MODIFICAZIONI CON LA LEGGE N. 79 DEL 29 GIUGNO 2022, "ULTERIORI MISURE URGENTI PER L'ATTUAZIONE DEL PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR)" - PROFESSIONISTA ESPERTO CON FUNZIONI TECNICHE FT - PROFILO MIDDLE - INDIRIZZO AL RESPONSABILE DEL COMUNE DI PATTI - I° SETTORE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4182</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4182</guid>
-    </item>
-    <item>
-      <title>16/12/2022 | Deliberazioni Di Giunta</title>
-      <description>AUTORIZZAZIONE ALLA COSTITUZIONE IN CORSO DI CAUSA NEL GIUDIZIO R.G. N.1449/2020 PROMOSSO DALLA S.I.L.E.M. S.R.L DAVANTI AL TRIBUNALE DI PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4181</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4181</guid>
     </item>
   </channel>
 </rss>
