@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2022/30186</title>
+      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 30186 DEL 20/12/2022 PER AFFISSIONE ALL'ALBO PRETORIO COMUNALE - PRATICA N. 24/P</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/432027</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/432027</guid>
+    </item>
+    <item>
+      <title>Atto numero 0/0</title>
+      <description>AVVISO DI DEPOSITO DI ATTO TRIBUTARIO PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/432018</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/432018</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/2021</title>
       <description>INTEGRAZIONE DEPOSITO CAUZIONALE RINNOVO NOVENNALE PER L'ACCESSO AGLI ARCHIVI DELLA MOTORIZZAZIONE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431928</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431877</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431877</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/2004</title>
-      <description>LIQUIDAZIONE FATTURA ALLA DITTA MAGGIOLI PER ACQUISTO SERVIZIO DI SUPPORTO PER L'ALLINEAMENTO DEL DEBITO SULLA PIATTAFORMA DI CERTIFICAZIONE DEI CREDITI PCC. CIG: ZA83640C7B</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431821</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431821</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/2003</title>
-      <description>DETERMINA A CONTRARRE - AFFIDAMENTO DIRETTO, AI SENSI DELL’ART. 36,COMMA 2, LETT. A), D.LGS. 50/2016 E SS.MM.II., ALLA MEDIA MANAGER SRL PER LA REALIZZAZIONE DEL CONCERTO DI MUSICA CLASSICA DELLA YMCA YOUNG ORCHESTRA, DEL 18/12/2022. ACCERTAMENTO DI ENTRATA E IMPEGNO DI SPESA CIG: Z9B39131AF</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431819</link>
-      <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/431819</guid>
     </item>
   </channel>
 </rss>
