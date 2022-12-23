@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/12/2022 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4239</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4239</guid>
+    </item>
+    <item>
       <title>22/12/2022 | Determine Dirigenziali Di Liquidazione</title>
       <description>MANUTENZIONE STRAORDINARIA SULL'AUTOBOTTE TARGATO AJ 259 XB - DITTA: FIORAVANTI RAFFAELE - LIQUIDAZIONE FATTURA - CIG: Z0B389C00F.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4238</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4205</link>
       <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4205</guid>
-    </item>
-    <item>
-      <title>19/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI DI MANUTENZIONE DEL PONTILE DI PATTI MARINA E DI ARREDO URBANO - CUP: C47H22001740001 - APPROVAZIONE ATTI DI CONTABILITÀ FINALE E CERTIFICATO DI ULTIMAZIONE E REGOLARE ESECUZIONE - LIQUIDAZIONE FATTURA A SALDO - IMPRESA: PMM S.R.L.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4204</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4204</guid>
     </item>
   </channel>
 </rss>
