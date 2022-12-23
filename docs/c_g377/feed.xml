@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>23/12/2022 | Ordinanze Sindacali</title>
+      <description>Smaltimento carcassa bovino azienda Ceraolo Riccardo</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4240</link>
+      <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4240</guid>
+    </item>
+    <item>
+      <title>23/12/2022 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4239</link>
       <pubDate>Fri, 23 Dec 2022 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4206</link>
       <pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4206</guid>
-    </item>
-    <item>
-      <title>19/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>QUOTA DI PARTECIPAZIONE A CARICO DEL COMUNE DI PATTI PER LA COPERTURA DELLE SPESE DI GESTIONE RELATIVE ALL'ANNO 2022 DELLA "SRR MESSINA PROVINCIA SOCIETA' CONSORTILE S.P.A." - LIQUIDAZIONE FATTURE - PERIODO OTTOBRE/DICEMBRE 2022 E PREDISPOSIZIONE TQRIF PEF 2022/2025.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4205</link>
-      <pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4205</guid>
     </item>
   </channel>
 </rss>
