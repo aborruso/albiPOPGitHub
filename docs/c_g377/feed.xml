@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio "In Cammino" - Barcellona P.G. dall'01/09/2022 al 30/11/2022 - F.E.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4270</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4270</guid>
+    </item>
+    <item>
+      <title>27/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione compenso spettante al componente esterno del Nucleo di Valutazione del Comune di Patti - I° Semestre - Anno 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4269</link>
+      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4269</guid>
+    </item>
+    <item>
       <title>27/12/2022 | Determinazioni Dirigenziali</title>
       <description>Lavori urgenti diretti ad eliminare situazione di pericolo in Via Garibaldi in prossimità del civico N. 96 - Determina a contrarre - Affidamento ed impegno spesa - Ditta: FOX s.r.l. - CIG: Z5739369AD.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4268</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4236</link>
       <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4236</guid>
-    </item>
-    <item>
-      <title>22/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Ricovero minore su disposizione Autorità Giudiziaria - Liquidazione per mesi 6 da Luglio a Dicembre 2021 - Coop. Sociale Mirafiore "Casa Artemisia" - CIG: Z4A3576FF4.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4235</link>
-      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4235</guid>
-    </item>
-    <item>
-      <title>22/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Ricovero minore su disposizione Autorità Giudiziaria - Liquidazione mesi 3 da Maggio a Luglio 2021 - CIG: Z333935E03 - Coop. CIRS.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4234</link>
-      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4234</guid>
     </item>
   </channel>
 </rss>
