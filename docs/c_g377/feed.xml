@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/12/2022 | Determinazioni Dirigenziali</title>
+      <description>Servizio Assicurativo  (RCA) degli Automezzi Comunali per il periodo 31/12/2022 - 31/12/2023 - CIG: Z6E38A1B74 - Determina a contrarre - Affidamento ed impegno spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4280</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4280</guid>
+    </item>
+    <item>
       <title>27/12/2022 | Deliberazioni Di Giunta</title>
       <description>Atto d'indirizzo destinazione indennità di funzione dei Componenti della Giunta Municipale.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4279</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4246</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4246</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Fornitura scheda di rete da sostituire nel parcometro installato nella P.zza S. D'Acquisto - Determina a contrarre - Affidamento ed impegno spesa - CIG: ZA639352D9.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4245</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4245</guid>
     </item>
   </channel>
 </rss>
