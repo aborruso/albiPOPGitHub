@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/12/2022 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESE LEGALI IN CONTO ALL'AVV. ANTONELLA MADDALENA. APPELLO LIBERTINO. LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4285</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4285</guid>
+    </item>
+    <item>
       <title>28/12/2022 | Determinazioni Dirigenziali</title>
       <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA MURETTI DEL LUNGOMARE DI MONGIOVE - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO - PROGETTISTA E DIRETTORE DEI LAVORI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4284</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4251</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4251</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Affidamento e impegno spesa per fornitura pc e materiale informatico.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4250</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4250</guid>
     </item>
   </channel>
 </rss>
