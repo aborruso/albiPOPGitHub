@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/12/2022 | Determinazioni Dirigenziali</title>
+      <description>66° TINDARI FESTIVAL 2022  IMPEGNO DI SPESA PER PAGAMENTO S.I.A.E..</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4287</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4287</guid>
+    </item>
+    <item>
+      <title>29/12/2022 | Determinazioni Dirigenziali</title>
+      <description>Proposta di intervento finanziato nell'ambito del PNRR- M5C2- Investimento 1.1 - Linea di sub-investimento 1.1.1 - Sostegno alle capacità genitoriali e prevenzione della vulnerabilità delle famiglie e dei bambini - Impegno spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4286</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4286</guid>
+    </item>
+    <item>
       <title>28/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI IN CONTO ALL'AVV. MADDALENA ANTONELLA - APPELLO LIBERTINO - LIQUIDAZIONE.</description>
+      <description>SPESE LEGALI IN CONTO ALL'AVV. MADDALENA ANTONELLA - APPELLO SIG.RA LIBERTINO ANNA MARIA - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4285</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4285</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4253</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4253</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Interventi e servizi di natura Socio/Assistenziale a favore dei Disabili Gravi per l'attuazione dei Patti di Servizio tramite voucher - Impegno somma.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4252</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4252</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Pocket money ai Cittadini Ucraini in fuga dal conflitto - Impegno spesa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4251</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4251</guid>
     </item>
   </channel>
 </rss>
