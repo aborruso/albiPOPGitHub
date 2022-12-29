@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/12/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Modiica Regolamento per il Commercio in Aree Pubbliche.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4301</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4301</guid>
+    </item>
+    <item>
+      <title>29/12/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Lettura e approvazione verbali precedenti sedute.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4300</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4300</guid>
+    </item>
+    <item>
+      <title>29/12/2022 | Determinazioni Dirigenziali</title>
+      <description>ELEZIONI DELLA CAMERA DEI DEPUTATI E DEL SENATO DELLA REPUBBLICA ED ELEZIONE DIRETTA DEL PRESIDENTE DELLA REGIONE E DEI DEPUTATI DELL'ASSEMBLEA REGIONALE SICILIANA DEL 25 SETTEMBRE 2022 - APPROVAZIONE RENDICONTO ELETTORALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4299</link>
+      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4299</guid>
+    </item>
+    <item>
       <title>29/12/2022 | Determinazioni Dirigenziali</title>
       <description>RIMBORSO CONTRIBUTO UNIFICATO E BOLLI ALL'AVV. MADDALENA ANTONELLA - APPELLO SIG.RA LIBERTINO - IMPEGNO SPESA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4298</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4267</link>
       <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4267</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI RIQUALIFICAZIONE DELLA PIAZZA "GALILEO GALILEI" IN LOCALITÀ MARINA DI PATTI - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO E PROGETTISTA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4266</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4266</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Ordinanze Dirigenziali</title>
-      <description>Modifica viabilità Via Ambrosoli.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4265</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4265</guid>
-    </item>
-    <item>
-      <title>27/12/2022 | Ordinanze Sindacali</title>
-      <description>Assegnazione in via provvisoria e temporanea l'immobile di proprietà comunale sito in Patti Contrada Gallo Pal. A int. 3 al signor omissis</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4264</link>
-      <pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4264</guid>
     </item>
   </channel>
 </rss>
