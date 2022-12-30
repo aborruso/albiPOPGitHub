@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/12/2022 | Bandi Di Gara</title>
+      <description>PROCEDURA NEGOZIATA SENZA BANDO CON GARA TELEMATICA SU PIATTAFORMA "SITAS e-Procurement", relativamente a "Primi interventi di manutenzione straordinaria Edifici della Compagnia Carabinieri" - Comune di Patti (ME) - CUP: C43E22000170002 - CIG: 9538098F74.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</guid>
+    </item>
+    <item>
+      <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Art. 175, comma 3, lett. a) del D. Lgs. N. 267/2000 e s.m.i. - Variazioni al Bilancio necessarie per l'istituzione di tipologie di entrata a destinazione vincolata e correlato programma di spesa.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4324</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4324</guid>
+    </item>
+    <item>
+      <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Art. 175, comma 4 del D. Lgs. N. 267/2000 e s.m.i. - Ratifica variazioni al Bilancio adottate dalla Giunta Municipale con deliberazione N. 452 del 16/12/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4323</link>
+      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4323</guid>
+    </item>
+    <item>
       <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
       <description>Razionalizzazione periodica delle partecipazioni al 31/12/2021 ai sensi dell'art. 20 del D. Lgs. N. 175 del 19 agosto 2016.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4322</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4291</link>
       <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4291</guid>
-    </item>
-    <item>
-      <title>29/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per l'acquisto del Servizio di Assistenza ed Aggiornamento del Software dei Tributi già in dotazione all'Ufficio Tributi - Anno 2023 - CIG: Z4B392F5B0.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4290</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4290</guid>
-    </item>
-    <item>
-      <title>29/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura ACI N. 33158, del 14/12/22 - Servizio "TP Visure".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4289</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4289</guid>
-    </item>
-    <item>
-      <title>29/12/2022 | Determine Dirigenziali Di Liquidazione</title>
-      <description>FESTEGGIAMENTI IN ONORE DI MARIA SS. ADDOLORATA - ANNO 2022 - PARROCCHIA "SANTA CATERINA" - LIQUIDAZIONE CONTRIBUTO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4288</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4288</guid>
     </item>
   </channel>
 </rss>
