@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/01/2023 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4356</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4356</guid>
+    </item>
+    <item>
       <title>02/01/2023 | Atti Di Interesse Generale</title>
       <description>FORMAZIONE DELLA LISTA DI LEVA DEI GIOVANI NATI NELL'ANNO 2006.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4355</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4322</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4322</guid>
-    </item>
-    <item>
-      <title>29/12/2022 | Determinazioni Dirigenziali</title>
-      <description>Variazioni di Bilancio riguardanti l'utilizzo della quota vincolata del risultato di amministrazione derivanti da stanziamenti di Bilancio dell'Esercizio precedente corrispondenti a entrate vincolate ai sensi dell'art. 175, comma 5-quater, lettera c).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4321</link>
-      <pubDate>Thu, 29 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4321</guid>
     </item>
   </channel>
 </rss>
