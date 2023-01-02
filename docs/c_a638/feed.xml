@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Contributo per l'ammissione gratuita di alunni in condizione di disabilità certificata ovvero di disagiate condizioni economiche (art 7 L.r. 29/09/2016 n. 20) Anno scolastico 2022/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9754</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9754</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Ampliamento orario, a carattere provvisorio, per i dipendenti part-time d i del V   Settore  AUTOPARCO.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9753</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9727</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9727</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Riconoscimento debiti fuori bilancio derivanti da Ordinanza del 16.05.2019, emessa dal Tribunale di Barcellona P.G. a definizione del ricorso ex art.702 bis iscritto al n°1073/2018 R.G..</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9726</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9726</guid>
     </item>
   </channel>
 </rss>
