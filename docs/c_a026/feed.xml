@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>AGGIUNTA DEL COGNOME MATERNO LO RE ALLA FIGLIA MINORE SPOTO AGATA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433963</link>
+      <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433963</guid>
+    </item>
+    <item>
       <title>Atto numero 2022/2144</title>
       <description>ACCANTONAMENTO SOMME RICORSO RIF. 25365/2022, OCCUPAZIONE ILLEGITTIMA AREE OCCUPATE E RESTITUITE CON VERBALI DEL 13/09/2021</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433805</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433402</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433402</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/2129</title>
-      <description>ULTERIORE IMPEGNO PER LIQUIDAZIONE FATTURE COREPLA E CORIPET DI RIADDEBITO COSTI DI RECUPERO ENERGETICO E DI SELEZIONE SCARTI DELLE FRAZIONI ESTRANEE - ANNO 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433400</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433400</guid>
     </item>
   </channel>
 </rss>
