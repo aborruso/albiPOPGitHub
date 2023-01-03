@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di D'Amico Salvatore ex art.143 cpc</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9755</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9755</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Contributo per l'ammissione gratuita di alunni in condizione di disabilità certificata ovvero di disagiate condizioni economiche (art 7 L.r. 29/09/2016 n. 20) Anno scolastico 2022/2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9754</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9728</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9728</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Riconoscimento debiti fuori bilancio derivanti da parcelle legali per prestazioni professionali rese negli anni pregressi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9727</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9727</guid>
     </item>
   </channel>
 </rss>
