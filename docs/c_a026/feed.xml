@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1</title>
+      <description>ATTO DI MICRO-ORGANIZZAZIONE RISORSE UMANE AREA 2^</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434008</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434008</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>AGGIUNTA DEL COGNOME MATERNO LO RE ALLA FIGLIA MINORE SPOTO AGATA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433963</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433404</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433404</guid>
-    </item>
-    <item>
-      <title>Atto numero 2022/2130</title>
-      <description>IMPEGNO DI SPESA PER SPETTANZE DITTA AGESP S.P.A. - SERVIZI DI IGIENE URBANA - CONTRATTO D'APPALTO REP. 988/2017.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433402</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/433402</guid>
     </item>
   </channel>
 </rss>
