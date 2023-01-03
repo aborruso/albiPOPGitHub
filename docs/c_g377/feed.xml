@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/01/2023 | Ordinanze Sindacali</title>
+      <description>Smaltimento carcassa Bovino Cod. Azienda 066NE9017.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4360</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4360</guid>
+    </item>
+    <item>
       <title>03/01/2023 | Ordinanze Dirigenziali</title>
       <description>Regolamentazione viabilità per lavori di messa in sicurezza fabbricato in Case Nuove Russo: giovedì 05/01/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4359</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4326</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4326</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Bandi Di Gara</title>
-      <description>PROCEDURA NEGOZIATA SENZA BANDO CON GARA TELEMATICA SU PIATTAFORMA "SITAS e-Procurement", relativamente a "Primi interventi di manutenzione straordinaria Edifici della Compagnia Carabinieri" - Comune di Patti (ME) - CUP: C43E22000170002 - CIG: 9538098F74.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</guid>
     </item>
   </channel>
 </rss>
