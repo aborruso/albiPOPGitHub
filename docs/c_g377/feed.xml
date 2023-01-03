@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/01/2023 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità per lavori di messa in sicurezza fabbricato in Case Nuove Russo: giovedì 05/01/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4359</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4359</guid>
+    </item>
+    <item>
+      <title>03/01/2023 | Atti Di Interesse Generale</title>
+      <description>AVVISO PUBBLICO RIVOLTO ALLE AZIENDE PER L'ATTIVAZIONE DI TIROCINI DI INCLUSIONE SOCIALE A FAVORE DI CITTADINI BENEFICIARI DI REDDITO DI CITTADINANZA - "PIANO ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLE RICORSE DELLA QUOTA SERVIZI DEL FONDO POVERTA' - ANNUALITA' 2020".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4358</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4358</guid>
+    </item>
+    <item>
+      <title>03/01/2023 | Atti Di Interesse Generale</title>
+      <description>AVVISO PUBBLICO RIVOLTO AI CITTADINI PER L'ATTIVAZIONE DI TIROCINI DI INCLUSIONE SOCIALE "PIANO ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLE RISORSE DELLA QUOTA SERVIZI DEL FONDO POVERTA' - ANNUALITA' 2020".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4357</link>
+      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4357</guid>
+    </item>
+    <item>
       <title>02/01/2023 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4356</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4325</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Art. 175, comma 3, lett. a) del D. Lgs. N. 267/2000 e s.m.i. - Variazioni al Bilancio necessarie per l'istituzione di tipologie di entrata a destinazione vincolata e correlato programma di spesa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4324</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4324</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Art. 175, comma 4 del D. Lgs. N. 267/2000 e s.m.i. - Ratifica variazioni al Bilancio adottate dalla Giunta Municipale con deliberazione N. 452 del 16/12/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4323</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4323</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Razionalizzazione periodica delle partecipazioni al 31/12/2021 ai sensi dell'art. 20 del D. Lgs. N. 175 del 19 agosto 2016.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4322</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4322</guid>
     </item>
   </channel>
 </rss>
