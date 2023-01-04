@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/01/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4361</link>
+      <pubDate>Wed, 04 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4361</guid>
+    </item>
+    <item>
       <title>03/01/2023 | Ordinanze Sindacali</title>
       <description>Smaltimento carcassa Bovino Cod. Azienda 066NE9017.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4360</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4327</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4327</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO SERVIZIO CONSERVAZIONE DIGITALE DOCUMENTI INFORMATICI REDATTI CON PROCEDURE MAGGIOLI E CONTRATTI - PROROGA ANNI UNO - CIG: Z35395B98A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4326</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4326</guid>
     </item>
   </channel>
 </rss>
