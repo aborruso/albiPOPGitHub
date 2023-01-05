@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/01/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TRASFERIMENTO DEI CORRISPETTIVI AL MINISTERO  IMPEGNO SPESA  E LIQUIDAZIONE - CIE rilasciate dal 01-12.2022 al 31-12-2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4365</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4365</guid>
+    </item>
+    <item>
       <title>04/01/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE INTEGRATIVA DEI CONTRIBUTI A CARRISTI E GRUPPI PARTECIPANTI AL CARNEVALE PATTESE - ANNO 2020.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4364</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4331</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4331</guid>
-    </item>
-    <item>
-      <title>30/12/2022 | Ordinanze Dirigenziali</title>
-      <description>ORDINANZA RIMOZIONE OPERE ABUSIVE E RIPRISTINO DEI LUOGHI - (Art. 31 D.P.R. N. 380/2001 e s.m.i.).</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4330</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4330</guid>
     </item>
   </channel>
 </rss>
