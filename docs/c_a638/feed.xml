@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso ai creditori: lavori di manutenzione presso il centro per disabili di Oreto  e presso la palestra e servizi igienici dello stadio D'Alcontres, fornitura di arredi per infrastrutture sociali varie e fornitura di aperture scorrevoli laterali e di testata per chiusura perimetrale del campo funzionale in contrada Manno</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9760</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9760</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Sponsorizzazione di Aiuola Comunale sita nei pressi della Piazza Marconi, Aiuola Spartitraffico lato destro fronte Chiesa San Giovanni. Approvazione verbale di verifica.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9759</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9732</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9732</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Approvazione schema di convenzione tra i Comuni di Barcellona Pozzo di Gotto e Torrenova e per l'esercizio in forma associata dell'ufficio del Segretario Comunale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9731</link>
-      <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9731</guid>
     </item>
   </channel>
 </rss>
