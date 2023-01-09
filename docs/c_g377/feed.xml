@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/01/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4392</link>
+      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4392</guid>
+    </item>
+    <item>
       <title>09/01/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>BANDO DI SELEZIONE PUBBLICA PER ESAMI, PER LA COPERTURA A TEMPO PIENO E DETERMINATO - ANNI 5 (CINQUE) AI SENSI DELL'ART. 28 DEL D. LGS. N. 165/2001 DI N. 1 POSTO DI DIRIGENTE TECNICO - QUALIFICA UNICA DIRIGENZIALE - CCNL  AREA FUNZIONI LOCALI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4391</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4358</link>
       <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4358</guid>
-    </item>
-    <item>
-      <title>03/01/2023 | Atti Di Interesse Generale</title>
-      <description>AVVISO PUBBLICO RIVOLTO AI CITTADINI PER L'ATTIVAZIONE DI TIROCINI DI INCLUSIONE SOCIALE "PIANO ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLE RISORSE DELLA QUOTA SERVIZI DEL FONDO POVERTA' - ANNUALITA' 2020".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4357</link>
-      <pubDate>Tue, 03 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4357</guid>
     </item>
   </channel>
 </rss>
