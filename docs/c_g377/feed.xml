@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/01/2023 | Verbali Risultanze Di Gara</title>
+      <description>Verbale relativo alla procedura di gara mediante "procedura aperta", con il criterio del "minor prezzo", per l'affidamento del servizio di Tesoreria comunale per il periodo: dalla data di aggiudicazione e consegna del servizio fino al 31/12/2025 - Valore stimato dell'appalto calcolato ai sensi dell'art. 35 del D.Lgs. n. 50/2016, pari a complessivi € 39.000,00, oltre IVA (CIG: Z7938FE5F2).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4436</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4436</guid>
+    </item>
+    <item>
       <title>13/01/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito via Verdi: serata del 14.01.23</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4435</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>13/01/2023 | Determinazioni Dirigenziali</title>
-      <description>"Primi interventi di manutenzione straordinaria urgenti degli edifici della compagnia Carabinieri in corso Matteotti" del Comune di Patti (ME). Codice Unico del Progetto (CUP): C43E22000170002 - Codice Caronte: SI_1_31341 C.I.G.: 9538098F74 Revoca De</description>
+      <description>"Primi interventi di manutenzione straordinaria urgenti degli Edifici della Compagnia Carabinieri in Corso Matteotti" del Comune di Patti (ME) - Codice Unico del Progetto (CUP): C43E22000170002 - Codice Caronte: SI_1_31341 - CIG: 9538098F74 - Revoca Determina - Approvazione proposta di aggiudicazione ai sensi dellì'art. 33, comma 1, del D. Lgs. N. 50/2016.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4434</link>
       <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4434</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4402</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4402</guid>
-    </item>
-    <item>
-      <title>11/01/2023 | Determinazioni Dirigenziali</title>
-      <description>INTEGRAZIONE ORARIA A N° 01 UNITÀ DI PERSONALE ASU DEL I° SETTORE A 35 ORE SETTIMANALI DALL'01/01/2023 AL 31/03/2023 - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4401</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4401</guid>
     </item>
   </channel>
 </rss>
