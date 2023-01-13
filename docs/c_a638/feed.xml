@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9798</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9798</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Deposito presso l'Ufficio Elettorale Comunale l'albo dal quale saranno estratti gli scrutatori</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9797</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9797</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Conferimento di incarico di Dirigente del VI Settore, nonchè, ad interim, di Dirigente del V Settore Servizio 2,all'Ing. Sapienza Alessandro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9796</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9796</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Conferimento di incarico di Dirigente del III Settore alla D.ssa Truglio Antonella</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9795</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9795</guid>
+    </item>
+    <item>
       <title>Bandi - Avvisi Di Gara</title>
       <description>Bando di gara pubblico incanto per affitto terreno in località Terme Vigliatore, contrada Pietre Rosse fg. di mappa 10 particelle 104, 105 e 440</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9794</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9763</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9763</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Marconi per giorno 08.01.2023.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9762</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9762</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di Rimozione Situazione di Pericolo dei fabbricati siti in Via G. Garibaldi ai numeri civici dal 441 al 447.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9761</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9761</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso ai creditori: lavori di manutenzione presso il centro per disabili di Oreto  e presso la palestra e servizi igienici dello stadio D'Alcontres, fornitura di arredi per infrastrutture sociali varie e fornitura di aperture scorrevoli laterali e di testata per chiusura perimetrale del campo funzionale in contrada Manno</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9760</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9760</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Sponsorizzazione di Aiuola Comunale sita nei pressi della Piazza Marconi, Aiuola Spartitraffico lato destro fronte Chiesa San Giovanni. Approvazione verbale di verifica.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9759</link>
-      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9759</guid>
     </item>
   </channel>
 </rss>
