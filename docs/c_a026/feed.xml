@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/4</title>
+      <description>PROVVEDIMENTI DI CIRCOLAZIONE IN ACICASTELLO PER IL GIORNO 15/01/2023</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434808</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434808</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/37</title>
       <description>CONCESSIONE BENEFICI D. L. DEL 18 LUGLIO 2011 N.119 ART.4 - DIPENDENTE MATRICOLA N. 146</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434769</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434639</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434639</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/5</title>
-      <description>APPROVAZIONE PROTOCOLLO DI INTESA TRA I COMUNI DELL’AREA URBANO FUNZIONALE DI CATANIA (FUA) PER L’ATTUAZIONE DELLE POLITICHE TERRITORIALI DELLA REGIONE SICILIANA PER IL PERIODO DI PROGRAMMAZIONE 2021-2027.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434637</link>
-      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/434637</guid>
     </item>
   </channel>
 </rss>
