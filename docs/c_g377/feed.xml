@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/01/2023 | Determinazioni Dirigenziali</title>
+      <description>Impegno di spesa per il ricovero di un soggetto presso la Struttura "Anziano Due" di Brolo (ME).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4425</link>
+      <pubDate>Fri, 13 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4425</guid>
+    </item>
+    <item>
+      <title>12/01/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESE LEGALI IN CONTO E RIMBORSO C.U. ALL'AVV. DI MARCO ROSARIO - CONTROVERSIA OPPOSIZIONE CARTELLA RISCOSSIONE ME - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4424</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4424</guid>
+    </item>
+    <item>
       <title>12/01/2023 | Determinazioni Dirigenziali</title>
       <description>ISTANZA COMITATO REGIONALE L.N.D. F.I.G.C. - FINALE COPPA ITALIA REGIONALE DI CALCIO A CINQUE SERIE C/1 MASCHILE E FEMMINILE - IMPEGNO SPESA E AFFIDAMENTO SERVIZIO IN ESECUZIONE DELL' ATTO DI INDIRIZZO EMANATO CON DELIBERA DI GIUNTA MUNICIPALE N. 02 DEL 10/01/2023 - CIG: ZF039785C7.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4423</link>
@@ -67,14 +81,14 @@
     </item>
     <item>
       <title>12/01/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITI ATTI.</description>
+      <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4416</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4416</guid>
     </item>
     <item>
       <title>12/01/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITI ATTI.</description>
+      <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4415</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4415</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4391</link>
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4391</guid>
-    </item>
-    <item>
-      <title>09/01/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>BANDO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO DETERMINATO - ANNI 5 (CINQUE) AI SENSI DEGLI ARTT. 30 E 35, COMMA 3/BIS DEL D. LGS. N. 165/2001, N. 1 POSTO VACANTE DI CAT. "D" DEL VIGENTE CCNL - PROFILO PROFESSIONALE "ISTR. DIRETTIVO CONTABILE".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4390</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4390</guid>
-    </item>
-    <item>
-      <title>09/01/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>BANDO DI SELEZIONE PUBBLICA PER TITOLI ED ESAMI, PER LA COPERTURA A TEMPO DETERMINATO - ANNI 5 (CINQUE) AI SENSI DEGLI ARTT. 30 E 35, COMMA 3/BIS, DEL D. LGS. N. 165/2001, N. 1 POSTO VACANTE DI CAT. "C" DEL VIGENTE CCNL - PROFILO PROFESSIONALE "ISTRUTTORE TECNICO".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4389</link>
-      <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4389</guid>
     </item>
   </channel>
 </rss>
