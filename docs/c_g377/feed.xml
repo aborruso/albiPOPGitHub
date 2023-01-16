@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/01/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura Via Agliastri per lavori: 17 e 18/01/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4437</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4437</guid>
+    </item>
+    <item>
       <title>13/01/2023 | Verbali Risultanze Di Gara</title>
       <description>Verbale relativo alla procedura di gara mediante "procedura aperta", con il criterio del "minor prezzo", per l'affidamento del servizio di Tesoreria comunale per il periodo: dalla data di aggiudicazione e consegna del servizio fino al 31/12/2025 - Valore stimato dell'appalto calcolato ai sensi dell'art. 35 del D.Lgs. n. 50/2016, pari a complessivi € 39.000,00, oltre IVA (CIG: Z7938FE5F2).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4436</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4403</link>
       <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4403</guid>
-    </item>
-    <item>
-      <title>11/01/2023 | Ordinanze Sindacali</title>
-      <description>DIVIETO DI SOSTA NELLA VIA GORIZIA SUL LATO DESTRO DELLA CARREGGIATA DA INCROCIO VIA CATTANEO FINO AD INCROCIO PIAZZETTA SAN DOMENICO COMPRESA - GIORNO 13 GENNAIO 2023 DALLE ORE 07:00 ALLE ORE 14:00.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4402</link>
-      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4402</guid>
     </item>
   </channel>
 </rss>
