@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9883</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9883</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Provvedimento N.01 del 17/01/2023 Divieto di prosecuzione dell'attività e di rimozione degli effetti prodotti dalla segnalazione certificata di inizio attività Ditta:Soc. Gemm SAS di Polizzotto Vincenzo &amp; C.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9882</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9882</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso per autorizzazione ricerca acque sotterranee da realizzare in Contrada Camicia del Comune di Barcellona Pozzo di Gotto in ditta Misitano e Stracuzzi S.p.A.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9881</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9881</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>DICHIARAZIONE DELL'EFFICACIA DEL SERVIZIO DI TRASPORTO ALUNNI</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9880</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9856</link>
       <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9856</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fattura Enel  Energia s.p.a. fornitura di luce presso la Scuola Materna, del 29.12.2022, relative al mese di ottobre 2022 Totale euro 67,67 oltre IVA euro 14,89</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9855</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9855</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione fattura n 47P del 07 12 2022 Ditta Venumer Snc</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9854</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9854</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di manutenzione ordinaria degli impianti di pubblica illuminazione comunali LIQUIDAZIONE FATTURA 9/E del 03-11-2022</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9853</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9853</guid>
     </item>
   </channel>
 </rss>
