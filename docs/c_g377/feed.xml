@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/01/2023 | Ordinanze Dirigenziali</title>
+      <description>Revoca Ordinanza N. 248/22.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4498</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4498</guid>
+    </item>
+    <item>
       <title>19/01/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura N. 202201136 del 15/12/2022 - CIG: Z75347EDDC - Fattura N. 202201136 del 15/12/2022 - CIG: Z75347EDDC - Beneficiario Halley sud s.r.l.</description>
+      <description>Liquidazione Fattura N. 202200762 del 28/07/2022 CIG: Z5E3346DFA - Fattura N.  202200850 del 20/09/2022 CIG: Z5E3346DFA - Fattura N. 202201041 del 06/12/2022 CIG: Z5E3346DFA - Beneficiario Halley sud s.r.l.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4497</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4497</guid>
+    </item>
+    <item>
+      <title>19/01/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 202201136 del 15/12/2022 CIG: Z75347EDDC - Fattura N. 202201136 del 15/12/2022 CIG: Z75347EDDC - Beneficiario Halley sud s.r.l.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4496</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4496</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4464</link>
       <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4464</guid>
-    </item>
-    <item>
-      <title>17/01/2023 | Ordinanze Sindacali</title>
-      <description>Smaltimento carcassa di cane deceduto presso concentramento C.da Mulinello.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4463</link>
-      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4463</guid>
-    </item>
-    <item>
-      <title>17/01/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Tassa di Registro di locazione - Caserma dei Carabinieri - Anno 2023 - Liquidazione.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4462</link>
-      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4462</guid>
     </item>
   </channel>
 </rss>
