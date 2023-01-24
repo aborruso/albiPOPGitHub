@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>24/01/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fornitura energia elettrica  dicembre 2022</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4537</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4537</guid>
+    </item>
+    <item>
+      <title>24/01/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA IN CONTO ALL'AVV. LIOTTA MARIA PAOLA DI CUI ALLA DELIBERA DI C.C. N.37/2022. LIQUIDAZIONE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4536</link>
       <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4503</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4503</guid>
-    </item>
-    <item>
-      <title>20/01/2023 | Manifestazioni Di Interesse</title>
-      <description>AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE PER L'ASSEGNAZIONE DI POSTEGGI A SEGUITO DEL TRASFERIMENTO, IN VIA SPERIMENTALE PER LANNO 2023, DEL MERCATO SETTIMANALE NEL CENTRO URBANO E DEL MERCATO DELLE PRODUZIONI AGRICOLE E AGROALIMENTARI LOCALI IN TALUNE AREE DEL CENTRO STORICO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4502</link>
-      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4502</guid>
     </item>
   </channel>
 </rss>
