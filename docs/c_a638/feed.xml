@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale Consiglio Comunale seduta del 17 gebnnaio 2023 - Question Time -</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9910</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9910</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Fondi PAC - azioni di rafforzamento territoriale servizio rivolto a minori di età compresa tra i 18 e 36 mesi di "Spazio Gioco" da realizzare in 5 Comuni del Distretto Socio Sanitario 28 - Basicò, Castroreale, Furnari, Novara di Sicilia e Tripi - Decreto n.3982/PAC del 30/08/2022. CPV: 85300000-2 ** CUP: H19G22001360001** CIG: 96057492D7 -</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9909</link>
+      <pubDate>Tue, 24 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9909</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Anticipazione per spese comunali anno 2023. Impegno somme</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9908</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9883</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9883</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Provvedimento N.01 del 17/01/2023 Divieto di prosecuzione dell'attività e di rimozione degli effetti prodotti dalla segnalazione certificata di inizio attività Ditta:Soc. Gemm SAS di Polizzotto Vincenzo &amp; C.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9882</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9882</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso per autorizzazione ricerca acque sotterranee da realizzare in Contrada Camicia del Comune di Barcellona Pozzo di Gotto in ditta Misitano e Stracuzzi S.p.A.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9881</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9881</guid>
     </item>
   </channel>
 </rss>
