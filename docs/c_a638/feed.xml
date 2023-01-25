@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 8 "Sostegno al Reddito": Piano di Zona 2019/2020. Liquidazione contributo ai beneficiari per il Comune di Furnari</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9917</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9917</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fatture emesse dalla Soc.Coop.Sociale "Anchise" per il servizio di assistenza all'autonomia ed alla comunicazione agli alunni disabili che frequentano le scuole dell'infanzia reso nel mese di marzo 2020. CIG:8093695866</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9916</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9916</guid>
+    </item>
+    <item>
       <title>Determinazioni Sindacali</title>
       <description>Nomina componente commissione provinciale ruolo componenti</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9915</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9890</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9890</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Risarcimento danni sinistro del 04 10 2019 occorso al Sig  F G Transazione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9889</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9889</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione n. 2 fatture elettroniche, Ditta TIM S.p.A. per fornitura di telefonia fissa Asilo Petraro. CIG: 332599383E</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9888</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9888</guid>
     </item>
   </channel>
 </rss>
