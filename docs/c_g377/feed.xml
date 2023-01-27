@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/01/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SPESA IN CONTO A FAVORE DELLA SIG.RA GIARRIZZO RITA E DEL LEGALE DISTRATTARIO AVV. PUGLISI ORESTE IN ESECUZIONE DELLA DELIBERA DI C. C. N. 46/2022 - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4553</link>
+      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4553</guid>
+    </item>
+    <item>
       <title>26/01/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE COMPENSO AI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI - IV^ TRIMESTRE 2022 E CONGUAGLIO ANNO 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4552</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4519</link>
       <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4519</guid>
-    </item>
-    <item>
-      <title>23/01/2023 | Determinazioni Dirigenziali</title>
-      <description>Riconoscimento danno da sinistro - sig.ra Garito Elisa - Impegno.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4518</link>
-      <pubDate>Mon, 23 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4518</guid>
     </item>
   </channel>
 </rss>
