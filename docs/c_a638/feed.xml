@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso cambio nome da "Carmelo Antonio" a "Antonio"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10001</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10001</guid>
+    </item>
+    <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Contributo a fondo perduto per la rimozione e lo smaltimento di manufatti e materiali contenenti amianto nelle civili abitazioni. Comunicazione di riapertura termini presentazione istanze Bando Amianto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10000</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10000</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Comunicazione di pignoramento presso terzi a carico di Monetti Antonio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9999</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9999</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Indennità amministratori  Determinazioni.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9998</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9972</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9972</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Recupero coatto delle spese di giudizio relative alle sentenza n. 1132 2014 emessa dal Tribunale  di Barcellona P G e n.468 22 emessa dalla Corte di Appello di Messina  a  definizione del giudizio R g a n 382/2009  vertente tra il Signor M G  c Comun</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9971</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9971</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Servizio di progettazione definitiva con riserva di affidamento di progettazione esecutiva e coordinamento della sicurezza in fase di progettazione relativi all'intervento denominato "Lavori di manutenzione straordinaria del Palazzetto dello Sport in</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9970</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9970</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>IMPEGNO SPESA PER I SEGUENTI SERVIZI: ASSISTENZA TECNICA, FUNZIONAMENTO APPARECCHIATURE ELETTRICHE, DI EMERGENZA, ANTINCENDIO, AUDIO E LUCI DURANTE LO SPETTACOLO DEL 28/GENNAIO/2023 PRESSO IL TEATRO MANDANICI DI QUESTO COMUNE - CIG  ZA539AE5F2</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9969</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9969</guid>
     </item>
   </channel>
 </rss>
