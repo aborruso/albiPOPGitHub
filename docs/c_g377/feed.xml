@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/02/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito C.so Matteotti, tratto a senso unico a salire: 02/02/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4590</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4590</guid>
+    </item>
+    <item>
+      <title>01/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LAVORI DI EFFICIENTAMENTO ENERGETICO DEGLI UFFICI COMUNALI DI PIAZZA MARIO SCIACCA - 1° STRALCIO - CUP: C49J21037150001 - LIQUIDAZIONE SALDO COMPETENZE TECNICHE PER SERVIZIO DI DIREZIONE DEI LAVORI, MISURA, CONTABILITÀ E COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE E PRATICHE PER ALLACCIO IMPIANTO FOTOVOLTAICO E CERTIFICATO DI REGOLARE ESECUZIONE - ING. CASAMENTO FRANCESCO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4589</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4589</guid>
+    </item>
+    <item>
       <title>01/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura energia elettrica - Dicembre 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4588</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4556</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4556</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura  N. 6, del 20/01/2023 - dr. Coppolino G.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4555</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4555</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito e alla sosta Piazzetta Cicerone per lavori: 30/01/23.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4554</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4554</guid>
     </item>
   </channel>
 </rss>
