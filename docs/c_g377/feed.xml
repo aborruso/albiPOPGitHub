@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/02/2023 | Determinazioni Dirigenziali</title>
+      <description>Primi interventi di manutenzione straordinaria urgenti degli edifici della compagnia Carabinieri in corso Matteotti del comune di Patti (ME) - Codice Unico del Progetto CUP: C43E22000170002 - Codice Caronte: SI_1_31341 - CIG: 9538098F74 - Determina - Approvazione proposta di aggiudicazione ai sensi dell'art. 33, comma 1, del D. Lgs. N. 50/2016.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4592</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4592</guid>
+    </item>
+    <item>
+      <title>01/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TASSA REGISTRAZIONE SENTENZA N.137/2020 - TRIBUNALE DI PATTI - CALGECO SRL. - LIQUIDAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4591</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4591</guid>
+    </item>
+    <item>
       <title>01/02/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura temporanea al transito C.so Matteotti, tratto a senso unico a salire: 02/02/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4590</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4558</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4558</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Fornitura di una lavastoviglie da allocare nella cucina sita nella struttura dell'Asilo Nido "M. Faranda" - Ditta: Arreturcom Group s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4557</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4557</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATTURA AL II° STATO DI AVANZAMENTO PER LA REALIZZAZIONE DEI LAVORI OMISSIS E ATTO DI PIGNORAMENTO DI CREDITI VERSO TERZI  EMESSO DALL'AGENZIA DELLE ENTRATE RISCOSSIONE - AGENTE DELLA RISCOSSIONE PER LA PROVINCIA DI MESSINA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4556</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4556</guid>
     </item>
   </channel>
 </rss>
