@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/02/2023 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 1 DEL 02/02/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4594</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4594</guid>
+    </item>
+    <item>
+      <title>02/02/2023 | Determinazioni Dirigenziali</title>
+      <description>Prosecuzione ricovero di un disabile psichico presso la Comunità Alloggio gestita dalla Società Cooperativa Sociale Onlus "In Cammino" per mesi dodici - Impegno spesa - CIG: Z39399BA3A.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4593</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4593</guid>
+    </item>
+    <item>
       <title>01/02/2023 | Determinazioni Dirigenziali</title>
       <description>Primi interventi di manutenzione straordinaria urgenti degli Edifici della Compagnia Carabinieri in Corso Matteotti del Comune di Patti (ME) - Codice Unico del Progetto CUP: C43E22000170002 - Codice Caronte: SI_1_31341 - CIG: 9538098F74 - Determina - Approvazione proposta di aggiudicazione ai sensi dell'art. 33, comma 1, del D. Lgs. N. 50/2016.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4592</link>
@@ -25,7 +39,7 @@
     </item>
     <item>
       <title>01/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA REGISTRAZIONE SENTENZA N.137/2020 - TRIBUNALE DI PATTI - CALGECO SRL. - LIQUIDAZIONE.</description>
+      <description>TASSA REGISTRAZIONE SENTENZA N.137/2020 - TRIBUNALE DI PATTI - SOCIETA' CALGECO S.R.L. - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4591</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4591</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4560</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4560</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI FEBBRAIO 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4559</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4559</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4558</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4558</guid>
     </item>
   </channel>
 </rss>
