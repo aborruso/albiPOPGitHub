@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>FESTEGGIAMENTI IN ONORE DI SAN TEODORO - ANNO 2022 - PARROCCHIA "SAN NICOLO' DI BARI" - SORRENTINI - LIQUIDAZIONE CONTRIBUTO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4595</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4595</guid>
+    </item>
+    <item>
       <title>02/02/2023 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 1 DEL 02/02/2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4594</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4561</link>
       <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4561</guid>
-    </item>
-    <item>
-      <title>27/01/2023 | Determinazioni Dirigenziali</title>
-      <description>Art. 19 del D. Lgs. N° 504/92 - Approvazione rendiconto "T.E.F.A." relativo al IV° Trimestre 2022 - Riversamento alla Città Metropolitana di Messina del Tributo per l'Esercizio delle Funzioni di Tutela, Protezione ed Igiene dell'Ambiente T.E.F.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4560</link>
-      <pubDate>Fri, 27 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4560</guid>
     </item>
   </channel>
 </rss>
