@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10007</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10007</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di barletta Domenico</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10006</link>
+      <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10006</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Si comunica che la Farmacia Genovese sas di Schirò Betty sita in Via Gaetano Martino 19 resterà aperta al pubblico dalle ore 8.00 alle ore 24.00 fino a comunicazione contraria.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10005</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9978</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9978</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Teatro "Placido Mandanici". Stagione artistica 2023. Accoglimento proposta a fronte di compartecipazione. Reading di prosa con Pino Quartullo ed Ornella Muti Mia moglie Penelope. 28 gennaio 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9977</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9977</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Atto di citazione  acquisito al Prot n 58937 del 2022 promosso dinnanzi il Tribunale di Barcellona PG    contro Comune di Barcellona PG Nomina legale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9976</link>
-      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=9976</guid>
     </item>
   </channel>
 </rss>
