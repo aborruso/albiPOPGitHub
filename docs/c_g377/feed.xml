@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/02/2023 | Deliberazioni Di Giunta</title>
+      <description>AUTORIZZAZIONE ALL'OPPOSIZIONE AL DECRETO INGIUNTIVO PROMOSSO DAI SIG.RI AVENA-ROMANO DAVANTI AL TRIBUNALE DI PATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4633</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4633</guid>
+    </item>
+    <item>
+      <title>07/02/2023 | Deliberazioni Di Giunta</title>
+      <description>Riconoscimento danni da sinistro Sig. D'Apuzzo Paolo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4632</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4632</guid>
+    </item>
+    <item>
+      <title>07/02/2023 | Deliberazioni Di Giunta</title>
+      <description>AUTORIZZAZIONE ALLA SOSTITUZIONE DEL LEGALE NEL GIUDIZIO DI APPELLO R.G.N.409/2017 PENDENTE DAVANTI AL TRIBUNALE DI PATTI. MANTINEO FILIPPO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4631</link>
+      <pubDate>Tue, 07 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4631</guid>
+    </item>
+    <item>
       <title>07/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LAVORI DI SOMMA URGENZA PER RIPARAZIONE ACQUEDOTTO ZONA VALLE.  LIQUADIZIONE FATTURA N.68/2022 DITTA: ALAK S.R.L.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4630</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4599</link>
       <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4599</guid>
-    </item>
-    <item>
-      <title>03/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio Sociale Professionale - Affidamento diretto ai sensi dell'art.36 comma 2 lett.a) del D. Lgs.N. 50/2016 e s.m.i. - Liquidazione.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4598</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4598</guid>
-    </item>
-    <item>
-      <title>03/02/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>AVVISO PUBBLICO</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4597</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4597</guid>
-    </item>
-    <item>
-      <title>03/02/2023 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Piazza Marconi per lavori: 06/02/23 - Chiusura al transito Via Palissy e divieto sosta Via M. Polo: dal 06/02/23 fino termine lavori.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4596</link>
-      <pubDate>Fri, 03 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4596</guid>
     </item>
   </channel>
 </rss>
