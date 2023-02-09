@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/02/2023 | Ordinanze Sindacali</title>
+      <description>AVVERSITÀ ATMOSFERICHE DELL'8/9 FEBBRAIO 2023 - ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.).</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4652</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4652</guid>
+    </item>
+    <item>
+      <title>08/02/2023 | Ordinanze Sindacali</title>
+      <description>Chiusura delle scuole cittadine di ogni ordine e grado, compresi gli asili nido, le scuole private, per il giorno 09 febbraio 2023  Allerta meteo "Rossa"</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4651</link>
+      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4651</guid>
+    </item>
+    <item>
       <title>08/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA DANNI DA SINISTRO SIG.RA GARITO ELISA - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4650</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4618</link>
       <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4618</guid>
-    </item>
-    <item>
-      <title>06/02/2023 | Deliberazioni Di Giunta</title>
-      <description>Decreto del Dirigente Generale del Dipartimento della Programmazione della Regione Siciliana N. 1258 del 21/12/2022 con il quale è stato approvato lo schema di Protocollo d'Intesa tra i Sindaci dei Comuni dell'Area Urbana/Territoriale e il documento "Atti di indirizzo per la costruzione delle strategie territoriali e per la selezione e attuazione delle operazioni a valere sulò PR FESR 2021-2027" - Presa atto ed autorizzazione al Sindaco alla sottoscrizione del Protoccollo d'Intesa tra i Comuni del Sistema Intercomunale di Rango Urbano - TIRRENO SUD ORIENTALE per l'attuazione delle politiche terriotoriali della Regione Sicilia per il periodo di programmazione 2021-2027.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4617</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4617</guid>
-    </item>
-    <item>
-      <title>06/02/2023 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L. R. N. 13/2021 e s.m.i. - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione di vari finanziamenti.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4616</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4616</guid>
     </item>
   </channel>
 </rss>
