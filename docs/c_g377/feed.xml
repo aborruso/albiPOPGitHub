@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/02/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO PER CAMBIAMENTO COGNOME.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4683</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4683</guid>
+    </item>
+    <item>
+      <title>13/02/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito Via XX Settembre alta per lavori: 13/02/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4682</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4682</guid>
+    </item>
+    <item>
       <title>10/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>SERVIZIO DI  MANUTENZIONE ORDINARIA PER MESI 12 DELL'IMPIANTO ELEVATORE SITO NEL PALAZZO COMUNALE DI PIAZZA SCAFFIDI - DITTA: SAME DI MICHELE SACCÀ &amp; C. S.R.L. -  LIQUIDAZIONE FATTURA III° TRIMESTRE 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4681</link>
@@ -53,7 +67,7 @@
     </item>
     <item>
       <title>10/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fattura n. 11, del 04.02.23, Dr. Coppolino G.</description>
+      <description>Liquidazione Fattura N. 11, del 04/02/23, dr. Coppolino G.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4676</link>
       <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4676</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4649</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4649</guid>
-    </item>
-    <item>
-      <title>08/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO SIG.BARRESI GAETANO - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4648</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4648</guid>
-    </item>
-    <item>
-      <title>08/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO ALLA "SOC. LINEA BLU DIAGNOSTICA S.R.L." - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4647</link>
-      <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4647</guid>
     </item>
   </channel>
 </rss>
