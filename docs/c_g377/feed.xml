@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Azione N. 3 "Spazio Lavoro" I^ e II^ Annualità -  AOD N. 1  -  PdZ 2018-2019  Liquidazione   mese di Gennaio 2023 ai  soggetti  del  Comune  di  Patti.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4691</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4691</guid>
+    </item>
+    <item>
       <title>14/02/2023 | Atti Di Interesse Generale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4690</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4657</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4657</guid>
-    </item>
-    <item>
-      <title>09/02/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito passaggio a livello di Via Mustazzo per lavori RFI: dal 22/02/23 al 04/03/23.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4656</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4656</guid>
     </item>
   </channel>
 </rss>
