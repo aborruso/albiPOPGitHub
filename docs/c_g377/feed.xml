@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/02/2023 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4690</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4690</guid>
+    </item>
+    <item>
       <title>13/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Fatture N.ri 1107127 e 2106937, del  31/01/23 - Sofware Concilia Service - Maggioli S.p.a.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4689</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4656</link>
       <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4656</guid>
-    </item>
-    <item>
-      <title>09/02/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusure per lavori  nelle Vie M. Polo e Ten. Natoli.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4655</link>
-      <pubDate>Thu, 09 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4655</guid>
     </item>
   </channel>
 </rss>
