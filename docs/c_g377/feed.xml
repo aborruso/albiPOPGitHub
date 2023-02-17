@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/02/2023 | Determinazioni Dirigenziali</title>
+      <description>Servizio Sociale Professionale Comunale - Affidamento diretto ai sensi dell'art. 36 comma 2, del D. Leg.vo N. 50/2016 e s.m.i.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4736</link>
+      <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4736</guid>
+    </item>
+    <item>
       <title>16/02/2023 | Deliberazioni Di Giunta</title>
       <description>GRAN CARNEVALE PATTESE 59^ EDIZIONE ANNO 2023 - ART. 39 COMMA 2 - INIZIATIVA DIRETTAMENTE PROMOSSA - MANDATO DI ESECUZIONE ATTIVITA' PROGRAMMATE ALL'ASSOCIAZIONE "PROCENTRO PATTI" - APPROVAZIONE CONVENZIONE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4735</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4702</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4702</guid>
-    </item>
-    <item>
-      <title>15/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Fornitura materiale didattico per la Scuola dell'Infanzia Comunale "Caleca" - Liquidazione "Libreria Capitolo 18" di Teodoro Cafarelli - CIG: ZD238D9247.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4701</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4701</guid>
     </item>
   </channel>
 </rss>
