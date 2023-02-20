@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/02/2023 | Determinazioni Dirigenziali</title>
+      <description>ANNULLAMENTO IN AUTOTUTELA DELLA DETERMINAZIONE A CONTRARRE E DEI DOCUMENTI DI GARA</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4755</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4755</guid>
+    </item>
+    <item>
       <title>20/02/2023 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4754</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4720</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4720</guid>
-    </item>
-    <item>
-      <title>16/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE QUADRO DI COMANDO DELLE ELETTROPOMPE SOMMERSE DI RILANCIO AL DEPURATORE SITO IN LOCALITÀ PLAYA - LIQUIDAZIONE FATTURA N.0000018E/2022 - DITTA:  ELETTROMECCANICA ODDO s.r.l.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4719</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4719</guid>
     </item>
   </channel>
 </rss>
