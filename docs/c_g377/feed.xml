@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Rimborso spese di viaggio per studenti che vanno fuori Comune a studiare.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4750</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4750</guid>
+    </item>
+    <item>
       <title>20/02/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura temporanea al transito Via Cattaneo per lavori: 20/02/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4749</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4715</link>
       <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4715</guid>
-    </item>
-    <item>
-      <title>15/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Fornitura di materiale ludico e ricreativo per l'Asilo Nido "M. Faranda" - Ditta: Elettroservice di Alessio Composto - Liquidazione.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4714</link>
-      <pubDate>Wed, 15 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4714</guid>
     </item>
   </channel>
 </rss>
