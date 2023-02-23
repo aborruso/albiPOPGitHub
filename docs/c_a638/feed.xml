@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Applicazione sanzione prevista dall'art. 41, II comma lett.C del Regolamento Comunale per il servizio di acqua potabile</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10294</link>
+      <pubDate>Thu, 23 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10294</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Affidamento incarico professionale per il servizio di prevenzione e protezione degli edifici e beni comunali R.S.P.P. Responsabile del servizio di prevenzione e protezione del Comune di Barcellona Pozzo di Gotto, tramite affidamento diretto, ai sensi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10293</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10264</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10264</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Servizio di Affissione Manifesti saldo IMU 2022 Pagamento fattura   Ass. Prom. Security</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10263</link>
-      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10263</guid>
     </item>
   </channel>
 </rss>
