@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/02/2023 | Determinazioni Dirigenziali</title>
+      <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per l'affidamento del Servizio di stampa, imbustamento e recapito tramite "Posta Massiva Servizio Universale" degli avvisi di pagamento afferenti la TARI - Anno 2023 - CIG: Z5139FB64E.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4769</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4769</guid>
+    </item>
+    <item>
       <title>23/02/2023 | Determinazioni Dirigenziali</title>
       <description>Autorizzazione lavoro straordinario nell'ambito del Progetto Piano di Attuazione Locale (PAL) per la programmazione delle risorse della Quota servizi del Fondo Povertà - Annualità 2020 N. 1 dipendente -  CUP: C41H22000000001.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4768</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4734</link>
       <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4734</guid>
-    </item>
-    <item>
-      <title>16/02/2023 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L. R. N. 13/2021 - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del Fondo per la Progettazione Territoriale di cui al D.P.C.M. 17/12/2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4733</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4733</guid>
     </item>
   </channel>
 </rss>
