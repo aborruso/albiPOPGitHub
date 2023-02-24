@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/02/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Modifica Regolamento Consulta Giovanile.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4771</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4771</guid>
+    </item>
+    <item>
+      <title>24/02/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Art. 175, comma 4, del D. Lgs. N. 27/2000 e s.m.i. - Ratifica variazioni al Bilancio adottate dalla Giunta Municipale con deliberazione N. 9 del 06/02/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4770</link>
+      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4770</guid>
+    </item>
+    <item>
       <title>24/02/2023 | Determinazioni Dirigenziali</title>
       <description>Art. 192 del T.U.E.L. - Determinazione a contrattare per l'affidamento del Servizio di stampa, imbustamento e recapito tramite "Posta Massiva Servizio Universale" degli avvisi di pagamento afferenti la TARI - Anno 2023 - CIG: Z5139FB64E.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4769</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4737</link>
       <pubDate>Fri, 17 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4737</guid>
-    </item>
-    <item>
-      <title>16/02/2023 | Deliberazioni Di Giunta</title>
-      <description>GRAN CARNEVALE PATTESE 59^ EDIZIONE ANNO 2023 - ART. 39 COMMA 2 - INIZIATIVA DIRETTAMENTE PROMOSSA - MANDATO DI ESECUZIONE ATTIVITA' PROGRAMMATE ALL'ASSOCIAZIONE "PROCENTRO PATTI" - APPROVAZIONE CONVENZIONE</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4735</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4735</guid>
-    </item>
-    <item>
-      <title>16/02/2023 | Deliberazioni Di Giunta</title>
-      <description>Decreto-Legge 10 settembre 2021, N. 121, coordinato con la Legge di conversione 9 novembre 2021, N. 156, recante: Disposizioni urgenti in materia di investimenti e sicurezza delle Infrastrutture, dei Trasporti e della Circolazione Stradale, per la funzionalità del Ministero delle Infrastrutture e della mobilità sostenibili, del Consiglio Superiore dei Lavori Pubblici e dell'Agenzia Nazionale per la sicurezza delle Ferrovie e delle Infrastrutture Stradali e Autostradali - Individuazione degli ambiti di progettazione territoriale da porre tra gli obiettivi da perseguire per dotarsi di proposte progettuali, in attuazione del Decrteto-Legge 10 settembre 2021, N. 121, coorodinato con la Legge di conversione 9 novembre 2021, N. 156 - Modifica atto di Indirizzo delibera di G. M. N. 170/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4734</link>
-      <pubDate>Thu, 16 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4734</guid>
     </item>
   </channel>
 </rss>
