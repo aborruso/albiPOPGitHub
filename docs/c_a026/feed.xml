@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/305</title>
+      <description>LIQUIDAZIONE FATTURE ALLA SOCIETÀ LEASYS S.P.A. PER NOLEGGIO AUTO A LUNGO TERMINE - CANONE DAL 01.01.2023 AL 31.01.2023. - CIG: Z212A297EA E ZF12A2A2E0. -</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441005</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441005</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/304</title>
       <description>ACQUISTO SUPPORTO TECNICO PER L'AGGIORNAMENTO MAPPATURA DEI PROCESSI PTPCT 2022/24 – LIQUIDAZIONE FATTURA. CIG: ZAC3881BB1.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/440986</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/440629</link>
       <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/440629</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/293</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA ALLA WASTE ENGINEERING MANAGEMENT SRL PER SELEZIONE E MESSA IN RISERVA RIFIUTI DIFFERENZIATI CON CER 150104 - MESE DI GENNAIO 2023</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/440627</link>
-      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/440627</guid>
     </item>
   </channel>
 </rss>
