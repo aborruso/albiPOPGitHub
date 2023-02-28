@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/02/2023 | Determinazioni Dirigenziali</title>
+      <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4812</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4812</guid>
+    </item>
+    <item>
+      <title>28/02/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Saldo Fatt. N. 30-22 del 26/04/2022 alla Soc. Coop. Progetto Lavoro N.C. "Germoglio" per il ricovero a convitto di N. 3 minori, per i mesi di agosto, settembre, ottobre e novembre 2021 - CIG: ZA63617FEE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4811</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4811</guid>
+    </item>
+    <item>
       <title>28/02/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>GRAN CARNEVALE PATTESE 59^ EDIZIONE - SERVIZIO ASSISTENZA SANITARIA - LIQUIDAZIONE FATTURA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4810</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4778</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4778</guid>
-    </item>
-    <item>
-      <title>24/02/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4777</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4777</guid>
-    </item>
-    <item>
-      <title>24/02/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4776</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4776</guid>
     </item>
   </channel>
 </rss>
