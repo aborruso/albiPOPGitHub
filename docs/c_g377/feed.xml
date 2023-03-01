@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/02/2023 | Deliberazioni Di Giunta</title>
+      <description>Proroga termine di scadenza del pagamento del Canone patrimoniale di concessione, autorizzazione o esposizione pubblicitaria anno 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4813</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4813</guid>
+    </item>
+    <item>
       <title>28/02/2023 | Determinazioni Dirigenziali</title>
       <description>Concessione assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4812</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4779</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4779</guid>
-    </item>
-    <item>
-      <title>24/02/2023 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento Debito fuori Bilancio ai sensi dell'art. 194 del D. L.vo N. 267/2000 lett. e) comma I° per pagamento compensi a favore dell'avv. Passalacqua Letizia n.q. di Legale incaricato dall'Ente a seguito di Giudizio definito - Controversia Ignazzitto Angela.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4778</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4778</guid>
     </item>
   </channel>
 </rss>
