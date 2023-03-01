@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/341</title>
+      <description>CONCESSIONE TRENTENNALE DEL LOCULO N. 197, 2^FILA, DEL COLOMBARIO "A" PER LA TUMULAZIONE DELLA SALMA DI SANTAMARIA FRANCESCA, DECEDUTA IL 27/02/2023. FASCICOLO CIMITERIALE: LOC. 197 COL. A</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441427</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441427</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/18/A/PEA</title>
       <description>AUTORIZZAZIONE E/O ATTESTAZIONI ALLO SCARICO N° 18/A/PEA DEL 28/02/2023 RILASCIATA AL SIG. D'ANNA MARIO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441420</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441331</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441331</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/329</title>
-      <description>IMPEGNO E LIQUIDAZIONE RIMBORSO ONERI PER PERMESSI RETRIBUITI AL CONSIGLIERE LA ROSA FRANCESCO. - TERZO QUADRIMESTRE 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441329</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/441329</guid>
     </item>
   </channel>
 </rss>
