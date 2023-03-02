@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/03/2023 | Manifestazioni Di Interesse</title>
+      <description>Graduatoria Provvisoria di Assegnazione dei Posteggi a seguito del trasferimento del Mercato Settimanale nel Centro Urbano.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4828</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4828</guid>
+    </item>
+    <item>
       <title>01/03/2023 | Ordinanze Dirigenziali</title>
       <description>Integrazione Ordinanza N. 35 dell'01/03/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4827</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4794</link>
       <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4794</guid>
-    </item>
-    <item>
-      <title>24/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE ORDINARIA E STRAORDINARIA DEGLI IMPIANTI DI RISCALDAMENTO E CONDIZIONAMENTO DEGLI EDIFICI COMUNALI - DITTA: CARTAREGIA COSIMO - LIQUIDAZIONE FATTURA N. 121/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4793</link>
-      <pubDate>Fri, 24 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4793</guid>
     </item>
   </channel>
 </rss>
