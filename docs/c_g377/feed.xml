@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/03/2023 | Ordinanze Sindacali</title>
+      <description>DIVIETO UTILIZZO ACQUA PROVENIENTE DALLE AUTOBOTTI PER USO POTABILE E ALIMENTARE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4846</link>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4846</guid>
+    </item>
+    <item>
       <title>02/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI CENTRALIZZAZIONE "PARKFOLIO" E FORNITURA CARTA TERMICA PER N. 3 PARCOMETRI INSTALLATI SUL TERRITORIO COMUNALE - ANNO 2022 - CIG: ZA0351355C - DITTA: FLOWBIRD ITALIA S.r.l. - LIQUIDAZIONE FATTURA N. 230606 DEL 28/02/2023 (SERVIZIO DI CENTRALIZZAZIONE - PERIODO 01 OTTOBRE 2022/31 DICEMBRE 2022).</description>
+      <description>SERVIZIO DI CENTRALIZZAZIONE "PARKFOLIO" E FORNITURA CARTA TERMICA PER N. 3 PARCOMETRI INSTALLATI SUL TERRITORIO COMUNALE - ANNO 2022 - CIG: ZA0351355C - DITTA: FLOWBIRD ITALIA S.r.l. - LIQUIDAZIONE FATTURA N. 230606 DEL 28/02/2023 (SERVIZIO DI CENTRALIZZAZIONE - PERIODO 01 OTTOBRE/31 DICEMBRE 2022.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4845</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4845</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4812</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4812</guid>
-    </item>
-    <item>
-      <title>28/02/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Saldo Fatt. N. 30/22 del 26/04/2022 alla Soc. Coop. Progetto Lavoro N.C. "Germoglio" per il ricovero a convitto di N. 3 minori, per i mesi di agosto, settembre, ottobre e novembre 2021 - CIG: ZA63617FEE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4811</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4811</guid>
     </item>
   </channel>
 </rss>
