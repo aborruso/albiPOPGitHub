@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/03/2023 | Ordinanze Sindacali</title>
+      <description>REVOCA ORDINANZA N. 39 DEL 02/03/2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4859</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4859</guid>
+    </item>
+    <item>
       <title>03/03/2023 | Atti Di Interesse Generale</title>
       <description>Verbale di Commissione finalizzata alla formazione di una graduatoria relativa all'attivazione di "Tirocini di Inclusione Sociale" a favore dei cittadini beneficiari del Reddito di Cittadinanza anno 2020 e per Manifestazione di Interesse per la costituzione di una long list di Enti disponibili ad ospitarli - Piano Attuazione Locale (PAL) per la programmazione della Quota Servizi del Fondo Povertà - Annualità 2020.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4858</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4825</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4825</guid>
-    </item>
-    <item>
-      <title>01/03/2023 | Determinazioni Dirigenziali</title>
-      <description>COMPENSI ALL'AVV. PASSALACQUA LETIZIA N.Q. DI LEGALE DELL'ENTE NELLA CONTROVERSIA IGNAZZITTO ANGELA - GIUSTA DELIBERA DI C.C. N. 6/2023 - IMPEGNO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4824</link>
-      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4824</guid>
     </item>
   </channel>
 </rss>
