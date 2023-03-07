@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/03/2023 | Determinazioni Dirigenziali</title>
+      <description>Approvazione ruolo dei contribuenti tenuti al pagamento dell'acconto TARI anno 2023 - Accertamento entrata.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4872</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4872</guid>
+    </item>
+    <item>
+      <title>07/03/2023 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4871</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4871</guid>
+    </item>
+    <item>
       <title>07/03/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>FORNITURA E INSTALLAZIONE DI N. 1 CALDAIA MURALE A GAS METANO DA COLLOCARE NEI LOCALI DELL'IPAB CONSERVATORIO SANTA ROSA, ADIBITI AD ALLOGGI RIFUGIATI UCRAINI - DITTA: SAM S.R.L. - LIQUIDAZIONE FATTURA N. 165/23 DEL 16/02/2023 - CIG: Z6C39EB3E0.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4870</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4838</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4838</guid>
-    </item>
-    <item>
-      <title>02/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO NOLEGGIO E POSA IN OPERA IMPIANTO DI ILLUMINAZIONE ARTISTICO-DECORATIVA IN OCCASIONE DELLE FESTIVITA' NATALIZIE ANNO 2022 - DITTA: "IDEALUX GROUP DI MANERA CHRISTIAN" - LIQUIDAZIONE FATTURA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4837</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4837</guid>
-    </item>
-    <item>
-      <title>02/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TINDARI FESTIVAL 2021 - LIQUIDAZIONE SERVIZIO ASSICURATIVO IN ESECUZIONE DELLA DELIBERA DI GIUNTA MUNICIPALE N. 233/2021 - CIG: ZA732AED80.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4836</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4836</guid>
     </item>
   </channel>
 </rss>
