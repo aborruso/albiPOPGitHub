@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/03/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura generi alimentari, materiale di pulizia e varie per il Servizio di Mensa per gli alunni delle Scuole dell'Infanzia, Primarie e Secondarie di I° grado - Periodo: febbraio 2023 - Liquidazione Ditta: Fratelli Arena s.r.l. - CIG: ZBD3937C5.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4873</link>
+      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4873</guid>
+    </item>
+    <item>
       <title>07/03/2023 | Determinazioni Dirigenziali</title>
       <description>Approvazione ruolo dei contribuenti tenuti al pagamento dell'acconto TARI - Anno 2023 - Accertamento entrata.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4872</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4839</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4839</guid>
-    </item>
-    <item>
-      <title>02/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura N. 1/PA, del 27/02/23 - Ambulatorio Veterinario dr. Alesci G.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4838</link>
-      <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4838</guid>
     </item>
   </channel>
 </rss>
