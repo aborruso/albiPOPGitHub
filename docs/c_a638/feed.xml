@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>AGGIUDICAZIONE FORNITURA DI APPARECCHIATURE NECESSARIE PER L'ESPLETAMENTO DEL SERVIZIO DI REFEZIONE SCOLASTICA</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10509</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10509</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Benenati Filippa art.143 cpc</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10508</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10508</guid>
+    </item>
+    <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Scomparsa del giovane concittadino Nino Cilona - Proclamazione lutto cittadino per la giornata del9 marzo 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10507</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10507</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Revoca dell'Ordinanza Dirigenziale n.21 del 25.01.2023 e l'istituzione di un parcheggio personalizzato per soggetto diversamente abile contrassegnato EU n. 1153/22  con scadenza 24.01.2027 in via Umberto I in prossimità del civ.330.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10506</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10481</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10481</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fatture Enel  Energia s.p.a. fornitura di luce presso le Scuole Elementari, del 15.01.2023, relative al mese di dicembre 2022 Totale euro 5.475,36 oltre IVA euro  1.204,57</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10480</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10480</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Richiesta di autorizzazione alla costruzione di impianti interrati. Utente: Enel Distribuzione - Via Str. I Fondaconuovo "come da planimetria"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10479</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10479</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione  di segnaletica verticale e orizzontale di STOP, in via Degli Aranci, Stretto I Scodella e Stretto II Scodella:</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10478</link>
-      <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10478</guid>
     </item>
   </channel>
 </rss>
