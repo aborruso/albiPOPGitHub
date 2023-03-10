@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili a civili. (L.R. n. 27/86 e D. Lgs.vo n. 152/06)-Validità 4 anni-Ditta Conti Giuseppe Via Barcellona Castroreale n. 131 Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10525</link>
+      <pubDate>Thu, 09 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10525</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di circolazione stradale nella giornata di Domenica  12 marzo 2023 dalle ore 08:00 fino a termine dell'incontro di calcio.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10524</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10494</link>
       <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10494</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di Rimozione Situazione di Pericolo del fabbricato sito in Stretto Zangraini n. 15.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10492</link>
-      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10492</guid>
     </item>
   </channel>
 </rss>
