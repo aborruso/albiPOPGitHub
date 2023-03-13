@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>AMPLIAMENTO ORARIO, A CARATTERE PROVVISORIO PER I DIPENDENTI PART-TIME D I CAT B ACCOMPAGNATRICI SCUOLABUS.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10568</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10568</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°12 del 13 marzo 2023 - Pratica edilizia n°20118 a nome della Ditta De Pasquale Filippo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10567</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10567</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Ediliza Cimiteriale - approvato con Delibera C.C. n°24 del 23/03/1998 Ditta "Calabrò Nicola" impresa Edilark Costruzioni SAS Via Str. Case Longo, 19 - Barcellona P.G.(ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10566</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10566</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Lavori privati nel Cimitero-Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale approvato con delibera di C.C. n. 24 del 23/03/1998-Ditta Puliafito Giuseppe Impresa Omonima</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10565</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10540</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10540</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE COMPENSO COMPONENTE COMMISSIONE DI ESAME AVV. MORTILLARO IGNAZIO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10539</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10539</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione n. 2 fatture elettroniche, Ditta TIM S.p.A. per fornitura di telefonia fissa Biblioteca Oasi.                        CIG: 332599383E</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10538</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10538</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Piano di attuazione locale (PAL) del Distretto Socio Sanitario 28.    Quota Servizi del Fondo Povertà (QSFP) ANNUALITA' 2018 - CUP H91B20001110001.     OPERATORI Dott./ssa Carmela Pelleriti, Valentina Pizzi, Rosaria Mirabile, Carmelo Mancuso, Maimone</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10537</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10537</guid>
     </item>
   </channel>
 </rss>
