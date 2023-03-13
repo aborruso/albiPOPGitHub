@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE  COMPENSO COMPONENTE NUCLEO DI VALUTAZIONE</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10570</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10570</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. 29 del 24/1/2023. Ditta Tecno sistem di La Rosa Andrea per fornitura materiale informatico. CIG: Z653951117</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10569</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10569</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>AMPLIAMENTO ORARIO, A CARATTERE PROVVISORIO PER I DIPENDENTI PART-TIME D I CAT B ACCOMPAGNATRICI SCUOLABUS.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10568</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10542</link>
       <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10542</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura agosto 2022 utente I.F. Società coop. Nautilus</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10541</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10541</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura per il mese di agosto 2022 utente B. M. Società Coop. Nautilus</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10540</link>
-      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10540</guid>
     </item>
   </channel>
 </rss>
