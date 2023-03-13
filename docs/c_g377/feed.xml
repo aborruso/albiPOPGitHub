@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/03/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Azione N. 3 "Spazio Lavoro" I^ e II^ Annualità - PdZ 2018/2019 - Liquidazione mese di Febbraio 2023 ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio/Sanitario N. 30.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4902</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4902</guid>
+    </item>
+    <item>
+      <title>13/03/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura Maggioli per fornitura stampante Epson LQ 690 per uso rilascio Carte Identità cartacee e installazione e settaggio margini con J Demos.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4901</link>
+      <pubDate>Mon, 13 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4901</guid>
+    </item>
+    <item>
       <title>10/03/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>COMPENSO CTU AL DR. SPATAFORA ALESSANDRO - CONTROVERSIA CORTE D'APPELLO DI MESSINA - LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4900</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4868</link>
       <pubDate>Tue, 07 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4868</guid>
-    </item>
-    <item>
-      <title>06/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI DI MANUTENZIONE DI ALCUNE VIE DEL CENTRO E DELLE FRAZIONI - CUP: C47H22001730001 - APPROVAZIONE ATTI DI CONTABILITÀ FINALE E CERTIFICATO DI ULTIMAZIONE E REGOLARE ESECUZIONE - LIQUIDAZIONE A SALDO FATTURA N.17 PA/2022 - IMPRESA: ARCA SERVICE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4867</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4867</guid>
-    </item>
-    <item>
-      <title>06/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI DI SOMMA URGENZA PER LA MESSA IN ESERCIZIO DI APPARECCHIATURE E ACCESSORI PRESSO L'IMPIANTO DI DEPURAZIONE - LIQUIDAZIONE FATTURA FATTPA 39_22 - IMPRESA: RIZZO FRANCESCO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4866</link>
-      <pubDate>Mon, 06 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4866</guid>
     </item>
   </channel>
 </rss>
