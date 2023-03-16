@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto di decreto di confisca a carico di Stan Marius Cristian</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10614</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10614</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Stipula polizza assicurativa AUTOBOTTE targata ZA696LR.  C.I.G.: ZD139FB96E</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10613</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10613</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>LIQUIDAZIONE FATTURE IN DITTA ENEL ENERGIA S.P.A. PER LA FORNITURA DI ENERGIA ELETTRICA. EMESSE A FEBBRAIO 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10612</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10585</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10585</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Direttiva prot. n.49089 del 26/10/2022 - "D.lvo n.65 del 13/04/2017 - Riparto annualità 2022 relativo alle sezioni primavera - fascia 3-6 anni" - Comunicazioni relative alla linea di intervento: "Contributo gestione per sezione".</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10584</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10584</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale nelle giornate di giovedi 16 e venerdi 17 marzo 2023, dalle ore 07:00 alle ore 18:00 e comunque fino al termine dei lavori:</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10583</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10583</guid>
     </item>
   </channel>
 </rss>
