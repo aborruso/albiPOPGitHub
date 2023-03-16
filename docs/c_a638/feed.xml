@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURE IN DITTA ENEL ENERGIA S.P.A. PER LA FORNITURA DI ENERGIA ELETTRICA. EMESSE A FEBBRAIO 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10612</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10612</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblico servizio di refezione scolastica</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10611</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10611</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Legge 25/05/2022 n. 13 art. 8 comm. 4 Legge di stabilità regionale 2022-2024. - D.D. n. 3541 del 11/10/2022 Contributi ai comuni danneggiati dagli eventi alluvionali dell'08/08/2020 a titolo di ristoro  Impegno e  Liquidazione in favore della ditta G</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10610</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10583</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10583</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>VOLTURA CONCESSIONE ALL'USO DI PASSO CARRABILE: GENOVESE ANNA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10582</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10582</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI LETTURA CONTATORI IDROMETRICI CON CERTIFICAZIONE FOTOGRAFICA E GEOREFERENZIAZIONE CON  L'UTILIZZO DI SISTEMI DI COMPLETA INTEROPERABILITÀ CON IL                    SOFTWARE GESTIONALE SIKUEL IN USO AL SERVIZIO AMMINISTRATIVO ACQUEDOTTO DE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10581</link>
-      <pubDate>Tue, 14 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10581</guid>
     </item>
   </channel>
 </rss>
