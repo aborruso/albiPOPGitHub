@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/03/2023 | Avvisi Vari</title>
+      <description>INFORMATIVA ALLA CITTADINANZA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4971</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4971</guid>
+    </item>
+    <item>
       <title>16/03/2023 | Deliberazioni Di Giunta</title>
       <description>Accordo di collaborazione tra il Comune di Patti e l'Associazione della Croce Rossa Italiana  Comitato del Tirreno Nebrodi</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4970</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4934</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4934</guid>
-    </item>
-    <item>
-      <title>15/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Fattura Ditta: Maggioli - Fornitura dei registri dello Stato Civile per l'anno 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4933</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4933</guid>
     </item>
   </channel>
 </rss>
