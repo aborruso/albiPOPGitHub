@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di un parcheggio personalizzato per soggetto diversamente abile contrassegnato EU n. 803/19  con scadenza 16.02.2024 in via Trieste in prossimità del civ.15.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10634</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10634</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>FATTURE IN DITTA ENEL ENERGIA S.P.A. PER LA FORNITURA DI ENERGIA ELETTRICA  IMPIANTI SPORTIVI  PERIODO DI RIFERIMENTO GENNAIO 2023 - CIG:</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10633</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10604</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10604</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Tim spa Scuole Medie del 9.02.2023 relative ai mesi di dicembre 2022 gennaio 2023 Totale euro 1.370,74 oltre IVA euro 300,22</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10603</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10603</guid>
     </item>
   </channel>
 </rss>
