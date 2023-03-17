@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/03/2023 | Deliberazioni Di Giunta</title>
+      <description>Accordo di collaborazione tra il Comune di Patti e l'Associazione della Croce Rossa Italiana  Comitato del Tirreno Nebrodi</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4970</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4970</guid>
+    </item>
+    <item>
       <title>16/03/2023 | Determinazioni Dirigenziali</title>
       <description>Avviso pubblico prot. n. 48038 del 2 dicembre 2021  Missione 4  Istruzione e Ricerca  Componente 1  Potenziamento dell'offerta dei servizi di istruzione: dagli asili nido alle Università Investimento 1.2: "Piano di estensione del tempo pieno e mense"</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4969</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4933</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4933</guid>
-    </item>
-    <item>
-      <title>15/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI URGENTI PER RIPRISTINO ELEMENTI DI COPERTURA CAMPO SPORTIVO GEPY FARANDA - DITTA: PMM s.r.l. - LIQUIDAZIONE FATTURA N. FE/2023/35 DEL 16/02/2023 - CIG: Z703973728.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4932</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4932</guid>
     </item>
   </channel>
 </rss>
