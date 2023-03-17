@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/03/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Servizio del trasporto scolastico per la tratta Sorrentini - Patti e viceversa, unica titolare del servizio pubblico di linea sul percorso, Ditta Azienda Siciliana Trasporti S.p.A. Liquidazione fattura.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4973</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4973</guid>
+    </item>
+    <item>
+      <title>17/03/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>PRESA  ATTO VERBALE DI SOMMA URGENZA - APPROVAZIONE PERIZIA GIUSTIFICATIVA, ART.163 D.L. N.50/2016, LAVORI SAGOMATURA E/O ABBATTIMENTO DI ALCUNE ALBERATURE PRESENTI NEL TERRITORIO COMUNALE - RATIFICA DELIBERA G.M. N.15/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4972</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4972</guid>
+    </item>
+    <item>
       <title>17/03/2023 | Avvisi Vari</title>
       <description>INFORMATIVA ALLA CITTADINANZA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4971</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4936</link>
       <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4936</guid>
-    </item>
-    <item>
-      <title>15/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA DANNI DA SINISTRO - SIG. D'APUZZO PAOLO - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4935</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4935</guid>
-    </item>
-    <item>
-      <title>15/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>CONVENZIONE TRA I COMUNI DI PATTI E SAN FILIPPO DEL MELA PER L'UTILIZZO A TEMPO PARZIALE DELLA DOTT.SSA FIORELLO NUNZIATA AI SENSI DELL' EX ART. 14 CCNL 22.1.2004 - LIQUIDAZIONE SOMME AL COMUNE DI SAN FILIPPO DEL MELA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4934</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=4934</guid>
     </item>
   </channel>
 </rss>
