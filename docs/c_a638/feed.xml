@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi del 22/03/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10691</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10691</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FORNITURA POLIZZA ASSICURATIVA PER LE MANIFESTAZIONI E GLI EVENTI DEL CARNEVALE 2023 CIG: ZA53A00AB7</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10690</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10690</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Richiesta autorizzazione per lo scavo e la posa di condotta telefonica per l'adeguamento funzionale degli armadi "saturi" sul suolo pubblico comunale Utente:FiberCop - Via G.Medici, Via Pozzo Caliri, Viale Degli Aranci, Corso Sicilia, Via Stat. San Antonio, Via Avv. A. Pino in parte, Via G.Camarda, Via Lazio, Piazza San Francesco Di paola, Via Dei Vespri, Via Catania, Str.Bruschetto, Via Ugo Di Sant'Onofrio, Via Guglielmo Marconi, Via F.Rossitto, Stretto Pozzo Caliri. "come da planimetria"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10689</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10664</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10664</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determina di liquidazione Fattura D204E-71 del 27-10-2022 relativa Supporto tecnico-scientifico per l'attuazione degli adempimenti di indirizzo del D.M.578/2020 MIT, approfondimenti scientifici per la valutazione dei rischi di ponti e viadotti esiste</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10663</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10663</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>liquidazione compenso al dott. Francesco Maria Borgia_ bimestri luglio-agosto, settembre-ottobre, novembre-dicembre.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10662</link>
-      <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10662</guid>
     </item>
   </channel>
 </rss>
