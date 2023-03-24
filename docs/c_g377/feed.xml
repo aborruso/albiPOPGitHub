@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>24/03/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta per lavori in Via F. Crispi: 27/03 - 31/03/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5091</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5091</guid>
+    </item>
+    <item>
+      <title>24/03/2023 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5090</link>
+      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5090</guid>
+    </item>
+    <item>
+      <title>24/03/2023 | Ordinanze Dirigenziali</title>
       <description>Istituzione stalli di sosta riservati ai disabili in Via Mazzini - Sosta consentita ai taxi, solo sabato, in Via S. Antonino.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5089</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
@@ -53,7 +67,7 @@
     </item>
     <item>
       <title>24/03/2023 | Ordinanze Sindacali</title>
-      <description>Assegnazione, in via provvisoria di alloggio dell'IACP di Messina.</description>
+      <description>Assegnazione, in via provvisoria di alloggio dell'I.A.C.P. di Messina.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5084</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5084</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5057</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5057</guid>
-    </item>
-    <item>
-      <title>23/03/2023 | Determinazioni Dirigenziali</title>
-      <description>Avviso C.S.E. 2022 - Comuni per la Sostenibilità e l'Efficienza energetica - Avviso relativo alla concessione di contributi a fondo perduto per la realizzazione di interventi di efficienza energetica anche tramite interventi per la produzione di ener</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5056</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5056</guid>
-    </item>
-    <item>
-      <title>23/03/2023 | Determinazioni Dirigenziali</title>
-      <description>Avviso C.S.E. 2022 - Comuni per la Sostenibilità e l'Efficienza energetica - Avviso relativo alla concessione di contributi a fondo perduto per la realizzazione di interventi di efficienza energetica anche tramite interventi per la produzione di ener</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5055</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5055</guid>
     </item>
   </channel>
 </rss>
