@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/03/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA'  SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE DISTRETTO SANITARIO DI PATTI - MESE DI APRILE 2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5093</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5093</guid>
+    </item>
+    <item>
       <title>27/03/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione somme per  Integrazione salariale personale ASU  - mese di Febbraio 2023</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5092</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5059</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5059</guid>
-    </item>
-    <item>
-      <title>23/03/2023 | Determinazioni Dirigenziali</title>
-      <description>Avviso C.S.E. 2022 - Comuni per la Sostenibilità e l'Efficienza energetica - Avviso relativo alla concessione di contributi a fondo perduto per la realizzazione di interventi di efficienza energetica anche tramite interventi per la produzione di ener</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5058</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5058</guid>
     </item>
   </channel>
 </rss>
