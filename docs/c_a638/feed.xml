@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Legge 25/05/2022 n. 13 art. 8 comm. 4 Legge di stabilità regionale 2022-2024. - D.D. n. 3541 del 11/10/2022 Contributi ai comuni danneggiati dagli eventi alluvionali dell'08/08/2020 a titolo di ristoro  Impegno e  Liquidazione in favore della ditta M</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10756</link>
+      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10756</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di un parcheggio personalizzato per soggetto diversamente abile contrassegnato EU n. 1174/2022  con scadenza 06.02.2027 in via G. Amendola in prossimità del civ.113.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10752</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10715</link>
       <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10715</guid>
-    </item>
-    <item>
-      <title>Determinazioni Sindacali</title>
-      <description>Ripubblicazione rettifica Determina Sindacale n.13 del 22.03.2023. Nomina componente Consiglio Di Amministrazione dell'Università della Terza Età</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10714</link>
-      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10714</guid>
     </item>
   </channel>
 </rss>
