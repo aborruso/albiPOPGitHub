@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Gelsomino Claudio art.143 cpc</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10792</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10792</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione delle seguenti limitazione alla circolazione in via Spinesante per giorno 02.04.2023 dalla ore 07:00 alle ore 10:00:</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10791</link>
+      <pubDate>Tue, 28 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10791</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi del 28/03/2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10790</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10765</link>
       <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10765</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture da settembre a dicembre 2022 F E FORMAMENTIS SOCIETA'    COOPERATIVA SOCIALE CIG: Z5339F2E8F</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10764</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10764</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture da settembre a dicembre  2022 per un utente  FORMAMENTIS SOCIETA   COOPERATIVA SOCIALE CIG Z0E39F085A</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10763</link>
-      <pubDate>Mon, 27 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10763</guid>
     </item>
   </channel>
 </rss>
