@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni in via Amendola per il giorno 05.04.2023 dalle ore 07:00 fino a fine lavori:</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10839</link>
+      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10839</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto a Genovese Gaetano. Notifica mediante raccomandata A.R. n°78532874327-9</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10838</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10812</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10812</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Servizio residenziale in comunità alloggio per minori presso la Comunità alloggio di Via Regina Margherita gestita dall'IPAB, per il periodo da Gennaio a Giugno 2023. CIG: Z503A7709F</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10811</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10811</guid>
     </item>
   </channel>
 </rss>
