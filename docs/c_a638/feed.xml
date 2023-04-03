@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art.143 del cpc a nome di Crinò Iona del 03/04/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10872</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10872</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n°1 atto a nome di Barresi Francesca per irreperibilità emessi dalla R.T.I. Municipia S.p.A. - Gamma Tributi S.r.l.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10871</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10871</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atti n°3 verbali di contravvenzione per irreperibilità a nome di Maugeri Isidoro Antonino</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10870</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10845</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10845</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture da settembre a dicembre 2022 per un utente FORMAMENTIS SOCIETA' COOPERATIVA SOCIALE CIG: ZAC39F05D6.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10844</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10844</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Proposta di Deliberazione di Consiglio Comunale n.30 del 21-03-2023 - Approvazione Regolamento per la definizione delle controversie tributarie.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10843</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10843</guid>
     </item>
   </channel>
 </rss>
