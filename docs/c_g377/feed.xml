@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>03/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità per Processione Barette dei Misteri a Patti: Venerdì: 07/04/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5174</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5174</guid>
+    </item>
+    <item>
+      <title>03/04/2023 | Ordinanze Dirigenziali</title>
       <description>Regolamentazione viabilità a Sorrentini per Processione delle Barette: venerdì 07/04/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5173</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5139</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5139</guid>
-    </item>
-    <item>
-      <title>30/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione pocket money ai cittadini ucraini in fuga dal conflitto dal 04 luglio al 26 settembre 2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5138</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5138</guid>
     </item>
   </channel>
 </rss>
