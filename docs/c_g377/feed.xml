@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>03/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Ingiunzione al pagamento della sanzione amministrativa pecuniaria di cui all'art. 6 comma "a"  dellOrdinanza Sindacale  n.° 32 del  22/04/2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5176</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5176</guid>
+    </item>
+    <item>
+      <title>03/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura ACI N. 9260, del 23/03/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5175</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5175</guid>
+    </item>
+    <item>
+      <title>03/04/2023 | Ordinanze Dirigenziali</title>
       <description>Regolamentazione viabilità per Processione Barette dei Misteri a Patti: Venerdì: 07/04/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5174</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5141</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5141</guid>
-    </item>
-    <item>
-      <title>30/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA REGISTRAZIONE SENTENZA N.55/2021 - TRIBUNALE DI PATTI - CONTROVERSIA DEDO INGEGNERIA S.R.L. - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5140</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5140</guid>
-    </item>
-    <item>
-      <title>30/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RETTIFICA E INTEGRAZIONE DETERMINA N. 101 DEL 31/01/2023 - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5139</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5139</guid>
     </item>
   </channel>
 </rss>
