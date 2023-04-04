@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Elenco abusivismo edilizio mese di marzo 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10875</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10875</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 8 "Sostegno al Reddito". Piano di Zona 2019/2020. Liquidazione contributo ai beneficiari per il Comune di Montalbano Elicona.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10874</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10874</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura emessa dalla Soc. Coop. Sociale Azione Sociale per il servizio dio socializzazione per anziani presso i Comuni di Barcellona Pozzo di Gotto e Montalbano Elicona del Distretto Socio Sanitario 28, reso dal 01.10.2022 al 31.12.2022 CIG:7741383757</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10873</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10873</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto art.143 del cpc a nome di Crinò Iona del 03/04/2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10872</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10848</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10848</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione ampliamento orario a carattere provvisorio per il dipendente part-time geom. Andrea Cascio, dipendente del Comune di Roccavaldina a tempo determinato e parziale con profilo professionale Istruttore Tecnico Cat. "C", pos. Economica C1 in</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10847</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10847</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura prot. n. 13117 del 10/03/2023, alla ditta Nania s.r.l. per la fornitura di materiale per i servizi igienici ( carta, sapone, ecc.), abbigliamento da lavoro, ecc.  C.I.G.: Z3D3A306E7</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10846</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10846</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture per i mesi da settembre a dicembre 2022  un utente  Coop. Nautilus  CIG: Z1939EF8B0</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10845</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10845</guid>
     </item>
   </channel>
 </rss>
