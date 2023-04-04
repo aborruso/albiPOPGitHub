@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>04/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Erogazione buoni libri comunali 2022/2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5199</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5199</guid>
+    </item>
+    <item>
+      <title>04/04/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N. 7 "Spazio Lavoro" III^ Annualità - PdZ 2013/2015 - Liquidazione mese Marzo 2023 ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio Sanitario.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5198</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5165</link>
       <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5165</guid>
-    </item>
-    <item>
-      <title>31/03/2023 | Determinazioni Dirigenziali</title>
-      <description>SPESA A FAVORE DEL SIG. PONTILLO VALERIO E DEL LEGALE DISTRATTARIO IN ESECUZIONE DELLA DELIBERA DI C. C. N. 27/2023 - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5163</link>
-      <pubDate>Fri, 31 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5163</guid>
     </item>
   </channel>
 </rss>
