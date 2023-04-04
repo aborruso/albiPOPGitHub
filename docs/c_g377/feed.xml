@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>04/04/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Regolamento di Contabilità Armonizzata ai sensi dell'art. 152 del D.L.vo N. 267/2000 - APPROVAZIONE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5183</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5183</guid>
+    </item>
+    <item>
+      <title>04/04/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Interrogazioni scritte ex art. 37 del Regolamento Comunale - c.d. "Question Time".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5182</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5182</guid>
+    </item>
+    <item>
+      <title>04/04/2023 | Deliberazioni Del Consiglio Comunale</title>
       <description>Approvazione procedimento per il riconoscimento del possesso della cittadinanza italiana a cittadini stranieri di ceppo italiano (jure sanguinis) ex art. 1 L. N. 91/1992 ed ex art. 1 L. N. 555/1912.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5181</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5148</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5148</guid>
-    </item>
-    <item>
-      <title>30/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATT. N. FE/2023/0166 DEL 28/02/2023 - SERVIZIO DI CONFERIMENTO RIFIUTI PROVENIENTI DALLA PULIZIA STRADALE CER 20.03.03 PRESSO IMPIANTO AUTORIZZATO  DITTA: PI.ECO SRL - CIG: Z203986B08.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5147</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5147</guid>
-    </item>
-    <item>
-      <title>30/03/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FATT. N. FE/2023/0167 DEL 28/02/2023 - SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO - DITTA: PI.ECO SRL - CIG: 9604947CFF.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5146</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5146</guid>
     </item>
   </channel>
 </rss>
