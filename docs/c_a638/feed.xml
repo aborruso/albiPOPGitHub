@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Delibera C.C.n°24 del 23/03/1998 Ditta "Mazzagatti Antonino" impresa "OMONIMA" Via Italo Balbo,13 - Falcone (ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10956</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10956</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Impegno e Liquidazione oneri SIAE - Delibera di Giunta Comunale n 58 del 13 febbraio 2023 - fatture nn.  1623005611 - 1623005612 - 1623005613 -  del 22-02-2022 emesse dalla società SIAE.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10955</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10929</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10929</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE COMPENSO COMPONENTE COMMISSIONE DI ESAME  DR. CONSALVI ANTONIO.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10928</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10928</guid>
     </item>
   </channel>
 </rss>
