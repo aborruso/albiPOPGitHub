@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura emessa dalla Soc.Coop.Sociale Iside per il servizio di assistenza all'autonomia ed alla comunicazione agli alunni disabili che frequentano le scuole dell'infanzia, primarie e secondarie di i grado, reso nel mese di gennaio 2023 (dal 25/01v al 31/01). CIG:9514647716</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10925</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10925</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Aggiornamento Albi Giudici Popolari. Biennio 2023-2025</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10924</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10924</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Verbale del 3 aprile 2023 per l'individuazione delle proposte progettuali da selezionare con forme di democrazia partecipata ai sensi dell'art. 6, comma 1, della L.R. N. 5/2014 anno 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10923</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10898</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10898</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Delibera C.C.n°24 del 23/03/1998 Ditta "Abbate Franco" impresa "Impresa Costruzioni Edili Abbate Franco" Via Str.II Maceo,50 - Barcellona P.G. (ME)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10897</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10897</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Delibera C.C.n°24 del 23/03/1998 Ditta "Faliti Giuseppe" impresa "OMONIMA" Via Sotto Chiesa, 42 -  Terme Vigliatore (ME)</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10896</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10896</guid>
     </item>
   </channel>
 </rss>
