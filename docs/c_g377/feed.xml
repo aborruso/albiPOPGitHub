@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/04/2023 | Atti Di Interesse Generale</title>
+      <description>TURINI IN PONTA DISPONIBILITA' - MESE DI APRILE 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5228</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5228</guid>
+    </item>
+    <item>
       <title>06/04/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE ORARIO DI LAVORO PERSONALE ASU SIG. PANASCI' CARMELO - MESE DI MARZO 2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5227</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5194</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5194</guid>
-    </item>
-    <item>
-      <title>04/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione somme per integrazione salariale personale ASU - Mese di Marzo 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5193</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5193</guid>
     </item>
   </channel>
 </rss>
