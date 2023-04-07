@@ -17,7 +17,14 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
-      <title>07/04/2023 | Atti Di Interesse Generale</title>
+      <title>07/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TINDATI FESTIVAL 2022 - LIQUIDAZIONE CONTRIBUTO ASSOCIAZIONE CULTURALE "CLAP".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5229</link>
+      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5229</guid>
+    </item>
+    <item>
+      <title>07/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>TURINI IN PONTA DISPONIBILITA' - MESE DI APRILE 2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5228</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5195</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5195</guid>
-    </item>
-    <item>
-      <title>04/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Borse di studio "Antonio Pisania Caccia" - Anno Scolastico 2021/2022 - Erogazione acconto ai Sigg.ri Mannelli Alice e Betta Lorenzo Gaetano.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5194</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5194</guid>
     </item>
   </channel>
 </rss>
