@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto a carico di Cipriano Salvatore art.143 c.p.c.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10997</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10997</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Sospensione, per il giorno 14 aprile 2023, delle attività didattiche ed educative degli asili nido e delle scuole di ogni ordine e grado, pubbliche e private, presenti nel territorio comunale. La sospensione delle attività didattiche, altresì, nei plessi "L.Capuana" e "G.Verga" dell' I.C."L.Capuana" anche per il giorno 13 aprile 2022, a partire dalle ore 13:00. "Giro di Sicilia 2023"</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10996</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10996</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Turni di servizio delle Farmacie di Barcellona P.G. dal 17 aprile 2023 al 11 giugno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10995</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10995</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso Pubblico Votazione per i Progetti "Democrazia Partecipata" che si svolgeranno il 18 e19 aprile 2023 presso l'Aula Consiliare del Comune di Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10994</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10970</link>
       <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10970</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10969</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10969</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Convocazione Consiglio comunale "Question Time" che si terrà lunedì 17 aprile, ore19.00</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10968</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10968</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>CORREZIONE REFUSO IN D.D. N.567 R.G. DEL 29/3/2023  "INQUADRAMENTO AUTOMATICO DEL PERSONALE IN SERVIZIO CON DECORRENZA 1° APRILE 2023  ART. 13, C. 2, CCNL 16 NOVEMBRE 2022"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10967</link>
-      <pubDate>Fri, 07 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=10967</guid>
     </item>
   </channel>
 </rss>
