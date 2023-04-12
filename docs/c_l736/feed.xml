@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 2568</title>
+      <description>DELIBERA DI CONSIGLIO N. 2023.16 - Bilancio di previsione per gli esercizi finanziari 2023-2025 - Variazione</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_16_001_1659_CC_2023_16.odt.pdf</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_16_001_1659_CC_2023_16.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 2563</title>
       <description>DELIBERA DI CONSIGLIO N. 2023.15 - Approvazione del Regolamento per la Definizione Agevolata del Contenzioso Tributario ai sensi della Legge 29 dicembre 2022, n. 197</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_15_001_1651_CC_2023_15.odt.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 973</title>
-      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI FORNITORI DI GASOLIO PER AUTOTRAZIONE PER I MEZZI DEL SERVIZIO AUTOMOBILISTICO E DEL SERVIZIO DI NAVIGAZIONE PER IL PERIODO 01/04/2019 - 31/03/2024.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</guid>
     </item>
   </channel>
 </rss>
