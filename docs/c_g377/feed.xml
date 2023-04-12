@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/04/2023 | Deliberazioni Del Consiglio Comunale</title>
+      <description>FESR 2021-2027 della Regione Siciliana: Disciplina della Governance del sistema intercomunale di rango urbano - Tirreno sud orientale - Approvazione dello Schema di Convenzione ex art. 30 del D. L.vo N. 267/2000 per la Gestione in forma associata del SIRU Tirreno sud orientale e la costituzione della relativa autorità urbana.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5241</link>
+      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5241</guid>
+    </item>
+    <item>
       <title>12/04/2023 | Avvisi Vari</title>
       <description>Testo Unico di Leggi 11/12/1933 N. 1775, art. 95 - Avviso d'istruttoria - Domanda in data 11/07/2022 per l'autorizzazione alla ricerca di acque sotterranee, ai sensi dell'art. 95 del T. U. di cui sopra, a mezzo pozzo trivellato da realizzare nell'ambito della part. N. 388 del fg. di mappa N. 47 del Comune di Patti (in comodato), per uso irriguo - DITTA: FAZIO Nunziatina nata a Patti (ME) il 21/08/1987.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5240</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5206</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5206</guid>
-    </item>
-    <item>
-      <title>05/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Restituzione somme non utilizzate finanziamento Dipofam Centri Estivi 2021.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5205</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5205</guid>
     </item>
   </channel>
 </rss>
