@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>ASSISTENZA TECNICA PER GLI SPETTACOLI E GLI EVENTI DEL "66° TINDARI FESTIVAL 2022 - L'ACCOGLIENZA" - AFFIDAMENTO SERVIZI - LIQUIDAZIONE FATTURA N. 42/22 - CIG: ZBF3706ABB.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5244</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5244</guid>
+    </item>
+    <item>
+      <title>13/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Via Torre Fortunato: divieto di accesso ai mezzi pesanti in direzione del vecchio ponte del sottopasso ferroviario.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5243</link>
+      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5243</guid>
+    </item>
+    <item>
       <title>12/04/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>PAGAMENTO S.I.A.E. PER GLI SPETTACOLI DEL "63° TINDARI FESTIVAL 2019" - LIQUIDAZIONE FATTURE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5242</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5209</link>
       <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5209</guid>
-    </item>
-    <item>
-      <title>05/04/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura temporanea al transito Strada Comunale Carasi/S. Antonio.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5208</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5208</guid>
-    </item>
-    <item>
-      <title>05/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 3 "Spazio Lavoro" I^ e II^ Annualità - PdZ 2018/2019 - Liquidazione mese di Marzo 2023 ai soggetti dei Comuni dell'AOD N. 1 del Distretto Socio Sanitario N. 30.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5207</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5207</guid>
     </item>
   </channel>
 </rss>
