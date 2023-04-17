@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fatture n. 1119880 e 2117830, del 31.03.23 - Maggioli s.p.a.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5260</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5260</guid>
+    </item>
+    <item>
+      <title>17/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito Via V. Emanuele, per lavori: 19 aprile 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5259</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5259</guid>
+    </item>
+    <item>
+      <title>17/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Integrazione Ordinanza N. 69/23: chiusura corsia lato mare Via C. F. Zuccarello.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5258</link>
+      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5258</guid>
+    </item>
+    <item>
       <title>14/04/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE ORARIO DI LAVORO PERSONALE A.S.U. CONTI TINDARO, DE BENEDETTIS MAURO E GALATI PAOLO IN SERVIZIO PRESSO IL III° SETTORE "SERVIZI TERRITORIALI E URBANISTICI" - PERIODO: MARZO 2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5257</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5225</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5225</guid>
-    </item>
-    <item>
-      <title>06/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. - GIARRIZZO TINDARO, GIORGIO CATERINA E LATTANZIO CRISTINA IN SERVIZIO NEL SETTORE V° - MESE DI MARZO 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5224</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5224</guid>
-    </item>
-    <item>
-      <title>06/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE SOMME PER INTEGRAZIONE SALARIALE PERSONALE A.S.U. LA SPADA ANTONIO GIANLUCA IN SERVIZIO AL SETTORE V° - PERIODO: GENNAIO, FEBBRAIO E MARZO 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5223</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5223</guid>
-    </item>
-    <item>
-      <title>06/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE PER ELEVAZIONE ORARIO DI LAVORO PERSONALE A.S.U. ZAMPINO CATIA IN SERVIZIO PRESSO IL II° SETTORE AREA "SERVIZI TECNICI" IN CONDIVISIONE CON IL V° SETTORE AREA "RAGIONERIA GENERALE" - PERIODO: MARZO 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5222</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5222</guid>
     </item>
   </channel>
 </rss>
