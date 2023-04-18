@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/04/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE LAVORO STRAORDINARIO AL PERSONALE DIPENDENTE DEL II SETTORE SERVIZI TECNICI PER L'ANNO 2022.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5287</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5287</guid>
+    </item>
+    <item>
       <title>18/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>MODIFICA TURNI PRONTA DISPONIBILITA' MESE DI APRILE</description>
+      <description>VARIAZIONE TURNI PRONTA DISPONIBILITA' - SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO PATTI - MESE DI APRILE</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5286</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5286</guid>
@@ -109,7 +116,7 @@
     </item>
     <item>
       <title>17/04/2023 | Determinazioni Dirigenziali</title>
-      <description>Concessione permessi mensili ai sensi dell'art. 33 comma 3 della Legge N. 104/92 e s.m.i. al dipendente di ruolo "Omissis".</description>
+      <description>Concessione permessi mensili ai sensi dell'art. 33 c. 3 della legge n. 104/92 e s.m.i. al dipendente di ruolo "Omissis".</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5273</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5273</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5253</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5253</guid>
-    </item>
-    <item>
-      <title>14/04/2023 | Determinazioni Dirigenziali</title>
-      <description>APPROVAZIONE SCHEMA AVVISO DI GARA PER ALIENAZIONE DEI BENI IMMOBILI DI PROPRIETÀ COMUNALE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5252</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5252</guid>
     </item>
   </channel>
 </rss>
