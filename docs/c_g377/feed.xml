@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>MODIFICA TURNI PRONTA DISPONIBILITA' MESE DI APRILE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5286</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5286</guid>
+    </item>
+    <item>
+      <title>18/04/2023 | Bandi Di Gara</title>
+      <description>VENDITA BENI IMMOBILI DI PROPRIETA' COMUNALE</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5285</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5285</guid>
+    </item>
+    <item>
+      <title>18/04/2023 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N.5 DEL 18/04/2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5284</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5284</guid>
+    </item>
+    <item>
+      <title>18/04/2023 | Ordinanze Sindacali</title>
+      <description>Proroga TSO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5283</link>
+      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5283</guid>
+    </item>
+    <item>
       <title>18/04/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>RIMBORSO C.U. ALL'AVV. ARLOTTA DANIELA. CONTROVERSIA APPELLO PARATORE SANTA. LIQUIDAZIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5282</link>
@@ -232,34 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5252</link>
       <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5252</guid>
-    </item>
-    <item>
-      <title>14/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE INTEGRAZIONE SALARIALE AI LAVORATORI ASU GATANI ANTONINO, SOFIA ENRICO, PANSALORTO SALVATORE, GIARRIZZO SALVATORE E GIARRIZZO TIZIANA - MESE DI MARZO 2023 - SERVIZIO DI MANUTENZIONE DELL'ACQUEDOTTO E DELLA FOGNATURA, SERVIZIO DISTRIBUZIONE ACQUA, COLLABORATORE AMMINISTRATIVO E LAVORI PUBBLICI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5251</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5251</guid>
-    </item>
-    <item>
-      <title>14/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Provvedimento di accoglimento istanze di riversamento e rimborso presentate dai contribuenti.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5250</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5250</guid>
-    </item>
-    <item>
-      <title>14/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione diritti di rogito anno 2022 al Segretario Comunale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5249</link>
-      <pubDate>Fri, 14 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5249</guid>
-    </item>
-    <item>
-      <title>13/04/2023 | Determinazioni Dirigenziali</title>
-      <description>"Interventi urgenti ed indifferibili in località varie del Territorio Comunale" - CIG: Z4D3AB59DA - Determina a contrarre - Ditta: SAMOTEDIL S.N.C. di DI PINO GAETANO - Affidamento ed impegno spesa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5248</link>
-      <pubDate>Thu, 13 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5248</guid>
     </item>
   </channel>
 </rss>
