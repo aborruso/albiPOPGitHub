@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Integrazione Ordinanza n. 70 - chiusura corsia lato mare via Zuccarello per manifestazione "Street Food - Sapori di Primavera": 21/04  -  25/04/23</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5305</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5305</guid>
+    </item>
+    <item>
+      <title>20/04/2023 | Concessioni E Permessi Di Costruire</title>
+      <description>CONCESSIONE EDILIZIA IN SANATORIA  - CONDONO -  N. 1/2023</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5304</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5304</guid>
+    </item>
+    <item>
+      <title>20/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PREVENZIONE DEL RISCHIO SISMICO IN SICILIA -  INTERVENTI AI SENSI DELL' ART. 2, COMMA 1, LETTERA C) DELL' ORDINANZA DEL CAPO DIPARTIMENTO DELLA PROTEZIONE CIVILE 20 FEBBRAIO 2013, N. 52 - ANNUALITA' 2012. ELENCO DITTE ESCLUSE DALLA  GRADUATORIA REGIONALE AI SENSI DEL DECRETO DEL DITRIGENTE GENERALE DEL D.R.P.C. SICILIA 5 MARZO 2020 , N.46</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5303</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5303</guid>
+    </item>
+    <item>
       <title>20/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>TINDARI SWITCH FEST - Bando di selezione</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5302</link>
@@ -24,7 +45,7 @@
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5302</guid>
     </item>
     <item>
-      <title>20/04/2023 | Atti Di Interesse Generale</title>
+      <title>20/04/2023 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO  ATTI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5301</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5271</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5271</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 4 "Emergenza e Urgenza I^ e II^ Annualità -  PdZ PdZ 2018-2019. Liquidazione  a N.  08 Beneficiari dei Comuni dell'AOD N. 1.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5270</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5270</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione lavoro straordinario nell'ambito del progetto Piano di Attuazione Locale (PAL) Quota servizi del Fondo Povertà (annualità - 2020) "Rafforzamento dei servizi di Segretariato Sociale". CUP C41H22000000001. Mese di Marzo 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5269</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5269</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>UFFICIO RILASCIO TESSERINI FUNGHI QUOTE SPETTANTI ALLA CITTA' METROPOLITANA DI MESSINA E ALLA REGIONE SICILIA SUI PROVENTI PER RILASCIO DEI TESSERINI FUNGHI ANNO 2022</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5268</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5268</guid>
     </item>
   </channel>
 </rss>
