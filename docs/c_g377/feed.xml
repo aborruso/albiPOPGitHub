@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/04/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TINDARI SWITCH FEST - Bando di selezione</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5302</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5302</guid>
+    </item>
+    <item>
+      <title>20/04/2023 | Atti Di Interesse Generale</title>
+      <description>AVVISO DEPOSITO  ATTI.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5301</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5301</guid>
+    </item>
+    <item>
+      <title>20/04/2023 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. CERAOLO STEFANO PER LA SOSTITUZIONE DEL LEGALE NEL PROCEDIMENTO R.G. N.184/2015 - TRIBUNALE DI PATTI - IMPEGNO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5300</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5300</guid>
+    </item>
+    <item>
       <title>19/04/2023 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. L'ABBATE GIUSEPPE WALTER PER LA COSTITUZIONE NEL GIUDIZIO PROMOSSO DAL SIG. MANFRE' ALESSANDRO ROBERTO - IMPEGNO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5299</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5268</link>
       <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5268</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Trasferimento corrispettivi C.I.E al Ministero Dal  01.02.2023 al 28.02.2023</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5267</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5267</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione spesa ricovero disabile residence "Anziano Due" di Lombardo Fancesco mese di Marzo 2023.                CIG Z72397B33C</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5266</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5266</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione alla Soc. Coop. Progetto Lavoro N.C. "Germoglio" per il ricovero del minore M.AL. per i mesi di Gennaio  Febbraio  Marzo 2023-CIG ZA93A65D91</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5265</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5265</guid>
     </item>
   </channel>
 </rss>
