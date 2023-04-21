@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/04/2023 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5312</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5312</guid>
+    </item>
+    <item>
+      <title>21/04/2023 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in occasione del Corteo Storico del 25 aprile 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5311</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5311</guid>
+    </item>
+    <item>
       <title>21/04/2023 | Determinazioni Dirigenziali</title>
       <description>Fornitura materiale necessario per manutenzione arredo urbano sul Territorio Comunale - Determina a contrarre - Affidamento ed impegno spesa.- Ditta: SIRAME S.R. - CIG: Z9B3ACB65AL.   .</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5310</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5278</link>
       <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5278</guid>
-    </item>
-    <item>
-      <title>18/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETA' COMUNALE - DITTA: LEMBO FRANCO S.R.L. - LIQUIDAZIONE FATTURE - CIG: Z64356BAB6.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5277</link>
-      <pubDate>Tue, 18 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5277</guid>
-    </item>
-    <item>
-      <title>17/04/2023 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER LA SOSTITUZIONE DEL LEGALE NEL GIUDIZIO R.G.N.184/2015 PENDENTE DAVANTI AL TRIBUNALE DI PATTI - MARTINES/COMUNE DI PATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5276</link>
-      <pubDate>Mon, 17 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5276</guid>
     </item>
   </channel>
 </rss>
