@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/684</title>
+      <description>ACQUISTO DEL SERVIZIO DI REDAZIONE DEL BILANCIO CONSOLIDATO ESERCIZIO 2022. CIG Z733A96836</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447945</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447945</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/683</title>
+      <description>PRESA D'ATTO COLLOCAMENTO IN QUIESCENZA DEL DIPENDENTE MATR. 175 DAL 1 AGOSTO 2023 - CAT. B POS. ECONOMICA 6 – ESECUTORE AMMINISTRATIVO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447943</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447943</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/682</title>
+      <description>CONCESSIONE TRENTENNALE DEL LOCULO CIMITERIALE N. 243, 3^FILA, DEL COLOMBARIO "A" PER LA TUMULAZIONE DELLA SALMA DI PENNISI ALFREDO, DECEDUTO IL 18/04/2023, E AUTORIZZAZIONE AL TRASFERIMENTO DELLE CASSETTE OSSARIO CONTENENTI I RESTI OSSEI DI FINOCCHIETTI LAURA, DECEDUTA IL 14/02/1971, E DI PENNISI ALFIO, DECEDUTO IL 03/04/1969, DAL LOCULO N 232/D AL LOCULO 243/A. FASCICOLO CIMITERIALE: LOC. 243 COL. A</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447923</link>
+      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447923</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>ELENCO IRR. N° 01 DEL 21/04/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447880</link>
@@ -134,27 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447735</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447735</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/669</title>
-      <description>CONCESSIONE RATEIZZAZIONE PAGAMENTO TRIBUTI COMUNALI, CONTRIBUENTE S. V. - C.F.: STR* - ACC. IMU 2017 -</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447733</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447733</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/668</title>
-      <description>CONCESSIONE DI SUOLO PUBBLICO PER PASSO CARRABILE DI ML. 3,55 - SITO: VIA ETNA N. 8/A CAT. VIARIA 2° - CONTRASSEGNATO CON IL N. 775/2023.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447731</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447731</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/667</title>
-      <description>CONCESSIONE DI MQ. 2,80 PER PASSO CARRABILE, SITO IN ACI CASTELLO IN VIA ACICASTELLO N.17, CAT. VIARIA 1^, CONTRASSEGNATO CON IL N. 773/2023</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447729</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/447729</guid>
     </item>
   </channel>
 </rss>
