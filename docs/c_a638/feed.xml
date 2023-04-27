@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura n.146 del 04/04/2023, servizio di esternalizzazione della gestione dell'Asilo Nido Petraro - mese di Febbraio 2023 - Soc.Coop.Sociale VITASI'.CIG: 93328027D8 CUP: H69G22000570001</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11180</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11180</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Elementari, dell' 8.04.2023, relativa al periodo febbraio marzo 2023. Totale euro  92,18  oltre IVA euro 4,61</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11178</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11152</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11152</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Indizione procedura negoziata sul MePa ai sensi dell'art. 36 co. 2 lett b) del D.Lgs 50/2016 denominata "Consultazione Preventivi", per la fornitura di strumentazione informatica. PROGETTO IT 039- PRINS-2022- SIC 31-001 CONVENZIONE N.  REACTEU-432 CU</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11151</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11151</guid>
     </item>
   </channel>
 </rss>
