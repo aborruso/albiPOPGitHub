@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO IRR. N° 08 DEL 27/04/2023 DEPOSITO ATTO PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448460</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448460</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/33</title>
       <description>ATTO DI CITAZIONE EX ART 615 CPC, ED IN SUBORDINE OPPOSIZIONE AGLI ATTI ESECUTIVI EX ART 617 CPC, PROMOSSO INNANZI AL GIUDICE DI PACE DI ACIREALE IN OPPOSIZIONE A CARTELLA DI PAGAMENTO SANZIONE AMMINISTRATIVA IN MATERIA DI COMMERCIO. COSTITUZIONE IN GIUDIZIO E NOMINA LEGALE.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448426</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448141</link>
       <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448141</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/728</title>
-      <description>TRASPORTO UTENTI CON DISABILITA' PRESSO IL CENTRO DI RIABILITAZIONE "ASSOCIAZIONE A.I.A.S" – LIQUIDAZIONE QUARTO TRIMESTRE 2022 - SMART CIG Z2739525A3</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448139</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/448139</guid>
     </item>
   </channel>
 </rss>
