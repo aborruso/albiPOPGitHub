@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/04/2023 | Atti Di Interesse Generale</title>
+      <description>TURNI IN PRONTA DISPONIBILITA' - MESE DI MAGGIO 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5348</link>
+      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5348</guid>
+    </item>
+    <item>
       <title>28/04/2023 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 7 DEL 28/04/2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5347</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5313</link>
       <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5313</guid>
-    </item>
-    <item>
-      <title>21/04/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5312</link>
-      <pubDate>Fri, 21 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5312</guid>
     </item>
   </channel>
 </rss>
