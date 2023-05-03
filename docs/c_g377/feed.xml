@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE DISTRETTO SANITARIO DI PATTI - MESE DI MAGGIO 2023 - VARIAZIONE DISPONIBILITA'.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5374</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5374</guid>
+    </item>
+    <item>
+      <title>03/05/2023 | Determinazioni Del Sindaco</title>
+      <description>Attribuzione funzioni dirigenziali Responsabile del II° Settore "Servizi Tecnici" - Ing. Scaffidi Tindaro Pino.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5373</link>
+      <pubDate>Wed, 03 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5373</guid>
+    </item>
+    <item>
       <title>03/05/2023 | Deliberazioni Del Consiglio Comunale</title>
       <description>PERDURANTE CHIUSURA DELLA RSA DI CASE NUOVE RUSSO E SALVAGUARDIA DEI LIVELLI OCCUPAZIONALI - MOZIONE E DISCUSSIONE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5372</link>
@@ -46,7 +60,7 @@
     </item>
     <item>
       <title>02/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>Trasmissione Avviso relativo a nuovo termine utile per la presentazione istanza di rinnovo classifica quinquennale 2022/2026 delle strutture ricettive (che ancora non l'avessero trasmessa) operati nei Comuni del Territorio della Città Metropolitana di Messina.</description>
+      <description>Trasmissione Avviso relativo a nuovo termine utile per la presentazione istanza di rinnovo classifica quinquennale 2022/2026 delle strutture ricettive (che ancora non l'avessero trasmessa) operanti nei Comuni del Territorio della Città Metropolitana di Messina.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5368</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5368</guid>
@@ -109,7 +123,7 @@
     </item>
     <item>
       <title>02/05/2023 | Atti Di Interesse Generale</title>
-      <description>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI PER LE CORTI D'ASSISE E PER LE CORTI D'ASSISE D'APPELLO - ISCRIZIONE NEGLI ELENCHI COMUNALI.</description>
+      <description>AGGIORNAMENTO ALBI GIUDICI POPOLARI PER LE CORTI D'ASSISE E CORTI D'ASSISE D'APPELLO - ISCRIZIONE NEGLI ELENCHI COMUNALI.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5359</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5359</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5340</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5340</guid>
-    </item>
-    <item>
-      <title>27/04/2023 | Determinazioni Dirigenziali</title>
-      <description>Art. 19 del D. Lgs. N. 504/92 - Approvazione rendiconto "T.E.F.A." relativo al I° Trimestre 2023 - Riversamento alla Città Metropolitana di Messina del Tributo per l'Esercizio delle Funzioni di Tutela, Protezione ed Igiene dell'Ambiente T.E.F.A.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5339</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5339</guid>
-    </item>
-    <item>
-      <title>26/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ACQUISTO SEDIE PER POSTAZIONI DI LAVORO DEL III° SETTORE "SERVIZI TERRITORIALI E URBANISTICI" E DEL V° SETTORE "RAGIONERIA GENERALE", N° 1 MONITOR DI 27 POLLICI + TASTIERA PER POSTAZIONI DEL III° SETTORE - LIQUIDAZIONE FATTURA N. 02/23 DEL 27/01/2023 - CIG: - BENEFICIARIO: "PATTI UFFICIO" DI CANDUCI CIRO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5338</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5338</guid>
     </item>
   </channel>
 </rss>
