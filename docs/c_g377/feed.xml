@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Trasmissione Avviso relativo a nuovo termine utile per la presentazione istanza di rinnovo classifica quinquennale 2022/2026 delle strutture ricettive (che ancora non l'avessero trasmessa) operati nei Comuni del Territorio della Città Metropolitana di Messina.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5368</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5368</guid>
+    </item>
+    <item>
+      <title>02/05/2023 | Determinazioni Del Sindaco</title>
+      <description>Atto di designazione del Responsabile della Protezione dei Dati personali (RDP) ai sensi dell'art. 37 del Regolamento UE 2016/679.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5367</link>
+      <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5367</guid>
+    </item>
+    <item>
       <title>02/05/2023 | Determinazioni Dirigenziali</title>
       <description>Gara mediante procedura aperta per l'affidamento in concessione del servizio di riscossione coattiva delle entrate sia tributarie che patrimoniali - Attività di supporto all'Ufficio Tributi propedeutica all'accertamento delle elusioni/evasioni delle seguenti entrate: Imu, Tari, Imposta di Soggiorno, Proventi Servizio Idrico, Canone Patrimoniale di concessione, autorizzazione o esposizione pubblicitaria di cui all'art. 1, commi 816/836 della L. N. 160/2019 - CIG: 96737853EC - Nomina Commissione Giudicatrice preposta alla valutazione delle offerte pervenute.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5366</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5334</link>
       <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5334</guid>
-    </item>
-    <item>
-      <title>26/04/2023 | Determinazioni Dirigenziali</title>
-      <description>APPROVAZIONE AGGIORNAMENTO ELENCO APERTO DI PROFESSIONISTI PER L'AFFIDAMENTO DI SERVIZI ATTINENTI ALL'INGEGNERIA E ALL'ARCHITETTURA ED ALTRI SERVIZI TECNICI CON APPLICAZIONE DELLE PROCEDURE SEMPLIFICATE PREVISTE DAL DECRETO LEGGE DEL 31 MAGGIO 2021 N. 77 DI MODIFICA DEL DECRETO LEGGE 16 LUGLIO 2020, N. 76, CONVERTITO, CON MODIFICAZIONE, DALLA LEGGE 11 SETTEMBRE 2020, N. 120, AGGIORNATO AL 21 APRILE 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5333</link>
-      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5333</guid>
-    </item>
-    <item>
-      <title>24/04/2023 | Determinazioni Dirigenziali</title>
-      <description>INIZIATIVE DI PROMOZIONE, VALORIZZAZIONE DEL TERRITORIO ED ATTRATTIVITA' TURISTICA - PROGETTO "ADELASIA INCISA DEL VASTO, REGINA MADRE DEL REGNO DI SICILIA" -  APRILE 2023 - AFFIDAMENTO SERVIZIO DI PROGETTAZIONE GRAFICA E GESTIONE DIGITALE E COMUNICAZIONE - CIG: Z933AE6F5E.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5332</link>
-      <pubDate>Mon, 24 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5332</guid>
     </item>
   </channel>
 </rss>
