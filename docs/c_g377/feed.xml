@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/05/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito Via Scaletta per lavori: sabato 06/05/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5377</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5377</guid>
+    </item>
+    <item>
+      <title>04/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>VARIAZIONE TURNI SABATO MATTINA ORE 09:00/12:30 - SERVIZIO IGIENE PUBBLICA - DISTRETTO SANITARIO DI PATTI - MESE DI MAGGIO 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5376</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5376</guid>
+    </item>
+    <item>
+      <title>04/05/2023 | Determinazioni Dirigenziali</title>
+      <description>Concessione permessi ex L. 104/92 al dipendente Omissis.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5375</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5375</guid>
+    </item>
+    <item>
       <title>03/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE DISTRETTO SANITARIO DI PATTI - MESE DI MAGGIO 2023 - VARIAZIONE DISPONIBILITA'.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5374</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5343</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5343</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Determinazioni Dirigenziali</title>
-      <description>INIZIATIVE DI PROMOZIONE, VALORIZZAZIONE  DEL TERRITORIO ED ATTRATTIVITA' TURISTICA - PROGETTO "ADELASIA INCISA DEL VASTO, REGINA MADRE DEL REGNO DI SICILIA" - APRILE 2023 - AFFIDAMENTO SERVIZIO PROGETTAZIONE E REALIZZAZIONE FOLDER PROMOZIONALI - CIG: Z443AE7B69.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5342</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5342</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Ordinanze Dirigenziali</title>
-      <description>Proroga chiusura corsia lato monte Lungomare C. F. Zuccarello per la festività del I° maggio 2023 - Breve chiusura per lavori Via Scaletta: 02 e 03 maggio 2023.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5341</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5341</guid>
-    </item>
-    <item>
-      <title>27/04/2023 | Determinazioni Dirigenziali</title>
-      <description>"Primi interventi di manutenzione straordinaria urgenti degli edifici della Compagnia Carabinieri in C/so Matteotti" del Comune di Patti (ME) - Codice Unico del Progetto CUP: C43E22000170002 - Codice Caronte: SI_1_31341 - CIG: 9538098F74 - Revoca Determina - Approvazione proposta di aggiudicazione ed approvazione nuova proposta di aggiudicazione ai sensi dell'art. 33, comma I°, del D. Lgs. N. 50/20016.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5340</link>
-      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5340</guid>
     </item>
   </channel>
 </rss>
