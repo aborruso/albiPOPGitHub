@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/05/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5379</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5379</guid>
+    </item>
+    <item>
+      <title>04/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura generi alimentari, materiale di pulizia e varie per il Servizio di Mensa per gli alunni delle Scuole dell'Infanzia, Primarie e Secondarie di I° grado - Periodo: aprile 2023 - Ditta: F.lli Arena s.r.l. - CIG: ZBD3937C58 - Liquidazione..</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5378</link>
+      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5378</guid>
+    </item>
+    <item>
       <title>04/05/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito Via Scaletta per lavori: sabato 06/05/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5377</link>
@@ -25,7 +39,7 @@
     </item>
     <item>
       <title>04/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>VARIAZIONE TURNI SABATO MATTINA ORE 09:00/12:30 - SERVIZIO IGIENE PUBBLICA - DISTRETTO SANITARIO DI PATTI - MESE DI MAGGIO 2023.</description>
+      <description>VARIAZIONE TURNI SABATI MATTINA ORE 09:00/12:30 - SERVIZIO IGIENE PUBBLICA - DISTRETTO SANITARIO DI PATTI - MESE DI MAGGIO 2023.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5376</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5376</guid>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5345</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5345</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI SOMMA URGENZA PER IL RIPRISTINO DELLA FUNZIONALITÀ DELL'IMPIANTO DELLA CONDOTTA FOGNARIA IN VIA S. TEODORO DELLA FRAZIONE SORRENTINI - LIQUIDAZIONE FATTURA N. 2/2023 - DITTA: ORTI &amp; GIARDINI DI GEOM. LENZO DIEGO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5344</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5344</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Determinazioni Dirigenziali</title>
-      <description>"Interventi urgenti ed indifferibili per il ripristino della funzionalità degli impianti di sollevamento in Località Playa", KooDoo, etc. - Pulitura mediante ausilio di autoespurgo - CIG: ZF13AE8F91 - Determina a contrarre - Affidamento ed impegno spesa.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5343</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5343</guid>
     </item>
   </channel>
 </rss>
