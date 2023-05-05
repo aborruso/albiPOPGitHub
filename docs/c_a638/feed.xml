@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D.Lgs.vo n.152/6) - Validità 4 anni (quattro). Ditta: Fabio Portosalvo Attività: Autocarrozzeria ubicazione: via Leonardo da Vinci snc - 90851 Barcellona P.G.(ME)</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11296</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11296</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione consiglio comunale "Question Time" che si terrà giovedì 11 maggio 2023, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11295</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11295</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>RIACCERTAMENTO ORDINARIO DEI RESIDUI AL 31.12.2022 AI SENSI DELL'ART. 3, COMMA 4, DEL D. LGS. 118/2011.  SETTORE IV</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11294</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11294</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11293</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11293</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione divieto di sosta con rimozione ambo i lati e divieto di transito in via Stretto Bruschetto dal n.c. 50 fino alla via Aia Scarpaci nella giornata di lunediì 08.05.2023 dalle ore 07:00 fino a fine lavori</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11292</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11265</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11265</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di Rimozione Situazione di Pericolo nel fabbricato denominato "Condominio del sole", sito in Via Umberto I n. 33/E.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11264</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11264</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Venezia.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11263</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11263</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso relativo a nuovo  termine utile per la presentazione istanza di rinnovo classifica quinquennale 2022-2026 delle strutture ricettive (che ancora non l'avessero trasmessa) operanti nei comuni del territorio della Città Metropolitana di Messina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11262</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11262</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione somma dovuta per l'ospitalità dei minori  nella Comunità alloggio gestita dal Comitato Italiano per il reinserimento sociale CIRS-Casa Famiglia ONLUS dal 20-12-2022 al 31-01-2023. CIG: ZD5392AA21</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11261</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11261</guid>
     </item>
   </channel>
 </rss>
