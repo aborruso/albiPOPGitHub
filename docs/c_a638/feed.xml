@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n°1 atto in busta chiusa ai sensi dell'art.143 c.p.c. a carico di Luca Petre</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11299</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11299</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n°1 atto in busta chiusa ai sensi dell'art.143 del c.p.c. a carico di Soltane Khaled</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11298</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11298</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di Rimozione Situazione di Pericolo nel fabbricato sito in Via Giuseppe Garibaldi dal numero civico 420 al n. 430.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11297</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11297</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D.Lgs.vo n.152/6) - Validità 4 anni (quattro). Ditta: Fabio Portosalvo Attività: Autocarrozzeria ubicazione: via Leonardo da Vinci snc - 90851 Barcellona P.G.(ME)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11296</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11268</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11268</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Stipula polizza assicurativa SCUOLABUS MERCEDES targato BT419NK C.I.G.: Z813AE1537</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11267</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11267</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Costituzione parte civile procedimento penale  RGNR  n 855 del 2016 Corte di Appello Reggio Calabria definito con sentenza n 2043 del 2022  Liquidazione  e rimborso spese Avv Bertolone Francesco</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11266</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11266</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di Rimozione Situazione di Pericolo del fabbricato sito in Via Cattafi civ. 45-47 angolo Via J. F. Kennedy.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11265</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11265</guid>
     </item>
   </channel>
 </rss>
