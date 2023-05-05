@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/05/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea Piazzetta L. Sturzo per celebrazione messa: 05/05/23.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5389</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5389</guid>
+    </item>
+    <item>
+      <title>05/05/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Protocollo N: 8349 del 04/05/2023 - CPMIL - Capitaneria di Porto di Milazzo Pubblicazione Ordinanza N. 21/2023 in data 04/05/2023 della Capitaneria di porto di Milazzo.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5388</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5388</guid>
+    </item>
+    <item>
       <title>04/05/2023 | Determinazioni Dirigenziali</title>
       <description>Art. 192 del T.U.E.L. - DETERMINAZIONE A CONTRATTARE " Misura 1.4.1 - Esperienza del Cittadini nei servizi pubblici - Comuni" della Missione 1 - Componente 1 del PNRR - finanziato dall'Unione europea nel contesto delliniziativa Investimento 1.4  Serv</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5387</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5355</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5355</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L.R.  n. 13/2021 e s.m.i. - Variazione al bilancio in corso di esercizio provvisorio necessaria per la programmazione, a seguito della proroga fino al 31.03.2023 dell'accordo di collaborazione sottoscritto in data 04/07/2022 con la Prefe</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5354</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5354</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE PER ACQUISTO PIANTINE ORNAMENTALI DA PIANTUMARE NEI VASI DI PIAZZA MARCONI - IMPEGNO SPESA ED AFFIDAMENTO CON TRATTATIVA DIRETTA - CIG: Z8C3AE3F66.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5353</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5353</guid>
     </item>
   </channel>
 </rss>
