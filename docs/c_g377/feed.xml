@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/05/2023 | Ordinanze Sindacali</title>
+      <description>Divieto di balneazione e di elioterapia nel tratto di mare antistante il Depuratore Comunale.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5392</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5392</guid>
+    </item>
+    <item>
+      <title>05/05/2023 | Ordinanze Sindacali</title>
+      <description>Divieto di balneazione nel tratto di mare antistante il sovrappieno del cunettone Acquafico.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5391</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5391</guid>
+    </item>
+    <item>
+      <title>05/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione alla Soc. Coop. Progetto Lavoro N.C. "Germoglio" per il ricovero del minore M. F. A. per il mese di aprile 2023 - CIG: ZDB3A65D51.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5390</link>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5390</guid>
+    </item>
+    <item>
       <title>05/05/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura temporanea Piazzetta L. Sturzo per celebrazione messa: 05/05/23.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5389</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5358</link>
       <pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5358</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Deliberazioni Di Giunta</title>
-      <description>CENTRO DEL LIBRO E DELLA LETTURA - ADESIONE MAGGIO DEI LIBRI 2023</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5357</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5357</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Deliberazioni Di Giunta</title>
-      <description>TINDARI FESTIVAL 66^ EDIZIONE  ANNO 2022. ESAME ED APPROVAZIONE DEL RENDICONTO 2022 AI SENSI DELL'ART. 6, LETTERA A) DEL D.M. 27 LUGLIO 2017 (FUS), PER LA SUCCESSIVA TRASMISSIONE AL MINISTERO DELLA CULTURA</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5356</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5356</guid>
-    </item>
-    <item>
-      <title>28/04/2023 | Deliberazioni Di Giunta</title>
-      <description>"Progetto per la rigenerazione ed il completamento dell'impianto sportivo Gepy Faranda" mediante ladeguamento e messa in sicurezza della pista di atletica leggera, dellimpianto di illuminazione e dei locali spogliatoi  I Stralcio. CUP:D42H17000050001</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5355</link>
-      <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5355</guid>
     </item>
   </channel>
 </rss>
