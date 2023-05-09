@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Esecuzione Deliberazione di Giunta Municipale n 82 del 07 Aprile 2023 Liquidazione somme per rimborso spese di giudizio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11316</link>
+      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11316</guid>
+    </item>
+    <item>
       <title>Bandi - Avvisi Di Gara</title>
       <description>Bando di Gara procedura aperta per l'individuazione del soggetto attuatore per la gestione del progetto SAI-Sistema di protezione per i titolari di protezione internazionale e per i minori stranieri non accompagnati-Prog 714-Pr-3 per n. 49 posti categoria ordinari autorizzato alla prosecuzione per il periodo 01/01/2023 al 31/12/2025 con decreto del Ministero dell'Interno prot. 37847 del 13/10/2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11313</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11285</link>
       <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11285</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Procedimento relativo al rilascio di autorizzazione per esercizio di commercio al dettaglio in media struttura di vendita, non alimentare, nel comune di Barcellona Pozzo di Gotto. Ditta LA SFAM GRAN BAZAR di Lo Presti Salvatore &amp; C sas  Determinazion</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11284</link>
-      <pubDate>Thu, 04 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11284</guid>
     </item>
   </channel>
 </rss>
