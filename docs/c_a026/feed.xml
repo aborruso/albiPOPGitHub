@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/20500</title>
+      <description>PERMESSO DI COSTRUIRE N. 1943 DEL 28/04/2023</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449776</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449776</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/100</title>
       <description>DELIMITAZIONE ZONE NON IDONEE ALLA BALNEAZIONE – STAGIONE 2023 DAL 01/05/2023 AL 31/10/2023- DECRETI DEL DIRIGENTE GENERALE DIPARTIMENTO ATTIVITA' SANITARIE ED OSSEVATORIO EPIDEMIOLOGICO N° 339 DEL 04/04/2023</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449728</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449583</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449583</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/792</title>
-      <description>CONCESSIONE DI ML. 2,95 PER PASSO CARRABILE, SITO IN ACI CASTELLO IN VIA TRIESTE N.46, CAT. VIARIA 1^, CONTRASSEGNATO CON IL N. 784/2023</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449581</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/449581</guid>
     </item>
   </channel>
 </rss>
