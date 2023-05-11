@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/05/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5426</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5426</guid>
+    </item>
+    <item>
+      <title>11/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Trasferimenti corrispettivi CIE al Ministero - Mese di aprile 2023.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5425</link>
+      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5425</guid>
+    </item>
+    <item>
       <title>10/05/2023 | Determinazioni Dirigenziali</title>
       <description>Elezioni amministrative Regione Sicilia del 28 e 29 maggio 2023 - Autorizzazione ad effettuare lavoro straordinario ai dipendenti dell'Ufficio Commissione Elettorale Circondariale.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5424</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5392</link>
       <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5392</guid>
-    </item>
-    <item>
-      <title>05/05/2023 | Ordinanze Sindacali</title>
-      <description>Divieto di balneazione nel tratto di mare antistante il sovrappieno del cunettone Acquafico.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5391</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5391</guid>
-    </item>
-    <item>
-      <title>05/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione alla Soc. Coop. Progetto Lavoro N.C. "Germoglio" per il ricovero del minore M. F. A. per il mese di aprile 2023 - CIG: ZDB3A65D51.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5390</link>
-      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5390</guid>
     </item>
   </channel>
 </rss>
