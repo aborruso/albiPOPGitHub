@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/31</title>
+      <description>ORDINANZA SINDACALE N. 31 DEL 12/05/2023 AVENTE AD OGGETTO: "PREVENZIONE INCENDI STAGIONE ESTIVA 2023"</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450518</link>
+      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450518</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/106</title>
       <description>ISTITUZIONE DI UNO STALLO DI SOSTA RISERVATO AI VEICOLI A SERVIZIO DI PERSONE DIVERSAMENTE ABILI IN VIA DE FELICE TRA IL CIVICO N. 14 ED IL CIVICO N. 16.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450508</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450388</link>
       <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450388</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/830</title>
-      <description>LIQUIDAZIONE FATTURA ALLA DITTA AZIENDA METROPOLITANA TRASPORTI E SOSTA PER IL PERIODO GENNAIO-MARZO 2023.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450386</link>
-      <pubDate>Fri, 12 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/450386</guid>
     </item>
   </channel>
 </rss>
