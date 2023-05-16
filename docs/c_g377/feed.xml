@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/05/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5453</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5453</guid>
+    </item>
+    <item>
+      <title>16/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Lavori di riqualificazione della Piazza "Galileo Galilei" in Località Marina di Patti - Liquidazione anticipazione in favore della Ditta Affidataria - CUP: C42F22001020004 - Impresa: "DISA GROUP s.r.l.".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</link>
+      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</guid>
+    </item>
+    <item>
       <title>15/05/2023 | Deliberazioni Di Giunta</title>
       <description>Art. 5 della L. R. N. 13/2021 e s.m.i. - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del Decreto di Finanziamento relativo al miglioramento dell'esistente approdo per pescherecci ubicato in Patti Marina.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5451</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5418</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5418</guid>
-    </item>
-    <item>
-      <title>09/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA IN CONTO A FAVORE DELLA COOPERATIVA SOCIALE "SANTA MARIA DELLA STRADA" IN ESECUZIONE DELLA DELIBERA DI C. C. N. 200/2023 - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5417</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5417</guid>
-    </item>
-    <item>
-      <title>09/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Ricovero del minore A. D su disposizione dell'Autorità Giudiziaria presso la Coop. Sociale Mirafiori "Casa Artemisia" - Liquidazione mesi di gennaio e febbraio 2023 - CIG: Z373A65E37.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5416</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5416</guid>
     </item>
   </channel>
 </rss>
