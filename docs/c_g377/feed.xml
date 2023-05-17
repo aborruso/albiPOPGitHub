@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/05/2023 | Determinazioni Dirigenziali</title>
+      <description>Concessione N. 6 giorni di congedo straordinario ex art. 42, c. 5, L. N. 151/2001 e s.m.i. alla dipendente omissis.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5459</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5459</guid>
+    </item>
+    <item>
       <title>17/05/2023 | Ordinanze Sindacali</title>
       <description>SMALTIMENTO CARCASSA CANINA.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5458</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5424</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5424</guid>
-    </item>
-    <item>
-      <title>10/05/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura Lungomare C. F. Zuccarello per Giornata dell'Arte: 13/05/23.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5423</link>
-      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5423</guid>
     </item>
   </channel>
 </rss>
