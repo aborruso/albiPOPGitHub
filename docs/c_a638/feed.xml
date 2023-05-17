@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Opposizione avverso atti di pignoramento c/o terzi sentenza n 1379 del 2022 emessa dal Tribunale di Barcellona PG nel giudizio RG n567 del 2010 Nomina Legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11449</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11449</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Atto di liquidazione per indennità di reperibilità ai dipendenti dell'Ufficio di Stato Civile anno 2022.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11448</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11415</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11415</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione di spesa per l'esecuzione dell' intervento urgente ed indifferibile per la realizzazione di un nuovo pozzo trivellato e opere accessorie da eseguirsi nella zona " S.Andrea";</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11414</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11414</guid>
     </item>
   </channel>
 </rss>
