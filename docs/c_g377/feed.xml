@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/05/2023 | Ordinanze Sindacali</title>
+      <description>SMALTIMENTO CARCASSA CANINA.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5458</link>
+      <pubDate>Wed, 17 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5458</guid>
+    </item>
+    <item>
       <title>16/05/2023 | Determinazioni Dirigenziali</title>
       <description>Lavori di smonto e ricollocazione guard-rail per apertura temporanea varco di accesso dal Parcheggio denominato "Locanda 1" alla SS113, in occasione del raduno delle Comunità dello Sri Lanka che si terrà a Tindari in data 14/05/2023 - Determina a contrarre - Affidamento ed impegno spesa - Ditta: EDILSEGNALETICA S.R.L. - CIG: Z6C3B18FB4.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5457</link>
@@ -39,7 +46,7 @@
     </item>
     <item>
       <title>16/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>PRENOTAZIONE PER REVISIONE ANNUALE SCUOLABUS DI PROPRIETA' COMUNALE - DITTA: LO VERCIO BASILIO - LIQUIDAZIONE FATTURA - CIG: Z55389BF6A.</description>
+      <description>PRENOTAZIONE PER REVISIONE ANNUALE SCUOLABUS COMUNALI - DITTA: LO VERCIO BASILIO - LIQUIDAZIONE FATTURA - CIG: Z55389BF6A.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5454</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5454</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5423</link>
       <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5423</guid>
-    </item>
-    <item>
-      <title>09/05/2023 | Determinazioni Dirigenziali</title>
-      <description>Borse di studio per finanziare viaggi all'estero, riservati a studenti meritevoli residenti a Patti, che frequentano le Scuole Secondarie di II° grado nell'Anno Scolastico 2022/2023 - Bando e istanza.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5422</link>
-      <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5422</guid>
     </item>
   </channel>
 </rss>
