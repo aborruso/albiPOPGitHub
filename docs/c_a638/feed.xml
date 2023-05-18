@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale per il giorno 08.06.2023 in Piazza Duomo dalle ore 07:30 alle ore 11:30 e in via Umberto I dalle ore 10:30 a fine lavori.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11452</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11452</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale in via Ugo Foscolo mediante istituzione di divieto di  transito per tutti i veicoli con massa superiore a 3,5 t e senso unico alternato.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11451</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11451</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazione alla circolazione stradale in via Sant'Andrea da giorno 24 maggio 2023 al 26 maggio 2023 dalla ore 07:30 e comunque fino a fine lavori:</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11450</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11450</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Opposizione avverso atti di pignoramento c/o terzi sentenza n 1379 del 2022 emessa dal Tribunale di Barcellona PG nel giudizio RG n567 del 2010 Nomina Legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11449</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11418</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11418</guid>
-    </item>
-    <item>
-      <title>servire per l assistenza ad un parente ai sensi del 5 comma dell art 42  del D leg vo 151"</title>
-      <description>"Istanza della dipendente L M M matr  959  per la fruizione di giorni  05 di congedo straordinario retribuito decorrenti dal 22 Maggio 2023 al 26 Maggio 2023 da </description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11417</link>
-      <pubDate>16/05/2023	Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11417</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura prot. Num. 19931 del 14/04/2023 , alla ditta Zeta Ufficio di Maria Grazia Zagone per la fornitura di poltrone direzionali. C.I.G. Z503ABE2F2</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11416</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11416</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di approvazione contabilità finale, certificato di regolare esecuzione e liquidazione di spesa per i lavori di sostituzione contatori fermi o guasti, pulitura contatori sporchi ed illeggibili, distacco contatori morosi e disdette contat</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11415</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11415</guid>
     </item>
   </channel>
 </rss>
