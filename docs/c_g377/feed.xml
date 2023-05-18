@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/05/2023 | Determinazioni Dirigenziali</title>
+      <description>LAVORI DI MANUTENZIONE DELLA VEGETAZIONE IN ALVEO AL FINE DI GARANTIRE L'ECOSISTEMA DEI CORSI D'ACQUA E L'EFFICIENZA IDRAULICA FINALIZZATA ALLA PREVENZIONE DEI RISCHI IDROGEOLOGICI DEI TORRENTI TIMETO E CEDRO - RIAPPROVAZIONE PROGETTO DI FATTIBILITA' TECNICA ED ECONOMICA - CUP: C47G23000020002.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5464</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5464</guid>
+    </item>
+    <item>
+      <title>18/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>FORNITURA DI MAPPA CARTACEA E DIGITALE, PROGETTAZIONE E REALIZZAZIONE CARTELLONISTICA CON RELATIVI SERVIZI DIGITALI PER IL TRACCIAMENTO E LA SEGNALAZIONE DI UN ITINERARIO ATTRAVERSO I LUOGHI E I MONUMENTI DEL CENTRO STORICO DI PATTI CON FORNITURA DI N. 22 PANNELLI INFORMATICI CON MAPPE INFORMATIVE - LIQUIDAZIONE FATTURA N. 16/2022 - ARCH. LUCA DAVIDE - CIG: Z952D50799.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5463</link>
+      <pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5463</guid>
+    </item>
+    <item>
       <title>18/05/2023 | Pubblicazioni Di Matrimonio</title>
       <description>PUBBLICAZIONE DI MATRIMONIO.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5462</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5429</link>
       <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5429</guid>
-    </item>
-    <item>
-      <title>11/05/2023 | Avvisi Deposito Atti</title>
-      <description>AVVISO DEPOSITO ATTI.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5428</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5428</guid>
-    </item>
-    <item>
-      <title>11/05/2023 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5427</link>
-      <pubDate>Thu, 11 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5427</guid>
     </item>
   </channel>
 </rss>
