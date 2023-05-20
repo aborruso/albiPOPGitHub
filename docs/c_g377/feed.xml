@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/05/2023 | Ordinanze Sindacali</title>
+      <description>Ordinanza per l'attivazione del Centro Operativo Comunale (C.O.C.)</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5486</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5486</guid>
+    </item>
+    <item>
       <title>19/05/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>SERVIZIO DI NOLEGGIO N°8 MACCHINE MULTIFUNZIONE DIGITALI PER GLI UFFICI COMUNALI PER 36 MESI. PROROGA TECNICA IMPRESA: RICOH ITALIA s.r.l. LIQUIDAZIONE FATTURA nr. 239217958/2023</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5485</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</guid>
-    </item>
-    <item>
-      <title>15/05/2023 | Deliberazioni Di Giunta</title>
-      <description>Art. 5 della L. R. N. 13/2021 e s.m.i. - Variazione al Bilancio in corso di Esercizio Provvisorio necessaria per la programmazione del Decreto di Finanziamento relativo al miglioramento dell'esistente approdo per pescherecci ubicato in Patti Marina.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5451</link>
-      <pubDate>Mon, 15 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5451</guid>
     </item>
   </channel>
 </rss>
