@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio "In Cammino" Barcellona P.G. per il mese di Marzo 2023. CIG Z5C399BAD6</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5488</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5488</guid>
+    </item>
+    <item>
+      <title>22/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio "In Cammino" Barcellona P.G. periodo Marzo - Aprile 2023. CIG Z39399BA3A</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5487</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5487</guid>
+    </item>
+    <item>
       <title>20/05/2023 | Ordinanze Sindacali</title>
       <description>Ordinanza per l'attivazione del Centro Operativo Comunale (C.O.C.).</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5486</link>
@@ -246,20 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5454</link>
       <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5454</guid>
-    </item>
-    <item>
-      <title>16/05/2023 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5453</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5453</guid>
-    </item>
-    <item>
-      <title>16/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Lavori di riqualificazione della Piazza "Galileo Galilei" in Località Marina di Patti - Liquidazione anticipazione in favore della Ditta Affidataria - CUP: C42F22001020004 - Impresa: "DISA GROUP s.r.l.".</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</link>
-      <pubDate>Tue, 16 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5452</guid>
     </item>
   </channel>
 </rss>
