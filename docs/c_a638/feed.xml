@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza unico nominativo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11572</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11572</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11571</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11571</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso al pubblico - Procedimento di valutazione ambientale strategica del piano particolareggiato attuativo (PPA) per la realizzazione di un nuovo sito produttivo in località "Camicia" nel Comune di Barcellona Pozzo di Gotto (ME)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11570</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11545</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11545</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>CONTRIBUTO DI  €. 2.000,00 - ART.5 CONVENZIONE SOTTOSCRITTA CON IL COMUNE DI  MILAZZO PER ASSUNZIONE DI N.1 DIRIGENTE CONTABILE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11544</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11544</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE  COMPENSO COMPONENTE NUCLEO DI VALUTAZIONE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11543</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11543</guid>
     </item>
   </channel>
 </rss>
