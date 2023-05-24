@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/05/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5515</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5515</guid>
+    </item>
+    <item>
+      <title>24/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Servizio trasporto urbano alunni - Ditta: AST S.p.A. - Liquidazione fattura.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5514</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5514</guid>
+    </item>
+    <item>
+      <title>24/05/2023 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5513</link>
+      <pubDate>Wed, 24 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5513</guid>
+    </item>
+    <item>
       <title>23/05/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE FATT. N. FE/2023/0307 DEL 31/03/2023 - SERVIZIO DI CONFERIMENTO RIFIUTI BIODEGRADABILI DI CUCINE E MENSE CER 20.01.08 PRESSO IMPIANTO AUTORIZZATO - DITTA: PI.ECO SRL - CIG: 9604947CFF.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5512</link>
@@ -239,27 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5479</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5479</guid>
-    </item>
-    <item>
-      <title>19/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI NOLEGGIO N°8 MACCHINE MULTIFUNZIONE DIGITALI PER GLI UFFICI COMUNALI PER 36 MESI - PROROGA TECNICA - IMPRESA: RICOH ITALIA s.r.l. - LIQUIDAZIONE FATTURA N.  229341413/2022.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5478</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5478</guid>
-    </item>
-    <item>
-      <title>19/05/2023 | Ordinanze Dirigenziali</title>
-      <description>Attivazione "stalli rosa" sul Territorio Comunale.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5477</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5477</guid>
-    </item>
-    <item>
-      <title>19/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>FESTEGGIAMENTI IN ONORE DI S. FEBRONIA - PARROCCHIA S. FEBRONIA CASE NUOVE RUSSO - CONTRIBUTO - LIQUIDAZIONE.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5476</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5476</guid>
     </item>
   </channel>
 </rss>
