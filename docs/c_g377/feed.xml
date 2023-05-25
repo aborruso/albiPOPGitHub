@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/05/2023 | Determinazioni Dirigenziali</title>
+      <description>Interventi urgenti diretti a mitigare le infiltrazioni di acqua nel piano seminterrato del Palazzo di Giustizia di Patti, mediante la risagomatura dell'alveo del Torrente Montagnareale. Determina a contrarre, affidamento ed impegno spesa. DITTA: EDIL</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5521</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5521</guid>
+    </item>
+    <item>
       <title>25/05/2023 | Pubblicazioni Di Matrimonio</title>
       <description>PUBBLICAZIONE DI MATRIMONIO</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5520</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5485</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5485</guid>
-    </item>
-    <item>
-      <title>19/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>FESTEGGIAMENTI IN ONORE DELLA MADONNA DEL ROSARIO - PARROCCHIA MARIA SS DEL ROSARIO - FRAZIONE SCALA - LIQUIDAZIONE CONTRIBUTO.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5484</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5484</guid>
     </item>
   </channel>
 </rss>
