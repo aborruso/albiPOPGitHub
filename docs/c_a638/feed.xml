@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento diretto, mediante indagine esplorativa Fuori MEPA, per il servizio di trasporto in ambulanza.                                      CIG: Z7C3B1B946</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11576</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11576</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>INTEGRAZIONE ALLA DETERMINAZIONE DIRIGENZIALE REG. GEN. N. 3077 DEL 29.12.2022, AVENTE PER OGGETTO "ADESIONE  ALL'INIZIATIVA, A SEGUITO DI ACCORDO QUADRO CONSIP SPA VEICOLI  IN  NOLEGGIO 2 - LOTTO 5  IMPEGNO SPESA PER NOLEGGIO AUTOVETTURE A LUNGO TER</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11575</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11575</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Linee guida per la stipula di convenzioni di cui all'art.85 delle Norme Tecniche di Attuazione del vigente P.R.G. ed approvazione schema di convenzione.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11573</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11548</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11548</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Provvedimento di liquidazione di spesa per pagamento competenze RUP Collaboratori e Personale di supporto. Lavori di manutenzione straordinaria per il rifacimento di marciapiedi di alcune vie cittadine del Comune di Barcellona Pozzo di Gotto.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11547</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11547</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Servizio assistenza tecnica service audio, luci e videoproiezione per spettacoli e manifestazioni organizzati dal Comune: 26 Dicembre 2022  08 Marzo 2023  14 Marzo 2023 presso il Teatro Mandanici. CIG Z7C3A995C7</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11546</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11546</guid>
     </item>
   </channel>
 </rss>
