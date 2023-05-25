@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/05/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5520</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5520</guid>
+    </item>
+    <item>
       <title>25/05/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fattura n.2/P, del 18.04.23 - Linea Verde s.n.c.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5519</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5484</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5484</guid>
-    </item>
-    <item>
-      <title>19/05/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>FORNITURA CARBURANTE E LUBRIFICANTI PER GLI AUTOMEZZI DI PROPRIETÀ COMUNALE - LIQUIDAZIONE FATTURA  N.17/B/2023 - DITTA: CICERO FUEL &amp; FOOD S.R.L.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5483</link>
-      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5483</guid>
     </item>
   </channel>
 </rss>
