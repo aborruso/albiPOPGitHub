@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Richiesta utilizzo graduatorie vigenti per assunzione di personale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11584</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11584</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n° 1 atto in busta chiusa a carico di Perdichizzi Sebastiana ai sensi dell'art.60 D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11583</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11583</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Istruzione per adulti (EX CORSI SERALI) - A.S.2023/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11582</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11582</guid>
+    </item>
+    <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Avviso  pubblico di manifestazione  di interesse</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11581</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11581</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11580</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11553</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11553</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Richiesta  autorizzazione per la realizzazione di un tratto di linea BT in cavo per modifica fornitura   sul suolo pubblico comunale. Utente: Enel - distribuzione  Via G. Garibaldi, Via Buon riposo e Via Parini .</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11552</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11552</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LAVORI DI COSTRUZIONE DI UN CANILE MUNICIPALE DA SERVIRE PER RIFUGIO DI CANI RANDAGI NEL COMUNE DI BARCELLONA P.G.- PROCEDURA DI SELEZIONE DI UN OPERATORE ECONOMICO A CUI AFFIDARE L'INCARICO PROFESSIONALE RELATIVO ALLA PROGETTAZIONE ESECUTIVA, DIREZI</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11551</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11551</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Società Cooperativa sociale onlus "In Cammino" per un utente - mesi da gennaio a marzo 2023  CIG: Z863AE76A6</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11550</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11550</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura da gennaio a marzo 2023 per un utente Società Cooperativa Sociale onlus In Cammino  CIG: Z4D3AE79EA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11549</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11549</guid>
     </item>
   </channel>
 </rss>
