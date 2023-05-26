@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/05/2023 | Avvisi Vari</title>
+      <description>AVVISO DI PRESENTAZIONE RICHIESTA DI C.D.M. AI SENSI DELL'ART. 36 DEL C.N. DI SPECCHIO ACQUEO PER LA REALIZZAZIONE DI UN CORRIDOIO DI LANCIO AD USO ALAGGIO E VARO, IN LOCALITA' PLAYA DEL COMUNE DI PATTI - DITTA: CANTIERE NAUTICO MARINELLO S.R.L.".</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5535</link>
+      <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5535</guid>
+    </item>
+    <item>
       <title>26/05/2023 | Deliberazioni Di Giunta</title>
-      <description>APPROVAZIONE SCHEMA DI CONVENZIONE CON IL COMUNE DI CAPO D'ORLANDO PER UTILIZZO  GRADUATORIA DI CONCORSO PUBBLICO PER L'ASSUNZIONE DI ASSISTENTE SOCIALE CAT. D  POSIZIONE ECONOMICA D1 CCNL FUNZIONI LOCALI 36 ORE</description>
+      <description>APPROVAZIONE SCHEMA DI CONVENZIONE CON IL COMUNE DI CAPO D'ORLANDO PER UTILIZZO GRADUATORIA DI CONCORSO PUBBLICO PER L'ASSUNZIONE DI ASSISTENTE SOCIALE CAT. D  POSIZIONE ECONOMICA D1 CCNL FUNZIONI LOCALI 36 ORE.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5534</link>
       <pubDate>Fri, 26 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5534</guid>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5499</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5499</guid>
-    </item>
-    <item>
-      <title>23/05/2023 | Determinazioni Dirigenziali</title>
-      <description>RIMBORSO SPESE VIAGGI ALL'ING. SCAFFIDI TINDARO PINO - IMPEGNO SPESA.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5498</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5498</guid>
     </item>
   </channel>
 </rss>
