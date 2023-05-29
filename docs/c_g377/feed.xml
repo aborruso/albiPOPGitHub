@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/05/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>INIZIATIVE TURISTICO/CULTURALI - ANNO 2017 - LIQUIDAZIONE CONTRIBUTO "ASS.NE PRO LOCO PATTI" - EVENTI POLIXENE.</description>
+      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5543</link>
+      <pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5543</guid>
+    </item>
+    <item>
       <title>29/05/2023 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5542</link>
@@ -253,13 +260,6 @@
       <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5509</link>
       <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
       <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5509</guid>
-    </item>
-    <item>
-      <title>23/05/2023 | Determinazioni Dirigenziali</title>
-      <description>Avviso Pubblico Prot. N. 48047 del 2 dicembre 2021 - Missione 4 - Istruzione e Ricerca - Componente 1 - Potenziamento dell'offerta dei servizi di istruzione: dagli Asili Nido alle Università - Investimento 1.1: "Piano per Asili Nido e Scuole dell'Infanzia.</description>
-      <link>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5508</link>
-      <pubDate>Tue, 23 May 2023 00:00:00 +0000</pubDate>
-      <guid>http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=5508</guid>
     </item>
   </channel>
 </rss>
