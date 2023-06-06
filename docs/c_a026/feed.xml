@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/29</title>
+      <description>PROGRAMMA TRIENNALE LAVORI PUBBLICI 2023-2025</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453033</link>
+      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453033</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/968</title>
       <description>RIPROPOSTA IMPEGNO E LIQUIDAZIONE FATTURA POSTE ITALIANE SPA PER SPEDIZIONE ATTI GIUDIZIARI CONSUMI GENNAIO 2023 - CIG: Z0E3553DA9</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453001</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/452918</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/452918</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/958</title>
-      <description>CONCESSIONE DI SUOLO PUBBLICO PER PASSO CARRABILE DI ML. 2,57 - SITO: VIA DEL DAZIO N. 4 CAT. VIARIA N. 793/2023</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/452916</link>
-      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/452916</guid>
     </item>
   </channel>
 </rss>
