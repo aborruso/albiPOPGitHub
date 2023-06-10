@@ -55,7 +55,7 @@ code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:8
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
 
-  rm "$folder"/rawdata/albi.json
+  rm -f "$folder"/rawdata/albi.json
   for i in {0..4}; do
     curl -kL 'https://portale5.halleysud.it/patti/mc/mc_p_ricerca.php?multiente=patti&pag='"$i"'' \
       -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
