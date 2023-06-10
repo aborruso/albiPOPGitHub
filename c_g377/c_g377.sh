@@ -7,6 +7,9 @@
 ### requisiti ###
 
 set -x
+set -e
+set -u
+set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -44,7 +47,7 @@ mkdir -p "$folder"/../docs/"$iPA"
 output="$folder"/../docs/"$iPA"
 
 # URL di test risposta sito albo
-URLBase="http://195.231.4.82/patti/mc/mc_p_ricerca.php?multiente=patti&pag=0"
+URLBase="https://portale5.halleysud.it/patti/mc/mc_p_ricerca.php?multiente=patti&pag=0"
 
 # estrai codici di risposta HTTP dell'albo
 code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
@@ -54,21 +57,21 @@ if [ $code -eq 200 ]; then
 
   rm "$folder"/rawdata/albi.json
   for i in {0..4}; do
-    curl -kL 'http://195.231.4.82/patti/mc/mc_p_ricerca.php?multiente=patti&pag='"$i"'' \
+    curl -kL 'https://portale5.halleysud.it/patti/mc/mc_p_ricerca.php?multiente=patti&pag='"$i"'' \
       -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
       -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
       -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
       -H 'Upgrade-Insecure-Requests: 1' \
       -H 'Pragma: no-cache' \
-      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq -c '.html.body.tr[]|{id:.["@data-id"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}' >>"$folder"/rawdata/albi.json
+      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' | xq -cr '.html.body.tr[].td[6].div|@csv' | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,9,inizio,10,fine >>"$folder"/rawdata/albi.json
   done
-html.body.tr[0]["@data-id"]
+
   # converti lista in TSV
   jq <"$folder"/rawdata/albi.json | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then put '$des=gsub($des,"<","&lt")' \
     then put '$des=gsub($des,">","&gt;")' \
     then put '$des=gsub($des,"&","&amp;")' \
     then put '$des=gsub($des,"'\''","&apos;")' \
-    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine then sort -nr id | tail -n +2 >"$folder"/rawdata/albi.tsv
+    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine,5,6,7,8 then sort -nr id then reorder -f id,mittente,des,tipo,inizio,rssDate | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -92,7 +95,7 @@ html.body.tr[0]["@data-id"]
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
   while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio rssData; do
-    URL="http://195.231.4.82/patti/mc/mc_p_dettaglio.php?id_pubbl=$numero"
+    URL="https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
     titolo="$dataInizio | $tipo"
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
