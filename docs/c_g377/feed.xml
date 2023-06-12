@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/06/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di fermata in via S. Antonino, dal civ. 42 al civ. 52. Divieto di sosta temporaneo in via Fontanelle per pulizia verde pubblico: 14 e 15.06.23.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5640</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5640</guid>
+    </item>
+    <item>
       <title>09/06/2023 | Determinazioni Dirigenziali</title>
       <description>Prosecuzione ricovero di un disabile psichico presso la Comunità Alloggio gestita dalla Società Cooperativa Sociale Onlus "In Cammino" per mesi nove - CIG: Z9E3B73C82.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5639</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5606</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5606</guid>
-    </item>
-    <item>
-      <title>06/06/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI URGENTI PER RIPARAZIONE ELETTROPOMPA POZZO LUNARDO E CONDOTTE IDRICHE COMUNALI - LIQUIDAZIONE FATTURA FATTPA 6_23 - IMPRESA: RIZZO FRANCESCO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5605</link>
-      <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5605</guid>
     </item>
   </channel>
 </rss>
