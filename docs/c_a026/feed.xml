@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/48</title>
+      <description>ORARIO ESTIVO 2023 PER IL PERIODO DAL 03/07/2023 AL 04/09/2023</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453671</link>
+      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453671</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/25330</title>
       <description>PIANO NAZIONALE DI RIPRESA E RESILIENZA (PNRR – M5C2) - INVESTIMENTO 1.2 “PERCORSI DI AUTONOMIA PER PERSONE CON DISABILITÀ” - AVVISO 1/2022 NEXT GENERATION EU - AVVISO PUBBLICO E MODELLO DI DOMANDA</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453543</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453334</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453334</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/133</title>
-      <description>MANCATO PAGAMENTO SANZIONE AMMINISTRATIVA O.A 2752, VIA ACI CASTELLO N. 85.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453315</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/453315</guid>
     </item>
   </channel>
 </rss>
