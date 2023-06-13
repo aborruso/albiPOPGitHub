@@ -61,7 +61,7 @@ if [ $code -eq 200 ]; then
       -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
       -H 'Upgrade-Insecure-Requests: 1' \
       -H 'Pragma: no-cache' \
-      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo-pretorio"]//tr[@data-id]' | xq -c '.html.body.tr[]|{id:.["@data-id"],mittente:.td[1]["#text"],des:.td[2].a.span,tipo:.td[3]["#text"],inizio:.td[4]["#text"],fine:.td[5]?["#text"]?}' >>"$folder"/rawdata/albi.json
+      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' | xq -cr '.html.body.tr[].td[6]|[."@data-id",.div[]]|@csv' | mlr --csv -N cut -x -f 2 | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,9,inizio,10,fine >>"$folder"/rawdata/albi.json
   done
 html.body.tr[0]["@data-id"]
   # converti lista in TSV
@@ -69,7 +69,7 @@ html.body.tr[0]["@data-id"]
     then put '$des=gsub($des,">","&gt;")' \
     then put '$des=gsub($des,"&","&amp;")' \
     then put '$des=gsub($des,"'\''","&apos;")' \
-    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine then sort -nr id | tail -n +2 >"$folder"/rawdata/albi.tsv
+    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine,5,6,7,8 then sort -nr id then reorder -f id,mittente,des,tipo,inizio,rssDate | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
