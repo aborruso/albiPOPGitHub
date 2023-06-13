@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Divieto coltivazione e commercializzazione di fave e piselli in Contrada Acquacalda n°XXXXX</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11818</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11818</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Recupero coatto delle somme relative alle sentenze emesse dalla Corte di Appello di Messina e dal Tribunale di Barcellona PG nei giudizi vertenti tra la Coop.Edilizia Amici e  Comune di Barcellona PG Nomina legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11817</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11791</link>
       <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11791</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto a carico di Sciacca Alessandro art.143 cpc</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11790</link>
-      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11790</guid>
     </item>
   </channel>
 </rss>
