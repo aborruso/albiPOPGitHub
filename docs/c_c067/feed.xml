@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 90: GIORNO 17 GIUGNO 2023 DIVIETO DI SOSTA CON RIMOZIONE FORZATA E DI TRANSITO ANCHE AUTORIZZATI IN VIA SANT'ANNA E DALLE ORE 16:00 IN VIA UMBERTO I, P.ZZA MARGHERITA E VIA ALDUINO VENTIMIGLIA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24634</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24634</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 91: REVOCA DELL'ORINANZA N. 81/2022...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24633</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24633</guid>
+    </item>
+    <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO - MESE DI MAGGIO 2023 - RISCONTRO NEGATIV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24632</link>
+      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24632</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Affidamento alla Ditta Municipia S.p.A. del servizio di recupero della banca dati dei tributi ai fini della riscossione coattiva periodo 2015-2020 compreso erogazione del SaaS Tribox fino al 31/12/2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24631</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24607</link>
       <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24607</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>RIDUZIONE IMPEGNO DI SPESA DETERMINA N. 108 DEL 14/09/2022...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24606</link>
-      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24606</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>LIQUIDAZIONE IN FAVORE DELLA  DOTT.SSA  BARRECA PER INCARICO PROFESSIONALE DI "RESPONSABILE COMUNICAZIONE E GRAFICA" RELATIVA AL MESE DI GENNAIO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24605</link>
-      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24605</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione onorario organismo valutazione anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24604</link>
-      <pubDate>Mon, 12 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24604</guid>
     </item>
   </channel>
 </rss>
