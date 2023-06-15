@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/06/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5678</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5678</guid>
+    </item>
+    <item>
       <title>15/06/2023 | Deliberazioni Del Comitato Dei Sindaci</title>
       <description>APPROVAZIONE PAO N. 1 - PIANO DI ZONA 2022/2024 - FNPS 2021/2023 E BILANCIO DELL'AOD N. 1.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5677</link>
@@ -32,7 +39,7 @@
     </item>
     <item>
       <title>15/06/2023 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. LUCIANA CARUSO. APPELLOSENTENZA N.186/2022 GIUDICE DI PACE DI PATTI. CADILI GIUSEPPE. IMPEGNO.</description>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. CARUSO LUCIANA - APPELLO SENTENZA N.186/2022 - GIUDICE DI PACE DI PATTI - SIG. CADILI GIUSEPPE - IMPEGNO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5675</link>
       <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5675</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5644</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5644</guid>
-    </item>
-    <item>
-      <title>13/06/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>FORNITURA DI VERNICE AIRLITE PER LA REALIZZAZIONE DI MURALES SULLE CASETTE DI PROPRIETA' COMUNALE PRESENTI NEL PIAZZALE ALIOTO PATTI MARINA - LIQUIDAZIONE FATTURA FPA 7/22 - DITTA: AM TECHNOLOGY s.r.l.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5643</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5643</guid>
     </item>
   </channel>
 </rss>
