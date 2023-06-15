@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni in via Saia Ciraolo per il giorno 15 giugno 2023 dalle ore 16:00 alle ore 20:00.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11852</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11852</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>LIQUIDAZIONE   COMPONENTI   TARIFFARIE   UI1-UI2-UI3 E UI4 ALLA CASSA SERVIZI  ENERGETICI E AMBIENTALI- CSEA - SUL FATTURATO EMESSO  NEL 2° BIMESTRE  ANNO 2023 SERVIZIO IDRICO INTEGRATO.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11851</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11825</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11825</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>TEATRO MANDANICI. CONCESSIONE IN USO TEMPORANEO PER SPETTACOLO ADSD DOMI PRO DANCE 10.07.2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11824</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11824</guid>
     </item>
   </channel>
 </rss>
