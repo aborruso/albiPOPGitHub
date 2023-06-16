@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Ordinanza</title>
+      <description>ORDINANZA CONTINGIBILE ED URGENTE PER LA TUTELA DELL'INCOLUMITA' PUBBLICA PER MOTIVI IGIENICO-SANITARI NEI LOCALI DELLA STRUTTURA,DENOMINATA PARCO RIMEMBRANZE E DELLE AREE ANNESSE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24655</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24655</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>ORD. N. 95: AFFIDAMENTO DEFINITIVO DEL CANE DI NOME GIULIO SESSO MASCHIO DI COLORE TIGRATO AL SIGNOR ABBINATI CRISTIAN...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24654</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24627</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24627</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 2396 del 31/05/2023 della Ditta Conca d'uovo snc dei f.lli Chinnici Società agricola relativa alla fornitura di uova fresche utilizzate per il servizio di refezione scolastica nel mese di maggio 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24626</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24626</guid>
     </item>
   </channel>
 </rss>
