@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>VOLTURA PERMESSO DI COSTRUIRE N.  11/2022 del 16.06.2023...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24657</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24657</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Fornitura vernice spartitraffico, per segnaletica stradale Ditta  Fratelli  Capuana di Gentile Mario s.a.s...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24656</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24656</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORDINANZA CONTINGIBILE ED URGENTE PER LA TUTELA DELL'INCOLUMITA' PUBBLICA PER MOTIVI IGIENICO-SANITARI NEI LOCALI DELLA STRUTTURA,DENOMINATA PARCO RIMEMBRANZE E DELLE AREE ANNESSE...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24655</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24628</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24628</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 10A del 03/06/2023 della Ditta "La bottega minicash" di Scancarello Rosario relativa alla fornitura di generi alimentari - generi vari per la pulizia occorrenti per il servizio di refezione scolastica nel mese di maggio 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24627</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24627</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 2396 del 31/05/2023 della Ditta Conca d'uovo snc dei f.lli Chinnici Società agricola relativa alla fornitura di uova fresche utilizzate per il servizio di refezione scolastica nel mese di maggio 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24626</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24626</guid>
     </item>
   </channel>
 </rss>
