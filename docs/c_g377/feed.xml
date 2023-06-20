@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/06/2023 | Determinazioni Del Sindaco</title>
+      <description>Nomina Segretario titolare Segreteria convenzionata Patti-Ficarra.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5696</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5696</guid>
+    </item>
+    <item>
       <title>19/06/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>ACQUISTO CONTATORI IDROMETRICI E MATERIALE PER SIGILLATURA - DITTA: TUCCIO MARIA TERESA - CIG: Z5C3B3DB98 - LIQUIDAZIONE FATTURA N. 9/A DEL 09/06/2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5695</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5662</link>
       <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5662</guid>
-    </item>
-    <item>
-      <title>13/06/2023 | Determinazioni Dirigenziali</title>
-      <description>SERVIZI INERENTI l'ENERGIA ELETTRICA E GAS NATURALE - NOMINA RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5661</link>
-      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5661</guid>
     </item>
   </channel>
 </rss>
