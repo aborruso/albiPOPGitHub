@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza n°2 nominativi del 20/06/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11914</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11914</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi del 20/06/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11913</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11913</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>REALIZZAZIONE DEI LAVORI DI ABBATTIMENTO DELLE BARRIERE ARCHITETTONICHE NEL "GIARDINO OASI", DI PROPRIETÀ COMUNALE, SITO IN VIA ROMA A CARICO  DEL CLUB LIONS DI BARCELLONA POZZO DI GOTTO  ATTO DI INDIRIZZO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11912</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11887</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11887</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Piano di Azione e Coesione (Programma Operativo Complementare) 214/2020 -Avviso 2/2018 - DDG n. 9483 del 09/08/2018  finanziamento dei Cantieri di Lavoro in favore dei Comuni. cantiere di lavoro n 583/ME  CUP H16G18000250002 finanziato con D.D.G. n.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11886</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11886</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE DELLA   FATTURA ELETTRONICA  N.91/PA  del  30/4/2023 RELATIVA AL SERVIZIO DI  PREPARAZIONE, TRASPORTO E DISTRIBUZIONE PASTI AGLI  ALUNNI DELLE  SCUOLE  MATERNE, PRIMARIE E SECONDARIE DI PRIMO GRADO NEL MESE DI APRILE 2023.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11885</link>
-      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=11885</guid>
     </item>
   </channel>
 </rss>
