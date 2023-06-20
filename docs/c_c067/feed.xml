@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 102: GIORNO 20 GIUGNO 2023 DIVIETO DI TRANSITO PER LAVORI DI MANUTENZIONE NELL'IMMOBILE SITO IN CORTILE COLLEGIO MARIA IN CASTELBUONO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24677</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24677</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Assegnazione delle risorse previste dal Bando  linea "B". Fondo di sostegno ai comuni marginali per gli anni 2021-2023.Prima annualità. 2021. - Liquidazione quota di contributo. - CUP: H35C23001100001...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24676</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24650</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24650</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno di spesa a favore dell'Ing. Sottile Paolo in qualità di Esperto del Sindaco ai sensi dell'art. 14 della L.R. 26 agosto 1992 n.7 e L.R. n.5/2021...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24649</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24649</guid>
     </item>
   </channel>
 </rss>
