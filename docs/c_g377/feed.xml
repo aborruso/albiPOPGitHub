@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/06/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>RIVERSAMENTI CIE AL MINISTERO - QUOTA MESE DI MAGGIO 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5704</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5704</guid>
+    </item>
+    <item>
       <title>20/06/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>INTERVENTI DI PULITURA DELLE OPERE DI CONVOGLIAMENTO ACQUE DI COMPETENZA COMUNALE FINALIZZATI ALLA SALVAGUARDIA E ALLA TUTELA  AMBIENTALE - LIQUIDAZIONE FATTURA N. FPA 6/22 - DITTA: EDILMOVITER S.A.S. DI PETTINA TONINO &amp; C.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5703</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5670</link>
       <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5670</guid>
-    </item>
-    <item>
-      <title>14/06/2023 | Determinazioni Del Sindaco</title>
-      <description>INTERVENTI DI MITIGAZIONE DEL RISCHIO IDROGEOLOGICO - IMPLEMENTAZIONE PIATTAFORMA RENDIS - NUOVO RESPONSABILE UNICO DEL PROCEDIMENTO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5669</link>
-      <pubDate>Wed, 14 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5669</guid>
     </item>
   </channel>
 </rss>
