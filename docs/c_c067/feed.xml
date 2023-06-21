@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Ad Opponendum</title>
+      <description>LAVORI DI MANUTENZIONE STRAORDINARIA DELLA VIA MARIO LEVANTE: RIQUALIFICAZIONE ED ADEGUAMENTO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24683</link>
+      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24683</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>INVIO DOCUMENTAZIONE PER RACCOLTA FIRME PER PROPOSTA DI LEGGE DI INIZIATIVA POPOLARE...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24682</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24656</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24656</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORDINANZA CONTINGIBILE ED URGENTE PER LA TUTELA DELL'INCOLUMITA' PUBBLICA PER MOTIVI IGIENICO-SANITARI NEI LOCALI DELLA STRUTTURA,DENOMINATA PARCO RIMEMBRANZE E DELLE AREE ANNESSE...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24655</link>
-      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24655</guid>
     </item>
   </channel>
 </rss>
