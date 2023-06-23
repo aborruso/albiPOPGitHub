@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1113</title>
+      <description>CONCESSIONE TRENTENNALE DEL LOCULO CIMITERIALE N.174, 3^ FILA DEL COLOMBARIO "B", PER LA TUMULAZIONE DELLA SALMA DI MURABITO ROSARIA DECEDUTA IL 21.06.2023. FASCICOLO CIMITERIALE: LOC.N.174-COLOMB. "B".</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454924</link>
+      <pubDate>Fri, 23 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454924</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/27731</title>
       <description>ESAMI DI STATO 2023 ABILITANTI ALLA LIBERA PROFESIONE DI PERITO AGRARIO E DI PERITO AGRARIO LAUREATO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454915</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454850</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454850</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1104</title>
-      <description>ESTUMULAZIONE D'UFFICIO DEI RESTI MORTALI MINERALIZZATI DI PAPPALARDO MARIA DECEDUTA IL 19.12.1983, DAL LOCULO CIMITERIALE N.127, 3^ FILA DEL COLOMBARIO "C", AL LOCULO N. 141 DEL COLOMBARIO "F". FASCICOLO CIMITERIALE: LOC.N.127-COLOMB. "C"; FASCICOLO CIMITERIALE: LOC.N.141-COLOMB. "F".</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454848</link>
-      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/454848</guid>
     </item>
   </channel>
 </rss>
