@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/06/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Provvedimento di accoglimento istanza di riversamento al Comune di Monreale.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5735</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5735</guid>
+    </item>
+    <item>
       <title>26/06/2023 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5734</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5701</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5701</guid>
-    </item>
-    <item>
-      <title>20/06/2023 | Determinazioni Dirigenziali</title>
-      <description>TASSA DI REGISTRO PER I LOCALI ADIBITI A SEDE VV.FF. E SCUOLA MATERNA COMUNALE SAN GIOVANNI - ANNO 2023 - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5700</link>
-      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5700</guid>
     </item>
   </channel>
 </rss>
