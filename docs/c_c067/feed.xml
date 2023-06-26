@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 107: MISURE VOLTE AD ELIMINARE GRAVI PERICOLI CHE MINACCIANO L'INCOLUMITA' PUBBLICA E LA SICUREZZA URBANA DEI CITTADINI RESIDENTI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24723</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24723</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Presa d'atto lista beneficiari Carta Solidale Acquist...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24722</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24694</link>
       <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24694</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione compenso per incarico esperto del Sindaco relativamente agli adempimenti connessi ai finanziamenti del PNRR. periodo aprile 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24693</link>
-      <pubDate>Wed, 21 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24693</guid>
     </item>
   </channel>
 </rss>
