@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO IRR. N°12 DEL28/06/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455222</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455222</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1129</title>
       <description>PRESA D'ATTO COLLOCAMENTO IN QUIESCENZA DEL DIPENDENTE MATR. 11 DAL 1 AGOSTO 2023 – ISTRUTTORE AMMINISTRATIVO EX CAT. C POS. ECONOMICA 3.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455220</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455083</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455083</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/28083</title>
-      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 20374 DEL 23/06/2023 PRATICA N. 678/N.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455051</link>
-      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/455051</guid>
     </item>
   </channel>
 </rss>
