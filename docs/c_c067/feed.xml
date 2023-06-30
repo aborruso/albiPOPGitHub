@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Avviso</title>
+      <description>PUBBLICAZIONE RICHIESTA  MANODOPERA FORESTALE DISTRETTO 9...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24786</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24786</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
       <description>PNRR M5 C3 I111 Avviso Infrastrutture Sociali - Indicazioni relative alle variazioni progettual...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24785</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24759</link>
       <pubDate>29/06/2023	Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24759</guid>
-    </item>
-    <item>
-      <title>- - Liquidazione fattura n.  18 del 16.06.2023 a saldo -  - Impresa Cusimano Vincenzo.  C.I.G. Z023497E4..."</title>
-      <description>"Lavori di "Manutenzione straordinaria della pavimentazione stradale di Via Paradiso nel Comune di Castelbuono".</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24758</link>
-      <pubDate>29/06/2023	Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24758</guid>
     </item>
   </channel>
 </rss>
