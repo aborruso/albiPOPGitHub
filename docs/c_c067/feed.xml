@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>CONTI DELLA GESTIONE DEGLI AGENTI CONTABILI INTERNI A DENARO E CONTO DEL TESORIERE PER L'ESERCIZIO FINANZIARIO 2022 - PARIFICAZION...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24807</link>
+      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24807</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>AVVISO MANIFESTAZIONE INTERESSE SERVIZI TECNICI DI D.L., MISURE E CONTABILITA', COORD. SICUREZZA IN FASE DI ESECUZIONE E D.L. GEOLOGICA E COLLAUDO STATICO IN C.O. PER I LAVORI DI "ADEGUAMENTO STRUTTURE SCUOLA MATERNA DI VIA LAZIO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24806</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24780</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24780</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento alla ditta Fontana Eventi S.R.L. per fornitura stoviglie - manifestazione DiVino Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24779</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24779</guid>
     </item>
   </channel>
 </rss>
