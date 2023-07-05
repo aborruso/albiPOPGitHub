@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura emessa dalla Soc.Coop.Sociale Azione Sociale per il servizio di socializzazione per anziani presso i Comuni di Barcellona Pozzo di Gotto e Montalabano Elicona del Distretto Socio Sanitario 28, reso dal 01.01.2023 al 30.04.2023 CIG:7741383757</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12136</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12136</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Lavori privati nel Cimitero-Regolamento Comunale di polizia Mortuaria e di edilizia cimiteriale approvato con delibera C.C. n. 24 del 23/03/1998-Ditta Bianco Felice Via Immacolata n. 151 Barcellona P.G.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12135</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12135</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Elenco abusivismo edilizio mese di giugno 2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12134</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12107</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12107</guid>
-    </item>
-    <item>
-      <title>Concessioni Edilizie</title>
-      <description>Permesso di costruire n. 23 del 28 giugno 2023 in  ditta Punturo Francesca n.q. amministratore unico Atlantic Padel Via Nazionale Olivarella n. 32</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12106</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12106</guid>
-    </item>
-    <item>
-      <title>Verbali Risultanze Di Gara</title>
-      <description>Verbale riunione Commissione per l'attribuzione dei punteggi alle ditte per l'assegnazione dei lotti artigianali nell'area artigianale di S. Andrea</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12105</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12105</guid>
     </item>
   </channel>
 </rss>
