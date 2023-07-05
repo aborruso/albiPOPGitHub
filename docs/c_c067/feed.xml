@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO - MESE GIUGNO- RISCONTRO NEGATIV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24808</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24808</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>CONTI DELLA GESTIONE DEGLI AGENTI CONTABILI INTERNI A DENARO E CONTO DEL TESORIERE PER L'ESERCIZIO FINANZIARIO 2022 - PARIFICAZION...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24807</link>
@@ -36,13 +43,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24805</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24805</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>AVVISO ESPLORATIVO PER L'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER L' ESPLETAMENTO DEL SERVIZIO DI DIREZIONE DELL' ESECUZIONE DEL CONTRATTO RISERVATO A DIPENDENTI DELLA PUBBLICA AMMINISTRAZIONE INERENTE LA SCHEDA AIMA13D APQ MADONIE - SUITE APPLICATIVA MADONIE OPEN GOVERNEMENT IN FASE DI ATTUAZIONE NELL'AMBITO DELL'APQ SNAI MADONIE (STRATEGIA NAZIONALE AREE INTERNE)...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24804</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24804</guid>
     </item>
     <item>
       <title>Ordinanza</title>
@@ -122,13 +122,6 @@
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24793</guid>
     </item>
     <item>
-      <title>Avviso</title>
-      <description>PUBBLICAZIONE RICHIESTA MANODOPERA FORESTALE DISTR N....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24792</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24792</guid>
-    </item>
-    <item>
       <title>Determina</title>
       <description>Lavori di manutenzione straordinaria delle strade extraurbane asfaltate nel Comune di Castelbuono per l'anno 2023  - Affidamento smaltimento e conferimento materiali di rifiuto presso idoneo impianto -   alla ditta Siciliana Lambertini Edilsistemi s...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24791</link>
@@ -165,52 +158,10 @@
     </item>
     <item>
       <title>Avviso</title>
-      <description>PUBBLICAZIONE RICHIESTA  MANODOPERA FORESTALE DISTRETTO 9...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24786</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24786</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
       <description>PNRR M5 C3 I111 Avviso Infrastrutture Sociali - Indicazioni relative alle variazioni progettual...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24785</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24785</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento alla ditta DL Group soc.coop,  per il servizio di amplificazione audio,  luci e video proiezioni per la realizzazione degli spettacoli inserite nel programma Castelbuono Estate 2023 e Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24784</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24784</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impgno in favore della ditta Tipografia Madonie di Carollo Roberta e Daniele S.n.c. per la fornitura di materiale divulgativo - Castelnuono DiVino Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24783</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24783</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno in favore della ditta Freemen SRL per gli  spettacoli che si svolgeranno dal 30 giugno al 2 luglio durante la manifestazione "Divino Festival Castelbuono 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24782</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24782</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno in favore dell'Associazione Baz'Art Sicilia per collaborazione manifestazione Divino Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24781</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24781</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LAVORI DI RIQUALIFICAZIONE DEL PATRIMONIO CULTURALE E NATURALE - "MANUTENZIONE ED ADEGUAMENTO IMPIANTI IDRICO-SANITARI DEL CASTELLO COMUNALE" POR SICILIA 2014-2020 SOTTOMISURA 7.2 CUP: H37H17000920006. APPROVAZIONE ATTI DI CONTABILITA' FINALE E CERT...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24780</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24780</guid>
     </item>
   </channel>
 </rss>
