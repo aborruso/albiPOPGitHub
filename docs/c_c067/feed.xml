@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE AL BANCO DI CREDITO COOPERATIVO SAN GIUSEPPE DELLE MADONIE QUALE COMPENSO SVOLTO PER IL SERVIZIO DI TESORERIA COMUNALE PERIODO 01/01/2022 AL 31/12/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24809</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24809</guid>
+    </item>
+    <item>
       <title>Elenco Di Polizia Giudiziaria</title>
       <description>ABUSIVISMO EDILIZIO - MESE GIUGNO- RISCONTRO NEGATIV...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24808</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24787</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24787</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>PNRR M5 C3 I111 Avviso Infrastrutture Sociali - Indicazioni relative alle variazioni progettual...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24785</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24785</guid>
     </item>
   </channel>
 </rss>
