@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 cpc a carico di Aliquò Domenico</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12161</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12161</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Corso base di 1 livello con selezione finale di merito per la formulazione di una graduatoria di validità triennale per istruttore amministrativo cat. C1 settore economico finnanziario-Ufficio Ragioneria</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12160</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12160</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito n°1 atto in busta chiusa a carico di La Valle Domenico art.60 D.P.R.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12159</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12131</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12131</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso e bando pubblico incanto per affitto porzione terreno in c/da Dromo di Barcellona P.G.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12130</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12130</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>REDAZIONE DELLO STUDIO GEOLOGICO A SUPPORTO DEL PROGETTO DI COSTRUZIONE DI NUOVI LOCULI CIMITERIALI PRESSO IL LOCALE CIMITERO DI BARCELLONA POZZO DI GOTTO (ME)      LIQUIDAZIONE fattura n° 11 del 23/05/2023  Dott.Geol. Giuseppe Nania</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12129</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12129</guid>
     </item>
   </channel>
 </rss>
