@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n.11 del 22/06/2023 della ditta Biundo Giovanni  con sede a Castelbuono (PA) in Via Padre Puglisi n.4 P.IVA:(02578530822), relativa  al II° SAL dei lavori di  "Manutenzione straordinaria della Via Mario Levante: Riqualificazion...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24841</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24841</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n.6_23 del 01/06/2023 della ditta Rinchiusa Michele  con sede a Gratteri (Pa) in VIA Ciuffarello n.23 P.IVA:(03307740823) relativa al servizio di Conferimento materiale di risulta proveniente dal cantiere dei lavori di "Recuper...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24840</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24840</guid>
+    </item>
+    <item>
       <title>Bando</title>
       <description>BANDO DI CORSO CON SELEZIONE FINALE PER ISTRUTTORI AMMINISTRATIVI E CONTABILE A TEMPO DETERMINATO CAT. C E FORMAZIONE DI UNA GRADUATORIA DI MERITO VALIDA PER I COMUNI DELLE PROVINCE D'ITALIA...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24838</link>
@@ -99,20 +113,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24827</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24827</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 119: GIORNO 06/07/2023 DIVIETO DI TRANSITO IN VIA VITTORIO EMANUELE PER LAVORI...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24826</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24826</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 118: AFFIDAMENTO DEFINITIVO DEL CANE DI NOME NERINA SESSO FEMMINA, COLORE NERO, TAGLIA MEDIA, AL SIGNOR VITELLARO ROSARIO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24825</link>
-      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24825</guid>
     </item>
   </channel>
 </rss>
