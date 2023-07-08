@@ -1,0 +1,43 @@
+name: crea feed RSS c_e036
+
+on:
+#  push:
+  repository_dispatch:
+  schedule:
+    - cron:  '10 8,10,13,16 */1 * *'
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Utilizza l'action github checkout@v2, per automatizzare il check-out
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet
+      run: |-
+        mkdir -p ~/bin
+        cp bin/mlr ~/bin
+        cp bin/scrape ~/bin
+        cd ~/bin
+        chmod +x mlr
+        chmod +x scrape
+        sudo apt-get install xmlstarlet
+        sudo pip install yq
+    - name: scarica i dati e crea feed
+      env:
+        SUPER_SECRET: ${{ secrets.IFTTT }}
+      run: |-
+        export PATH=$PATH:~/bin
+        cd ./c_e036
+        chmod +x ./c_e036.sh
+        ./c_e036.sh
+    - name: Committa e pusha se ci sono variazioni nei dati
+      run: |-
+        git config user.name "automatico"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date --iso-8601=seconds)
+        git commit -m "c_e036, Ginosa: ${timestamp}" || exit 0
+        git push
