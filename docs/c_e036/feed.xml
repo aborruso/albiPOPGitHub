@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>DISCIPLINA DELLA CIRCOLAZIONE STRADALE IN OCCASIONE DELL'EVENTO "CONCERTO MUSICALE RENATO CIARDO" DEL 8.7.2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27193</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27193</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione della manifestazione "Ginosa Pride 2023". Ginosa 11.07.2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27192</link>
       <pubDate/>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27132</link>
       <pubDate/>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27132</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>LIQUIDAZIONE FATTURA DELLA DITTA MYO SPA ACQUISTO ARREDO SCOLASTICO</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27131</link>
-      <pubDate/>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27131</guid>
     </item>
   </channel>
 </rss>
