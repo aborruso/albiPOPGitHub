@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/07/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta nel Piazzale di sosta c/o Stazione Ferroviaria per pulizia verde pubblico: 10 e 11 luglio 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5835</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5835</guid>
+    </item>
+    <item>
       <title>07/07/2023 | Determinazioni Dirigenziali</title>
-      <description>Acquisto materiale di consumo vario necessario per la manutenzione ordinaria degli impianti idrici e fognari e degli Stabili Comunali - Determina a contrarre - Affidamento ed impegno spesa - Ditta: BRIDAFER di Briguglio Angela - CIG: Z703BCC3AC.</description>
+      <description>Acquisto materiale di consumo vario necessario per la manutenzione ordinaria degli Impianti Idrici e Fognari e degli Stabili Comunali - Determina a contrarre - Affidamento ed impegno spesa - Ditta: BRIDAFER di Briguglio Angela - CIG: Z703BCC3AC.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5834</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5834</guid>
@@ -32,7 +39,7 @@
     </item>
     <item>
       <title>07/07/2023 | Determinazioni Dirigenziali</title>
-      <description>PROGETTO "67° TINDARI FESTIVAL 2023 TRADIZIONI" AFFIDAMENTO SERVIZIO POLIZZA ASSICURATIVA RCT PER LO SPETTACO PROGRAMMATO PER l'08 LUGLIO 2023.</description>
+      <description>PROGETTO "67° TINDARI FESTIVAL 2023 - TRADIZIONI" AFFIDAMENTO SERVIZIO POLIZZA ASSICURATIVA RCT PER LO SPETTACO PROGRAMMATO PER l'08 LUGLIO 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5832</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5832</guid>
@@ -102,7 +109,7 @@
     </item>
     <item>
       <title>04/07/2023 | Deliberazioni Di Giunta</title>
-      <description>Presa d'atto delibera Comitato dei Sindaci N. 7 del 12/06/2023 - Riprogrammazione azione progettuale PdZ 2019/2020 AOD N.1.</description>
+      <description>Presa d'atto delibera Comitato dei Sindaci N. 7 del 12/06/2023 - Riprogrammazione azione progettuale PdZ 2019/2020 AOD N. 1.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5822</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5822</guid>
@@ -151,7 +158,7 @@
     </item>
     <item>
       <title>04/07/2023 | Deliberazioni Di Giunta</title>
-      <description>Revoca delibera n. 459 del 27/12/2022</description>
+      <description>Revoca delibera N. 459 del 27/12/2022.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5815</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5815</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5801</link>
       <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5801</guid>
-    </item>
-    <item>
-      <title>04/07/2023 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Interrogazioni scritte ex art. 37 del Regolamento Comunale - c. d. "Question Time".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5800</link>
-      <pubDate>Tue, 04 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5800</guid>
     </item>
   </channel>
 </rss>
