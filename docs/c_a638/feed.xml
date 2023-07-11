@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Delibere Di Giunta Municipale</title>
+      <description>Approvazione schema di convenzione tra il Comune di Barcellona Pozzo di Gotto ed il Comune di Misterbianco (CT), ex articolo 14 CCNL del 22/01/2004, per n.15 ore settimanali e per il periodo dall'10/7/2023 al 30/9/2023 del Dr. Giuseppe Giannone  - ca</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12201</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12201</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
       <description>Convenzione ex articolo 14 CCNL tra il Comune di Barcellona Pozzo di Gotto e il Comune di Roccavaldina per l'utilizzo di un dipendente ex Categoria giuridica C, oggi area degli Istruttori del vigente CCNL, profilo professionale "Istruttore Tecnico".</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12200</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12173</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12173</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fattura n. 75FTSP/23 del 04/07/2023 - Ditta Zs Informatica srl - rata noleggio fotocopiatrice multifunzione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12172</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12172</guid>
     </item>
   </channel>
 </rss>
