@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 62/C (b) - P. di C. n. 040/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27201</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27201</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 2435/C (b) - P. di C. n. 039/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27200</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27200</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo in favore dell'Associazione Opera Don Bonifacio Azione Verde ODV ETS.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27199</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27140</link>
       <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27140</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione in favore dell' ASL Taranto per quota di compartecipazione del servizio Trasporto Assistito Disabili da ottobre 2022 a marzo 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27139</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27139</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Approvazione beneficiari per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2022  III FINESTRA Linea A Codice Pratica BPTT6T94</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27138</link>
-      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27138</guid>
     </item>
   </channel>
 </rss>
