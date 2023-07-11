@@ -61,7 +61,7 @@ if [ $code -eq 200 ]; then
       -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
       -H 'Upgrade-Insecure-Requests: 1' \
       -H 'Pragma: no-cache' \
-      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' | xq -cr '.html.body.tr[].td[5]|[."@data-id",.div[]]|@csv' | mlr --csv -N cut -x -f 2 | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,9,inizio,10,fine >>"$folder"/rawdata/albi.json
+      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' | xq -cr '.html.body.tr[].td[5]|[."@data-id",.div[]]|@csv' | mlr --csv -N cut -x -f 2 | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,7,inizio,8,fine >>"$folder"/rawdata/albi.json
   done
 html.body.tr[0]["@data-id"]
   # converti lista in TSV
