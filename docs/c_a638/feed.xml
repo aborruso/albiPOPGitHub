@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione Consiglio Comunale Question Time giorno 19 luglio 2023 ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12206</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12206</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Disciplina degli orari per le attività di intrattenimento dei pubblici sercizi e disposizioni inerenti il rispetto della quieta pubblica-Modifica parziale art. 9 dell' O.S. n. 92/2013</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12205</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12205</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Approvazione schema di convenzione tra il Comune di Barcellona Pozzo di Gotto ed il Comune di Misterbianco (CT), ex articolo 14 CCNL del 22/01/2004, per n.15 ore settimanali e per il periodo dall'10/7/2023 al 30/9/2023 del Dr. Giuseppe Giannone  - ca</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12201</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12175</link>
       <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12175</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determinazione dirigenziale n. 201 del 22/06/2020, Registro Generale n. 1513 del 24/06/2020 - Liquidazione fattura n. A20020231000021263 del 30/06/2023 in favore della Società ''Olivetti S.p.A.". Periodo di riferimento dal 01/04/2023 al 30/06/2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12174</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12174</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIMBORSO BUONI PASTO RESIDUATI .</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12173</link>
-      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12173</guid>
     </item>
   </channel>
 </rss>
