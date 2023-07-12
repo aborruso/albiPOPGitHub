@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO DIRR N° 15 DEL 12/07/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456409</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456409</guid>
+    </item>
+    <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO DIRR N° 14 DEL 12/07/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456407</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456407</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1229</title>
       <description>IMPEGNO E LIQUIDAZIONE GETTONI DI PRESENZA AI CONSIGLIERI COMUNALI PER LA PARTECIPAZIONE ALLE SEDUTE CONSILIARI – MESE DI MAGGIO 2023.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456369</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456240</link>
       <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456240</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1216</title>
-      <description>RIPROPOSTA LIQUIDAZIONE FATTURA ECCEDENZA FOTOCOPIATORE RICOH. - CANONE PERIODO FEBBRAIO/APRILE 2023 CIG: ZB53375030</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456238</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456238</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1215</title>
-      <description>LIQUIDAZIONE IN ACCONTO FATTURA RACO S.R.L. PER SERVIZIO DI RECUPERO RIFIUTI BIODEGRADABILI (CER 200108) CONFERITI NEL MESE DI GIUGNO 2023.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456236</link>
-      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/456236</guid>
     </item>
   </channel>
 </rss>
