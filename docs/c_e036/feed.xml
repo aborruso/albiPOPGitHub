@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della Solennità della Madonna del Carmine. Ginosa 16.07.2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27245</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27245</guid>
+    </item>
+    <item>
+      <title>Cambio Cognome</title>
+      <description>RICHIESTA CAMBIO COGNOME DA PARISI A PARISI SCORPATI DEI FIGLI MINORI.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27244</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27244</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>RIMBORSO QUOTA DI COMPARTECIPAZIONE PER COLONIA MARINA ANZIANI. ANNO 2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27243</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27184</link>
       <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27184</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire In Sanatoria</title>
-      <description>AVVISO PUBBLICO Pratica n. 2434/C (b) - P. di C. n. 038/2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27183</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27183</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Susca Giuseppe</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27182</link>
-      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27182</guid>
     </item>
   </channel>
 </rss>
