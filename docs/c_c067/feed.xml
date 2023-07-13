@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>AGGIORNAMENTO SEMESTRALE CONTINGENTI FORESTALI. PUBBLICAZIONE GRADUATORIA PROVVISORIA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24868</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24868</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>VERBALE DI ACCERTAMENTO DELL'AVVENUTO DECESSO DI ANIMALI DA SOTTOPORRE A SEQUESTRO E RELATIVA PROPOSTA DI DISTRUZIONE DITTA CORTINA SALVATOR...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24867</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24841</link>
       <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24841</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n.6_23 del 01/06/2023 della ditta Rinchiusa Michele  con sede a Gratteri (Pa) in VIA Ciuffarello n.23 P.IVA:(03307740823) relativa al servizio di Conferimento materiale di risulta proveniente dal cantiere dei lavori di "Recuper...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24840</link>
-      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24840</guid>
     </item>
   </channel>
 </rss>
