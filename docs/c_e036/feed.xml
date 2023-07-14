@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>Convocazione III Commissione Consiliare: Lavori Pubblici, Ambiente, Pianificazione Territoriale e Urbana, Attività Produttive, PNNR</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27292</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27292</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>Convocazione del Consiglio Comunale 20 luglio 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27291</link>
+      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27291</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Modifica del Piano Esecutivo di Gestione 2023/2025 relativamente all'affidamento delle risorse finanziarie afferenti alla materia delle Politiche giovanili</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27290</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27232</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27232</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Rimborso delle spese sostenute dall'Associazione Radio C. B. "Help27" - SER per il servizio di trasporto sociale per i pazienti oncologici, espletato nel mese di Maggio 2023. Atto di liquidazione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27231</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27231</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Fornitura materiale occorrente alla delimitazione degli spazi da assegnare ai commercianti ambulanti autorizzati ad occupare aree pubbliche in occasione di fiere e mercati. - Liquidazione fattura  alla ditta Idea Casa Brico Lozito Francesco di Ginosa</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27230</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27230</guid>
     </item>
   </channel>
 </rss>
