@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/07/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione rimborso spese al Commissario ad Acta geom. Birriola Antonino - Intervento Sostitutivo per mancata emissione dei provvedimenti repressivi e sanzionatori in materia di Abusivismo Edilizio.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5901</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5901</guid>
+    </item>
+    <item>
       <title>14/07/2023 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI RIQUALIFICAZIONE DELLA PIAZZA "GALILEO GALILEI" IN LOCALITÀ MARINA DI PATTI.  APPROVAZIONE PERIZIA DI VARIANTE E SUPPLETIVA CODICE CUP: C42F22001020004 - CODICE CIG 9582573D63</description>
+      <description>LAVORI DI RIQUALIFICAZIONE DELLA PIAZZA "GALILEO GALILEI" IN LOCALITÀ MARINA DI PATTI - APPROVAZIONE PERIZIA DI VARIANTE E SUPPLETIVA - CUP: C42F22001020004 - CIG: 9582573D63.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5900</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5900</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5867</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5867</guid>
-    </item>
-    <item>
-      <title>12/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Ripartizione delle risorse in favore del Distretto Socio/Sanitario N. 30 del fondo per il sostegno del ruolo di cura e di assistenza del caregiver familiare disabili gravi e gravissimi - F. N. A. stato annualità 2018/2019/2020 - Trasferimento somme ai Comuni interessati del Distretto D30.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5866</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5866</guid>
     </item>
   </channel>
 </rss>
