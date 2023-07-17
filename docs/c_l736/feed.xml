@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 4960</title>
+      <description>DELIBERA N. 2023.49 - Riconversione ad uso residenziale dell¿ex Istituto Elisabetta Vendramini in via Sandro Gallo al Lido di Venezia. Variante n. 80 al Piano del Interventi. Adozione.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_49_001_1984_CC_2023_49.odt.pdf</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_49_001_1984_CC_2023_49.odt.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 4959</title>
+      <description>DELIBERA DI CONSIGLIO N, 2023.48 - Approvazione dell¿Accordo di Programma ai sensi dell¿articolo 34 del Decreto Legislativo 18 agosto 2000, n. 267 per la realizzazione di un nuovo terminal passeggeri per il servizio del Trasporto Pubblico Locale nel Comune di Cavallino Treporti in località Punta Sabbioni.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_48_001_1979_CC_2023_48.odt.pdf</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2023/DC_2023_48_001_1979_CC_2023_48.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 4928</title>
       <description>DELIBERA DI GIUNTA N. 2023/158 - SINDACO - Modifica al Regolamento Speciale del Corpo della Polizia Locale di Venezia</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_158_40393_TESTO.pdf</link>
@@ -211,20 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_140_35935_TESTO.pdf</link>
       <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_140_35935_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 4625</title>
-      <description>DELIBERA DI GIUNTA N. 2023/139 - BILANCIO - Quantificazione delle somme non soggette ad esecuzione forzata ai sensi dellart. 159 del D.Lgs. 267/2000 - 2° semestre 2023</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_139_35856_TESTO.pdf</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_139_35856_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 4624</title>
-      <description>DELIBERA DI GIUNTA N. 2023/138 - SINDACO - "Le Città in festa 2023" - Deroga limiti massimi orari per le manifestazioni di  pubblico trattenimento.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_138_35762_TESTO.pdf</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2023/DG_2023_138_35762_TESTO.pdf</guid>
     </item>
   </channel>
 </rss>
