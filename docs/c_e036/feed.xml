@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Decreto di chiusura degli uffici comunali per lunedì 14 agosto 2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27293</link>
+      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27293</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>Convocazione III Commissione Consiliare: Lavori Pubblici, Ambiente, Pianificazione Territoriale e Urbana, Attività Produttive, PNNR</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27292</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27233</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27233</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno spesa Trasporto disabili. Attività affidata all'Associazione Radio C.B. "Help27"  SER  - con sede in Ginosa presso C.D. ex-art.60 Ginosa e C.D. ex- art.60/Ter  Ginosa Marina. Periodo GIUGNO 2023.  Liquidazione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27232</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27232</guid>
     </item>
   </channel>
 </rss>
