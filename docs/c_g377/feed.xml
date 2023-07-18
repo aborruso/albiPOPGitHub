@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/07/2023 | Determinazioni Dirigenziali</title>
+      <description>Concessione permessi retribuiti mensili ex L. N. 104/92 alla dipendente: Omissis.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5924</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5924</guid>
+    </item>
+    <item>
+      <title>18/07/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5923</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5923</guid>
+    </item>
+    <item>
       <title>18/07/2023 | Ordinanze Dirigenziali</title>
       <description>Mongiove - Corteo per inaugurazione monumento a Santa Febronia - Domenica 23 luglio 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5922</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5890</link>
       <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5890</guid>
-    </item>
-    <item>
-      <title>13/07/2023 | Deliberazioni Di Giunta</title>
-      <description>RIDETERMINAZIONE DELL'ASSETTO ORGANIZZATIVO DEL COMUNE DI PATTI - APPROVAZIONE DELLA NUOVA MACROSTRUTURA E RELATIVA ASSEGNAZIONE DI PERSONALE AI SETTORI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5889</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5889</guid>
-    </item>
-    <item>
-      <title>13/07/2023 | Deliberazioni Di Giunta</title>
-      <description>AUORIZZAZIONE ALLA COSTITUZIONE NEL RICORSO EX ART.281 DUODECIES C.P.C. PROMOSSO DALL'AVV. MONDELLO MICHELE DAVANTI AL TRIBUNALE DI PATTI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5888</link>
-      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5888</guid>
     </item>
   </channel>
 </rss>
