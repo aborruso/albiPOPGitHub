@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Natile Maria Cristina</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27300</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27300</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Donno Antonio</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27299</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27299</guid>
+    </item>
+    <item>
       <title>Delibera C.c.</title>
       <description>Variazione al Bilancio di Previsione 2023/2025 ai sensi dell'art. 175 del D.lgs. 267/2000</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27298</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27240</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27240</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>"BUONI SERVIZIO PER L'ACCESSO AI SERVIZI A CICLO DIURNO E DOMICILIARI PER ANZIANI E PERSONE CON DISABILITÀ"  1^ ANNUALITÀ OPERATIVA 2023/2024 A VALERE SUL PR PUGLIA FESR-FSE+ 2021-2027 - PRIORITÀ: 8. WELFARE E SALUTE - O.S. ESO4. 11 - ASSE 8 - AZIONE</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27239</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27239</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione a CISA S.p.A. per costi di smaltimento RUI/CSS, tributo speciale e  trasporto del rifiuto biostabilizzato da discarica (EER 19.05.01.) presso l'impianto gestito da Italcave S.p.A.  - periodo giugno 2023. CIG 243720090E</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27238</link>
-      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27238</guid>
     </item>
   </channel>
 </rss>
