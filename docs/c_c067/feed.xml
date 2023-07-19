@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO PER L'ASSEGNAZIONE IN CONCESSIONE CIMITERIALE DELLA SEPOLTURA FUNERARIA PRIVATA UBICATA NEL LOTTO N. 1217 DEL CIMITERO COMUNALE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24923</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24923</guid>
+    </item>
+    <item>
+      <title>Determina Del Direttore  Museo Civico</title>
+      <description>LIQUIDAZIONE IN FAVORE DELLA DITTA GOLMAR S.P.A. CON SEDE LEGALE: CORSO UNIONE SOVIETCIA, 603 - TORINO, PER FORNITURA DI MATERIALE IGIENICO-SANITARIO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24922</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24922</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE FATTURA IN FAVORE DELLA MADONITA  SOCIETA' COOPERATIVA SOCIALE DI CASTELBUONO CON SEDE IN CASTELBUONO VIA P.PE UMBERTO, 5 PER SERVIZIO DI PULIZIA AMBIENTI CASTELLO DEI VENTIMIGLIA PERIODO GIUGNO 2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24921</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24896</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24896</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento diretto,relativa ai servizi tecnici attinenti all' Ingegneria e all'Architettura per le prestazioni  di:  Direzione Lavori, Misura, Contabilità, C.R.E. e C.S.E relativo agli:"Interventi selvicolturali,di miglioramento boschivo, fruizion...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24895</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24895</guid>
-    </item>
-    <item>
-      <title>Avviso Ad Opponendum</title>
-      <description>MANUTENZIONE STRAORDINARIA DELLE RETE IDRICA E FOGNANTE PER L'ANNO 2022/2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24894</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24894</guid>
     </item>
   </channel>
 </rss>
