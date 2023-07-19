@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO fiera di Ottobre che si svolgerà il 02.10.2023 in Ginosa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27324</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27324</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>OMOLOGAZIONE SPESA FINALE  Appalto "Opere di pavimentazione di strade comunali della ZONA SUD dell'agglomerato urbano di Marina di Ginosa (Zona B)  CUP: D37H14001560004  CIG: 8358273912.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27323</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27265</link>
       <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27265</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Procedura Negoziata di cui all'art.1 comma 2° lettera b) della Legge n°120/2020 e ss. mm. ii. Accordo Quadro triennale ex comma 3° dellart. 54 del d.lgs. n°50/2016, con un unico operatore economico, per laffidamento dei lavori di manutenzione degli i</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27264</link>
-      <pubDate>Fri, 14 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27264</guid>
     </item>
   </channel>
 </rss>
