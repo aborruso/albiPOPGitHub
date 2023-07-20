@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/07/2023 | Bandi Di Concorso</title>
+      <description>POSTA CERTIFICATA: Richiesta di pubblicazione del bando di corso con selezione finale per Istruttori Tecnici a Tempo determinato cat. C e formazione di una graduatoria di merito valida per i comuni delle province d’Italia</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5937</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5937</guid>
+    </item>
+    <item>
+      <title>20/07/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>INTERVENTI URGENTI ED INDIFFERIBILI PER IL RIPRISTINO DELLA FUNZIONALITÀ DEGLI IMPIANTI DI SOLLEVAMENTO IN LOCALITÀ "PLAYA", KOODOO, ETC.  (MANUTENZIONE ELETTROPOMPE) - DITTA: RIZZO FRANCESCO - LIQUIDAZIONE FATTURA N. 33_23 DEL 05/07/2023 - CIG: Z9C3B73FE4.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5936</link>
+      <pubDate>Thu, 20 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5936</guid>
+    </item>
+    <item>
       <title>19/07/2023 | Ordinanze Dirigenziali</title>
-      <description>Art. 21-quinquies della L. n. 241/1990  Revoca, in autotutela, Ordinanza di chiusura di esercizio attività ricettiva all'aria aperta Reg. Gen. N. 134 del 18/07/2023.</description>
+      <description>Art. 21-quinquies della L. N. 241/1990 - Revoca, in autotutela, Ordinanza di chiusura di Esercizio Attività Ricettiva all'aria aperta Reg. Gen. N. 134 del 18/07/2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5935</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5935</guid>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5903</link>
       <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5903</guid>
-    </item>
-    <item>
-      <title>17/07/2023 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. VENTURA ROSA - COSTITUZIONE APPELLO SENTENZA N. 808/2022 DEL TRIBUNALE DI PATTI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5902</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5902</guid>
-    </item>
-    <item>
-      <title>17/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione rimborso spese al Commissario ad Acta geom. Birriola Antonino - Intervento Sostitutivo per mancata emissione dei provvedimenti repressivi e sanzionatori in materia di Abusivismo Edilizio.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5901</link>
-      <pubDate>Mon, 17 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5901</guid>
     </item>
   </channel>
 </rss>
