@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12325</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12325</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito n°1 atto in busta chiusa a carico di La Valle Domenico ai sensi dell' art.60 D.P.R.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12324</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12289</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12289</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi. (L.R. n.27/86 e D.Lgs.vo n.152/06) - Validità 4 anni (quattro). Ditta:Zootec Sicilia srl - rapp. Benvegna Carmelo Attività: Stalla allevamento di bovini ubicazione:Via Eolie</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12288</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12288</guid>
     </item>
   </channel>
 </rss>
