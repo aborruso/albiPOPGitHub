@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. 13/B del 30/06/2023 della Ditta Emmeci s.r.l. relativa alla fornitura di diversi generi utilizzati per il servizio di refezione scolastica nel mese di giugno ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24955</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24955</guid>
+    </item>
+    <item>
       <title>Revisione Dinamica</title>
       <description>Avviso deposito modello 7/D rev. II dinamic...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24954</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24928</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24928</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>AVVISO ESPLORATIVO RIVOLTO A SOGGETTI DIPENDENTE DI PUBBLICHE AMMINISTRAZIONE PER L'AFFIDAMENTO DELL'INCARICO DI COLLAUDATORE STATICO IN CORSO D'OPERA E DEFINITIVO, RELATIVO AI LAVORI DI RELATIVO AI LAVORI DI "MESSA IN SICUREZZA E RESTAURO DI PORTA PALERMO"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24927</link>
-      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=24927</guid>
     </item>
   </channel>
 </rss>
