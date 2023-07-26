@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1314</title>
+      <description>LIQUIDAZIONE FATTURE N. 2350, 2462, 2463 - DITTA: EDILCUTULI SRL - FORNITURA DI MATERIALE EDILE E ATTREZZATURE VARIE - CIG: Z6C38F1390</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457533</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457533</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1313</title>
       <description>LIQUIDAZIONE FATTURA Q8 RELATIVA AI RIFORNIMENTI CARBURANTE DEL MESE DI GIUGNO 2023. CIG ZC13A21FCB</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457443</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457362</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457362</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1296</title>
-      <description>CONCESSIONE TEMPORANEA SUOLO PUBBLICO N. 91/2023 PER LA POSA DI TAVOLI, SEDIE ED ALTRI ARREDI NELL'AREA ANTISTANTE IL LOCALE DI SOMMINISTRAZIONE IN PIAZZA CASTELLO N. 20/21/22</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457360</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457360</guid>
     </item>
   </channel>
 </rss>
