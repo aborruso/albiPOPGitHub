@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Manifestazione "Dalle Stelle al Piatto" - Misure a tutela della circolazione stradale in Marina di Ginosa nel giorno 29 luglio 2023 - Associazione Apuliae SlowingGreen Tour - Ginosa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27436</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27436</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>DETERMINAZIONE A CONTRATTARE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT. A) DEL DLGS N.36/2023, PER LESECUZIONE DEI LAVORI RELATIVI A INTERVENTI URGENTI DI MANUTENZIONE DEL BASOLATO DI CORSO VITTORIO EMANUELE II NELLABITATO DI GINOSA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27435</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27377</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27377</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo in favore dell'associazione Atelier Arte.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27376</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27376</guid>
     </item>
   </channel>
 </rss>
