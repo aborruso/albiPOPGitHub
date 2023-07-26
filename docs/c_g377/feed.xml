@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/07/2023 | Ordinanze Dirigenziali</title>
+      <description>Viabilità a Tindari in occasione della rappresentazione " Contrada Luna" - progetto "Tindari  a cielo aperto ": 27 e 28/07/23.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5984</link>
+      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5984</guid>
+    </item>
+    <item>
       <title>25/07/2023 | Ordinanze Sindacali</title>
       <description>Ordinanza sospensione manifestazioni per giorno 25/07/2023</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5983</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5950</link>
       <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5950</guid>
-    </item>
-    <item>
-      <title>21/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI TRASPORTO PUBBLICO LOCALE IN AUTOBUS. LL. RR. N° 19/2005 E N° 2/2007 - LIQUIDAZIONE MESI DI LUGLIO E AGOSTO DEL CORRISPETTIVO CONTRATTUALE PER L'ANNO 2022 - DITTA: GIARDINA VIAGGI S.R.L.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5949</link>
-      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5949</guid>
     </item>
   </channel>
 </rss>
