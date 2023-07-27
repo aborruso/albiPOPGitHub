@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atti per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12346</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12346</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito atto per assenza a nome di Di Natale Carmine</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12345</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12345</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>VOLTURA CONCESSIONE ALL'USO DI OCCUPAZIONE SUOLO PUBBLICO PERMANENTE: BIONDO DOMENICO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12344</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12319</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12319</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>ORGANIZZAZIONE DEL SETTORE VI E DEL SETTORE V  SERVIZIO II  E DEI RISPETTIVI UFFICI</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12318</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12318</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PROGETTO  DI RIQUALIFICAZIONE  DEL  COMPLESSO MONASTICO DEI  BASILIANI - INTERVENTI DI MANUTENZIONE E RESTAURO CONSERVATIVO FINALIZZATI ALLA  REALIZZAZIONE DEI SERVIZI A SOSTEGNO DELLE ATTIVITÀ SOCIO-CULTURALI E STORICO - TESTIMONIALI DEL TERRITORIO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12317</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12317</guid>
     </item>
   </channel>
 </rss>
