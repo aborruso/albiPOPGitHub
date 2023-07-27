@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>DELIBERA N. 08 DEL 26 LUGLIO 2023 - Approvazione Relazione sulla Performance di AGER per l'anno 2022</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27449</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27449</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Autorizzazione ex art. 9 del D. Lgs. 285/92 e Disciplina temporanea della circolazione stradale per lo  svolgimento  della manifestazione ciclistica denominata "4° Trofeo dei Borghi UISP-Bicinpuglia"- Ginosa 30 luglio 2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27448</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27448</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO Pratica n. 2632/C - P. di C. n. 045/2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27446</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27389</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27389</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>LIQUIDAZIONE FATTURA N.88/PA COOP. ALIMA PER IL SERVIZIO DI GESTIONE DELLE N. 2 SEZIONI PRIMAVERA (ART. 53 DEL R.R.4/2007) DEL COMUNE DI GINOSA E MARINA DI GINOSA, PER IL MESE DI GIUGNO 2023 CIG: 7987125010</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27388</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27388</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fatt. n. 89/PA per il servizio di gestione del Centro Ludico 18/36 MESI anno educativo 2022/2023 nel Comune di Ginosa (art. 90 R.R. 4/2007) Mese di giugno 2023 CIG: 88460138DA</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27387</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27387</guid>
     </item>
   </channel>
 </rss>
