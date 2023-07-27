@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1318</title>
+      <description>ACCOGLIMENTO ISTANZA DI CONGEDO PARENTALE AI SENSI DELL’ART.32 DEL D. LGS. N.151/2001 MATRICOLA 280</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457610</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457610</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1317</title>
       <description>AUTORIZZAZIONE ALLA TUMULAZIONE DELLA SALMA DI CACCIOLA MARINA DECEDUTA IL 22.07.2023 NELLA TOMBA N. 87 DEL RETTANGOLO "S. GIOVANNI" DEL CIMITERO COMUNALE DI ACI CASTELLO. FASCICOLO CIMITERIALE: TOMBA N. 87-RETT. "S. GIOVANNI".</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457563</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457370</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457370</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1300</title>
-      <description>LIQUIDAZIONE FATTURA N. 31 DEL 15/07/2023 IN FAVORE DELLA S.SPOTO S.R.L.S. PER I SERVIZI CIMITERIALI RESI DAL 15/06/2023 AL 15/07/2023. C.I.G.: 92998227E3</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457368</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/457368</guid>
     </item>
   </channel>
 </rss>
