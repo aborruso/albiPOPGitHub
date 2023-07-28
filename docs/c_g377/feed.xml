@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/07/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' MESE DI AGOSTO 2023 SERVIZIO VETERINARIO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6003</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6003</guid>
+    </item>
+    <item>
       <title>28/07/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA PER PAGAMENTO CARTELLE DELL'AGENZIA DELLE ENTRATE - RISCOSSIONE ,AGENTE DELLA RISCOSSIONE - PROV. DI MESSINA - LIQUIDAZIONE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6002</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5968</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5968</guid>
-    </item>
-    <item>
-      <title>24/07/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito e alla sosta della piazza M. Sciacca, della piazzetta Cicerone e del Largo dei Normanni per collocazione giostre e intrattenimenti .</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5967</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5967</guid>
     </item>
   </channel>
 </rss>
