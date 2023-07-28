@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>Convocazione del Consiglio Comunale per il 3 agosto 2023 alle ore 17:00</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27450</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27450</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>DELIBERA N. 08 DEL 26 LUGLIO 2023 - Approvazione Relazione sulla Performance di AGER per l'anno 2022</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27449</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27390</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27390</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione integrazione retta ricovero utente CIG ZCD39E2A48 presso la struttura RSA " Armonie diverse" ANFFAS  GINOSA sita in via Degli Ulivi Km.11,600 C.da Madonna D'Attoli  Ginosa -Mese GIUGNO 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27389</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27389</guid>
     </item>
   </channel>
 </rss>
