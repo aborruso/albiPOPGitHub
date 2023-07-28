@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>ATTUAZIONE E GESTIONE INTERVENTI URGENTI DI MANUTENZIONE ORDINARIA, STRAORDINARIA, SOMMA URGENZA SUL DEMANIO FLUVIALE NEL COMUNE DI BARCELLONA POZZO DI GOTTO  - CUP D26F18000080001 - CIG 807333679F</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12351</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12351</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Indennità amministratori.  Rinuncia adeguamento a decorrere dall'annualità 2023.  Art. 13, comma 51, della L.R. n. 13/2022.  Art. 2 della L.R. n. 2/2023.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12350</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12350</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Determinazione dei tassi di copertura dei servizi a domanda individuale art. 172 D.Lgs. 267/00 per l' anno 2023.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12349</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12349</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO E IMPEGNO DI SPESA PER IL Progetto di Manutenzione straordinaria per lavori di rifacimento di marciapiedi di alcune vie Cittadine del Comune di Barcellona P.G. -</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12348</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12322</link>
       <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12322</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo, a far data dal 01/09/2023, per avvenuto raggiungimento dei requisiti di quota 102 ai sensi della L. n. 4 del 28/1/2019 e s.m.i., del dipendente XXX XXXXX.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12321</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12321</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo, a far data dal 01/9/2023, per avvenuto raggiungimento dei requisiti per la pensione di vecchiaia della dipendente di ruolo full time X X.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12320</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12320</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Progetto di manutenzione straordinaria per lavori di rifacimento di marciapiedi di alcune vie Cittadine del Comune di Barcellona P.G.- Nomina RUP</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12319</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12319</guid>
     </item>
   </channel>
 </rss>
