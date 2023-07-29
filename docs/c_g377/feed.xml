@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/07/2023 | Ordinanze Sindacali</title>
+      <description>Interventi urgenti diretti a mitigare il rischio di propagazione incendi, attraverso il decesplugliamento strade ed aree di pertinenza comunale</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6011</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6011</guid>
+    </item>
+    <item>
+      <title>28/07/2023 | Atti Di Interesse Generale</title>
+      <description>Avviso censimento danni incendio</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6010</link>
+      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6010</guid>
+    </item>
+    <item>
       <title>28/07/2023 | Determinazioni Dirigenziali</title>
       <description>MANUTENZIONE STRAORDINARIA DI ALCUNE STRADE COMUNALI DEL CENTRO URBANO. C.U.P: C47H23001400001 - C.I.G.: 9990821E4B  DETERMINA A CONTRARRE, AFFIDAMENTO DIRETTO ED IMPEGNO SPESA</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6009</link>
@@ -99,6 +113,13 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5998</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5998</guid>
+    </item>
+    <item>
+      <title>29/07/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO DEPOSITO -  BILANCIO DI PREVISIONE  ESERCIZIO FINANZIARIO 2022 E DELIBERA DI APPROVAZIONE .</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5997</link>
+      <pubDate>Sat, 29 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5997</guid>
     </item>
     <item>
       <title>28/07/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5977</link>
       <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5977</guid>
-    </item>
-    <item>
-      <title>25/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI IN CONTO ALL'AVV. RIGOLI LOREDANA. CONTROVERSIA MARINO MASSIMO CASSAZIONE.LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5976</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5976</guid>
-    </item>
-    <item>
-      <title>25/07/2023 | Avvisi Vari</title>
-      <description>AVVISO - RILASCIO TESSERA  A.S.T.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5975</link>
-      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5975</guid>
-    </item>
-    <item>
-      <title>24/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 4 "Emergenza e Urgenza I^ e II^ Annualità -   PdZ 2018-2019   Liquidazione  a N. 02  Beneficiari del Comune di Librizzi dell'AOD N. 1</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5974</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5974</guid>
     </item>
   </channel>
 </rss>
