@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>RIACCERTAMENTO ORDINARIO DEI RESIDUI 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25022</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25022</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>COMUNICAZIONE AVVENUTA PUBBLICAZIONE AVVISO DI SELEZIONE DI N. 3 ESPERTI...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25021</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25002</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25002</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fatture n. 59/2 del 29/06/2023 della Ditta PECA S.R.L. con sede a Cefalù in Via Matteotti, 42 relativa alla fornitura di pesce surgelato occorrente per il servizi di rfezione scolastica...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25001</link>
-      <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25001</guid>
     </item>
   </channel>
 </rss>
