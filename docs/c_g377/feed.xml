@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/08/2023 | Ordinanze Dirigenziali</title>
+      <description>Rettifica punto 3) dell'Ordinanza n. 147, del 28.07.23: Indiegeno Fest Patti Marina.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6022</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6022</guid>
+    </item>
+    <item>
       <title>31/07/2023 | Ordinanze Sindacali</title>
       <description>DIVIETO DI SOMMINISTRAZIONE, VENDITA, CONSUMO E DETENZIONE DI ALIMENTI E BEVANDE IN CONTENITORI DI VETRO O IN METALLO NONCHÈ DIVIETO DI SOMMINISTRAZIONE DI BEVANDE SUPERALCOLICHE OLTRE IL 25 PER CENTO DI ALCOL  DEROGA ALLE DISPOSIZIONI VIGENTI PER LE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6021</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5987</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5987</guid>
-    </item>
-    <item>
-      <title>26/07/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio trasporto urbano degli alunni per il percorso Sorrentini/Patti e viceversa, Ditta AST S.p.A. Liquidazione fattura.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5986</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=5986</guid>
     </item>
   </channel>
 </rss>
