@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Approvazione proposta relativa all'organizzazione e realizzazione di due concerti degli artisti Carmen Consoli e Enzo Avitabile. Atto di indirizzo.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27482</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27482</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Approvazione schema di accordo per l'utilizzo della "graduatoria pubblica per la copertura a tempo pieno e indeterminato di n. 60 posti nel profilo professionale di Agente di Polizia Locale (ex categoria giuridica C) Area Istruttori",  del Comune di</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27481</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27481</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Servizio Civile Universale approvazione progetto Pianeta Giovani 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27480</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27480</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Approvazione dello schema del Documento Unico di Programmazione (DUP) 2024/2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27479</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27479</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>Convocazione II commissione consiliare</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27478</link>
@@ -407,34 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27422</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27422</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "gelate gennaio 2017". Liquidazione fattura elettronica in favore della Dott.ssa Grazia Tagliente.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27421</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27421</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "piogge alluvionali ottobre 2013". Liquidazione fattura elettronica in favore della Dott.ssa Grazia Tagliente.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27420</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27420</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "gelate gennaio 2017". Liquidazione fattura elettronica in favore del Dott. Michele Pinto.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27419</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27419</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "piogge alluvionali ottobre 2013". Liquidazione fattura elettronica in favore del Dott. Michele Pinto.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27418</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27418</guid>
     </item>
   </channel>
 </rss>
