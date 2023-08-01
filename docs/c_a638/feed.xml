@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Voltura permesso di costruire n°04 del 15/02/2023 - Pratica edilizia n°21692 a nome della Ditta Stramandino Antonino Salvatore</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12375</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12375</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Legge 25/05/2022 n. 13 art. 8 comm. 4 Legge di stabilità regionale 2022-2024. - D.D. n. 3541 del 11/10/2022 Contributi ai comuni danneggiati dagli eventi alluvionali dell'08/08/2020 a titolo di ristoro  Impegno e  Liquidazione in favore della ditta S</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12374</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12374</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°25 del 31 luglio 2023 - Pratica edilizia n°21827 a nome della Ditta Recupero Angelo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12373</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12373</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Liquidazione fattura n.21/2023 del 04/072023, servizio di sostegno diretto alla gestione degli Asili Nido Comunali "Casa del Fanciullo"e "S.Antonino" mediante estensione dell'orario di servizio alla fascia pomeridiana dal lunedì al venerdì ed a quella antimeridiana del sabato - mese di Giugno 2023 - Le Tre Lune Soc.Coop.Sociale. CIG:9520159BBA - CUP:H61H22000160001</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12372</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12346</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12346</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>VOLTURA CONCESSIONE ALL'USO DI OCCUPAZIONE SUOLO PUBBLICO PERMANENTE: BIONDO DOMENICO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12344</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12344</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture n. SC-68-611 e n. SC-69-611 del 05/07/2023 per la fornitura e consegna giornaliera di generi alimentari per gli Asili Nido Comunali Casa del Fanciullo e S. Antonino, ditta P&amp;A S.R.L.S. di Costa Paolo,  mese di Giugno 2023. CIG: Z</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12343</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12343</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura emessa dall'A.SO.FA  Associazione di Solidarietà Familiare  per il servizio di consolidamento del   sistema educativo negli asili nido comunali nellambito del DLGS 65/2017. Periodo lavorativo Giugno 2023.               CIG: 95389</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12342</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12342</guid>
     </item>
   </channel>
 </rss>
