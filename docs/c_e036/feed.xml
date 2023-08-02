@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>Avviso Smart-in</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27493</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27493</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Manifestazione "Gi. Ri. D'Arte 2023" - Misure a tutela della circolazione stradale in Ginosa giorno 5 agosto 2023 - Associazione Orizzonti 2001 - Ginosa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27492</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27431</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27431</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fatture per bollettazione Tari 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27430</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27430</guid>
     </item>
   </channel>
 </rss>
