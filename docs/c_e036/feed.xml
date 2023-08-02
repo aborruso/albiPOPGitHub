@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 1046/C - P. di C. n. 046/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27486</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27486</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO ZANCARINI FRANCESCO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27485</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27485</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Fiore Chiara</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27484</link>
+      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27484</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Approvazione proposta relativa all'organizzazione e realizzazione di due concerti degli artisti Carmen Consoli e Enzo Avitabile. Atto di indirizzo.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27482</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27425</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27425</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "gelate gennaio 2017". Liquidazione fattura elettronica in favore del Dott. Graziano Scarano.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27424</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27424</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "piogge alluvionali ottobre 2013". Liquidazione fattura elettronica in favore del Dott. Graziano Scarano.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27423</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27423</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Calamità "piogge alluvionali ottobre 2013". Liquidazione fattura elettronica in favore del Dott. Giuseppe Ciancia.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27422</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27422</guid>
     </item>
   </channel>
 </rss>
