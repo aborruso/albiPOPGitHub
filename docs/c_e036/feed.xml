@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO SERRA MARIA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27495</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27495</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 3634/C - P. di C. n. 048/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27494</link>
+      <pubDate>Thu, 03 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27494</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>Avviso Smart-in</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27493</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27433</link>
       <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27433</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo economico in favore di famiglie affidatarie mese di Luglio e Agosto 2023 Legge N.184/83 e n.149/01.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27432</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27432</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura per integrazione retta ricovero utente presso la comunità C.a.s.a.     B.i.t. di Nociglia (Le) gestita dalla Health Sol Levante cooperativa sociale. Periodo GIUGNO 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27431</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27431</guid>
     </item>
   </channel>
 </rss>
