@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso bonus figlio  in favore dei bambini nati o adottati a decorrere dal 1 gennaio 2023 al 31 dicembre 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12444</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12444</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito elenco verbale di contravvenzione a carico di Coulibaly Azoum per irreperibilità ai sensi dell'art. 143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12443</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12443</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione divieto di transito e di sosta con rimozione in via Stretto Zigari Tratto compreso tra la via Destra Longano e via Stretto I° Zigari dalle ore 07:00 del 04.08.23 per la durata di giorni 3</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12442</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12442</guid>
+    </item>
+    <item>
       <title>Ordinanza Sindacale</title>
       <description>Ricovero Urgente in T.S.O.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12441</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12417</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12417</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Mozione Smoke Free Beach, per la emanazione del divieto di fumo nel periodo estivo e limitatamente alla zona costiera</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12416</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12416</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Mozione Plastic Free Beach, per la emanazione del divieto d'uso di plasica monouso nel Comune di Barcellona P.G. nel periodo estivo e limitatamente alla zona costiera</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12415</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12415</guid>
-    </item>
-    <item>
-      <title>Delibere Del Consiglio Comunale</title>
-      <description>Ratifica deliberazione di Giunta Comunale n.48 del 28/2/202 avente ad oggetto: Prima variazione di bilancio provvisorio in corso di gestione ai sensi del principio applicato della contabilità finanziaria n.8.4 per la previsione delle somme correlate a entrate vincolate.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12414</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12414</guid>
     </item>
   </channel>
 </rss>
