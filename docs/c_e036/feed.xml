@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Mastronardi Barbara</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27502</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27502</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 1405/C - P. di C. n. 047/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27501</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27501</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>POR FESR PUGLIA 2014-2020  Asse VI  Tutela dell'ambiente e promozione delle risorse naturali e culturali. Azione 6.7  Interventi per la valorizzazione e la fruizione del patrimonio culturale. - Avviso Pubblico "SMART-in per la selezione di proposte p</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27500</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27440</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27440</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Manifestazione "Evento Estate in Pizza 2023" - Misure a tutela della circolazione stradale in Marina di Ginosa ne giorni 31 luglio e 1° agosto 2023 - Associazione Genusia Mani in Pasta - Ginosa</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27439</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27439</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina temporanea della circolazione stradale per lo  svolgimento  della manifestazione ciclistica denominata "4° Trofeo dei Borghi UISP-Bicinpuglia"- Ginosa 30 luglio 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27438</link>
-      <pubDate>Wed, 26 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27438</guid>
     </item>
   </channel>
 </rss>
