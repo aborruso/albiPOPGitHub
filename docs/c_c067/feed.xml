@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione fattura  FATT 000048/2023 del 05/07/2023  dell'impresa TECNAV Soc. Coop. (Partita I.V.A.: 00500260773)  con Sede legale a Matera  Strada provinciale 8, Km 0,650- per i lavori di   "Gestione tecnica ed operativa  dell'impianto di depuraz...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25053</link>
+      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25053</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>PROGETTO DI RECUPERO CASE CUPRANIA E VIABILITA' ESTERNA NOMINA DEL RESPONSABILE UNICO DEL PROGETTO(RUP). ART. 15 DECRETO LGS N. 36/2...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25052</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25026</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25026</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Accertamento somme avvisi di pagamento CUP per occupazione suolo pubblico anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25025</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25025</guid>
     </item>
   </channel>
 </rss>
