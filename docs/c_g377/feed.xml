@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/08/2023 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6062</link>
+      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6062</guid>
+    </item>
+    <item>
       <title>04/08/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione lavoro straordinario nell'ambito del progetto Piano di Attuazione Locale (PAL) Quota servizi del Fondo Povertà (annualità - 2020) "Rafforzamento dei servizi di Segretariato Sociale". CUP C41H22000000001. Mese di Luglio 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6061</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6028</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6028</guid>
-    </item>
-    <item>
-      <title>01/08/2023 | Determinazioni Dirigenziali</title>
-      <description>PROGETTO "67° TINDARI FESTIVAL 2023  TRADIZIONI." PAGAMENTO SERVIZIO IN PLUS ORARIO PERSONALE DI CUSTODIA TEATRO GRECO DI TINDARI PER MANIFESTAZIONI GIORNI 01 E 05 AGOSTO 2023</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6027</link>
-      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6027</guid>
     </item>
   </channel>
 </rss>
