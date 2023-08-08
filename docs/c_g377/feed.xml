@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/08/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TRASMISSIONE PRONTA DISPONIBILITA' MESE AGOSTO SERVIZIO VETERINARIO AGGIORNATO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6068</link>
+      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6068</guid>
+    </item>
+    <item>
       <title>07/08/2023 | Determinazioni Dirigenziali</title>
       <description>TINDARI EXTRA FESTIVAL 2023 "TRADIZIONI" - PAGAMENTO CANONE CONCESSORIO SPETTACOLO 10 AGOSTO 2023 "GIOBBE COVATTA IN DONNA SAPIENS".</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6067</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6034</link>
       <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6034</guid>
-    </item>
-    <item>
-      <title>02/08/2023 | Determinazioni Dirigenziali</title>
-      <description>OGGETTO: MANIFESTAZIONE DI INTERESSE PON INCLUSIONE ASSE 6  AVVISO PUBBLICO 1/2021 PRINS REACT-EU 419 EU - Asse 6 del PON INCLUSIONE 2014-2020 CENTRO SERVIZI PER IL CONTRASTO ALLA POVERTA' E SERVIZI DI HOUSING FIRST -  MEDIANTE RDO SUL MePA  CONSIP</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6033</link>
-      <pubDate>Wed, 02 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6033</guid>
     </item>
   </channel>
 </rss>
