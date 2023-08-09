@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale Consiglio Comunale seduta del 29 Giugno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12489</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12489</guid>
+    </item>
+    <item>
+      <title>Verbali</title>
+      <description>Verbale Consiglio Comunale seduta del 28 Giugno 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12488</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12488</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Affidamento per la fornitura di di uno spettacolo musicale "Sanremo è sempre Sanremo"  in data 9 agosto in Calderà - piazza delle Ancore .</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12487</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12461</link>
       <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12461</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto in busta chiusa a carico di Elit.Car.Import.Ed. Export SRLS ai sensi dell'art. 60 D.P.R.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12460</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12460</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>PNRR INVESTIMENTO 1.3.1  PIATTAFORMA DIGITALE NAZIONALE DATI COMUNI - DETERMINA A CONTRARRE E CONTESTUALE AFFIDAMENTO  CIG 9967819873 - CUP H51F22008930006</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12459</link>
-      <pubDate>Mon, 07 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12459</guid>
     </item>
   </channel>
 </rss>
