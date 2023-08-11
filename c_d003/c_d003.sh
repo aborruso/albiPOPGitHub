@@ -10,6 +10,9 @@
 ### requisiti ###
 
 set -x
+set -e
+set -u
+set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -35,7 +38,7 @@ selflink="https://aborruso.github.io/albiPOPGitHub/c_d003/feed.xml"
 
 iPA="c_d003"
 
-#http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=567&x=&sto=&pag=&mittente=&oggetto=&numero=&tipo_atto=&data_dal=&data_al=&datap_dal=&datap_al=&ordin=&servizio=
+URLBase="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1233954&w3cbt=S&StwEvent=9100030&ElencoPubblicazioni_DimensionePagina=50&ElencoPubblicazioni_PaginaCorrente=1"
 
 # crea cartelle di servizio
 mkdir -p "$folder"/rawdata
@@ -45,39 +48,28 @@ mkdir -p "$folder"/../docs/"$iPA"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-# URL di test risposta sito albo
-URLBase="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?DB_NAME=n1233954"
-
 # estrai codici di risposta HTTP dell'albo
 code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
 
 # se il server risponde fai partire lo script
 if [ $code -eq 200 ]; then
-  cd "$folder"
-  node "$folder"/"$iPA".js
+  curl -kL "$URLBase" >"$folder"/tmp.html
 else
   echo "Il sito non è raggiungibile"
   exit 1
 fi
 
-# estrai soltanto le righe
-scrape <"$folder"/tmp.html -be '//tbody/tr[contains(@class, "riga")]' | xq . >"$folder"/tmp.json
-# estrai titolo, data e id e converti in csv
-jq <"$folder"/tmp.json '.html.body.tr[]|{titolo:.td[1].div[1].strong["#text"],id:.td[2].a["@href"],data:.td[1].div[2]["#text"]}' | mlr --j2c put -S '$id=regextract($id,"[0-9]+")' >"$folder"/rawdata/"$iPA".csv
+#perl -MHTML::Entities -pe '$_ = decode_entities($_)' | recode html..utf8
 
-# Link dettaglio di esempio
-# https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica=37
-
-URLdettaglioPath="https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=102&DB_NAME=n1233954&IdMePubblica="
+<"$folder"/tmp.html scrape -be '//table/tbody/tr' | xq -c '.html.body.tr[]|{titolo:.td[1].strong[2],url:.td[2].button."@data-w3cbt-button-modale-url",data:.td[1]."#text"}' | sed -r 's/\\n(\\n)*/|/g;s/ *\| */|/g' | iconv -f utf-8 -t utf-8 -c | sed 's/[^[:print:]]//g' | mlr --j2c put '$data=regextract($data,"[0-9]{1,2}-[0-9]{1,2}-[0-9]{4}");$pubDate=strftime(strptime($data,"%d-%m-%Y"),"%a, %d %b %Y %H:%M:%S %z");$link="https://cloud.urbi.it/urbi/progs/urp/".$url."&DB_NAME=n1233954"' >"$folder"/rawdata/"$iPA".csv
 
 mlr <"$folder"/rawdata/"$iPA".csv --c2j clean-whitespace \
-  then filter -S '$data=~"dal ([0-9]{2}-[0-9]{2}-[0-9]{4})"' \
-  then put -S '$pubDate=strftime(strptime(regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%a, %d %b %Y %H:%M:%S %z");$date=strftime(strptime(regextract(regextract($data,"dal [0-9]{2}-[0-9]{2}-[0-9]{4}"),"[0-9]{2}-[0-9]{2}-[0-9]{4}"), "%d-%m-%Y"),"%Y-%m-%d");$link="'"$URLdettaglioPath"'".$id' \
   then put '$titolo=gsub($titolo,">","&gt;")' \
   then put '$titolo=gsub($titolo,"&","&amp;")' \
   then put '$titolo=gsub($titolo,"'\''","&apos;")' \
   then put '$titolo=gsub($titolo,"\"","&quot;")' \
   then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA".json
+
 
 # crea copia del template del feed
 cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml

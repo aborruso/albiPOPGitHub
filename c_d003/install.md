@@ -1,6 +1,8 @@
 ```
 sudo apt install nodejs npm
 sudo npm install -g puppeteer --unsafe-perm=true -allow-root && sudo apt install chromium-browser -y
+# in debian è chromium
+# sudo npm install -g puppeteer --unsafe-perm=true -allow-root && sudo apt install chromium -y
 sudo apt-get install xmlstarlet
 sudo apt-get install miller
 # nella cartella di progetto
