@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>DISCIPLINA DELLA CIRCOLAZIONE NELLA ZONA A TRAFFICO LIMITATO CON RILEVAMENTO ELETTRONICO DEGLI  ACCESSI - REGOLAMENTAZIONE DELLA CIRCOLAZIONE STRADALE E DISCIPLINA PER IL RILASCIO DELLE AUTORIZZAZIONI IN RELAZIONE ALLA D.G.C. N. 187 DEL 27.07.2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27581</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27581</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Alienazione alloggi ERP  zona 167 in Marina di Ginosa - via Stradella s.n.c., ditta SAVOY REOCO S.r.l.- Provvedimenti.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27579</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27520</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27520</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di gestione e data entry delle sanzioni amministrative elevate dal personale della Polizia Locale - liquidazione di spesa alla ditta SAPIDATA S.A. corrente in San Marino (RSM). CIG: ZF935651C3.-</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27519</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27519</guid>
     </item>
   </channel>
 </rss>
