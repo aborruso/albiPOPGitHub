@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>OGGETTO: CONCERTO DELL'ARTISTA "CRISTIANO MALGIOGLIO"   20 AGOSTO 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12511</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12511</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Atto di citazione in riassunzione del giudizio promosso dinnanzi al Tribunale Regionale delle Acque Pubbliche presso la Corte di Appello di Palermo da C C  contro Comune di Barcellona PG  Nomina Legale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12510</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12510</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura n.353 del 27/07/2023, servizio di esternalizzazione della gestione dell'Asilo Nido Petraro - mese di Giugno 2023 - Soc.Coop.Sociale VITASI'. CIG:93328002D8 - CUP:H69G22000570001</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12508</link>
+      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12508</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Affidamento per la fornitura di spettacoli musicali con service audio luci per le manifestazioni dei giorni 11, 12 e 13  agosto 2023 STREET FOOD Estate Barcellonese 2023. CIG: Z803C2907E</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12506</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12478</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12478</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>PROGRAMMA TRIENNALE LAVORI PUBBLICI 2023/2025  DIRETTIVE PER L'AGGIORNAMENTO DELLA PROGRAMMAZIONE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12477</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12477</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Modifica deliberazione Giunta municipale n. 151 del 26.06.2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12476</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12476</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Giudizio RG n 1004 del 2022 di opposizione a Decreto Ingiuntivo n 777 del 2022 emesso dal Tar di Catania promosso da GSG Proget Costruzioni srl + altri 2 contro Comune  di Barcellona PG Autorizzazione alla transazione.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12475</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12475</guid>
     </item>
   </channel>
 </rss>
