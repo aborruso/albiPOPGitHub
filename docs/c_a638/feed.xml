@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>"misure di prevenzione su base genetica per l'eradicazione della scrapie classica, finalizzate all'incremento dell'allele di resistenza della proteina prionica ( ARR) nell'intero patrimonio ovino nazionale", ordinanza di macellazione di ovini portatori dell' allele VRQ appartenenti all'azienda della Sig.ra Messina Patrizia, codice aziendale IT005ME006.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12513</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12513</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Immediata sospensione dei lavori art.27 comma 3 DPR 380/2001.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12512</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12480</link>
       <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12480</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Manifestazione STREET FOOD 2023 - Inserimento  in calendario -  Patrocinio  e compartecipazione -</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12479</link>
-      <pubDate>Tue, 08 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12479</guid>
     </item>
   </channel>
 </rss>
