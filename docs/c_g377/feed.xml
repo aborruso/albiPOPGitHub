@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>14/08/2023 | Determinazioni Dirigenziali</title>
+      <description>"SERE D'ESTATE A PATTI" 2023. AFFIDAMENTO SERVIZIO DI SPETTACOLO PIROTECNICO  DITTA TUMORE FUOCHI DARTIFICIO GIORNO 14/08/2023 CIG Z643C325D2</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6096</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6096</guid>
+    </item>
+    <item>
+      <title>14/08/2023 | Determinazioni Dirigenziali</title>
       <description>ESTATE AZZURRA" 2023 - AFFIDAMENTO SERVIZIO DI ASSISTENZA AUDIO-LUCI - MANIFESTAZIONE GIORNO 17 AGOSTO 2023 - CIG: Z393C3230E.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6095</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6060</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6060</guid>
-    </item>
-    <item>
-      <title>04/08/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura pedonale Lungomare di Mongiove: tutti i giorni dal 07 agosto 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6059</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6059</guid>
     </item>
   </channel>
 </rss>
