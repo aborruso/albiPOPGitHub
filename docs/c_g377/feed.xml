@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/08/2023 | Determinazioni Dirigenziali</title>
+      <description>Affidamento diretto Servizio Sociale Professionale ai sensi dell'art. 50, comma 1, lett. a) del D. Lgs. N. 36/2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6097</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6097</guid>
+    </item>
+    <item>
       <title>14/08/2023 | Determinazioni Dirigenziali</title>
-      <description>"SERE D'ESTATE A PATTI" 2023. AFFIDAMENTO SERVIZIO DI SPETTACOLO PIROTECNICO  DITTA TUMORE FUOCHI DARTIFICIO GIORNO 14/08/2023 CIG Z643C325D2</description>
+      <description>"SERE D'ESTATE A PATTI" 2023 - AFFIDAMENTO SERVIZIO DI SPETTACOLO PIROTECNICO - DITTA: "TUMORE S.R.L. FUOCHI DARTIFICIO" - GIORNO 14 agosto 2023 - CIG: Z643C325D2.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6096</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6096</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6061</link>
       <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6061</guid>
-    </item>
-    <item>
-      <title>04/08/2023 | Determinazioni Dirigenziali</title>
-      <description>Presa atto del Verbale N. 01 dell'01/08/2023 relativo alla proposta di aggiudicazione  ai sensi dell'art. 17 comma 5 del D.Lgs. n. 36/2023 e s.m.i. del SERVIZIO TEMPORANEO E SPERIMENTALE DEL TRASPORTO DI PERSONE AI FINI TURISTICI/RICREATIVI, MEDIANTE BUS/NAVETTA SU GOMMA IN LOCALITA' TINDARI DURANTE LA STAGIONE ESTIVA E AUTUNNALE - PERIODO: 1 AGOSTO - 31 DICEMBRE 2023 - SIMOG - CIG: 998303229F.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6060</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6060</guid>
     </item>
   </channel>
 </rss>
