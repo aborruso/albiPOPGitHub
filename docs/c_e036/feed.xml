@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione del traffico a seguito degli interventi di riqualificazione del Lungomare L. Strada e di parte di Via Pola Modifiche ed integrazioni dell'ordinanza n. 63 del 28.07.2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27653</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27653</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione del servizio di parcheggio a pagamento su aree pubbliche in Ginosa e Marina di Ginosa ai sensi della D. G. C. n. 117 del 22.07.2020</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27652</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27652</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Determina a contrarre indizione procedura di gara telematica aperta ai sensi degli artt. 71 e 108, co. 2 del D.Lgs.n.36/2023 e s.m.i.per l'affidamento del "Servizio di mensa scolastica in favore degli alunni, del personale docente e non docente, pres</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27650</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27593</link>
       <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27593</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>APPROVAZIONE REGOLAMENTO "COMMISSIONE MENSA" SCOLASTICA</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27592</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27592</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Approvazione del Regolamento Comunale per la Gestione dei rifiuti solidi urbani</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27591</link>
-      <pubDate>Fri, 11 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27591</guid>
     </item>
   </channel>
 </rss>
