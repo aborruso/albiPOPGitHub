@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>21/08/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6121</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6121</guid>
+    </item>
+    <item>
       <title>21/08/2023 | Verbali Risultanze Di Gara</title>
       <description>Verbale di gara N. 1 del 18/08/2023 - Servizio di noleggio macchine multifunzione digitali per gli Uffici Comunali per 16 mesi.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6120</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6087</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6087</guid>
-    </item>
-    <item>
-      <title>14/08/2023 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità Lungomare C. F. Zuccarello in occasione della manifestazione "Estate Azzurra" per il centenario dell'Aeronautica Militare: 17 - 20 agosto 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6086</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6086</guid>
     </item>
   </channel>
 </rss>
