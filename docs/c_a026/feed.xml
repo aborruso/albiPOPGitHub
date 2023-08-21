@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/200243</title>
+      <description>PUBBLICAZIONE ALBO PRETORIO DESPOITO VEICOLO BT589NN</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458905</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458905</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/200241</title>
+      <description>PUBBLICAZIONE ALBO PRETORIO DESPOITO VEICOLO BF141WN</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458903</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458903</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1444</title>
       <description>COSTITUZIONE DEL FONDO DELLE RISORSE DESTINATE ALLE POLITICHE DI SVILUPPO DELLE RISORSE UMANE E DELLA PRODUTTIVITÀ ANNO 2023 ART. 14 E ART.15 DEL CCNL RR.AA.LL DEL 1/4/1999 E SUCCESSIVE MODIFICHE ED INTEGRAZIONI.</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458863</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458824</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458824</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/248</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI PULVIRENTI ALESSIO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458822</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458822</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/247</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI CUTULI GIUSEPPE, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458820</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458820</guid>
     </item>
   </channel>
 </rss>
