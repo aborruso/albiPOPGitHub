@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/255</title>
+      <description>PRESCRIZIONI RELATIVE ALLO SPARO DI FUOCHI D'ARTIFICIO IN OCCASIONE DELLE FESTIVITÀ IN ONORE DI MARIA SS IMMACOLATA NEI GIORNI 22, 26 E 27 AGOSTO 2023 .</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458959</link>
+      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458959</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/200243</title>
       <description>PUBBLICAZIONE ALBO PRETORIO DESPOITO VEICOLO BT589NN</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458905</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458826</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458826</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/249</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI GIORDANO ANGELO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458824</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/458824</guid>
     </item>
   </channel>
 </rss>
