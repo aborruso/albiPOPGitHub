@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Ordinanza di accertamento sanitario obbligatorio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12548</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12548</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Delibera di Giunta n. 193 del 11/08/2023 - fattura n. 57 del 17/08/2023 prot.  del 21.08.2023 emessa da Color Group SRL quale acconto per la prestazione dell'Artista Cristiano Malgioglio del 20 agosto 2023. - CIG ZF43C34BA7.  Liquidazione.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12546</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12518</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12518</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione divieto di transito e di sosta con rimozione ambo i lati in via Calderà tratto tra la via V Calderà e via Fiera Franca -  via Spiaggia Calderà, nel giorno 19 agosto 2023 dalle ore 17:00 alle ore 24:00.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12516</link>
-      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12516</guid>
     </item>
   </channel>
 </rss>
