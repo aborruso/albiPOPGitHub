@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>APPROVAZIONE REGOLAMENTO DISCIPLINANTE MISURE PREVENTIVE PER SOSTENERE IL CONTRASTO DELL'EVASIONE DEI TRIBUTI LOCALI AI SENSI DELL'ART. 15 TER DEL DEL DECRETO-LEGGE30 APRILE 2019, N. 34 COSI' COME MODIFICATO DALLA LEGGE DI CONVERSIONE 28 GIUGNO 2019, N.54...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25155</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25155</guid>
+    </item>
+    <item>
+      <title>Delibera Di Consiglio</title>
+      <description>MODIFICA DELL'ART.34 DELLA N.T.A. DEL VIGENTE P.R.G. APPROVATO IN VARIANTE CON D.D.G. N.368 DEL 10.11.2015-RINVIATA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25154</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25154</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 133: MODIFICA ORDINANZA SINDACALE N. 125 DEL 21/07/2023 ORDINANZA CONTINGIBILE ED URGENTE PER LA TUTELA DELL'INCOLUMITA' PUBBLICA PER MOTIVI IGIENICO-SANITARIO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25153</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25128</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25128</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa in favore della Sig.ra Zaffuto Maria Loredana per servizio Hostess durante la manifestazione  Castelbuono Jazz Festival 2023 18/26 agost...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25127</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25127</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno in favore della ditta Group Communication per fornitura impianti Media Mix relativi alla manifestazione Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25126</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25126</guid>
     </item>
   </channel>
 </rss>
