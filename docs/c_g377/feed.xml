@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/08/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 34/2023, dell'11/07/23 - Ditta: Tecnosistemi di Bastino Domenico.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6125</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6125</guid>
+    </item>
+    <item>
       <title>21/08/2023 | Determinazioni Dirigenziali</title>
       <description>PROGETTO "67° TINDARI FESTIVAL 2023 TRADIZIONI" - PAGAMENTO SERVIZIO IN PLUS ORARIO PERSONALE DI CUSTODIA TEATRO GRECO DI TINDARI PER MANIFESTAZIONI GIORNI 23 E 27 AGOSTO 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6124</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6091</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6091</guid>
-    </item>
-    <item>
-      <title>14/08/2023 | Determinazioni Dirigenziali</title>
-      <description>AUTORIZZAZIONE LAVORO STRAORDINARIO DEL PERSONALE DIPENDENTE DEL II° SETTORE "SERVIZI TECNICI" PER L'ANNO 2023 - IMPEGNO SPESA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6090</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6090</guid>
     </item>
   </channel>
 </rss>
