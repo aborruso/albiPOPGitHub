@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Impegno in favore dell'Associazione AssTour Italia per realizzazione concerto del 26 agosto 2023 - "Mostra I Siciliani" - Castelbuono Jazz Festival 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25188</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25188</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno in favore della Società ELIMAR srl per concerto a Castelbuono il 25 agosto 2023 - Castelbuono jazz Festival 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25187</link>
+      <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25187</guid>
+    </item>
+    <item>
       <title>Ditta: Alca Chimica s.r.l. con se..."</title>
       <description>"Liquidazione fatture: n. 172/PA del 28/07/2023, e n.201/PA del 10/08/2023 per la fornitura di ipoclorito di sodio 16,5% per clorare l'acqua potabile e la disinfezione delle acque di scarico del depuratore comunale. </description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25186</link>
@@ -162,6 +176,41 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25166</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25166</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione compenso per incarico esperto del Sindaco relativamente agli adempimenti connessi ai finanziamenti del PNRR periodo luglio 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25165</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25165</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione alla ditta Martorana Franca per fornitura materiale laboratori - XXVI edizione "Castelbuono è una Favola" 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25164</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25164</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno spesa in favore  della Sphere Music International srls per il concerto "Le Mille Bolle Blue" degli artisti Stefano Di Battista &amp; Nicky Nicolai quintet che si terrà il 24 agosto a Castelbuono nell'ambito del Castelbuono Jazz Festival 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25163</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25163</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno spesa in favore  del musicista Claudio Giambruno per la partecipazione al concerto "La Notte del Sax" che si terrà il 23 agosto a Castelbuono nell'ambito del Castelbuono Jazz Festival 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25162</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25162</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno spesa in favore  del musicista Maurizio Giammarco per la partecipazione al concerto "La Notte del Sax" che si terrà il 23 agosto a Castelbuono nell'ambito del Castelbuono Jazz Festival 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25161</link>
+      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25161</guid>
     </item>
   </channel>
 </rss>
