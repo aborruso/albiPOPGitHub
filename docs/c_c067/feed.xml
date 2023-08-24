@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina Del Direttore  Museo Civico</title>
+      <description>IMPEGNO DI SPESA IN FAVORE DELL'ARTISTA IONEE  WATERHOUSE PER LA REALIZZAZIONE DEL PROGETTO "ECHOES" ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25189</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25189</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno in favore dell'Associazione AssTour Italia per realizzazione concerto del 26 agosto 2023 - "Mostra I Siciliani" - Castelbuono Jazz Festival 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25188</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25162</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25162</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa in favore  del musicista Maurizio Giammarco per la partecipazione al concerto "La Notte del Sax" che si terrà il 23 agosto a Castelbuono nell'ambito del Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25161</link>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25161</guid>
     </item>
   </channel>
 </rss>
