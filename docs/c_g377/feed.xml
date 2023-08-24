@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/08/2023 | Ordinanze Dirigenziali</title>
+      <description>"8° Tindari Rally"- Prove speciali Moreri - Chiusura al transito SP 119 e SP 120: domenica: 27 agosto 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6146</link>
+      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6146</guid>
+    </item>
+    <item>
       <title>23/08/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>TRASPORTO E MESSA IN OPERA DI CONGLOMERATO BITUMINOSO - LIQUIDAZIONE FATTURA N. FPA 1/23 - DITTA: EDILMOVITER S.A.S. DI PETTINA TONINO &amp; C.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6145</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>23/08/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA MURETTI DEL LUNGOMARE DI MONGIOVE - LIQUIDAZIONE FATTURA AL I° STATO AVANZAMENTO LAVORI - IMPRESA: VS COSTRUZIONI DI SCAFFIDI VINCENZO.</description>
+      <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA MURETTI DEL LUNGOMARE DI MONGIOVE - LIQUIDAZIONE FATTURA AL I° STATO DI AVANZAMENTO LAVORI - IMPRESA: VS COSTRUZIONI DI SCAFFIDI VINCENZO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6144</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6144</guid>
@@ -67,7 +74,7 @@
     </item>
     <item>
       <title>23/08/2023 | Avvisi Vari</title>
-      <description>FONDO NAZIONALE PER IL SOSTEGNO ALL'CCESSO DELLE ABITAZIONI IN LOCAZIONE - ANNO 2021.</description>
+      <description>FONDO NAZIONALE PER IL SOSTEGNO ALL'ACCESSO DELLE ABITAZIONI IN LOCAZIONE - ANNO 2021.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6138</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6138</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6112</link>
       <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6112</guid>
-    </item>
-    <item>
-      <title>17/08/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI SPAZZAMENTO, RACCOLTA E TRASPORTO ALLO SMALTIMENTO DEI RIFIUTI SOLIDI URBANI DIFFERENZIATI E INDIFFERENZIATI, COMPRESI QUELLI ASSIMILATI, ED ALTRI SERVIZI DI IGIENE PUBBLICA ALL'INTERNO DELL'ARO PATTI - MESE DI GIUGNO 2023 - LIQUIDAZIONE FATTURA N FE/2023/0187 DEL 30/06/2023 - DITTA: PIZZO PIPPO - CIG: 6257388FEA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6111</link>
-      <pubDate>Thu, 17 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6111</guid>
     </item>
   </channel>
 </rss>
