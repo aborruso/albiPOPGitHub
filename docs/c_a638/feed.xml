@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto, verbale di contravvezione a carico di Maugeri Isidoro Antonino</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12572</link>
+      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12572</guid>
+    </item>
+    <item>
       <title>Concessioni Edilizie</title>
       <description>Permesso di costruire   n° 29/2023 in ditta  Maio Antonino e Maio  Emanuele  Via Case Alesci  n. 93/G Barcellona P.G.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12571</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12544</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12544</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rafforzamento della capacità di accoglienza, inclusione e accompagnamento all'autonomia dei MSNA nella rete SIPROIMI  - Progetto 1833 -  Liquidazione fattura n°16 del 6-06-2023 prot.30163 del 08/06/2023  -  Soc.Coop.Sociale UTOPIA CIG 9781162639   -</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12543</link>
-      <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12543</guid>
     </item>
   </channel>
 </rss>
