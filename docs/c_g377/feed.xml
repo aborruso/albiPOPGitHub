@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Determine Dirigenziali Di Liquidazione |  CIG: Z1139EB3DC"</title>
+      <description>"ACQUISTO MATERIALE ELETTRICO VARIO NECESSARIO PER LA MANUTENZIONE DEGLI IMPIANTI IDRICI E FOGNARI E DEGLI STABILI COMUNALI. DITTA: SAM S.R.L.  LIQUIDAZIONE FATTURA N. 1062/23 del 24.08.2023</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6164</link>
+      <pubDate>28/08/2023	Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6164</guid>
+    </item>
+    <item>
       <title>26/08/2023 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta corsia monte via C.F. Zuccarello per lavori di relamping: dal 29 al 31/08/23</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6163</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6130</link>
       <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6130</guid>
-    </item>
-    <item>
-      <title>22/08/2023 | Ordinanze Dirigenziali</title>
-      <description>Pulizia verde pubblico area a monte della Via Cattaneo: 25 agosto 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6129</link>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6129</guid>
     </item>
   </channel>
 </rss>
