@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°30 del 22/08/2023 -Pratica Edilizia n°22344 in Ditta Donato Marianna</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12599</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12599</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso cambio cognome da "SANTANGELO" a "ALESSI"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12598</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12570</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12570</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Ordinanza di ricovero urgente in T.S.O.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12569</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12569</guid>
     </item>
   </channel>
 </rss>
