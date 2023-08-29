@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Proroga termini per l'iscrizione al bando di corso base di 1° livello con selezione finale di merito per la formulazione di una graduatoria di validità triennale per Agenti di Polizia Locale Cat. C1 va</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27699</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27699</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina della circolazione stradale in dipendenza di lavori di interventi urgenti di manutenzione del basolato di Corso Vittorio Emanuele nell'abitato di Ginosa - dal 28.08.2023 al 30.09.2023 - Ditta BITETTI EDIL SCAVI s.r.l. -</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27698</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=16678</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=16678</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Ordinanza sindacale n.57 del 31.08.2020 - Emergenza Covid-19: Misure organizzative dei servizi e degli uffici comunali fino al 11.09.2020</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=16552</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=16552</guid>
     </item>
   </channel>
 </rss>
