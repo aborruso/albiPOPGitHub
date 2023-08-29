@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/08/2023 | Atti Di Interesse Generale</title>
+      <description>VOLTURA FORNITURA IDRICA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6171</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6171</guid>
+    </item>
+    <item>
+      <title>29/08/2023 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6170</link>
+      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6170</guid>
+    </item>
+    <item>
       <title>29/08/2023 | Manifestazioni Di Interesse</title>
       <description>MANIFESTAZIONE DI INTERESSE DA PARTE DI PRIVATI CHE POSSONO LEGITTIMAMENTE DISPORRE DI STRUTTURE RICETTIVE, EDIFICI, VILLE, AGRITURISMI, DI PARTICOLARE VALORE STORICO, ARCHITETTONICO, AMBIENTALE, ARTISTICO O TURISTICO, SITE NEL TERRITORIO COMUNALE, PER LA CONCESSIONE IN COMODATO GRATUITO, DI LOCALI E RELATIVE PERTINENZE IDONEI AI FINI DELL'ISTITUZIONE DI SEPARATI UFFICI DI STATO CIVILE PER LA SOLA CELEBRAZIOINE DI MATRIMONI CIVILI O COSTITUZIONE DELLE UNIONI CIVILI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6169</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6137</link>
       <pubDate>Wed, 23 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6137</guid>
-    </item>
-    <item>
-      <title>22/08/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TINDARI EXTRA FESTIVAL 2023 "TRADIZIONI" - PAGAMENTO CANONE CONCESSORIO SPETTACOLO 23 AGOSTO 2023 - "JAZZ IN PROGRESS".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6136</link>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6136</guid>
-    </item>
-    <item>
-      <title>22/08/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RIMBORSO SPESE VIAGGIO SOSTENUTE DAL DR. MESSINA GIROLAMO - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6135</link>
-      <pubDate>Tue, 22 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6135</guid>
     </item>
   </channel>
 </rss>
