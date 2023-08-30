@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Marina di Ginosa - dal 04 al 23.09.2023 - Ditta Petito Costruzioni Srl - Salic</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27736</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27736</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Misure a tutela della circolazione stradale in Ginosa dal giorno 04 settembre al giorno 18 ottobre 2023 e comunque fino a cessata esigenza per LAVORI DI COMPLETAMENTO DI TRONCHI IDRICI E FOGNANTI - C.da Marinella - Ditta F.lli Andresini Srl</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27735</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27735</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Proroga servizio ritiro bolgette anno 2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27734</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27676</link>
       <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27676</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Rimborso diritti di segreteria per richiesta di permesso di costruire non depositata</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27675</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27675</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Procedura di gara mediante R.d.O. MePa per l'affidamento della fornitura ed installazione di segnaletica stradale verticale ed orizzontale per l'abitato di Ginosa e Marina di Ginosa - Previsioni PUMS Regolazione della circolazione ed altri interventi</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27674</link>
-      <pubDate>Fri, 18 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27674</guid>
     </item>
   </channel>
 </rss>
