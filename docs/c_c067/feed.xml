@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Cambio Di Nome</title>
+      <description>CAMBIO DI NOME...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25221</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25221</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>"AVVISO PUBBLICO PER CONSULTAZIONE PRELIMINARE DI MERCATO IN NOME E PER CONTO DEI COMUNI SOCI"...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25220</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25220</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno spesa in favore dell'Associazione  Culturale e Teatrale Nuova Palermo per organizzazione e realizzazione della 3^ ediz. della rassegna "Castelbuono Teatro" dal 28 al 31 agosto 2023 presso il chiostro di San Francesc...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25219</link>
@@ -71,13 +85,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25212</link>
       <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25212</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>AVVISO PER ACQUISIZIONE DI MANIFESTAZIONE D'INTERESSE PER L'AFFIDAMENTO DEI SERVIZI TECNICI DI:  DIREZIONE LAVORI, MISURA E CONTABILITA'; COORDINATORE DELLA SICUREZZA IN FASE DI ESECUZIONE; DIREZIONE GEOLOGICA E COLLAUDO STATICO IN C.O.; PER LAVORI DI " ADEGUAMENTO STRUTTURE SCUOLA MATERNA DI VIA LAZIO, DA RICONVERTIRE IN CENTRO PER SERVIZI INTEGRATI PER IL NIDO E PER L'INFANZIA" NEL COMUNE DI GANGI (PA)...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25211</link>
-      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25211</guid>
     </item>
     <item>
       <title>Determinazione Del Segretario Generale</title>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25192</link>
       <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25192</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>IMPEGNO DI SPESA IN FAVORE DELL'ASSOCIAZIONE CULTURALE "GLENN GOULD", CON SEDE A  CASTELBUONO, IN VIA DEL ROSARIO N. 2, PER COMPARTECIPAZIONE DEL MUSEO CIVICO ALLE SPESE PER LA PROPOSTA ARTISTICA OFFERTA IN OCCASIONE DI YPSIGROCK FESTIVAL 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25191</link>
-      <pubDate>Thu, 24 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25191</guid>
     </item>
   </channel>
 </rss>
