@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/08/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI  MEDICINA NECROSCOPICA - SETTEMBRE 2023</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6183</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6183</guid>
+    </item>
+    <item>
+      <title>31/08/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZIO IGIENE PUBBLICA -  MESE SETTEMBRE 2023</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6182</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6182</guid>
+    </item>
+    <item>
       <title>30/08/2023 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6181</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6149</link>
       <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6149</guid>
-    </item>
-    <item>
-      <title>25/08/2023 | Determinazioni Dirigenziali</title>
-      <description>CARTELLONE "67° TINDARI FESTIVAL 2023 "TRADIZIONI" - AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA ASSOCIAZIONE "BABEL CREW" PER LO SPETTACOLO DEL 27 AGOSTO 2023 - "GIUDEI A TINDARI".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6148</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6148</guid>
-    </item>
-    <item>
-      <title>25/08/2023 | Determinazioni Dirigenziali</title>
-      <description>CARTELLONE "67° TINDARI FESTIVAL 2023 "TRADIZIONI" - AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA ASSOCIAZIONE MUSICALE "ETNEA" PER LO SPETTACOLO DEL 27 AGOSTO 2023 -  "GIUDEI A TINDARI".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6147</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6147</guid>
     </item>
   </channel>
 </rss>
