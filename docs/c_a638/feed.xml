@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bando Di Concorso</title>
+      <description>Premio Nazionale di Poesia "Nino Ferraù" 2023. Edizione del Centenario della nascita</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12628</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12628</guid>
+    </item>
+    <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi (L.R. n.27/86 e D.Lgs.vo n.152/06) - Validità 4 anni (quattro). Ditta: La Mora Siciliana S.p.A. - rapp. Calabrò Maria Antonietta Attività: Laboratorio di pasticceria ubicazione: via degli Artigiani n. 6</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12627</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12627</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Elenco abusivismo edilizio mese di Agosto 2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12626</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12601</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12601</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso cambio cognome da "Terranova " a "Sofia"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12600</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12600</guid>
-    </item>
-    <item>
-      <title>Concessioni Edilizie</title>
-      <description>Permesso di costruire n°30 del 22/08/2023 -Pratica Edilizia n°22344 in Ditta Donato Marianna</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12599</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12599</guid>
     </item>
   </channel>
 </rss>
