@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori di costruzione e manutenzione reti ed allacci gas metano relativi al contratto numero 8400103731 nell'abitato di Marina di Ginosa - dal 05 al 08.09.2023 e/o al fine lavori - Ditta Del Fiu</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27737</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27737</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Marina di Ginosa - dal 04 al 23.09.2023 - Ditta Petito Costruzioni Srl - Salic</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27736</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
@@ -353,20 +360,6 @@
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27688</guid>
     </item>
     <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Mastronardi Barbara</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27502</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27502</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire In Sanatoria</title>
-      <description>AVVISO PUBBLICO Pratica n. 1405/C - P. di C. n. 047/2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27501</link>
-      <pubDate>Fri, 04 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27501</guid>
-    </item>
-    <item>
       <title>Avviso Pubblico</title>
       <description>bando di corso con selezione finale per Istruttori Tecnici a Tempo determinato cat. C e formazione di una graduatoria di merito valida per i comuni delle province d'Italia ( INTEGRAZIONE RICEVUTA IN DATA 21/07/2023 CON PROT. 21547)</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27356</link>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=15198</link>
       <pubDate>Tue, 17 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=15198</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Ordinanza n.9 del 27-02-2020 - Chiusura scuole di ogni ordine e grado e dei centri diurni per i giorni 27 28 e 29 febbraio 2020</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=15059</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=15059</guid>
     </item>
   </channel>
 </rss>
