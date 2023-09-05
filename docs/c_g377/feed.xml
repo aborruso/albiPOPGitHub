@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/09/2023 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N.12 DEL 05/09/2023</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6209</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6209</guid>
+    </item>
+    <item>
       <title>05/09/2023 | Determinazioni Dirigenziali</title>
       <description>Impegno spesa per rinnovo convenzione con ambulatorio veterinario</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6208</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6175</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6175</guid>
-    </item>
-    <item>
-      <title>30/08/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI MANUTENZIONE ORDINARIA PER MESI 12 DELL'IMPIANTO ELEVATORE SITO NEL PALAZZO COMUNALE DI PIAZZA SCAFFIDI - DITTA: SAME DI MICHELE SACCÀ &amp; C. S.R.L. - LIQUIDAZIONE FATTURA N.787/23.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6174</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6174</guid>
     </item>
   </channel>
 </rss>
