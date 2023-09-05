@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/09/2023 | Ordinanze Sindacali</title>
+      <description>DIVIETO DI SOMMINISTRAZIONE, VENDITA, CONSUMO E DETENZIONE DI ALIMENTI E BEVANDE IN CONTENITORI DI VETRO O IN METALLO NONCHÉ USO DI GPL  FESTA DELLA MADONNA DEL TINDARI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6211</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6211</guid>
+    </item>
+    <item>
+      <title>05/09/2023 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6210</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6210</guid>
+    </item>
+    <item>
       <title>05/09/2023 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N.12 DEL 05/09/2023</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6209</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6177</link>
       <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6177</guid>
-    </item>
-    <item>
-      <title>30/08/2023 | Determinazioni Dirigenziali</title>
-      <description>LAVORI SOMMA URGENZA PER RIPRISTINO FUNZIONALITÀ DEGLI IMPIANTI DI SOLLEVAMENTO REFLUI PLAYA E KOODOO - DELIBERA CONSIGLIO COMUNALE N. 63/2023 - IMPEGNO SPESA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6176</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6176</guid>
-    </item>
-    <item>
-      <title>30/08/2023 | Determinazioni Dirigenziali</title>
-      <description>LAVORI SOMMA URGENZA PER INTERVENTO AUTOESPURGO NELLE CONDOTTE FOGNARIE IN LARGO FONTANA, VIE ADIACENTI E VIA PLAYA - DELIBERA CONSIGLIO COMUNALE N. 62/2023 - IMPEGNO SPESA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6175</link>
-      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6175</guid>
     </item>
   </channel>
 </rss>
