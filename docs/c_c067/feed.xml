@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Bando</title>
+      <description>P.A.L. COMUNITA' RURALI RESILIENTI_BANDO OP. 6.4 AMBITO 2 (TERZA EDIZIONE) COD. UNIVOCO 75546-COMUNICAZIONE TERMINI INIZIALI E FINALI DI PRESENTAZIONE DELLE DOMANDE DI SOSTEGNO ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25265</link>
+      <pubDate>Tue, 05 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25265</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Liquidazione imposta di registro in favore dell'Agenzia delle Entrate di Palermo in relazione all'avviso di liquidazione n. 2022/004/SC/000002116/0/002 - Causa Ingrassia Giuseppe c/ Comun...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25264</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25238</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25238</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>PRESA D'ATTO DELLE RISULTANZE DEI CONTROLLI SUCCESSIVI DI REGOLARITÀ AMMINISTRATIVA RELATIVI AL II SEMESTRE 2022. REPORT 2022...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25237</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25237</guid>
     </item>
   </channel>
 </rss>
