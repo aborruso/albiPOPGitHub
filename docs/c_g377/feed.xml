@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/09/2023 | Determinazioni Del Sindaco</title>
+      <description>Presa d'atto delibera Comitato dei Sindaci n. 7 del 12/06/2023 riprogrammazione azione progettuale PDZ 2019/2020.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6227</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6227</guid>
+    </item>
+    <item>
+      <title>07/09/2023 | Ordinanze Dirigenziali</title>
+      <description>Rimodulazione chiusura corsia lato mare via Zuccarello.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6226</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6226</guid>
+    </item>
+    <item>
       <title>06/09/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>POSTA CERTIFICATA: Apertura bando IX edizione Master GIScience e droni UNIPD</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6225</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6193</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6193</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Determinazioni Dirigenziali</title>
-      <description>Ricovero minore M. AL. su disposizione dell'Autorità Giudiziaria presso la Coop Sociale Arzilla "L'Isola del Sorriso" dal 12 giugno al 31 dicembre 2023 - Impegno spesa - CIG: ZB43C44EE5.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6192</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6192</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Manifestazioni Di Interesse</title>
-      <description>INDAGINE DI MERCATO ESPLORATIVA RELATIVA ALLA "FORNITURA GOMME, CAMERE D'ARIA, RIPARAZIONE, EQUILIBRATURA E CONVERGENZA PER GLI AUTOMEZZI COMUNALI".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6191</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6191</guid>
     </item>
   </channel>
 </rss>
