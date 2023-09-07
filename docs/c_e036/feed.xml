@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 62</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27769</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27769</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Legge 21.11.2000, n. 353 e s.m.i., "Legge-quadro in materia di incendi boschivi" - AVVISO DI DEPOSITO ELENCHI DELLE AREE PERCORSE DAL FUOCO NELL'ANNO 2022.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27768</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27710</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27710</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di inumazione, esumazione, tumulazione, estumulazione delle salme, nonché manutenzione, assistenza e custodia del cimitero  - CIG 9582049CF8 - Liquidazione corrispettivo Periodo LUGLIO 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27709</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27709</guid>
     </item>
   </channel>
 </rss>
