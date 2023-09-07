@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/09/2023 | Ordinanze Dirigenziali</title>
+      <description>Rettifica Ordinanza n. 182/23.  Disposizioni per lavori in via Natoli Gatto - 12.09.23. Disposizioni per lavori in via Ten. Natoli - 14/09/23</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6232</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6232</guid>
+    </item>
+    <item>
+      <title>07/09/2023 | Determinazioni Dirigenziali</title>
+      <description>INTEGRAZIONE ALLA DETERMINA N.5 DEL 11.08.2023. DECRETO N. 18/2023.  RICHIESTA CONTRIBUTO   CUP  C41F23000820001</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6231</link>
+      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6231</guid>
+    </item>
+    <item>
       <title>07/09/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE BOLLETTE FORNITURA DI GAS  "ENEL ENERGIA SPA" NEI LOCALI COMUNALI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6230</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6198</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6198</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Atti Di Interesse Generale</title>
-      <description>PREMIO NAZIONALE DI POESIA "NINO FERRAU'" 2023 - EDIZIONE DEL CENTENARIO DELLA NASCITA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6197</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6197</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura temporanea al transito della Via V. Emanuele, da incrocio con Via XX Settembre a incrocio con Via C. Battisti, per lavori: 04 settembre 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6196</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6196</guid>
     </item>
   </channel>
 </rss>
