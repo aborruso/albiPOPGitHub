@@ -17,18 +17,32 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/09/2023 | Avvisi Deposito Atti</title>
+      <description>AFVVISO DEPOSITO ATTI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6237</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6237</guid>
+    </item>
+    <item>
+      <title>08/09/2023 | Concessioni E Permessi Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE IN SANATORIA N. 2/2023 - Art. 32 del D. L. N. 269/03 convertito nella Legge N. 326/03.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6236</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6236</guid>
+    </item>
+    <item>
+      <title>08/09/2023 | Determinazioni Dirigenziali</title>
+      <description>Servizio trasporto scolastico per gli alunni che viaggiano da zone: Linea A Scarpiglia, Madoro, Masseria, Malafarina, Moreri e Patti e viceversa e Linea B Scala, Locanda e Tindari e viceversa - Periodo: 11 settembre/dicembre 2023 come da calendario scolastico.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6235</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6235</guid>
+    </item>
+    <item>
       <title>08/09/2023 | Ordinanze Dirigenziali</title>
       <description>Revoca Ordinanze N.ri 162 e 174/2023 - Isola pedonale Lungomare Mongiove.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6234</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6234</guid>
-    </item>
-    <item>
-      <title>08/09/2023 | Determinazioni Del Sindaco</title>
-      <description>ATTO DI DELEGA DI FUNZIONI DI UFFICIALE ELETTORALE E NOMINA RESPONSABILE DELL'UFFICIO ELETTORALE COMUNALE E RELATIVO SOSTITUTO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6233</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6233</guid>
     </item>
     <item>
       <title>07/09/2023 | Ordinanze Dirigenziali</title>
@@ -39,7 +53,7 @@
     </item>
     <item>
       <title>07/09/2023 | Determinazioni Dirigenziali</title>
-      <description>INTEGRAZIONE ALLA DETERMINA N. 5 DELL'11 AGOSTO 2023 - DECRETO N. 18/2023 - RICHIESTA CONTRIBUTO -  CUP: C41F23000820001.</description>
+      <description>INTEGRAZIONE ALLA DETERMINA N. 5 DELL'11 AGOSTO 2023 - DECRETO N. 18/2023 - RICHIESTA CONTRIBUTO - CUP: C41F23000820001.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6231</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6231</guid>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6201</link>
       <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6201</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Determinazioni Dirigenziali</title>
-      <description>REALIZZAZIONE  MANIFESTAZIONE "UMANA 2" - PROMOSSA DALL'ASSOCIAZIONE INPUT - IMPEGNO SPESA PER SIAE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6200</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6200</guid>
-    </item>
-    <item>
-      <title>01/09/2023 | Determinazioni Dirigenziali</title>
-      <description>CONCESSIONE PERMESSI LAVORATIVI RETRIBUITI AI SENSI DELL'ART. 33, COMMA  3, DELLA LEGGE 104/92 AL DIPENDENTE "OMISSIS".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6199</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6199</guid>
     </item>
   </channel>
 </rss>
