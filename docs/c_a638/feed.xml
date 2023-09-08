@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Concessione preferenziale presentata in data 11/08/2000 per l'utilizzo delle acque sotterranee scoperte a mezzo pozzo trivellato in Barcellona P.G. C/da Oreto Foglio di mappa 6 Particella 904 ex 349. Domanda di voltura e di aggiornamento Ditta: Laura Ryolo S.R.L. Società Agricola  ex Ryolo Laura. Ordinanza d'istruttoria.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12696</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12696</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Sicurezza all'interno dell'ampliamento del Cimitero Comunale  Lotto "C" San Paolo  Cantieri di lavoro per la realizzazione di tombe (cappelle, edicole, ed altre) da parte di privati committenti concessionari di aree - Sospensione di tutte le attività</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12695</link>
+      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12695</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Legge 448 del 1998 art 66  Assegno di Maternità istanze pervenute nei mesi di Giugno-Luglio</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12694</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12669</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12669</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Enel Energia s.p.a. fornitura di luce presso le Scuole Elementari, del 12.06.2023, relative al mese di maggio 2023  Totale euro 5.272,13 oltre IVA euro 1.159,88</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12668</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12668</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione  fatture Enel  Energia s.p.a. fornitura di luce presso le Scuole Materne, del 12 giugno 2023, relative al mese di maggio 2023  Totale euro 2.596,13 oltre IVA euro 571,15</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12667</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12667</guid>
     </item>
   </channel>
 </rss>
