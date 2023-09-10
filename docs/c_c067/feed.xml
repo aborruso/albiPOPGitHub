@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
-      <title>Avviso Di Deposito</title>
-      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUN...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25315</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25315</guid>
-    </item>
-    <item>
       <title>Determina</title>
       <description>LAVORI DI MANUTENZIONE STRAORDINARIA DELLA VIA MARIO LEVANTE: RIQUALIFICAZIONE ED ADEGUAMENTO APPROVAZIONE ATTI DI CONTABILITA' FINALE E CERTIFICATO DI REGOLARE ESECUZIONE ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25314</link>
@@ -211,6 +204,13 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25288</link>
       <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25288</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 146: AFFIDAMENTO DEFINITIVO DEL CANE DI NOME MILO SESSO MASCHIO, MANTELLO FULVO-CORTO, TAGLIA PICCOLA, ALLA SIGNORA GOLINO PATRICIA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25287</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25287</guid>
     </item>
   </channel>
 </rss>
