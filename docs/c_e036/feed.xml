@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Modalità svolgimento della fiera e festa del 2 ottobre 2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27779</link>
+      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27779</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo in favore dell'Associazione Lotto Volante APS.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27777</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27718</link>
       <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27718</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture in favore della SIAE.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27717</link>
-      <pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27717</guid>
     </item>
   </channel>
 </rss>
