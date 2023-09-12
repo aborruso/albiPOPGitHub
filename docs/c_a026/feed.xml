@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1553</title>
+      <description>LIQUIDAZIONE FATTURA DITTA OPENCLOUD PA S.R.L. PER ACCONTO DEL SERVIZIO DI STAMPA, IMBUSTAMENTO, RENDICONTAZIONE INCASSI E SERVIZIO DI RECAPITO BOLLETTE TA.RI (TASSA RIFIUTI) ANNO 2023 - RISCOSSIONE DIRETTA -</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460519</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460519</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1552</title>
       <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 114/2023 PER LO STAZIONAMENTO DI UN'AUTOGRU' SU VIA RE MARTINO N. 203</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460494</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460368</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460368</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1541</title>
-      <description>IMPEGNO E LIQUIDAZIONE FATTURE TIM TELECOM ITALIA S.P.A. PERIODO GIUGNO-LUGLIO 2023. CIG: Z33395ECF7</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460324</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/460324</guid>
     </item>
   </channel>
 </rss>
