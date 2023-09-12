@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art.143 cpc.a carico di Roumane Tarik</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12715</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12715</guid>
+    </item>
+    <item>
       <title>Delibere Del Consiglio Comunale</title>
       <description>Modifica del Regolamento per il funzionamento del Consiglio Comunale e delle Commissioni Consiliari Permanenti di studio e consultazione approvato dal Consiglio Comunale con provvedimento n°8 del 24.04.2018 e successiva modifica con D.C.C. n°2 del 10.01.2019, relativa alla disciplina delle einterrogazioni e mozioni.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12714</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12688</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12688</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>FATTURE IN DITTA ENEL ENERGIA S.P.A. PER LA FORNITURA DI GAS  EDIFICI PUBBLICI - PERIODO DI RIFERIMENTO LUGLIO 2023 - CIG:</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12687</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12687</guid>
     </item>
   </channel>
 </rss>
