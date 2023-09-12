@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Surroga Consigliere Comunale MOLINO Cesare Adempimenti consequenziali - Giuramento del Consigliere subentrante.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12702</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12702</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°32 del 08/09/2023 - Pratica edilizia n°22245 a nome della Ditta De Pasquale Romeo e Bartolone Vittoria</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12701</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12701</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°31 del 08/09/2023 - Pratica edilizia n°21915 i a nome della Ditta Saccà Concetta</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12700</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12700</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura elettronica n° 225 del 22/08/2023 Soc. Coop. Sociale GENESI.-     CPV 85312400-3      CIG 842358416C     CUP H61B16000410001</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12699</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12674</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12674</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori di  manutenzione ordinaria e straordinaria e di pronto intervento da effettuarsi solo su ordini di servizio sulla rete fognaria comunale tramite   "Accordo Quadro" .( Liquidazione  3 Certificato di pagamento   )</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12673</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12673</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>convenzione per l'affidamento in concessione di costruzione e gestione dell'impianto di depurazione comunale (art. 42 e 42/bis L.R. 21/85 ess.mm.ii.) - liquidazione Fattura elettronica n° 3 del 30/06/2023 - Periodo 3° bimestre 2023 - Importo compless</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12672</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12672</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione servizio assistenza tecnica service audio, luci e videoproiezione per le manifestazioni del 18 e 26 Maggio 2023 presso il Teatro Mandanici. CIG Z713B071C6</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12671</link>
-      <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12671</guid>
     </item>
   </channel>
 </rss>
