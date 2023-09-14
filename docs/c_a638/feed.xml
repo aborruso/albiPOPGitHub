@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Provvedimento di REVOCA ORDINANZA N. 64 DEL 21/03/2023 e di NUOVA ORDINANZA DI DEMOLIZIONE/RIMOZIONE E MESSA IN PRISTINO DELLE OPERE EDILIZIE eseguite in difformità alla Concessione Edilizia in Sanatoria n. 4118100996 del 10/09/1996 nel fabbricato si</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12726</link>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12726</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili a civili. (L.R. n.27/86 e D. Lgs.vo n.152/06) - Validità mesi 6 (sei). Ditta:Autolavaggio Telleri Santina ubicazione. via Sant'Andrea 323</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12725</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12698</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12698</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito n°4 atti in busta chiusa ai sensi dell'art 60 D.P.R. a carico di Tripolitano Vincenzo, Tripolitano Giuseppa, Tripolitano Maria e Tripolitano Sarnia</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12697</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12697</guid>
     </item>
   </channel>
 </rss>
