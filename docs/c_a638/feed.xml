@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Autorizzazioni</title>
+      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili ditta Poste italiane ufficio temporaneo del quartiere S.Antonio</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12766</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12766</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12765</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12765</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12764</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12764</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO E IMPEGNO DI SPESA PER ACQUISTO MATERIALE ELETTRICO PER INTERVENTI URGENTI PRESSO GLI EDIFICI SCOLASTICI E COMUNALI -  CIG: Z663C4B569</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12763</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12739</link>
       <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12739</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fatture Tim spa Scuole Materne del 10.08.2023 relative ai mesi di giugno - luglio 2023 Totale euro 1.092,99 oltre IVA euro 239,13</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12738</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12738</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Compensazione parziale e liquidazione residuo fatture Enel Energia s.p.a. fornitura di luce del 12.07.2023 relative al mese di giugno presso le Scuole Materne  Totale residuo euro 55,28  oltre iva euro 18,76</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12737</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12737</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Fatture in ditta Enel Energia S.P.A. per la fornitura di energia elettrica Palazzo Satellite - ANNO 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12736</link>
-      <pubDate>Thu, 14 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12736</guid>
     </item>
   </channel>
 </rss>
