@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 151: GIORNO 18 SETTEMBRE 2023  DIVIETO DI SOSTA IN PIAZZA CASTELLO ECCETTO I VEICOLI A SEGUITO DELLA MANIFESTAZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25388</link>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25388</guid>
+    </item>
+    <item>
       <title>Avviso Ai Creditori</title>
       <description>" LAVORI DI RESTAURO DELLE PORTE URBANE (CON EVENTUALI SOLUZIONI DI MEMORIA) E DELLE EDICOLE VOTIVE IN CASTELBUONO"...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25387</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25361</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25361</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di manutenzione ordinaria del marcipiede di Via Tenente Luigi Cortina - Comune di Castelbuono (PA ) - Affidamento smaltimento e conferimento materiali di rifiuto presso idoneo impianto -   alla ditta Rinchiusa Michele con sede a Gratteri (PA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25360</link>
-      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25360</guid>
     </item>
   </channel>
 </rss>
