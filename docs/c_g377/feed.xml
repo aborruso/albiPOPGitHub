@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/09/2023 | Determinazioni Dirigenziali</title>
+      <description>Gara Telematica per l'affidamento del servizio di gestione del centro di accoglienza per cittadini ucraini in fuga dal conflitto - Decisione a contrarre. CIG: A00F8278F4</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6289</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6289</guid>
+    </item>
+    <item>
+      <title>17/09/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito via Agliastri, da incrocio via Ten. Natoli a incrocio via C. Colombo, per lavori: 19.09.23</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6288</link>
+      <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6288</guid>
+    </item>
+    <item>
       <title>15/09/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE BOLLETTE FORNITURA DI ENERGIA ELETTRICA "SOC. HERA COMM" STABILI COMUNALI</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6287</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6255</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6255</guid>
-    </item>
-    <item>
-      <title>11/09/2023 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta in Via N. G. Ceraolo, prossimità N.C. 7, per lavori: dal 13 al 22 settembre 2023 - Chiusura al transito Via XX Settembre/Strettoia semaforo per lavori E-distribuzione: 15 settembre 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6254</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6254</guid>
-    </item>
-    <item>
-      <title>11/09/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione lavoro straordinario nell'ambito del progetto Piano di Attuazione Locale (PAL) - Quota servizi del Fondo Povertà (annualità 2020) - "Rafforzamento dei servizi di Segretariato Sociale" - CUP: C41H22000000001 - Mese di Agosto 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6253</link>
-      <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6253</guid>
     </item>
   </channel>
 </rss>
