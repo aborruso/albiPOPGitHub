@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>18/09/2023 | Ordinanze Dirigenziali</title>
+      <description>Modifica direzione di marcia bretella di collegamento tra Piazza Falcone e Borsellino e Via Ambrosoli.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6292</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6292</guid>
+    </item>
+    <item>
       <title>18/09/2023 | Atti Di Interesse Generale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6291</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6258</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6258</guid>
-    </item>
-    <item>
-      <title>12/09/2023 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Aree Parcheggio Via De Gasperi: 14 settembre 2023 - Chiusura al transito e alla sosta P.le Santa Venera: dal 14 al 18 settembre 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6257</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6257</guid>
     </item>
   </channel>
 </rss>
