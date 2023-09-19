@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/09/2023 | Ordinanze Dirigenziali</title>
+      <description>rettifica punto 3) Ord. 193/23</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6296</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6296</guid>
+    </item>
+    <item>
       <title>19/09/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PROCEDURA ESPLORATIVA PER L'ALIENAZIONE DI UN AUTOMEZZO COMUNALE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6295</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6262</link>
       <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6262</guid>
-    </item>
-    <item>
-      <title>12/09/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Project Financing - "Progetto Smart City Patti" redatto ai sensi dell'art. 183, comma 15 del D. Lgs. N. 50/2016 e ss.mm.ii., relativo alla progettazione e realizzazione di un intervento di efficientamento ed adeguamento normativo degli impianti di pubblica Illuminazione stradale con l'introduzione dei servizi di smart city, nonchè la gestione, la manutenzione ordinaria e straordinaria dell'impianto, ivi compresa la fornitura di energia elettrica - CUP: C48H18000020003 - Caronte: SI_1_22701 - CIG: 8232992FE9 - Liquidazione lavori al secondo S.A.L. - Imprersa: DI BELLA COSTRUIZIONI S.R.L.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6261</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6261</guid>
     </item>
   </channel>
 </rss>
