@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione dei Solenni Festeggiamenti in onore di Maria SS del Rosario e dei Santi Medici in Ginosa dal 26 settembre al 8 ottobre 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27871</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27871</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori di scavo per conto di E-Distribuzione - dal 25 al 30.09.2023 - Ditta So.I.Ge.A. S.r.l. - Roma.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27870</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27870</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO RANALDO GIUSEPPINA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27869</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27810</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27810</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione DECOM Srl per conferimento rifiuti vari agosto 2023 - CIG: 9580826BB8.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27809</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27809</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Concessione contributo in favore dell'Associazione Pro Loco L. Strada di Marina di Ginosa. Impegno di spesa.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27808</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27808</guid>
     </item>
   </channel>
 </rss>
