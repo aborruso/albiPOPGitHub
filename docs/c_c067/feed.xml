@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Nomina componente del Consiglio di Biblioteca Comunale Sig. Vincenzo Maria Bertola e presa atto dimissioni Sig. Federico Guarraia...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25453</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25453</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>ATTO DI INTERPELLO RIVOLTO AI SOGGETTI DIPENDENTI DI AMMINISTRAZIONI PUBBLICHE, DI CUI ALL'EX ARTICOLO 24, COMMA1, LETTERE B) E C) DEL D. LGS. 18 APRILE 2016, N.50 , PER L'AFFIDAMENTO DELL'INCARICO DI PROGETTAZIONE ESECUTIVA. COORDINATORE DELLA SICUREZZA IN FASE DI PROGETTAZIONE: DIREZIONE LAVORI, MISURA E CONTABILITA'; COORDINAMENTO SICUREZZA IN FASE DI ESECUZIONE; CERTIFICATO REGOLARE ESECUZIONE; COLLAUDO STATICO IN C.O, PER I LAVORI DI "INTERVENTO DI ADEGUAMENTO SISMICO, IN ACCORDO A QUANTO PREVISTO AL PUNTO 8.4.2 DEL NTC  DELD.M. 17/01/2008, AD ESITO DELLE VERIFICHE DI VULNERABILITA' SISMICA ESEGUITE AI SENSI DELL'0.P.C.M. 32274/ 2003 E ALLE N.T.C.2018, DELL'EDIFICIO IN MURATURA DELLA SCUOLA SECONDARIA SITA IN VIA RAMPANTI NELLA FRAZIONE LOCATI - COMUNE DI BOMPIETRO"...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25452</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25426</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25426</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE AQUILONE SOCIETA' COOP. SOCIALE ONLUS PER RICOVERO P.E. PERIODO: GIUGNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25425</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25425</guid>
     </item>
   </channel>
 </rss>
