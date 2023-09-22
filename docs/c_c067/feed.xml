@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Impegno spesa e affidamento diretto all'Agenzia A.P.A.C.A. di Citta' Giovanni  con sede a Castelbuono in P.zza Margherita n.22 per reimmatricolazione con CDP Scuolabus targato ES942KS. Anticipazione all'economo comunale  CIG:  Z3D3C8B6B7...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25454</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25454</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Nomina componente del Consiglio di Biblioteca Comunale Sig. Vincenzo Maria Bertola e presa atto dimissioni Sig. Federico Guarraia...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25453</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25427</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25427</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE AQUILONE SOCIETA' COOP. SOCIALE ONLUS PER RICOVERO F.D. PERIODO: GIUGNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25426</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25426</guid>
     </item>
   </channel>
 </rss>
