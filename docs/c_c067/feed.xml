@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N.155: VERBALE DI ACCERTAMENTO DELL'AVVENUTO DECESSO DI ANIMALI DA SOTTOPORRE A SEQUESTRO E RELATIVA PROPOSTA DI DISTRUZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25456</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25456</guid>
+    </item>
+    <item>
+      <title>Avviso Di Deposito</title>
+      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA COMUNALE PER GG. ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25455</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25455</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno spesa e affidamento diretto all'Agenzia A.P.A.C.A. di Citta' Giovanni  con sede a Castelbuono in P.zza Margherita n.22 per reimmatricolazione con CDP Scuolabus targato ES942KS. Anticipazione all'economo comunale  CIG:  Z3D3C8B6B7...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25454</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25429</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25429</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE HUMANITAS PER RICOVERO DELLA SIG RA G.L. PRESSO LA COMUNITA' ALLOGGIO S.ANNA. PERIODO: GIUGNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25428</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25428</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE HUMANITAS PER RICOVERO DEL SIG. A.A  PRESSO COMUNITA' ALLOGGIO S.ANNA. PERIODO: GIUGNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25427</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25427</guid>
     </item>
   </channel>
 </rss>
