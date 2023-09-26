@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1623</title>
+      <description>REGOLAMENTO IUC LETTERA “F” - APPROVAZIONE GRADUATORIA AGEVOLAZIONE TARI ANNO 2022. INTEGRAZIONE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461764</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461764</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/1622</title>
+      <description>AUTORIZZAZIONE INCARICO EXTRA ISTITUZIONALE AL DIPENTENTE MATRICOLA N. 278</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461758</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461758</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/41459</title>
+      <description>AVVISO DI INTERPELLO AL PERSONALE INTERNO</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461750</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461750</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1621</title>
       <description>PROROGA CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 115/2023 PER LA POSA DI TAVOLI, SEDIE ED ALTRI ARREDI NELL'AREA PUBBLICA ANTISTANTE IL LOCALE DI SOMMINISTRAZIONE DENOMINATO CAFFE' E DOLCEZZE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461711</link>
@@ -134,27 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461504</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461504</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1610</title>
-      <description>LIQUIDAZIONE FATTURA NR. 2166/2023 DEL 15/09/2023 ALLA DITTA LEOTTA &amp; C. PRODOTTI PER L'UFFICIO S.R.L. PER CANONE NOLEGGIO FOTOCOPIATORI PERIODO SETTEMBRE-NOVEMBRE 2023. CIG Z12337BE30</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461500</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461500</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1609</title>
-      <description>LIQUIDAZIONE FATTURA DELLA B.NET PER LA FORNITURA DI RISME DI CARTA A4 PER STAMPANTI E FOTOCOPIATRICI. CIG Z233C6C86A</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461498</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461498</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1608</title>
-      <description>AGGIORNAMENTO SISTEMA INFORMATICO COMUNALE - SOFTWARE ANTIVIRUS PER I SERVER ED I PC DELL’ENTE - RINNOVO CON AGGIORNAMENTO ALLA VERSIONE "COMPLETE" PER DOCICI MESI - CIG ZCC3948E04</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461494</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461494</guid>
     </item>
   </channel>
 </rss>
