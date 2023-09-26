@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art.143 c.p.c. a carico di Giambra Michelangelo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12873</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12873</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art.143 c.p.c. a carico di IVLAD GEORGIAN IRINEL</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12872</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12872</guid>
+    </item>
+    <item>
       <title>Delibere Del Consiglio Comunale</title>
       <description>Esame e verifica delle condizioni di eleggibilità del Consigliere Comunale, ai sensi dell'art.9 della L.R. n.31/86 e delle condizioni di candidabilità di cui all art.10 del D.Lgs n.235/2012 per la convalida. Esame eventuali situazioni di incompatibilità del consigliere comunale, ai sensi degli artt.10 e 11 della L.R.24/06/1986 n.31 con eventuale avvio della procedura disciplinata dal successivo art.14.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12871</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12845</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12845</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Autorizzazione per lo scavo e la posa di condotta finalizzata allo sviluppo della rete in fibra ottica su  suolo pubblico comunale. -Utente: TIM , - Via Colonna per ml. 27,50 e  Vicolo III Colonna  per  ml. 57,90, come da  planimetria</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12844</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12844</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Autorizzazione per lo scavo e la posa di condotta telefonica  su suolo pubblico comunale. -Utente: OPEN-FIBER Via:  SP 75 (Copertura Torrente Longano)  come da planimetria.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12843</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12843</guid>
     </item>
   </channel>
 </rss>
