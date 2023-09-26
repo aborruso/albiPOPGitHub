@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/09/2023 | Determinazioni Dirigenziali</title>
+      <description>Lavori di Miglioramento delle infrastrutture, dei servizi e delle attrezzature delle postazioni per la vendita all'asta del pesce sbarcato site nellesistente approdo per pescherecci ubicato in Patti Marina -  Progetto 25/PLS/23 - CUP: C43J23000000008</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6337</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6337</guid>
+    </item>
+    <item>
       <title>26/09/2023 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6336</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6303</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6303</guid>
-    </item>
-    <item>
-      <title>20/09/2023 | Verbali Risultanze Di Gara</title>
-      <description>ALIENAZIONE MEDIANTE PUBBLICO INCANTO - VERBALE DI GARA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6302</link>
-      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6302</guid>
     </item>
   </channel>
 </rss>
