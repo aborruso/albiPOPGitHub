@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO BELLO GRAZIA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27974</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27974</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO Guarnieri Pietro</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27973</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27915</link>
       <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27915</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Rimborso per utilizzazione congiunta ai sensi dell'art.14 del CCNL del 22.01.2004 del dipendente del Comune di Acerenza Rag. Battista PERUGINO.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27914</link>
-      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27914</guid>
     </item>
   </channel>
 </rss>
