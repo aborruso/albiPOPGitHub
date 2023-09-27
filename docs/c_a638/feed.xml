@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Sospensione cautelare dal servizio del lavoratore XXXXXX XXXXXX</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12878</link>
+      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12878</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Piano di zona 2019-2020 - Azione 8 " Sostegno al Reddito" liquidazione contributo Assegni civici comune di Terme Vigliatore</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12877</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12850</link>
       <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12850</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo, a far data dal 07/10/2023, per avvenuto raggiungimento di anni 41 e mesi 10 di servizio, con 63 anni di età, della dipendente XXXXX XXXXXX</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12849</link>
-      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12849</guid>
     </item>
   </channel>
 </rss>
