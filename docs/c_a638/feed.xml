@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Integrazione impegno spesa anno 2023 per il conferimento e il recupero dei rifiuti biodegradabili presso la ditta REM Srl, gestore dell'impianto di compostaggio sito in C.da Milisinni - Catania.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12914</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12914</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Indirizzi funzionali all'adesione all Avviso pubblico a valere sul Fondo Asilo, Migrazione e Integrazione 2021- 2027  Obiettivo Specifico 1. Asilo  Misura di attuazione 1.b) - Ambito di applicazione 1.d) - Intervento f)  "Promozione dellautonomia soc</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12913</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12887</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12887</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Giudizio RG n 537del 2015 pendente dinnanzi al Tar di Catania definito con sentenza n 2113 del 2023 Liquidazione Avv Recupero Giuseppina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12886</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12886</guid>
     </item>
   </channel>
 </rss>
