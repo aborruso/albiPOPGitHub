@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/42547</title>
+      <description>AVVISO DI ESTUMULAZIONE LOCULO N° 24 SETTORE "C". DEFUNTA : PAPA MARIA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462222</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462222</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1646</title>
       <description>NOLEGGIO STAMPANTI PER SEGRETARIO COMUNALE E CAPO AREA I - LIQUIDAZIONE FATTURE BIMESTRE SETTEMBRE-OTTOBRE 2023 - CIG Z402546C14</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462205</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461958</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461958</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/42094</title>
-      <description>MANIFESTO E DOMANDA PER PRESIDENTI DI SEGGIO</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461948</link>
-      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/461948</guid>
     </item>
   </channel>
 </rss>
