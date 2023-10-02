@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>AGGIORNAMENTO PERIODICO ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25527</link>
+      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25527</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione compensi per la progettazione interna dei lavori ai sensi dell'art. 113 del Decreto Lgs. 50/2016 e s.m.i. ora sostituito con l'art. 45 del Decreto Lgs. 36/23 LAVORI DI EFFICIENTAMENTO ENERGETICO E ADEGUAMENTO DEL COMPLESSO BADIA III° ST...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25526</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25499</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25499</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione alla Ingham srl per la fornitura di coppe e targhe per la premiazione del concorso  nazionale di fotografia città di Castelbuono - XXIII edizione, a cura dell'Associazione di Promozione Sociale Fotoriflettendo del 14 al 24 agosto 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25498</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25498</guid>
     </item>
   </channel>
 </rss>
