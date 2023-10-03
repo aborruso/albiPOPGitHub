@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Reintegro somme indebitamente incassate conto corrente intestato all'A.T.S. Basse Madonie - Insieme si pu...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25563</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25563</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 165: DIVIETO DI SOSTA IN VIA TENENTE LUIGI CORTINA DI FRONTE DAL N.C. 65 FINO AL N.C. 71...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25562</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25562</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE A MARIA MICHELA PALERMO, PER FORNITURA DI N. 4 COPIE DI CARTOLINE DI SICILIA PER ARRICCHIRE IL BOOKSHOP DEL MUSEO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25561</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25536</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25536</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore dell'Associazione Culturale e Teatrale Nuova Palermo per organizzazione e realizzazione della 3^ ediz. della rassegna "Castelbuono Teatro" dal 28 al 31 agosto 2023 presso il chiostro di San Francesc...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25535</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25535</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore della ditta La tipografica per fornitura materiale pubblicitario manifestazione Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25534</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25534</guid>
     </item>
   </channel>
 </rss>
