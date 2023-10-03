@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determina Ufficio Piano</title>
+      <description>Liquidazione fattura emessa dalla Soc. Coop. Sociale Azione Sociale per il servizio di socializzazione per anziani presso i Comuni di Barcellona Pozzo di Gotto e Montalbano Elicona del Distretto Socio Sanitario 28, reso nei mesi di luglio ed agosto 2023 CIG: 7741383757</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12946</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12946</guid>
+    </item>
+    <item>
+      <title>Determina Ufficio Piano</title>
       <description>Piano di Zona 2019-2020 - Azione 8 "Sostegno al Reddito" Liquidazione contributo Assegni civici Comune di Fondachelli Fantina.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12945</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12917</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12917</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Lavori privati nel Cimitero-Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale approvato con Delibera C.C. n. 24 del 23/03/1998. Ditta Salvatore Scarpaci</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12916</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=12916</guid>
     </item>
   </channel>
 </rss>
