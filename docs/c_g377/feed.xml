@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea al transito via Agliastri per lavori : 04/10/23. Proroga divieto di sosta in via XX Settembre per lavori.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6376</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6376</guid>
+    </item>
+    <item>
       <title>03/10/2023 | Atti Elettorali</title>
       <description>AGGIORNAMENTO DELL'ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6375</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6342</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6342</guid>
-    </item>
-    <item>
-      <title>27/09/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio Sociale Professionale/Figura Professionale Assistente Sociale - AVVISO 1/2019, nell'ambito del Progetto finalizzato all'attuazione dei Patti per l'Inclusione Sociale PAIS, a valere sul Fondo Sociale Europeo (FSE) Programmazione 2014/2020 - PON Inclusione presso i Comuni del Distretto Socio/Sanitario N. 30 - Liquidazione mese di giugno 2023 saldo - CUP: C41B20000810006.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6341</link>
-      <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6341</guid>
     </item>
   </channel>
 </rss>
