@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/315</title>
+      <description>DIVIETO DI BALNEAZIONE TEMPORANEO NEI TRATTI DI MARE INDIVIDUATI: ID. IT019087002004 LACHEA SUD - ID. IT019087002005 ISOLA LACHEA OVEST. - PORTO VECCHIO VIA MARINA 250 MT.N.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462407</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462407</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1666</title>
       <description>RENDICONTO SPESE ECONOMATO 3° TRIMESTRE 2023</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462381</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462304</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462304</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1648</title>
-      <description>CONCESSIONE DI SUOLO PUBBLICO PER PASSO CARRABILE - SITO: VIA ENRICO FERMI N. 39 DI ML. 3,00 - CAT. VIARIA 2° - CONTRASSEGNATA CON IL N. 816/2023.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462302</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462302</guid>
     </item>
   </channel>
 </rss>
