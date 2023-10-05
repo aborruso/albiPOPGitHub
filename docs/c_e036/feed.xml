@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Rende Noto relativo all'istanza di Ricerca codice Derivazione Sotterranea: 55295 Soc. Ag. Terre e Gravine di Puglia "Francesco Trovisi"</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28020</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28020</guid>
+    </item>
+    <item>
       <title>Art. 60 Dpr 29/09/1973</title>
       <description>DEPOSITO CASA COMUNALE ATTI N. 56</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28019</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27961</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27961</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Incarico di supporto al RUP per pratiche Usi Civici, canoni patrimoniali e autorizzazioni manomissioni suolo pubblico e opere pubbliche dirette dal VII Settore - Liquidazione acconto n.6 - CIG: Z97390D958</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27960</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27960</guid>
     </item>
   </channel>
 </rss>
