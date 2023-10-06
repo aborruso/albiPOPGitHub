@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Mercante Michele</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28031</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28031</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 4 ottobre 2023.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28029</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27969</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27969</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Anticipo 30% per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  I Finestra - Codice Pratica 6N85TDCY</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27968</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27968</guid>
     </item>
   </channel>
 </rss>
