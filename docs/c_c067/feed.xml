@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>APPROVAZION RENDICONTO DI GESTIONE ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25630</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25630</guid>
+    </item>
+    <item>
+      <title>Delibera Di Consiglio</title>
+      <description>Approvazione Bilancio Consuntivo anno 2022 dell'Istituzione pubblica Museo Naturalistico Francesco Minà Palumb...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25629</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25629</guid>
+    </item>
+    <item>
+      <title>Delibera Di Consiglio</title>
+      <description>"Approvazione  Bilancio Consuntivo 2022 dell'Istituzione pubblica Centro Polis"...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25628</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25628</guid>
+    </item>
+    <item>
+      <title>Delibera Di Consiglio</title>
+      <description>Approvazione Bilancio Consuntivo anno 2022 dell'Istituzione pubblica  Museo Civico"...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25627</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25627</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>DISCARICO CARTELLA ICI TARGIA ROSARIO E TARGIA VINCENZ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25626</link>
@@ -183,34 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25603</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25603</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>IMPEGNO DI SPESA IN FAVORE DELLA DITTA MARTORANA GIOVANNI CON SEDE IN C/DA SCONDITO RELATIVAMENTE AL TRASPORTO DI ATTREZZATURE NECESSARIE AL SERVIZIO DI REFEZIONE SCOLASTICA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25602</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25602</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>IMPEGNO DI SPESA ALLA CASA EDITRICE PALERMO PUBBLISHING DI MARIA MICHELA PALERMO PER L'ATTIVITA' DI REALIZZAZIONE DEL CATALOGO PER IL PROGETTO "PAESAGGI, MEMORIE E ASTRAZIONI. LA SICILIA DI MELO MINNELLA"STRATEGIA FOTOGRAFIA 2022...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25601</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25601</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>LIQUIDAZIONE ALLA DOTT.SSA VALENTINA BRUSCHI, PER INCARICO" RESPONSABILE SCIENTIFICO PER LA COLLEZIONE DI ARTE MODERNA E CONTEMPORANEA" ANNO 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25600</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25600</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Verifiche di vulnerabilità sismica degli edifici comunali adibiti a scuola materna siti in Via N e in Via S. Lucia nel Comune di Castelbuono. Nomina R.U.P. (Responsabile Unico del Progetto)...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25599</link>
-      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25599</guid>
     </item>
   </channel>
 </rss>
