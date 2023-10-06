@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Affidamento servizio elaborazione e trasmissione telematica del Modello 770/2023 relativo all'anno d'imposta 2022 Studio Rag. Giovanni Gulino e Rag Antonio Mamman...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25570</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25570</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno in favore della Federazione Nazionale delle Arti in strada  "FNAS  LAB, ALTA FORMAZIONE PER L'ARTE NELLO SPAZIO PUBBLICO" - 1/8 ottobre 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25569</link>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25569</guid>
+    </item>
+    <item>
       <title>Revisione Semestrale</title>
       <description>Modello 9 deposito elenchi semestrale elench...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25568</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25542</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25542</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore della Sig.ra Zaffuto Maria Loredana per servizio Hostess durante la manifestazione  Castelbuono Jazz Festival 2023 18/26 agost...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25541</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25541</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore della Sphere Music International srls per il concerto "Le Mille Bolle Blue" degli artisti Stefano Di Battista &amp; Nicky Nicolai quintet svoltosi il 24 agosto a Castelbuono nell'ambito del Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25540</link>
-      <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25540</guid>
     </item>
   </channel>
 </rss>
