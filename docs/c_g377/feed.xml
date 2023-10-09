@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/10/2023 | Determinazioni Dirigenziali</title>
+      <description>Gara mediante procedura aperta per l'affidamento in concessione del servizio di riscossione coattiva delle entrate sia tributarie che patrimoniali. Attività di supporto all'Ufficio Tributi propedeutica all'accertamento delle elusioni/evasioni delle s</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6411</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6411</guid>
+    </item>
+    <item>
       <title>09/10/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione spesa ricovero disabile residence "Anziano Due" di Lombardo Francesco mesi di Agosto - Settembre 2023  CIG Z72397B33C</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6410</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6377</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6377</guid>
-    </item>
-    <item>
-      <title>03/10/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura temporanea al transito Via Agliastri per lavori: 04 ottobre 2023 - Proroga divieto di sosta in Via XX Settembre per lavori.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6376</link>
-      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6376</guid>
     </item>
   </channel>
 </rss>
