@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/10529</title>
+      <description>CONCESS./AUTORIZZ. EDILIZIA IN SANATORIA N. 10529 DEL 02/10/2023 PRATICA N. 318/C.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462789</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462789</guid>
+    </item>
+    <item>
       <title>Atto numero 0/0</title>
       <description>ELENCO DIRR N° 27 DEL 09/10/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462750</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462481</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462481</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/316</title>
-      <description>PROVVEDIMENTI DI CIRCOLAZIONE - ISTITUZIONE DEL DIVIETO DI SOSTA IN VIA A. DA MESSINA PER LAVORI DI REALIZZAZIONE DI UNA CONDOTTA FOGNARIA PER IL CONVOGLIAMENTO DEI REFLUI, PROVENIENTI DAL COMUNE DI ACI CASTELLO AL VECCHIO ALLACCIANTE DEL COMUNE DI CATANIA.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462479</link>
-      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/462479</guid>
     </item>
   </channel>
 </rss>
