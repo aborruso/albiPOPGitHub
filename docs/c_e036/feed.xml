@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso</title>
+      <description>Convocazione III Commissione Consiliare: Lavori Pubblici, Ambiente, Pianificazione Territoriale e Urbana, Attività Produttive, PNNR</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28038</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28038</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28037</link>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28037</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
       <description>Convocazione della I Commissione Consiliare: politiche di bilancio e tributarie</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28036</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27974</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27974</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Guarnieri Pietro</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27973</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27973</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Avviso Pubblico per la selezione di Associazioni di volontariato E.T.S. con cui stipulare una convenzione per il Trasporto Sociale Assistito di Disabili residenti nel Comune di Ginosa. Aggiudicazione definitiva. CIG.ZC53C10846.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27972</link>
-      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27972</guid>
     </item>
   </channel>
 </rss>
