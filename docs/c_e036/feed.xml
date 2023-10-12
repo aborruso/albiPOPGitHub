@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Manifestazione "Inaugurazione del Cantiere - Evento del castello di Ginosa" - Misure a tutela della circolazione stradale in Ginosa il giorno 14 ottobre 2023 - Fondazione Gianfranco Dioguardi.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Misure a tutela della circolazione stradale in Ginosa dal giorno 13 ottobre al giorno 11 novembre 2023 e comunque fino a cessata esigenza per LAVORI DI COMPLETAMENTO DI TRONCHI IDRICI E FOGNANTI - Marina di Ginosa - Ditta F.lli Andresini Srl - Rettif</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28043</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28043</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO Difonzo Francesco  ICB Srl</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28042</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27980</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27980</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Daniele Ambiente Srl per conferimento rifiuti CER 20.03.07 (rifiuti ingombranti) agosto 2023 - CIG: 9580874357</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27979</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27979</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura in favore di Acquedotto Pugliese SPA - Intervento di riqualificazione del waterfront di Marina di Ginosa - Spostamento tronco idrico sul Lungomare (Ristorante Capriccio bis e Lido Verde) - CIG: Z673A7972D.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27978</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=27978</guid>
     </item>
   </channel>
 </rss>
