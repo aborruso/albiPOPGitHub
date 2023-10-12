@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>TRASMISSIONE ATTO DI INTERPELLO PER L'AFFIDAMENTO DEL SERVIZIO DI COLLAUDATORE AMMINISTRATIVO E STATICO IN CORSO D'OPERA RIVOLTO A PERSONALE TECNICO DIPENDENTE DI ALTRE AMMINISTRAZIONI AGGIUDICATRICI MUNITI DI LAUREA IN INGEGNERIA/ ARCHITETTURA INERENTE I LAVORI DI " E MESSA IN SICUREZZA DEL POLO SPORTIVO SITO IN C.DA MASTRO DI CASA/CANNA- CAMPO DI CALCIO ED OPERE CONNESSE" IN CERDA (PA).RECUPER...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25653</link>
+      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25653</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N.171: GIORNO 14 OTTOBRE 2023 DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA MARIO LEVANTE DAL N.C. 69 AL N.C. 105 PER MANIFESTAZIONE...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25652</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25633</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25633</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Lavori pulizia alveo fiume Castelbuono. Attività di rimozione dei depositi sovralluvionali nel fiume Castelebuono. - Parziale modifica D.G. n°117 del 21/08/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25632</link>
-      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25632</guid>
     </item>
   </channel>
 </rss>
