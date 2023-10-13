@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Provvedimento finale di Autorizzazione Unica Ambientale A.U.A. n. 003 del 13/10/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28098</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28098</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>RETTIFICA ERRORE MATERIALE DEL QUADRO ECONOMICO (PRE E POST GARA) relativo al progetto denominato "Efficientamento energetico dell'edificio pubblico: Plesso Scolastico Lombardo Radice" sito in Ginosa alla Via Fornace, angolo Via Orti - CUP: D37D19000</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28097</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28039</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28039</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>Convocazione III Commissione Consiliare: Lavori Pubblici, Ambiente, Pianificazione Territoriale e Urbana, Attività Produttive, PNNR</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28038</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28038</guid>
     </item>
   </channel>
 </rss>
