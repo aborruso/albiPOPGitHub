@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 0/0</title>
+      <description>ELENCO DIRR N° 28 DEL 16/10/2023 DEPOSITO ATTI PRESSO LA CASA COMUNALE PER IRREPERIBILITA'</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463270</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463270</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/325</title>
+      <description>ORDINANZA DI RIPRISTINO DELL'AREA COMUNALE ANTISTANTE IL CIVICO 47 DI VIA FORNACE A SEGUITO INSTALLAZIONE DI UN PALO DI SOSTEGNO LINEA LETTRICA PRIVATA NON AUTORIZZATO.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463265</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463265</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1730</title>
       <description>AUTORIZZAZIONE ALLO SCAVO - DITTA: ENEL DISTRIBUZIONE S.P.A. - ITER: 2745612 - SITO: LUNGOMARE DEI CICLOPI, VIA GIBUTI - LAVORI DI SCAVO E LA POSA DI N. 2 POZZETTI PER LA COSTRUZIONE DI UN TRATTO DI LINEA BT IN CAVO INTERRATO</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463217</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463159</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463159</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1713</title>
-      <description>REALIZZAZIONE DI UNA MAGGIORE EFFICIENZA AMMINISTRATIVA MEDIANTE SEMPLIFICAZIONE DELLA GESTIONE DEL RAPPORTO CON L'UTENZA - ADOZIONE SOFTWARE PER PRENOTAZIONE APPUNTAMENTI - LIQUIDAZIONE TRIMESTRE 3-2023 - CIG. Z502DCEF51</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463157</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463157</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/323</title>
-      <description>REVOCA ORDINANZA SINDACALE N. 315 DEL 04/10/2023 - DIVIETO DI BALNEAZIONE TEMPORANEO NEI TRATTI DI MARE INDIVIDUATI: ID. IT019087002004 LACHEA SUD - ID. IT019087002005 ISOLA LACHEA OVEST. - PORTO VECCHIO VIA MARINA 250 MT.N..</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463155</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463155</guid>
     </item>
   </channel>
 </rss>
