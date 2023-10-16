@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>AVVIO SERVIZIO DI REFEZIONE SCOLASTICA PER L'A.S. 2023/2024. ATTO DI INDIRIZZO.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28099</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28099</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Provvedimento finale di Autorizzazione Unica Ambientale A.U.A. n. 003 del 13/10/2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28098</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28040</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28040</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina temporanea della circolazione stradale per lo  svolgimento  della manifestazione "Memorial Domenico Ribecco" in Ginosa 15 ottobre 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28039</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28039</guid>
     </item>
   </channel>
 </rss>
