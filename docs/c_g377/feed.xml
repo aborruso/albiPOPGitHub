@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/10/2023 | Ordinanze Sindacali</title>
+      <description>ORDINANZA CONTIGIBILE E URGENTE PER L'INCOLUMITA, LA SICUREZZA E LA SALUTE PUBBLICA</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6448</link>
+      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6448</guid>
+    </item>
+    <item>
       <title>16/10/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura al transito veicolare e pedonale della Via Garibaldi alta.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6447</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6414</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6414</guid>
-    </item>
-    <item>
-      <title>10/10/2023 | Determinazioni Dirigenziali</title>
-      <description>LAVORI DI MANUTENZIONE DELLA VEGETAZIONE IN ALVEO AL FINE DI GARANTIRE L'ECOSISTEMA DEI CORSI D'ACQUA E L'EFFICIENZA IDRAULICA FINALIZZATA ALLA PREVENZIONE DEI RISCHI IDROGEOLOGICI DEI TORRENTI TIMETO E CEDRO - RIAPPROVAZIONE PROGETTO DI FATTIBILITA' TECNICA ED ECONOMICA - DETERMINA A CONTRARRE ED IMPEGNO SPESA - CUP: C47G23000020002 - CIG: A0187E2527.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6413</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6413</guid>
     </item>
   </channel>
 </rss>
