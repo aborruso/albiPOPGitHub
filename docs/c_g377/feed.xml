@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/10/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Trasferimento componenti tariffarie UI1, UI2, UI3 e UI4 applicate al Servizio Idrico Integrato a favore del CSEA - Ruolo III° quadrimestre 2021.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6450</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6450</guid>
+    </item>
+    <item>
+      <title>17/10/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 20388/16/10 dell'11/10/2023 - CIG: Z313AE8CD7 - Beneficiario: Halley Informatica s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6449</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6449</guid>
+    </item>
+    <item>
       <title>16/10/2023 | Ordinanze Sindacali</title>
-      <description>ORDINANZA CONTIGIBILE E URGENTE PER L'INCOLUMITA, LA SICUREZZA E LA SALUTE PUBBLICA</description>
+      <description>ORDINANZA CONTIGIBILE E URGENTE PER L'INCOLUMITA, LA SICUREZZA E LA SALUTE PUBBLICA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6448</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6448</guid>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6416</link>
       <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6416</guid>
-    </item>
-    <item>
-      <title>11/10/2023 | Atti Elettorali</title>
-      <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6415</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6415</guid>
-    </item>
-    <item>
-      <title>11/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI DI REALIZZAZIONE DI NUOVI LOCULI ED OSSARI NEL CIMITERO DEL CENTRO - CUP:C45I22002170004 - CIG: 9463197D32 - LIQUIDAZIONE FATTURA AL I° STATO DI AVANZAMENTO LAVORI -  IMPRESA: COGER60 S.R.L.S.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6414</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6414</guid>
     </item>
   </channel>
 </rss>
