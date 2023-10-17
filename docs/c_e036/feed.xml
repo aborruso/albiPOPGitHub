@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso pubblico formazione di una graduatoria per l'assunzione di Assistenti Sociali a valere sul Fondo "Patto per l'Inclusione Sociale (PaIS)" e sul "Fondo di Solidarietà Comunale"</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28103</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28103</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Adozione della variante urbanistica al PRG  Perimetrazione di un Sub-Comparto, ai sensi dell'art. 12, comma 3.e-bis, della L.R. 20/2001.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28102</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28102</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione del traffico mediante istituzione di sensi unici di marcia su strade dell'abitato di Ginosa - Area Centro-Sud.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28101</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28101</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina della circolazione stradale in dipendenza di lavori urgenti di ripristino AQP - dal 19 al 21.10.2023 - Ditta Castiglia Srl - Massafra (TA).</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28100</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Misure a tutela della circolazione stradale in Ginosa dal giorno 13 ottobre al giorno 11 novembre 2023 e comunque fino a cessata esigenza per LAVORI DI COMPLETAMENTO DI TRONCHI IDRICI E FOGNANTI - Marina di Ginosa - Ditta F.lli Andresini Srl - Rettif</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28043</link>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28043</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Difonzo Francesco  ICB Srl</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28042</link>
-      <pubDate>Wed, 11 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28042</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Calabrese Sergio</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28041</link>
-      <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28041</guid>
     </item>
   </channel>
 </rss>
