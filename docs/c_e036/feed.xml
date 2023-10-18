@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 3247/C - P. di C. n. 054/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28104</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28104</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Avviso pubblico formazione di una graduatoria per l'assunzione di Assistenti Sociali a valere sul Fondo "Patto per l'Inclusione Sociale (PaIS)" e sul "Fondo di Solidarietà Comunale"</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28103</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28045</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28045</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Manifestazione "Inaugurazione del Cantiere - Evento del castello di Ginosa" - Misure a tutela della circolazione stradale in Ginosa il giorno 14 ottobre 2023 - Fondazione Gianfranco Dioguardi.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</link>
-      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28044</guid>
     </item>
   </channel>
 </rss>
