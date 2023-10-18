@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/45391</title>
+      <description>REFEZIONE SCOLASTICA - VARIAZIONE TARIFFE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463395</link>
+      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463395</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/161</title>
       <description>PATROCINIO GRATUITO ALLA CONFEDERAZIONE NAZIONALE DELL'ARTIGIANATO E DELLA PICCOLA E MEDIA IMPRESA PER L'EVENTO DI GIORNO 21 E 22 OTTOBRE 2023 DAL TITOLO "LA SICILIA IN TAVOLA”</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463389</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463208</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463208</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1726</title>
-      <description>IMPEGNO E LIQUIDAZIONE PER RIVERSAMENTO SOMMA A TITOLO IMU ANNO D’IMPOSTA 2017 AL COMUNE DI ACIREALE – SIG.RA P. G. M. A. -</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463206</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463206</guid>
     </item>
   </channel>
 </rss>
