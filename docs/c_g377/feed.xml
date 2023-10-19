@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/10/2023 | Ordinanze Sindacali</title>
+      <description>SMALTIMENTO CARCASSA CANINA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6474</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6474</guid>
+    </item>
+    <item>
+      <title>19/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura corsia lato mare Via C. F. Zuccarello, domenica 22 ottobre 2023, per esibizione motociclistica denominata "Tony Cairoli and Friends".</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6473</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6473</guid>
+    </item>
+    <item>
+      <title>19/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Chiusura temporanea per lavori Via XX settembre - zona semaforo: 20 ottobre 2023 - Divieto di sosta per trasloco, Via Gorizia: 21 ottobre 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6472</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6472</guid>
+    </item>
+    <item>
       <title>18/10/2023 | Determinazioni Dirigenziali</title>
       <description>Piano di attuazione locale Pal Fondo della povertà anno 2021 - Trasferimento risorse ai Comuni di Brolo e Gioiosa Marea e Impegno somme Comune di Patti.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6471</link>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6440</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6440</guid>
-    </item>
-    <item>
-      <title>13/10/2023 | Determinazioni Dirigenziali</title>
-      <description>Concessione Assegno di Maternità ai sensi dell'art. 66 della Legge 23 dicembre 1998 N. 448 e successive modifiche ed integrazioni.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6439</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6439</guid>
-    </item>
-    <item>
-      <title>13/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A SALDO ALL'AVV. ARLOTTA DANIELA - CONTROVERSIA APPELLO SIG. AJELLO GIUSEPPE - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6438</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6438</guid>
-    </item>
-    <item>
-      <title>13/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI IN CONTO ALL'AVV. ARLOTTA DANIELA - CONTROVERSIA SIG. MAFODDA FRANCESCO - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6437</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6437</guid>
     </item>
   </channel>
 </rss>
