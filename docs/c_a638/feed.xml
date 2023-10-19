@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Cancellazione per irreperibilità dall'Anagrafe di Barcellona Pozzo di Gotto nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13147</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13147</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Noleggio transenne metalliche per la sicurezza stradale durante lo svolgimento della manifestazione cittadina: Processione delle Varette-   LIQUIDAZIONE Fatt.N. 3/2023 DELL'11/04/2023-prot. n. 18893 del 11/04/2023      C.I.G.:  Z443AA6A27</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13146</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13119</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13119</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Autorizzazione per lo scavo e la posa di condotta telefonica su suolo pubblico comunale in   VICOLO VALLONE, 1 -  per ml. 35  -Utente: OPEN-FIBER  Riferimento OPEN-FIBER CODICE PROGETTO: PR_ 083005</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13118</link>
-      <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13118</guid>
     </item>
   </channel>
 </rss>
