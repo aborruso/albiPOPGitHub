@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Zona a Traffico Limitato di Marina di Ginosa - Parziale modifica della disciplina della circolazione stradale nei periodi estivi ed invernali</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28168</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28168</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>Avviso pubblico esplorativo affidamento servizio pronto soccorso veterinario.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28167</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28108</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28108</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Presa d'atto del Regolamento per il funzionamento del Comitato Unico di Garanzia (CUG).</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28107</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28107</guid>
     </item>
   </channel>
 </rss>
