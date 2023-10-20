@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>Avviso pubblico esplorativo affidamento servizio pronto soccorso veterinario.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28167</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28167</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Approvazione istruttoria pubblica di co-progettazione per l'attivazione di un partenariato con enti del terzo settore ai fini della co-progettazione degli interventi nell'ambito del progetto RETI DI FACILITAZIONE DIGITALE PIANO NAZIONALE DI RIPRESA E</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28166</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28107</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28107</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Sportello Unico per l'Edilizia. D.P.R. 6 giugno 2001, n. 380, art. 5, acquisto nuova piattaforma informatica, per la trasmissione telematica della documentazione relativa alle attività di trasformazione del territorio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28106</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28106</guid>
     </item>
   </channel>
 </rss>
