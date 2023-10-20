@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Rettifica rimborso Determina Dirigenziale U.P. n.88 del 31/08/2023 al Comune di Racconigi (CN) per il servizio di assistenza all'autonomia ed alla comunicazione reso ad una minore ivi domiciliata</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13168</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13168</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Istituzione Catasto incendi, ai sensi dell'art.10, comma 2 della legge n.353/2000 e ss.mm.ii. - APPROVAZIONE ELENCO PROVVISORIO - delle aree percorse dal fuoco</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13167</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13167</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione consiglio comunale che si terrà giovedì 26 ottobre 2023, ore19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13166</link>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13166</guid>
+    </item>
+    <item>
       <title>Bandi - Avvisi Di Gara</title>
       <description>Avviso Pubblico Di Manifestazione Di Interesse per la Costituzione di un Elenco di Operatori Accreditati per l'Epletamento dei Servizi Tecnici  presso Il Teatro Comunale "Placido Mandanici"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13165</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13141</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13141</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Sospensione dei lavori nei Cimiteri cittadini in occasione della Commemorazione dei Defunti Anno 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13140</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13140</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali nominativi diversi per irreperibilità del 18/10/2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13139</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13139</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione delle seguenti limitazioni alla circolazione stradale per il giorno 20 ottobre 2023 in via Mons. Paino dalle ore 07:00 alle ore 18:00.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13137</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13137</guid>
     </item>
   </channel>
 </rss>
