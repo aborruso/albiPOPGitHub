@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta: Piazza Marconi,,26 ottobre 2023 - Via Trieste, 27 ottobre 2023 - Piazza Gramsci, 28 ottobre 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6495</link>
+      <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6495</guid>
+    </item>
+    <item>
       <title>23/10/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>POSTA CERTIFICATA: IST 2270 CP 2794 - ATI MESSINA - ASSEMBLEA TERRITORIALE IDRICA: PIANO D'AMBITO (PDA) DELL'ATI MESSINA PER IL SERVIZIO IDRICO INTEGRATO DELL'AMBITO TERRITORIALE DI MESSINA - AVVIO CONSULTAZIONE VAS AI SENSI DELL'ART. 13 COMMA 5 DEL D. LGS. N. 152/2006 INTEGRATA CON LA VALUTAZONE DI INCIDENZA - PUBBLICAZIONE AVVISO E ADEMPIMENTI PER LA PROSECUZIONE DELLA PROCEDURA DI VAS.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6494</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6461</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6461</guid>
-    </item>
-    <item>
-      <title>17/10/2023 | Determinazioni Dirigenziali</title>
-      <description>INCARICO PER LA REVISIONE ED AGGIORNAMENTO DEL PIANO DI SALUTE NEI LUOGHI DI LAVORO E DI RESPONSABILE DEL SERVIZIO DI PREVENZIONE E PROTEZIONE - PERIODO: SETTEMBRE 2023/DICEMBRE 2024 - CIG: Z953C72DBC - DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO E IMPEGNO SPESA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6460</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6460</guid>
     </item>
   </channel>
 </rss>
