@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/10/2023 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6496</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6496</guid>
+    </item>
+    <item>
       <title>23/10/2023 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta: Piazza Marconi,,26 ottobre 2023 - Via Trieste, 27 ottobre 2023 - Piazza Gramsci, 28 ottobre 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6495</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6462</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6462</guid>
-    </item>
-    <item>
-      <title>17/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RIVERSAMENTI CIE AL MINISTERO EMESSE NEL MESE DI SETTEMBRE 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6461</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6461</guid>
     </item>
   </channel>
 </rss>
