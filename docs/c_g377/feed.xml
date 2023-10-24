@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta Via C. Battisti per lavori: 26 e 27 ottobre 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6498</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6498</guid>
+    </item>
+    <item>
+      <title>24/10/2023 | Determinazioni Dirigenziali</title>
+      <description>SPESE LEGALI A SALDO ALL'AVV. MERLO MARCELLA  - CONTROVERSIA DEFINITA CON SENT. N. 156/2020 - TRIBUNALE DI PATTI - IMPEGNO SPESA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6497</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6497</guid>
+    </item>
+    <item>
       <title>24/10/2023 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6496</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6464</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6464</guid>
-    </item>
-    <item>
-      <title>17/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE AL CREDIT AGRICOLE ITALIA  S.P.A. DEL COMPENSO PER IL SERVIZIO DI TESORERIA - ANNO 2022.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6463</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6463</guid>
-    </item>
-    <item>
-      <title>17/10/2023 | Determinazioni Dirigenziali</title>
-      <description>LAVORI URGENTI PER IL CONVOGLIAMENTO DELLE ACQUE METEORICHE NEL TRATTO COMPRESO TRA LA VIA TENENTE NATOLI ED IL TORRENTE MONTAGNAREALE, FINALIZZATI ALLA ELIMINAZIONE DEL RISCHIO IDRAULICO E ALL'ELIMINAZIONE DEI FENOMENI DI ALLAGAMENTO DELL'ABITATO URBANO DELLA LOCALITA' PATTI MARINA - CUP: C47B20000570001 - CIG: 9376585AB7 - AGGIUDICAZIONE DEFINITIVA ED EFFICACE - IMPRESA: ALAK S.R.L.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6462</link>
-      <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6462</guid>
     </item>
   </channel>
 </rss>
