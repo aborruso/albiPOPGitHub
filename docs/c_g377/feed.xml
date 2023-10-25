@@ -17,8 +17,29 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/10/2023 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in occasione della Commemorazione dei Defunti.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6501</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6501</guid>
+    </item>
+    <item>
+      <title>25/10/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>MODIFICA PRONTA DISPONIBILITA' MESE DI OTTOBRE 2023 - SERVIZIO VETERINARIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6500</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6500</guid>
+    </item>
+    <item>
+      <title>25/10/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILIA' SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - DISTRETTO SANITARIO DI PATTI - MESE DI NOVEMBRE 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6499</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6499</guid>
+    </item>
+    <item>
       <title>24/10/2023 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta Via C. Battisti per lavori: 26 e 27 ottobre 2023.</description>
+      <description>Divieto di sosta Via C. Battisti per lavori - 26 e 27 ottobre 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6498</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6498</guid>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6467</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6467</guid>
-    </item>
-    <item>
-      <title>18/10/2023 | Ordinanze Dirigenziali</title>
-      <description>Deviazione temporanea transito in Via Verdi, per lavori: 19 ottobre 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6466</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6466</guid>
-    </item>
-    <item>
-      <title>18/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Tassa di registro relativa al contratto di locazione stipulato con l'Immobiliare Pattese S.r.l. - Anno 2023 - Liquidazione.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6465</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6465</guid>
-    </item>
-    <item>
-      <title>18/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione spesa ricovero disabile in Comunità Alloggio "In Cammino" Barcellona P.G. - Periodo: luglio e agosto 2023 - CIG. Z39399BA3A.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6464</link>
-      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6464</guid>
     </item>
   </channel>
 </rss>
