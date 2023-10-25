@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominatiovi diversi del 25/10/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13192</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13192</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito n°1 cartella esattoriale per assenza a carico di Beninati Sebastiano Amm.unico della I.D.C. SRL ITALIAN COMPANY del 25/10/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13191</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13191</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Determinazione del calendario delle festività religiose ebraiche per l'anno 2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13190</link>
+      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13190</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Apertura Farmacia Maiorana dott. Stefano Mauro aperta  nei giorni festivi 01/11/2023, 08/12/2023, 26/12/2023 e 06/01/2024 dalle ore 08.30 alle 13.00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13189</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13165</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13165</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per irreperibilià nominativi diversi del 20/10/2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13164</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13164</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>MANIFESTAZIONE DI INTERESSE PER LA COSTITUZIONE DI UN ELENCO DI OPERATORI ACCREDITATI PER L'ESPLETAMENTO DEI SERVIZI TECNICI PRESSO IL TEATRO COMUNALE "PLACIDO MANDANICI"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13162</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13162</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>-Autorizzazione allo scavo per la realizzazione di linea elettrica B.T. per ml. 15,00 -     E-distribuzione  Stretto I Coccomelli</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13161</link>
-      <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13161</guid>
     </item>
   </channel>
 </rss>
