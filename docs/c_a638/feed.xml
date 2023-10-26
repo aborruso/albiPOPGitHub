@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Servizio catering  per giornata dedicata a "Gita in città alla scoperta dei luoghi dedicati al Poeta Bartolo Cattafi, in data 27 Ottobre 2023, Rassegna poetica in ricordo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13216</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13216</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023,  alla ditta  Miano Rosario David per  la fornitura 120 cappellini  e per la stampa di 120 attestati</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13215</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13215</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>DECRETO DEL MiC N. 8 DEL 14/01/2022 E D.D.G. N. 614 DEL 22/08/2023. AFFIDAMENTO FORNITURA OPERE PER LA BIBLIOTECA "NANNINO DI GIOVANNI". LIBRERIA MONDADORI BOOKSTORE.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13214</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13189</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13189</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione limitazione alla circolazione stradale  nelle giornate dal 01 al 02 Novembre 2023 in occasione della commemorazione dei defunti.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13188</link>
-      <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13188</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura n.995 dell'11/09/2023 alla ditta Trapani Servizi SpA per il conferimento dei rifiuti solidi urbani indifferenziati nel mese di Agosto 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13187</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13187</guid>
     </item>
   </channel>
 </rss>
