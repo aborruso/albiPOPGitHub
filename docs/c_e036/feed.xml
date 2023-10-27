@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Regolamentazione del traffico mediante istituzione di sensi unici di marcia su strade dell'abitato di Ginosa - Area Centro-Sud Rettifica Ordinanza n. 94 del 17.10.2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28238</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28238</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione di processione religiosa "Madonna del Rosario" Ginosa 28 ottobre 2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28237</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28179</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28179</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture alla Società Edison Energia SpA per la fornitura di energia elettrica a vari immobili comunali.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28178</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28178</guid>
     </item>
   </channel>
 </rss>
