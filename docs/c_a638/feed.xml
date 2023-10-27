@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Apertura straordinaria del Cimitero Comunale per le ore pomeridiane del 29 ottobre 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13244</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13244</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto ex art. 143 c.p.c. a carico di Sacco Rosa Paola</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13242</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13242</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Ricorsi al Tar promossi da D.A. ed altri 2 e da  G.A.  contro Comune di Barcellona P G  e Assessorato Territorio e Ambiente Regione Sicilia a  Liquidazione legale Avv Massimiliano Chiofalo  acconto su saldo</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13241</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13216</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13216</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023,  alla ditta  Miano Rosario David per  la fornitura 120 cappellini  e per la stampa di 120 attestati</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13215</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13215</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>DECRETO DEL MiC N. 8 DEL 14/01/2022 E D.D.G. N. 614 DEL 22/08/2023. AFFIDAMENTO FORNITURA OPERE PER LA BIBLIOTECA "NANNINO DI GIOVANNI". LIBRERIA MONDADORI BOOKSTORE.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13214</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13214</guid>
     </item>
   </channel>
 </rss>
