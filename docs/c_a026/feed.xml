@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1783</title>
+      <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 124/2023 PER LA POSA DI UN PONTEGGIO SU VIA PROVINCIALE ANGOLO VIA MARINA DA UTILIZZARE PER MESSA IN SICUREZZA DEI BALCONI DEL SUCCITATO IMMOBILE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464243</link>
+      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464243</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/337</title>
       <description>ISTITUZIONE DEL DIVIETO DI SOSTA CON RIMOZIONE COATTA IN VIA S. T. G. FERLITO DAL CIV. N. 22 - 22/A FINO AL CIV. 24 E LUNGO VIA STAZZONE AI CIV. 17 - 19</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464201</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463997</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463997</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/170</title>
-      <description>ADOZIONE DEL PROGRAMMA TRIENNALE DELLE OPERE PUBBLICHE 2024-2026</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463995</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/463995</guid>
     </item>
   </channel>
 </rss>
