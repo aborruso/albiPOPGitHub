@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>CONSERVAZIONE DEL CATASTO TERRENI VERIFICHE QUINQUENNALI ART.118 E119 DEL REGOLAMENTO 8.12.1938 N. 2153 ANNO 2022 PUBBLICAZIONE MANIFESTI COMUNI DI AVETRANA, LIZZANO, MANDURIA, MARUGGIO, SAVA, TARANTO/C, TORRICELLA. [ENTRATE|AGEDP</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28299</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28299</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Variazione compensativa tra capitoli di spesa appartenenti allo stesso macroaggregato ai sensi dell'art. 175 comma 5 - quater, lettera a) del D. Lgs. n. 267/2000.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28298</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28240</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28240</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Incarico di supporto al RUP per pratiche Usi Civici, canoni patrimoniali e autorizzazioni manomissioni suolo pubblico e opere pubbliche dirette dal VII Settore - Liquidazione acconto n.7 - CIG: Z97390D958</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28239</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28239</guid>
     </item>
   </channel>
 </rss>
