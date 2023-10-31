@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART.60 ATTI N. 07</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28276</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28276</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione di processione religiosa "Corteo Cittadino" Ginosa 1 novembre 2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28275</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28217</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28217</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2022"  I annualità - Linea A -  II Finestra - Codice Pratica YQCQ2US2 (busta paga settembre 2023+ausili domotica + contributi inps)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28216</link>
-      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28216</guid>
     </item>
   </channel>
 </rss>
