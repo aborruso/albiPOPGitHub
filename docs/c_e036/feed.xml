@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>VERBALE ESTRAZIONE CILA DEL 02/11/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28307</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28307</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>VERBALE ESTRAZIONE SCA DEL 02/11/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28306</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28306</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fatture in favore del RTP formato da: ing. Domenico DI FRANCO, ing. Nunzio MORETTI, dott. Maurizio SORRENTI, ing. Tania DI TINCO e geom. Giuseppe GALEOTA. - Servizi di ingegneria (Fase 1) relativi alla redazione dello Studio di Fattibili</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28305</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28245</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28245</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>BUONI SERVIZIO PER L'ACCESSO AI SERVIZI PER LA PRIMA INFANZIA E AI SERVIZI SOCIOEDUCATIVI PER MINORI" RISORSE ATTIVATE CON DELIBERAZIONE DI GIUNTA REGIONALE N. 459 DEL 03/04/2023 CUP: B31H22000210002 -Liq "COOP. SOC. ALIMA"  (ART. 52 R.R.n.4/2007)  C</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28244</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28244</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>BUONI SERVIZIO PER L'ACCESSO AI SERVIZI PER LA PRIMA INFANZIA E AI SERVIZI SOCIOEDUCATIVI PER MINORI" RISORSE ATTIVATE CON DELIBERAZIONE DI GIUNTA REGIONALE N. 459 DEL 03/04/2023 CUP: B31H22000210002 -Liq. COOP. SOC. ALIMA (ART. 52 R.R.n.4/2007)  Cod</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28243</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28243</guid>
     </item>
   </channel>
 </rss>
