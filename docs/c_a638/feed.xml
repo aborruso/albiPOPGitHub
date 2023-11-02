@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>LIQUIDAZIONE FATTURA PER ACQUISTO MATERIALE  DITTA  PIRRI ANTONINO</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13271</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13271</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>PUBBLICAZIONE AVVISO UTENTI RUOLI ORDINARI DI BONIFICA ANNO 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13270</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13270</guid>
+    </item>
+    <item>
       <title>RESPONSABILITA' CIVILE A TERZI PER  LA DURATA DI ANNI UNO  VEICOLO SCUOLABUS TARGATO DP 558 LT   CIG Z3D3CE2FCE"</title>
       <description>"IMPEGNO E LIQUIDAZIONE PER LA STIPULA DEL CONTRATTO DI POLIZZA ASSICURATIVA </description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13269</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13241</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13241</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Impegno e liquidazione Anticipo "Indagine uso del tempo 2022-2023 1 trimestre"</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13240</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13240</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO E IMPEGNO DI SPESA PER IL SERVIZIO NAVETTA  IN FAVORE DI ANZIANI, PERSONE DIVERSAMENTE ABILI E NON DEAMBULANTI, NONCHE' SOGGETTI DEBOLI,  IN OCCASIONE DELLA COMMEMORAZIONE DEI DEFUNTI ANNO 2023.  CIG. Z373CEA7C4</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13239</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13239</guid>
     </item>
   </channel>
 </rss>
