@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/11/2023 | Atti Di Interesse Generale</title>
+      <description>AVVISO PUBBLICO PER LA PRESENTAZIONE DI PROPOSTE PROGETTUALI DI DEMOCRAZIA PARTECIPATA ANNO 2023 e convocazione dell'Assemblea Pubblica</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6568</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6568</guid>
+    </item>
+    <item>
       <title>02/11/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>PDZ 2019/2020 I^ Annualità - Azione N. 2 - Liquidazione incentivo al Personale Comunale dell'AOD N. 1 - Distretto Socio Sanitario N. 30.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6567</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6534</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6534</guid>
-    </item>
-    <item>
-      <title>30/10/2023 | Determinazioni Dirigenziali</title>
-      <description>FORNITURA FOGLI DEL  REGISTRO DELLO STATO CIVILE ANNO 2024 - AFFIDAMENTO ALLA DITTA MAGGIOLI S.P.A.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6533</link>
-      <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6533</guid>
     </item>
   </channel>
 </rss>
