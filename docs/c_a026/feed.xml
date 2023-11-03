@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/48070</title>
+      <description>DELEGA PER L'ESERCIZIO DELLE FUNZIONI DI UFFICIALE DI STATO CIVILE</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464607</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464607</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/48063</title>
+      <description>DELEGA PER L'ESERCIZIO DELLE FUNZIONI D'ANAGRAFE E RILASCIO CARTE D'IDENTITÀ</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464605</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464605</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1805</title>
       <description>MPEGNO DI SPESA, LIQUIDAZIONE SOMME PER DIRITTI DI ROGITO SPETTANTI AL SEGRETARIO GENERALE DOTT. ANTONIO MARIA CAPUTO – MESE DI GIUGNO,LUGLIO,AGOSTO , SETTEMBRE E OTTOBRE 2023</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464594</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464408</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464408</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1796</title>
-      <description>LIQUIDAZIONE INDENNITÀ DI RISULTATO AGLI INCARICATI DI AA.PP.OO. E AA.PP. PER L'ANNO 2022.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464406</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464406</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1795</title>
-      <description>LIQUIDAZIONE CONTRIBUTO A RENDICONTAZIONE AL COMITATO FESTEGGIAMENTI IN ONORE DELLA MADONNA DELLA BUONA NUOVA PER SERATA TELETHON.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464404</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464404</guid>
     </item>
   </channel>
 </rss>
