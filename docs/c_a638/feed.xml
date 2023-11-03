@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Azione 8 Sostegno al Reddito Piano di Zona 2019/2020-Liquidazione contributo a saldo assegni civici Comune di Rodì Milici</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13272</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13272</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>LIQUIDAZIONE FATTURA PER ACQUISTO MATERIALE  DITTA  PIRRI ANTONINO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13271</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13242</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13242</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ricorsi al Tar promossi da D.A. ed altri 2 e da  G.A.  contro Comune di Barcellona P G  e Assessorato Territorio e Ambiente Regione Sicilia a  Liquidazione legale Avv Massimiliano Chiofalo  acconto su saldo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13241</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13241</guid>
     </item>
   </channel>
 </rss>
