@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Avviso Pubblico Incanto per affitto terreno in località Terme Vigliatore, contrada Rosa Pizzicarì fg. di mappa 18 particella 27</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13308</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13308</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Ordinanza di demolizione di opere realizzate in assenza di titolo abilitativo, e pertanto abusive, in un fabbricato sito in  Via Amerigo Vespucci n. 22 del Comune di Barcellona Pozzo di Gotto, individuato nel N.C.U. al foglio 9 part.lla 1277 sub. 2,3</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13307</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13279</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13279</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Liquidazione compenso ai componenti Ufficio Piano maggio/settembre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13278</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13278</guid>
     </item>
   </channel>
 </rss>
