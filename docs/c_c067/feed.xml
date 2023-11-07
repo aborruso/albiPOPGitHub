@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA IRISCO SRL PER ELABORAZIONE, STAMPA, IMBUSTAMENTO E RECAPITO FATTURE SERVIZIO IDRICO INTEGRATO RUOLO SALDO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25838</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25838</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>"Progetto per i Lavori di manutenzione straordinaria delle strade asfaltate extraurbane  anno 2023/24" - Nomina del Responsabile Unico del Progetto (RUP) - D.Lgs. 36/2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25837</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25810</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25810</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>AGGIORNAMENTO PERIODICO DELL'ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE PRESSO I SEGGI ELETTORALI...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25809</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25809</guid>
     </item>
   </channel>
 </rss>
