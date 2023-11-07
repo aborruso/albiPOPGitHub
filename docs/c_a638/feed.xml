@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°36 del 06 novembre 2023 - Pratica Edilizia n°21763 a nome della Ditta Puliafito Luigi + 5</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13325</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13325</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi del 07/11/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13324</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13324</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartella esattoriale per assenza del 07/11/2023 unico nominativo Milone Daniele</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13323</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13323</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO E IMPEGNO DI SPESA PER CANONE DI NOLEGGIO AUTOMEZZI IN DOTAZIONE ALL'AUTOPARCO COMUNALE DITTA ALD AUTOMOTIVE ITALIA SRL   CIG Z6F3CD3B6B</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13322</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13298</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13298</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Recupero coatto delle spese di giudizio relativa all'ordinanza del 21/06/2022 nel giudizio iscritto al n.761 2022 R G  Liquidazione Legale  Avv Fumia Rocco Davide</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13297</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13297</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Procedura esecutiva per il recupero dei crediti canoni acquedotto vantati dal Comune di Barcellona P G nei confronti del Condominio G ed altri  Liquidazione Legale  Avv Fumia Rocco Davide</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13296</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13296</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Giudizio RG n 584 del 2016 promosso dinnanzi al Tribunale di Barcellona PG Associazione Sportiva Amici del Tennis   contro Comune di Barcellona PG Liquidazione Avv Coppolino Sabrina</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13295</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13295</guid>
     </item>
   </channel>
 </rss>
