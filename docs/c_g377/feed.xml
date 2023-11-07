@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/11/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 00020231300 del 31 ottobre 2023 - CIG: ZDC3C8A7B9 - Beneficiario Immedia S.p.A.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6588</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6588</guid>
+    </item>
+    <item>
+      <title>07/11/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 2064 del 31 ottobre 2023 - CIG: Z5139FB64E - Beneficiario Media S.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6587</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6587</guid>
+    </item>
+    <item>
       <title>06/11/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Fornitura generi alimentari per il Servizio di Refezione per l'Asilo Nido Comunale "M. Faranda" - Ottobre 2023 - Ditta: Fratelli Arena s.r.l. - Liquidazione.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6586</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6554</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6554</guid>
-    </item>
-    <item>
-      <title>31/10/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A SALDO ALL'AVV. PIRRI ANDREA - CONTROVERSIA APPELLO SIG.RA CAPPADONA CONCETTINA -  LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6553</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6553</guid>
-    </item>
-    <item>
-      <title>31/10/2023 | Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto ai sensi dell'art. 50 comma 1 lettera a) del D. Lgs. N. 36/2023 e s.m.i. svolto in modalità telematica (sulla piattaforma MEPA-CONSIP), per l'aggiudicazione di servizi nel sotto-soglia, per l'affidamento dei servizi di gestione di Centri di Accoglienza per Cittadini Ucraini in fuga dal conflitto - CIG: ZBC3CBBB3D.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6552</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6552</guid>
     </item>
   </channel>
 </rss>
