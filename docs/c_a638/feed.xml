@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Trasferimento somma al Comune di basicò per compenso al componente ufficio piano periodo da gennaio/settembre 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13331</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13331</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Servizio di preparazione, trasporto e distribuzione pasti agli alunni delle scuole materne, primarie e secondarie di primo grado durante l'anno scolastico 2023/2024 (dal 27/11/2023 al 19/05/2024)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13330</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13304</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13304</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Ricorsi ad opponendum dinnanzi Tar di Catania avverso il decreto n 6682/2016 dell'Assessorato Regionale dei Beni Culturali e dellidentità Siciliana Liquidazione Avv Cassata Nello</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13303</link>
-      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13303</guid>
     </item>
   </channel>
 </rss>
