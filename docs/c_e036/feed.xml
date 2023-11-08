@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 3012/C - P. di C. n. 059/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28370</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28370</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Assegnazione a Settori Comunali a seguito di assunzione di tre unità di personale a tempo pieno e indeterminato, con profilo professionale di Istruttore contabile, Area degli Istruttori a seguito di scorrimento di graduatoria del Comune di Crispiano</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28368</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28310</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28310</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO Delfino Nicola</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28309</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28309</guid>
     </item>
   </channel>
 </rss>
