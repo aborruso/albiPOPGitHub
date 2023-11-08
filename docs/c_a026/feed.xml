@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/1825</title>
+      <description>CONCESSIONE PERMESSI EX LEGGE N. 104/92 – DIPENDENTE MATRICOLA 285.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464856</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464856</guid>
+    </item>
+    <item>
+      <title>Atto numero 2023/1824</title>
+      <description>CONCESSIONE PERMESSI EX LEGGE N. 104/92 – DIPENDENTE MATRICOLA 279.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464854</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464854</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/48485</title>
       <description>POSTA CERTIFICATA: COMUNICAZIONE INIZIO LAVORI</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464842</link>
@@ -141,20 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464785</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464785</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/348</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI GULLI SALVATORE ANTONINO MARIA, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464783</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464783</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/347</title>
-      <description>ORDINANZA INGIUNTIVA DI PAGAMENTO A CARICO DI PUGLISI DANILO, EMESSA AI SENSI DELL'ART. 18 DELLA LEGGE 689/81.</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464781</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/464781</guid>
     </item>
   </channel>
 </rss>
