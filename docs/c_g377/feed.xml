@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/11/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione indennità di specifiche responsabilità ex art. 17, lett. f) del CCNL - Anno 2018.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6604</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6604</guid>
+    </item>
+    <item>
       <title>08/11/2023 | Determinazioni Del Sindaco</title>
-      <description>NOMINA NUOVO AMMINISTRATORE E RENDICONTATORE SISTEMA SGATE</description>
+      <description>NOMINA NUOVO AMMINISTRATORE E RENDICONTATORE SISTEMA SGATE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6603</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6603</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6570</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6570</guid>
-    </item>
-    <item>
-      <title>03/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ACQUISTO MATERIALE ELETTRICO VARIO NECESSARIO PER LA MANUTENZIONE DEGLI IMPIANTI IDRICI E FOGNARI E DEGLI STABILI COMUNALI - DITTA: SAM S.R.L. - LIQUIDAZIONE FATTURA N. 1179/23 DEL 02 OTTOBRE 2023 - CIG: Z1139EB3DC.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6569</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6569</guid>
     </item>
   </channel>
 </rss>
