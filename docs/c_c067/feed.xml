@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera</title>
+      <description>DELIBERAZIONE DEL COMITATO DEI SINDACI DEL DISTRETTO SOCIO-SANITARIO N° 33. RELAZIONE SULLO STATO DI ATTUAZIONE DELLA QUOTA SERVIZI DEL FONDO POVERTA' NEL DISTRETTO SOCIO-SANITARIO- CONTRIBUTO ASSUNZIONE ASSISTENTI SOCIALI (L. 178/2020, ART. 1 COMMA 797 E SEGUENTI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25881</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25881</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>REVOCA ORDINANZA N. 181 DEL 30/10/2023 E RIEMISSIONE ORDINE DI DEMOLIZIONE DI OPERE REALIZZATE IN ASSENZA DI TITOLO ABILITATIVO E RIPRISTINO DELLO STATO ORIGINARIO DEI LUOGHI NELLE U.I. IDENTIFICATE AL N.C.E.U. ALLE PARTICELLE 1629 E 1630 SUB 1 E 2 DEL FOGLIO 36...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25880</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25880</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno spesa  contributo straordinario a favore della famiglia affidataria della minore A.A. per   visite e cure ondontoiatriche- variazione del macroaggregat...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25879</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25854</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25854</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione  alla "Società per la regolarizzazione del servizio di gestione rifiuti A.T.O. n.13 denominato Palermo Provincia EST S.C.P.A."  per :  oneri di funzionamento II° acconto ( 25% ) 2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25853</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25853</guid>
-    </item>
-    <item>
-      <title>Elenco Di Polizia Giudiziaria</title>
-      <description>ABUSIVISMO EDILIZIO  MESE DI OTTOBRE 2023 - RISCONTRO POSITIV...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25852</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25852</guid>
     </item>
   </channel>
 </rss>
