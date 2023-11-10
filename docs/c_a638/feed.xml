@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bandi - Avvisi Di Gara</title>
+      <description>Bando Pubblico Assegnazione dei Lotti dell' Area Artigianale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13352</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13352</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13351</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13351</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13350</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13350</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione divieto di sosta con rimozione ambo i lati per il giorno 11 Novembre 2023 dalle ore 07:00 alle ore 14:00, via Bellini- via Quasimodo - via Moleti - via Degli Studi - via Fosse Ardeatine</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13349</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13324</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13324</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO E IMPEGNO DI SPESA PER CANONE DI NOLEGGIO AUTOMEZZI IN DOTAZIONE ALL'AUTOPARCO COMUNALE DITTA ALD AUTOMOTIVE ITALIA SRL   CIG Z6F3CD3B6B</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13322</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13322</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO DEL SERVIZIO DI MANUTENZIONE ORDINARIA, STRAORDINARIA E ACQUISTO MATERIALE DI CONSUMO PER LE ATTREZZATURE NECESSARIE ALLA MANUTENZIONE DEL VEREDE PUBBLICO  CIG. Z243CD3BCB</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13321</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13321</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO E IMPEGNO DI SPESA PER FORNITURA MATER IALE PER  LA  MANUTENZIONE DELLE STRADE</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13320</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13320</guid>
     </item>
   </channel>
 </rss>
