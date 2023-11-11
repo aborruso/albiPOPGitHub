@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/11/2023 | Determinazioni Dirigenziali</title>
+      <description>Avviso C.S.E. 2022 - Comuni per la Sostenibilità e l'Efficienza energetica - Avviso relativo alla concessione di contributi a fondo perduto per la realizzazione di interventi di efficienza energetica anche tramite interventi per la produzione di ener</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6638</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6638</guid>
+    </item>
+    <item>
       <title>10/11/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>PROGETTO: "67° TINDARI FESTIVAL 2023 TRADIZIONI" - LIQUIDAZIONE SERVIZIO DI BIGLIETTERIA - CIG: Z8B3B856AA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6637</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6604</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6604</guid>
-    </item>
-    <item>
-      <title>08/11/2023 | Determinazioni Del Sindaco</title>
-      <description>NOMINA NUOVO AMMINISTRATORE E RENDICONTATORE SISTEMA SGATE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6603</link>
-      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6603</guid>
     </item>
   </channel>
 </rss>
