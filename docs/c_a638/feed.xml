@@ -31,13 +31,6 @@
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13351</guid>
     </item>
     <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13350</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13350</guid>
-    </item>
-    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione divieto di sosta con rimozione ambo i lati per il giorno 11 Novembre 2023 dalle ore 07:00 alle ore 14:00, via Bellini- via Quasimodo - via Moleti - via Degli Studi - via Fosse Ardeatine</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13349</link>
@@ -211,6 +204,13 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13322</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13322</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO DEL SERVIZIO DI MANUTENZIONE ORDINARIA, STRAORDINARIA E ACQUISTO MATERIALE DI CONSUMO PER LE ATTREZZATURE NECESSARIE ALLA MANUTENZIONE DEL VEREDE PUBBLICO  CIG. Z243CD3BCB</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13321</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13321</guid>
     </item>
   </channel>
 </rss>
