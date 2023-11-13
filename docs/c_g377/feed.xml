@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/11/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>APPROVAZIONE BILANCIO DI PREVISIONE PER L'ESERCIZIO 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6651</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6651</guid>
+    </item>
+    <item>
       <title>13/11/2023 | Determinazioni Dirigenziali</title>
       <description>Manutenzione straordinaria sull'autobotte targata AJ 259 XB "Servizio di smontaggio del serbatoio, riparazioni e rinforzi sulla parte anteriore, pulitura esterna serbatoio, pulitura telaio autoveicolo e montaggio sullo stesso veicolo" - CIG: Z3D3D3333.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6650</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6617</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6617</guid>
-    </item>
-    <item>
-      <title>10/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DEL 6° SETTORE DELL'INDENNITÀ PER PERSONALE EDUCATIVO ASILO NIDO E INSEGNANTE SCUOLA MATERNA PER L'ANNO 2017, ART. 37 C. 1 E 2 DEL CCNL DEL 06/07/1995, ART. 31 E 32 DEL CCNL DEL 14/09/2000 E ART. 6 DEL CCNL DEL DEL 05/10/2001.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6616</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6616</guid>
     </item>
   </channel>
 </rss>
