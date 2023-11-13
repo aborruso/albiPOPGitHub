@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO MORO LEONARDO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28415</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28415</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO RICCIARDI ANGELO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28414</link>
+      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28414</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>DEPOSITO CASA COMUNALE IRREPERIBILE CANNELLA MICHELE</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28413</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28354</link>
       <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28354</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Acquisto di un telefono cellulare per le esigenze della P.M. - Affidamento fornitura alla ditta Malvani di Malvani Carmine</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28353</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28353</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>PRESA D'ATTO, ORA PER ALLORA, DELLAVVENUTA LEGITTIMAZIONE DELLE TERRE CIVICHE DEMANIALI OCCUPATE, AI SENSI DELLART.54 L.R. N. 14/2004, E CONTEMPORANEO PROVVEDIMENTO DI AFFRANCAZIONE DEL CANONE DI NATURA ENFITEUTICA IMPOSTO SUI FONDI SITI IN AGRO DI G</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28352</link>
-      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28352</guid>
     </item>
   </channel>
 </rss>
