@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/49657</title>
+      <description>AVVISO DI ESTUMULAZIONE LOCULO 36 SETTORE C DEFUNTO DI PRIMA DOMENICA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465213</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465213</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/49550</title>
       <description>REFEZIONE SCOLASTICA - DISPOSIZIONI DI PAGAMENTO PER IL MESE DI NOVEMBRE</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465165</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465074</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465074</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1842</title>
-      <description>CONCESSIONE TEMPORANEA DI OCCUPAZIONE DI SUOLO PUBBLICO N. 128/2023 IN VIA PROVINCIALE PER LA GIORNATA NAZIONALE PER LA RICERCA SUL CANCRO ORGANIZZATA DALL'AIRC</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465072</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465072</guid>
     </item>
   </channel>
 </rss>
