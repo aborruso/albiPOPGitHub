@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/11/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO DEPOSITO DEL BILANCIO 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6653</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6653</guid>
+    </item>
+    <item>
+      <title>14/11/2023 | Determinazioni Dirigenziali</title>
+      <description>Approvazione ruolo dei contribuenti tenuti al pagamento del saldo TARI anno 2023 - Accertamento entrata.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6652</link>
+      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6652</guid>
+    </item>
+    <item>
       <title>13/11/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>APPROVAZIONE BILANCIO DI PREVISIONE PER L'ESERCIZIO 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6651</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6619</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6619</guid>
-    </item>
-    <item>
-      <title>10/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DEL 6° SETTORE DELL'INDENNITÀ CORRELATA AGLI INCARICHI PER SPECIFICHE RESPONSABILITÀ PER L'ANNO 2018, CONFERITO AI SENSI DELL'ART.17 LETT. F CCNL 1999 E SUCC. MM. II.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6618</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6618</guid>
-    </item>
-    <item>
-      <title>10/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DEL 6° SETTORE DELL'INDENNITÀ DI RISCHIO PER L'ANNO 2017, CONFERITO AI SENSI DELL'ART.17 COMMA 2 LETT. D) CCNL DELL'01/04/1999 E ART. 37 CCNL DEL 14/09/2000.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6617</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6617</guid>
     </item>
   </channel>
 </rss>
