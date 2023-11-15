@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 c.p.c. a carico di Sacco Rosa Paola</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°37 del 15/11/2023 - Pratica Edilizia n°22562 a nome della Ditta:Zagara Angela</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13412</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13412</guid>
+    </item>
+    <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Aggiornamento contributo di costruzione - ANNO 2023.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13411</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13411</guid>
+    </item>
+    <item>
+      <title>Verbali</title>
+      <description>Verbale consiglio comunale seduta del 12 settembre 2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13410</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13410</guid>
+    </item>
+    <item>
       <title>Verbali</title>
       <description>Verbale consiglio comunale seduta del 11 Settembre 2023</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13409</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13386</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13386</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per  assenza nominativi  diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13385</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13385</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13384</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13384</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura Enel Energia s.p.a. fornitura di gas presso le Scuole Elementari, del 10.10.2023, relativa al periodo agosto settembre 2023.  Totale euro 108,52 oltre IVA euro 5,43   C.I.G. 7852485B9B</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13383</link>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13383</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Esecuzione delibera di Consiglio Comunale n 30 del 28 giugno 2023 di riconoscimento debito fuori bilancio a saldo derivanti da Sentenza n149/2010 emessa dal Tribunale di Barcellona PG a definizione del giudizio iscritto al n 875/1996 RG</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13382</link>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13382</guid>
     </item>
   </channel>
 </rss>
