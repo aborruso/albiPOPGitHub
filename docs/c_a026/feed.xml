@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/49907</title>
+      <description>AVVISO DI ESTUMULAZIONE LOCULO N° 39 SETTORE C DEFUNTA DI MAURO AGATA</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465308</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465308</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1861</title>
       <description>CONCESSIONE TEMPORANEA DI SUOLO PUBBLICO N. 134/2023 PER LA COLLOCAZIONE DI UN PONTEGGIO IN VIA PRIVITERA N. 1</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465302</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465146</link>
       <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465146</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1848</title>
-      <description>CONFERIMENTO DI INCARICO DI COLLABORAZIONE ESTERNA, AI SENSI DELL’ART. 7 DEL D.LGS. 16572001, DI FORMATORE GENERALE SERVIZIO CIVILE UNIVERSALE</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465141</link>
-      <pubDate>Mon, 13 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/465141</guid>
     </item>
   </channel>
 </rss>
