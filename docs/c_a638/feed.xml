@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. 1662 del 02/11/2023prot. Num. 58014 del 09/11/2023, alla ditta Viaggi Fiore s.r.l. per servizio navetta effettuato nei giorni 1 e 2 novembre 2023 in occasione della commemorazione dei defunti, percorso inizio Via Delle Rimembr</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13438</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13438</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Istanza della dipendente F. G. per la fruizione di giorni 10 di congedo straordinario ai sensi dell'art.7 D. Lgs.vo n.119 del 18/7/2011 e s.m.i. decorrenti dal 20/11/2023 al 29/11/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13437</link>
+      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13437</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto art. 143 cpc  a carico di Crinò Ioana</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13436</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13411</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13411</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale consiglio comunale seduta del 12 settembre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13410</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13410</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale consiglio comunale seduta del 11 Settembre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13409</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13409</guid>
     </item>
   </channel>
 </rss>
