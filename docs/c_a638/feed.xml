@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Del Consiglio Comunale</title>
+      <description>Approvazione Rendiconto della gestione e relativi allegati anno 2022</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13440</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13440</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Procedimento per presentazione pratica  n.16138 S.C.I.A.(art.4 DPR 01/08/2011  n.151)  per l'impianto sportivo coperto di Contrada Manno -Versamento per attivita 65.1.B di €.324,00 in favore della Tesoreria Provincia dello Stato- Comando Vigili</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13439</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</guid>
-    </item>
-    <item>
-      <title>Concessioni Edilizie</title>
-      <description>Permesso di costruire n°37 del 15/11/2023 - Pratica Edilizia n°22562 a nome della Ditta:Zagara Angela</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13412</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13412</guid>
     </item>
   </channel>
 </rss>
