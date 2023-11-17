@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Direttiva prot. n. 31773 del 18/07/2023-D.lvo n. 65 del 13/04/2017-riparto annualità 2023 relativo alle sezioni primavera-fascia 3-6 anni-Comunicazioni relative alla linea di intervento:Contributo gestione per sezione.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13441</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13441</guid>
+    </item>
+    <item>
       <title>Delibere Del Consiglio Comunale</title>
       <description>Approvazione Rendiconto della gestione e relativi allegati anno 2022</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13440</link>
@@ -193,7 +200,7 @@
     </item>
     <item>
       <title>Determinazioni Sindacali</title>
-      <description>Nomina per un triennio dei componenti del Consiglio di Amministrazione dell'Università della Terza Età</description>
+      <description>Nomina per un triennio dei componenti del Consiglio di Amministrazione dell'Università della Terza Età-Rettifica a seguito di errore materiale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13415</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13415</guid>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13414</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13414</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto art. 143 c.p.c. a carico di Sacco Rosa Paola</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</guid>
     </item>
   </channel>
 </rss>
