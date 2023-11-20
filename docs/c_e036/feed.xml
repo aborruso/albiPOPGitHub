@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>Convocazione Consiglio Comunale per il 23 novembre 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28481</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28481</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>Convocazione III Commissione consiliare per il 20 novembre 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28480</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28480</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Ginosa e Marina di Ginosa - dal 21.11 al 14.12.2023 - Ditta Petito Costruzioni</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28479</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28412</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28412</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023   I FINESTRA  Linea A Codice Pratica NAFQX9WA - (Liquidazione I SEMESTRE 2023)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28411</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28411</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2022" Linea A -  II Finestra - Codice Pratica UKKPSHNQ (busta paga ottobre 2023 + contributi inps)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28410</link>
-      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28410</guid>
     </item>
   </channel>
 </rss>
