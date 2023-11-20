@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/11/2023 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in Via Gorizia per lavori di messa in sicurezza cornicione - Martedì 21 novembre 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6706</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6706</guid>
+    </item>
+    <item>
+      <title>20/11/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura ACI N. 31840, del 15 novembre 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6705</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6705</guid>
+    </item>
+    <item>
       <title>20/11/2023 | Determinazioni Dirigenziali</title>
       <description>ELEVAZIONE ORARIO DI LAVORO AL PERSONALE ASU IN FORZA AL III° SETTORE PER IL PERIODO DAL 16 NOVEMBRE AL 31 DICEMBRE 2023.- IMPEGNO SPESA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6704</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6672</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6672</guid>
-    </item>
-    <item>
-      <title>15/11/2023 | Deliberazioni Di Giunta</title>
-      <description>APPROVAZIONE DEL REGOLAMENTO COMUNALE PER LA COSTITUZIONE E LA RIPARTIZIONE DEL FONDO INCENTIVI PER FUNZIONI TECNICHE, AI SENSI DELL'ART. 113 DEL D.LGS. N. 50/2016 E S.M.I.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6671</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6671</guid>
-    </item>
-    <item>
-      <title>15/11/2023 | Deliberazioni Di Giunta</title>
-      <description>UTILIZZO LOCALI COMUNALI - APPROVAZIONE BOZZA DI CONVENZIONE CON L'ASSOCIAZIONE "RISVEGLIO MARINA".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6670</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6670</guid>
     </item>
   </channel>
 </rss>
