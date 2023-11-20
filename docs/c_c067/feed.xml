@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>Intitolazione nuova area di circolazione :Vicolo dei Nebrod...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25956</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25956</guid>
+    </item>
+    <item>
+      <title>Delibera Di Giunta</title>
+      <description>ADOZIONE DELLO SCHEMA DEL PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2024  2026 E DELL'ELENCO ANNUALE DEI LAVORI 2024, DI CUI ALL'ART. 37 DEL D. LGS. 36/23 E S.M.I. REDAZIONE AI SENSI DELL'ALLEGATO I.5 DEL D. LGS. 36/23 E S.M.I. ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25955</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25955</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione compensi per la progettazione interna dei lavori ai sensi dell'art. 113 del Decreto Lgs. 50/2016 e s.m.i. ora sostituito con l'art. 45 del Decreto Lgs. 36/23  LAVORI DI  MANUTENZIONE STRAORDINARIA DEI MANUFATTI E DELLE AREE A PROTEZION...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25954</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25929</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25929</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>IMPEGNO DI SPESA PER ABBONAMENTO ANNUALE RIVISTA AZIENDITALIA ENTI LOCAL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25928</link>
-      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25928</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Concessione contributo anno 2023 in favore delle Associazioni sportive, culturali e proloco Castelbuon...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25927</link>
-      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=25927</guid>
     </item>
   </channel>
 </rss>
