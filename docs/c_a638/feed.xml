@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. 99 per il servizio reso dal 01/06/2023 al 27/06/2023 di un utente a COOPERATIVA SOCIALE FORMAMENTIS SOCIETA'   CIG: ZE73AC195F</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13443</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13443</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Direttiva prot. n. 31773 del 18/07/2023-D.lvo n. 65 del 13/04/2017-riparto annualità 2023 relativo alle sezioni primavera-fascia 3-6 anni-Comunicazioni relative alla linea di intervento:Contributo gestione per sezione.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13441</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13414</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13414</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto art. 143 c.p.c. a carico di Sacco Rosa Paola</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13413</guid>
     </item>
   </channel>
 </rss>
