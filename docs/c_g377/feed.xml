@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/11/2023 | Determinazioni Dirigenziali</title>
+      <description>ELEVAZIONE ORARIO DI LAVORO AL PERSONALE ASU IN FORZA AL III° SETTORE PER IL PERIODO DAL 16 NOVEMBRE AL 31 DICEMBRE 2023.- IMPEGNO SPESA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6704</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6704</guid>
+    </item>
+    <item>
       <title>17/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 4 "Emergenza e Urgenza I^ e II^ Annualità - PdZ 2018/2019 - Liquidazione a N. 02 Beneficiari del Comune di Patti.</description>
+      <description>Azione N. 4 "Emergenza e Urgenza" I^ e II^ Annualità- PdZ 2018/2019 - Liquidazione a N. 02 Beneficiari del Comune di Patti.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6703</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6703</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6670</link>
       <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6670</guid>
-    </item>
-    <item>
-      <title>15/11/2023 | Deliberazioni Di Giunta</title>
-      <description>Piano di utilizzo delle somme di cui al D.D.G. N. 359/Serv. 4 del 09 agosto 2023 di attuazione del comma 9 dell'art. 3 L.R. N. 2/2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6669</link>
-      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6669</guid>
     </item>
   </channel>
 </rss>
