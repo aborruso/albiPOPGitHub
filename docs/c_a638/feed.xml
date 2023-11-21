@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione stallo di carico e scarico merci in via Verdi dal civ. 29 al civ. 31</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13447</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13447</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Atto di appello promosso dal Comune di Barcellona PG dinnanzi alla Corte di Appello di Messina avverso sentenza n 473 del 2023 emessa dal Tribunale di Barcellona PG nel giudizio RG n 38 del 2018 Nomina Legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13446</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13419</link>
       <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13419</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13417</link>
-      <pubDate>Thu, 16 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13417</guid>
     </item>
   </channel>
 </rss>
