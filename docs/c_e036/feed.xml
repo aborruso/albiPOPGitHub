@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Ricorrenza della Festa di Santa Cecilia - Regolamentazione temporanea della circolazione stradale in Ginosa e Marina di Ginosa il giorno 22 novembre 2023.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28496</link>
+      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28496</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Ricorso al Giudice di Pace di Taranto Sig.ra M.G. - Costituzione in giudizio.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28495</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28427</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28427</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fattura n.7/PA del 06/11/2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28426</link>
-      <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28426</guid>
     </item>
   </channel>
 </rss>
