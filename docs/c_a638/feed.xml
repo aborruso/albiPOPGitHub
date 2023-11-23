@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>Piano di Zona 2019/2020 - Azione 8 " Sostegno al Reddito " Liquidazione contributo  borsa lavoro ai beneficiari del Comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13488</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13488</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>ISTITUZIONE DIVIETO DI SOSTA CON RIMOZIONE  E DI SOSPENSIONE ALLA CIRCOLAZIONE SU TUTTO IL PERCORSO DELLA MANIFESTAZIONE PODISTICA DEL 26 NOVEMBRE 2023 DALLE ORE 07:00 ALLE ORE 13:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13486</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13486</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>Ricorso  promosso dinnanzi al TAR di Catania da B  D  contro Comune di Barcellona PG    Nomina Legale</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13485</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13459</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13459</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale consiglio comunale seduta del 14 novembre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13457</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13457</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale consiglio comunale seduta del 27 ottobre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13456</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13456</guid>
     </item>
   </channel>
 </rss>
