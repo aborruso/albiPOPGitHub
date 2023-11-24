@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO D'Angelo Agostino</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28617</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28617</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO D'Amelio Cosimo</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28616</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28616</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Manifestazione di interesse per la gestione di progetti pilota di coabitazione sociale per la "Promozione della cultura dell'abitare sociale" (A.D. n.418/2023) ed approvazione allegati tecnici.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28615</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28558</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28558</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione integrazione retta ricovero utente CIG. Z413BB9430 presso la struttura RSA " Armonie diverse" ANFFAS GINOSA sita in via Degli Ulivi Km.11,600 C.da Madonna D'Attoli  Mese OTTOBRE 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28557</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28557</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo economico in favore di minori naturali III° quadrimestre Settembre - Dicembre 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28556</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28556</guid>
     </item>
   </channel>
 </rss>
