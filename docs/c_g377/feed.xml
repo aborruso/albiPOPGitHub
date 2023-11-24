@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/11/2023 | Determine Dirigenziali Di Liquidazione</title>
+      <description>TASSA REGISTRAZIONE PROVVEDIMENTO N.8/2021 DEL TRIBUNALE DI PATTI - GIUDICE ESECUZIONI MOBILIARI - LIQUIDAZIONE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6756</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6756</guid>
+    </item>
+    <item>
+      <title>24/11/2023 | Avvisi Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6755</link>
+      <pubDate>Fri, 24 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6755</guid>
+    </item>
+    <item>
       <title>24/11/2023 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>SERVIZIO IGIENE PUBBLICA -TURNO SABATO MATTINA ORE 9/12:30 - DICEMBRE 23.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6754</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6722</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6722</guid>
-    </item>
-    <item>
-      <title>21/11/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio trasporto urbano alunni Ditta: AST S.p.A. - Mese di settembre 2023 - Liquidazione Fattura.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6721</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6721</guid>
-    </item>
-    <item>
-      <title>21/11/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito corsia lato mare Via Zuccarello per manifestazione contro la violenza sulle donne del 24 novembre 2023 - Rimodulazione chiusura al transito corsia lato monte Via Zuccarello nelle giornate di sabato 25 e domenica 26 novembre 2023..</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6720</link>
-      <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6720</guid>
     </item>
   </channel>
 </rss>
