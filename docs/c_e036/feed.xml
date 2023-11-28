@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Noia Giovanni</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28638</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28638</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>D.LGS 152/2006 - L.R. 44/2012 E SS.MM.II. - R.R. N°18/2013 ART.8 DPR 160/2010 - Formalizzazione Procedura di Verifica di assoggettabilità a VAS per Nuovo Insediamento di attività produttiva in contrasto con lo strumento urbanistico in località SANTA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28637</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28579</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28579</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione di spesa per trasporto e custodia giudiziaria di cose sequestrate per violazioni penali ed amministrative - Ditta Appia ECO SRL - Massafra CIG: Z5C3C36A42</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28578</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28578</guid>
     </item>
   </channel>
 </rss>
