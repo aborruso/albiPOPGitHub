@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Ricovero Sig. G.S. presso Comuinità Alloggio Sant' Anna - ANNO202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26038</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26038</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>IMPEGNO SPESA CONTRIBUTO  SPESE DI VIAGGIO PER  TERAPIA - ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26037</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26037</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 34/2023 RILASCIATO IN DATA 15/11/2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26036</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26011</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26011</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento diretto alla Ditta INNOVA s.r.l per la fornitura di n. 2 frullatori professionali occorrenti  alle cucine del micronido e della Scuola Gino Strada...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26010</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26010</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Prosecuzione ricovero n° minore e della propria madre presso C/O di accoglienza di II livello  - fino al 31/12/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26009</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26009</guid>
     </item>
   </channel>
 </rss>
