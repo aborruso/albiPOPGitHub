@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Sindacali</title>
+      <description>Articolo 110 D.Lgs. n.267/2000 e ss.mm.e ii. - Art.8, comma 2, del D.L. 24.02.2023 n.13 - Incarico di Dirigente del IV Settore, nonchè, ad interim, di Dirigente del V settore - Servizio 1°, all'Ing. ninzio santoro.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13572</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13572</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Determinazione del calendario delle festività religiose ortodosse per l'anno 2024</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13571</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13545</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13545</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Lavori per l'efficientamento energetico e dello sviluppo territoriale sostenibile presso il plesso scolastico di Calderà sito in Via Milite Ignoto CIG 890528272E  LIQUIDAZIONE SAL N° 1</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13544</link>
-      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13544</guid>
     </item>
   </channel>
 </rss>
