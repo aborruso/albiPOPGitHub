@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 191: ACCERTAMENTO DI AVVENUTO DECESSO E SOTTERRAMENTO DI ANIMALI EVITANDO SPARGIMENTO DI MATERIALE ORGANICO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26053</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26053</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Nomina Commissione per la formazione della graduatoria per l'assegnazione di alloggi di  edilizia popolare, ai sensi dell'art. 17 della L.R. n. 1 del 20/01/1979  di cui al bando di concorsi approvato con Deliberazione di G.M.  n. 97 del 02/08/202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26052</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26026</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26026</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 13A del 01/11/2023 della Ditta "La bottega minicash" di Scancarello Rosario relativa alla fornitura di diversi generi occorrenti per il servizio di refezione scolastica - mese di ottobre 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26025</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26025</guid>
     </item>
   </channel>
 </rss>
