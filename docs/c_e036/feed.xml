@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO per l'acquisizione di richieste di contributo per manifestazioni culturali da realizzare durante le FESTIVITÀ NATALIZIE 2023/2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28643</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28643</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Misure a tutela della circolazione stradale in Ginosa dal giorno 30 novembre al giorno 1 dicembre 2023 e comunque fino a cessata esigenza per LAVORI SU RETE GAS - Ginosa - Ditta Del Fiume Srl - Proroga Ordinanza n. 91 del 23.11.2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28642</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28583</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28583</guid>
-    </item>
-    <item>
-      <title>del</title>
-      <description>"Inventario</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28582</link>
-      <pubDate>comunale -  Rilevazione,	analisi	e regolarizzazione degli espropri in essere non conclusi - Determina a contrarre e affidamento Inacrico alla Ditta Gestam srl - CIG: Z133D2B243"	Determinazione	23/11/2023	Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28582</guid>
     </item>
   </channel>
 </rss>
