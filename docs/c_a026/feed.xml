@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Aci Castello</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:087002</category>
     <item>
+      <title>Atto numero 2023/52905</title>
+      <description>MANIFESTAZIONE DI INTERESSE PER L'INDIVIDUAZIONE NEL COMUNE DI ACI CASTELLO DI AREE DA DESTINARE A PARCHEGGI DA GESTIRE IN CONVENZIONE O CON ALTRE MODALITA' CON IL COMUNE.</description>
+      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466681</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466681</guid>
+    </item>
+    <item>
       <title>Atto numero 2023/1955</title>
       <description>ATTESTAZIONE DI FORMAZIONE PER SILENZIO ASSENSO AL P.D.C. N. 1955 DEL 01/12/2023</description>
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466526</link>
@@ -148,13 +155,6 @@
       <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466354</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466354</guid>
-    </item>
-    <item>
-      <title>Atto numero 2023/1950</title>
-      <description>LAVORI DI MANUTENZIONE DEL COLOMBARIO A NEL CIMITERO DI ACI CASTELLO - CUP H29G16000450005 - CIG 9564280589 LIQUIDAZIONE ALL’IMPRESA SAL 1 LAVORI</description>
-      <link>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466352</link>
-      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio/-/papca/display/466352</guid>
     </item>
   </channel>
 </rss>
