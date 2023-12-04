@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso per la manifestazione di interesse all'individuazione quale componente della Commissione giudicatrice per i Concorsi per titoli ed esami</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13600</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13600</guid>
+    </item>
+    <item>
       <title>Concessioni Edilizie</title>
       <description>Permesso di costruire n° 39 in ditta Quattrocchi Salvatore Francesco e Mandanici Natalia</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13599</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13571</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13571</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Invito alla stipula  di convenzione di negoziazione assistita ai sensi degli articoli 2 e 3 del D L  132 2014 convertito in L162 2014  proposta dal  Signor B M A  c Comune di Barcellona P G  Nomina legale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13570</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13570</guid>
     </item>
   </channel>
 </rss>
