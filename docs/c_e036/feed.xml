@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per l'allestimento di luminarie artistiche in Ginosa e Marina di Ginosa dal 4 dicembre 2023 fino a cessata esigenza</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28655</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28655</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lo  svolgimento  di varie manifestazioni di carattere civile e religioso in Ginosa e Marina di Ginosa dal 7 al 23 dicembre 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28654</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28654</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Avviso di manifestazione di interesse per idonei in graduatorie di concorsi pubblici espletati da altri enti per il reclutamento di diverse risorse a tempo pieno e indeterminato.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28653</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28595</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28595</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Determina di Accertamento Fondi Strutturali FGSA 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28594</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28594</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>BUONI SERVIZIO PER L'ACCESSO AI SERVIZI A CICLO DIURNO E DOMICILIARI PER ANZIANI E PERSONE CON DISABILITÀ"  INCREMENTO DELLA DOTAZIONE FINANZIARIA VII ANNUALITÀ OPERATIVA "PONTE"  2022/2023 A VALERE SUL PSC Regione Puglia (Fondo per lo Sviluppo e Coe</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28593</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28593</guid>
     </item>
   </channel>
 </rss>
