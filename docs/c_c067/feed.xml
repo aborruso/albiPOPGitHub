@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>ASSISTENZA ECONOMICA L.R.22/86 - IMPEGNO SPES...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26089</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26089</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>APPROVAZIONE SCHEMA DI BILANCIO DI PREVISIONE 2024/2026 - NOTA INTEGRATIVA - PIANO DEGLI INDICATORI E RELATIVI ALLEGAT...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26088</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26062</link>
       <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26062</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE GERIATRICA SOC. COOP. SOCIALE PER RICOVERO DELLA SIG.RA M.M.G. MESE DI OTTOBRE 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26061</link>
-      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26061</guid>
     </item>
   </channel>
 </rss>
