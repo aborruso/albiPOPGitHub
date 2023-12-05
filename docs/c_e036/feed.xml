@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO DI MANIFESTAZIONE DI INTERESSE PER IDONEI IN GRADUATORIE DI CONCORSI PUBBLICI ESPLETATI DA ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI O DI COMPARTI DIVERSI PER LACOPERTURA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28656</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28656</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina temporanea della circolazione stradale per l'allestimento di luminarie artistiche in Ginosa e Marina di Ginosa dal 4 dicembre 2023 fino a cessata esigenza</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28655</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28596</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28596</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Accertamento risorse fondi PNRR Missione 5 Componente 2 Investimento 1.2 Percorsi di autonomia per persone con disabilità Unità di Missione PNRR  MLPS</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28595</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28595</guid>
     </item>
   </channel>
 </rss>
