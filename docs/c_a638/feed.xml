@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13630</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13630</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13629</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13629</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO PROFESSIONALE RELATIVO AI SERVIZI DI INDAGINI DIAGNOSTICHE E PER LE VERIFICHE STRUTTURALI VOLTE ALL'OTTENIMENTO DELLA CERTIFICAZIONE DI VULNERABILITÀ SISMICA SI SENSI DELLOPCM 3274/2003, DI ALCUNI PLESSI  SCOLASTICI DI PROPRIETÀ</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13628</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13628</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO PROFESSIONALE RELATIVO AI SERVIZI DI INDAGINI DIAGNOSTICHE E PER LE VERIFICHE STRUTTURALI VOLTE ALL'OTTENIMENTO DELLA CERTIFICAZIONE DI VULNERABILITÀ SISMICA SI SENSI DELLOPCM 3274/2003, DI ALCUNI PLESSI  SCOLASTICI DI PROPRIETÀ</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13627</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13603</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13603</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale consiglio comunale seduta del 27 Novembre 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13602</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13602</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Trasmissione degli elenchi, approvati dalla Commissione Mandamentale, per aggiornamenti albi Giudici Popolari di Corte di Assise di primo e secondo grado</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13601</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13601</guid>
-    </item>
-    <item>
-      <title>Bando Di Concorso</title>
-      <description>Avviso per la manifestazione di interesse all'individuazione quale componente della Commissione giudicatrice per i Concorsi per titoli ed esami</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13600</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13600</guid>
     </item>
   </channel>
 </rss>
