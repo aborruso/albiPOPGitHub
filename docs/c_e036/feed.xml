@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 1412/C - P. di C. n. 064/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28658</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28658</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>RENDE NOTO SPONTELLA DOMENICO R.D. 11/12/1933 N. 1775 - TESTO UNICO SULLE ACQUE E SUGLI IMPIANTI ELETTRICIL.R. 05/05/1999 N. 18 C.D.S. 57468-2023 - PRATICA n.2079/CB</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28657</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28657</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>AVVISO DI MANIFESTAZIONE DI INTERESSE PER IDONEI IN GRADUATORIE DI CONCORSI PUBBLICI ESPLETATI DA ALTRI ENTI DEL COMPARTO FUNZIONI LOCALI O DI COMPARTI DIVERSI PER LACOPERTURA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28656</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28598</link>
       <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28598</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Determina di Accertamento Fondi Strutturali FNPS 2022</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28597</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28597</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Accertamento e impegno risorse fondo Piano nazionale di ripresa e resilienza  Sub investimento 1.1.3 - Rafforzamento dei servizi sociali domiciliari per garantire la dimissione anticipata assistita e prevenire l'ospedalizzazione</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28596</link>
-      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28596</guid>
     </item>
   </channel>
 </rss>
