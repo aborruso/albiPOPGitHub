@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Galante Ettore</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28745</link>
+      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28745</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>DISCIPLINA DELLA CIRCOLAZIONE NELLA ZONA A TRAFFICO LIMITATO CON RILEVAMENTO ELETTRONICO DEGLI ACCESSI  REGOLAMENTAZIONE DELLA CIRCOLAZIONE STRADALE E DISCIPLINA PER IL RILASCIO DELLE AUTORIZZAZIONI IN RELAZIONE ALLA D.G.C. N. 187 DEL 27.07.2023. - M</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28744</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28686</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28686</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazioni varie. - Fondo di Sviluppo e Coesione 2014/2020 - Patto per lo Sviluppo della Regione Puglia, "Intervento di riqualificazione del Waterfront di Marina di Ginosa  Connessioni costiere". - CUP: D39J18000210002 - CIG: 8876673E47.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28685</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28685</guid>
     </item>
   </channel>
 </rss>
