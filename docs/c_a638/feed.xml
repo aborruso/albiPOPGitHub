@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito n°1 atto in busta chiusa a carico di Di Giuseppe Maria Catena Tindara ai sensi dell'art.60 D.P.R.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13685</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13685</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto art. 143 c.p.c. a carico di Fugazzotto Gaetano</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13684</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13658</link>
       <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13658</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione fattura prot. Num. 62106 del 30/11/2023 , alla ditta Elettro Home s.r.l.s. per acqusto di materiale elettrico per interventi urgenti presso gli edifici scolastici e comunali.   C.I.G.: Z663C4B569</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13657</link>
-      <pubDate>Thu, 07 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=13657</guid>
     </item>
   </channel>
 </rss>
