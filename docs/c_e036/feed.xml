@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso</title>
+      <description>Convocazione della II Commissione Consiliare: welfare, cultura, sport, sicurezza e prevenzione pubblica, politiche giovanili.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28760</link>
+      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28760</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO Pratica n. 602/C - P. di C. n. 065/2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28759</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28693</link>
       <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28693</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>LIQUIDAZIONE DITTA " FARMACIA COMUNALE DI GINOSA SRL" VIALE MARTIRI D'UNGHERIA, N. 55/57 - GINOSA" PER RIMBORSO BUONI COVID 19</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28692</link>
-      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28692</guid>
     </item>
   </channel>
 </rss>
