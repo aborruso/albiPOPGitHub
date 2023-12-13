@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/12/2023 | Avvisi Vari</title>
+      <description>PROGETTO PER AMPLIAMENTO SCUOLA MEDIA PIRANDELLO - AVVISO AD OPPONENDUM</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6971</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6971</guid>
+    </item>
+    <item>
       <title>13/12/2023 | Ordinanze Dirigenziali</title>
       <description>Chiusura temporanea Vie Agliastri e Ten Natoli per lavori - Giovedì 14 dicembre 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6970</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6937</link>
       <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6937</guid>
-    </item>
-    <item>
-      <title>12/12/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di energia elettrica HERA COMM nei Locali Comunali - Fatture periodo: OTTOBRE 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6936</link>
-      <pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=6936</guid>
     </item>
   </channel>
 </rss>
