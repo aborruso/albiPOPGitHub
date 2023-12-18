@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica 114/NC  Permesso di Costruire n. 004/2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28924</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28924</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>Convocazione della I Commissione Consiliare: politiche di bilancio e tributarie</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28923</link>
+      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28923</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina temporanea della circolazione stradale per lo  svolgimento  di varie manifestazioni Natalizia in Ginosa dal 19 al 21 dicembre 2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28922</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28865</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28865</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione compensi ai componenti Organismo Indipendente di Valutazione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28864</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28864</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Mozione presentata dal Gruppo "CON Ginosa e Marina di Ginosa" ad oggetto "Conflitto in Medioriente e richiesta Pace nel conflitto israeliano palestinese" - RINVIO</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28863</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28863</guid>
     </item>
   </channel>
 </rss>
