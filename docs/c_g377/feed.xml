@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/12/2023 | Bandi Di Concorso</title>
+      <description>POSTA CERTIFICATA: Richiesta pubblicazione del bando di corso base di 1° livello con selezione finale di merito per la formulazione di una graduatoria di validità triennale per Agenti di Polizia Locale Cat. C1 valida per i Comuni delle Province d'Italia.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7038</link>
+      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7038</guid>
+    </item>
+    <item>
       <title>20/12/2023 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione  fattura n 5735/E1 del 22-11-2023 CIG 5209986873 fattura n 5735/E1 del 22-11-2023 CIG 5209986873 beneficiario Creset - crediti, servizi e tecnologie s.p.a.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7037</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7004</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7004</guid>
-    </item>
-    <item>
-      <title>15/12/2023 | Ordinanze Sindacali</title>
-      <description>Ordinanza Sindacale contingibile e urgente per ottemperanza alle disposizioni normative di cui all'art. 52 del D.P.R. N. 753/1980 ss.mm.ii.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7003</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7003</guid>
     </item>
   </channel>
 </rss>
