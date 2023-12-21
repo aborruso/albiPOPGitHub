@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Determinazione</title>
+      <description>Avviso Pubblico per l'assegnazione delle Borse di studio per studenti meritevoli ed iscritti all'università residenti nel Comune di Ginosa. Graduatoria provvisoria.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28933</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28933</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
       <description>PR Puglia FESR-FSE+ 2021-2027. "Buoni servizio per l'accesso ai servizi a ciclo diurno e domiciliari per anziani e persone con disabilità" 1^ annualità operativa 2023/2024. Accertamento e impegno delle risorse assegnate a questo Ambito Territoriale.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28932</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28874</link>
       <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28874</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura PROGETTO SOFIS per corsi di formazione dipendenti webinar  sul reddito di cittadinanza</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28873</link>
-      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28873</guid>
     </item>
   </channel>
 </rss>
