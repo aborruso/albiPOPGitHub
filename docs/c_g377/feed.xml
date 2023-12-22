@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/12/2023 | Atti Di Interesse Generale</title>
+      <description>RICONOSCIMENTO PROGRESSIONE ECONOMICA ORIZZONTALE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7075</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7075</guid>
+    </item>
+    <item>
       <title>22/12/2023 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta e accesso in Piazza S. Biagio - Lunedì 25 dicembre 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7074</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7041</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7041</guid>
-    </item>
-    <item>
-      <title>20/12/2023 | Ordinanze Dirigenziali</title>
-      <description>Chiusura corsia lato monte Via Zuccarello dal 23 al 26 dicembre 2023 - Viabilità per "Parata di Natale" del 26 dicembre 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7040</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7040</guid>
     </item>
   </channel>
 </rss>
