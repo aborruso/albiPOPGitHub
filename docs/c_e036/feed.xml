@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso pubblico consultazione PTPCT 2024 - 2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28985</link>
+      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28985</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Avviso Pubblico per l'assegnazione delle Borse di studio per studenti meritevoli ed iscritti alluniversità residenti nel Comune di Ginosa. Rettifica D. D. N. 437 del 20-12-2023</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28984</link>
@@ -143,10 +150,10 @@
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28967</guid>
     </item>
     <item>
-      <title>Avviso</title>
+      <title>22/12/2023</title>
       <description>Convocazione Consiglio Comunale</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28966</link>
-      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate/>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28966</guid>
     </item>
     <item>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28925</link>
       <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28925</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire In Sanatoria</title>
-      <description>AVVISO PUBBLICO Pratica 114/NC  Permesso di Costruire n. 004/2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28924</link>
-      <pubDate>Mon, 18 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28924</guid>
     </item>
   </channel>
 </rss>
