@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOSITO CASA COMUNALE INGIUNZIONE DI PAGAMENTO N. 364 ROSSANO NATALE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29003</link>
+      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29003</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>IMPEGNO SPESA PER LA CONCESSIONE DI CONTRIBUTI AGLI ISTITUTI SCOLASTICI I.C. "CALO'"  E I.C. "DELEDDA- S.G. BOSCO" PER INIZIATIVE NATALIZIE 2023.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29002</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28943</link>
       <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28943</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Direttive per l'utilizzo dello Stadio comunale "Teresa Miani" da parte delle associazioni e società sportive dilettantistiche a seguito dellemergenza sanitaria da Covid-19.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28942</link>
-      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28942</guid>
     </item>
   </channel>
 </rss>
