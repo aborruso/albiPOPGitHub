@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Assegnazione di un ulteriore contributo a fondo perduto (ristoro) a favore dei proprietari di fabbricati che hanno subito danni a seguito di eventi franosi negli anni 2008-2009-2010 e 201...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26487</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26487</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>IMPEGNO SPESA DITTA RICAMIFICIO MERENDINO PER ACQUISTO ELEMENTI ARREDO LOCALI EX BADIA CASTELBUON...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26486</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26460</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26460</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI 2023 ISTAT  Indagine da Lista - IMPEGNO DI SPESA E ACCERTAMENTO D'ENTRAT...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26459</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26459</guid>
     </item>
   </channel>
 </rss>
