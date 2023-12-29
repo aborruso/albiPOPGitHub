@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lo svolgimento della manifestazione "Il Natale delle meraviglie: Cartoon night Xmas Edition" in Marina di Ginosa 29 dicembre 2023</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29047</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29047</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>RETTIFICA CALENDARIO TURNI REPERIBILITA' STATO CIVILE 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29046</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29046</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>CALENDARIO REPERIBILITA' UFFICIO STATO CIVILE GENNAIO 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29045</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29045</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Impegno di spesa pagamento spese di giudizio sentenza n. 13044/2023 del Giudice di Pace di Taranto.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29044</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28988</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28988</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>RIQUALIFICAZIONE SITO INDUSTRIALE DISMESSO "VIANINI" IN GINOSA (TA), PER LA REALIZZAZIONE DI AREA PRODUTTIVA PAESAGGISTICAMENTE ED ECOLOGICAMENTE ATTREZZATA (APPEA)-Provvedimenti</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28987</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28987</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Concessione contributi economici agli Istituti scolastici.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28986</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28986</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Avviso pubblico consultazione PTPCT 2024 - 2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28985</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28985</guid>
     </item>
   </channel>
 </rss>
