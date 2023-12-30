@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/12/2023 | Ordinanze Sindacali</title>
+      <description>DIVIETO DI SOMMINISTRAZIONE, VENDITA, CONSUMO E DETENZIONE DI ALIMENTI E BEVANDE IN CONTENITORI DI VETRO O IN METALLO, DIVIETO DI SOMMINISTRAZIONE DI BEVANDE SUPERALCOLICHE OLTRE IL 25 PER CENTO DI ALCOL NONCHÉ DI UTILIZZO DI PETARDI BOTTI E ARTIFICI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7127</link>
+      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7127</guid>
+    </item>
+    <item>
       <title>29/12/2023 | Deliberazioni Del Consiglio Comunale</title>
       <description>Razionalizzazione periodica delle partecipazioni al 31/12/2022 ai sensi dell'art. 20 del D. Lgs. N. 175/2016.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7126</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7093</link>
       <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7093</guid>
-    </item>
-    <item>
-      <title>27/12/2023 | Deliberazioni Di Giunta</title>
-      <description>Quantificazione degli importi delle somme non soggette ad esecuzione forzata - Art.159 D. L.vo  N. 267/2000 e s.m.i. - Periodo: gennaio/giugno 2024 (I° semestre 2024).</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7092</link>
-      <pubDate>Wed, 27 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7092</guid>
     </item>
   </channel>
 </rss>
