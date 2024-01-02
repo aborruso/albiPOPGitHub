@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/01/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>POSTA CERTIFICATA: turni di servizio Farmacia entroterra pattese (Comuni di Patti, Lbrizzi, ,Montagnareale, San Piero Patti) - nota ASP Messina n. 108 del 02/01/2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7143</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7143</guid>
+    </item>
+    <item>
+      <title>02/01/2024 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Ricognizione periodica situazione gestionale servizi pubblici locali di rilevanza economica.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7142</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7142</guid>
+    </item>
+    <item>
       <title>31/12/2023 | Determinazioni Dirigenziali</title>
       <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA FINALIZZATE ALLA RIQUALIFICAZIONE DI ALCUNI AREE DEL CENTRO STORICO - CUP: C42F23000930005 - CIG: A0467CBFF6 - DETERMINA A CONTRARRE - AFFIDAMENTO ED IMPEGNO SPESA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7141</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7109</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7109</guid>
-    </item>
-    <item>
-      <title>29/12/2023 | Determine Dirigenziali Di Liquidazione</title>
-      <description>COMPENSO SPETTANTE AL COMPONENTE ESTERNO DEL NUCLEO DI VALUTAZIONE DEL COMUNE DI PATTI - I° SEMESTRE - ANNO 2023 - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7108</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7108</guid>
-    </item>
-    <item>
-      <title>29/12/2023 | Determinazioni Dirigenziali</title>
-      <description>ASSESSORATO REGIONALE DELL'AGRICOLTURA, DELLO SVILUPPO RURALE E DELLA PESCA MEDITERRANEA - DIPARTIMENTO REGIONALE DELL'AGRICOLTURA - SERVIZIO V° - QUALITA' E MARKETING BRAND SICILIA. U.O. N S5.01 - VALORIZZAZIONE E PROMOZIONE - AFFIDAMENTO SERVIZIO DI PRESTAZIONE - ONDA TV - SOCIETA' EDIRICE ACCADEMIA P.C.E. - CIG: Z183DFF5FE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7107</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7107</guid>
     </item>
   </channel>
 </rss>
