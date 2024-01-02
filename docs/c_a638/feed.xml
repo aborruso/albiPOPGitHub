@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Convocazione consiglio comunale lunedì 08 gennaio 2024, ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14042</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14042</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>SERVIZI DI INDAGINI DIAGNOSTICHE E PER LE VERIFICHE STRUTTURALI VOLTE ALL'OTTENIMENTO DELLA CERTIFICAZIONE DI VULNERABILITÀ SISMICA SI SENSI DELLOPCM 3274/2003, DI ALCUNI PLESSI  SCOLASTICI DI PROPRIETÀ DEL COMUNE  CUP H66E23000000006   LIQUIDAZIONE</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14041</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14015</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14015</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023, alla Ditta Amato Concetta con sede in Barcellona Pozzo di Gotto via On. Martino 57, P.I.: 03686060835, per la realizzazione della festa della Befana con installazioni, intrattenimento,</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14014</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14014</guid>
     </item>
   </channel>
 </rss>
