@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>cancellazione dall'anagrafe per irreperibilità KHAN Suliman</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29056</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29056</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>CILA DA SOTTOPORRE A ISTRUTTORIA, VERBALE ESTRAZIONE CASUALE DEL 03/01/2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29055</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28996</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28996</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa e contestuale liquidazione imposta di registro atto giudiziario.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28995</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28995</guid>
     </item>
   </channel>
 </rss>
