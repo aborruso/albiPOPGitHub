@@ -18,6 +18,27 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Annullamento seduta Consiglio Comunale prevista per lunedì 08 gennaio 2024 ore 19:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14046</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14046</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Istanza Collocamento a riposo, a far data dal 01/02/2024, del dipendente part-time XXXXXX  XXXXXX per l'avvenuto raggiungimento dei limiti di età.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14045</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14045</guid>
+    </item>
+    <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>PROVVEDIMENTO RELATIVO AL SERVIZIO DI SCUOLABUS</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14044</link>
+      <pubDate>Thu, 04 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14044</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>Corso ausiliare al traffico edizione 2024</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14043</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14019</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14019</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023, alla Ditta Cannistraci Salvatore con sede in Villafranca Tirrena, via Nazionale 511, P.I. 01144940838, per la fornitura di un gruppo elettrogeno per l'evento musicale "Concerto di Capod</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14018</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14018</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023, alla Ditta Latteri Eventi di Antonino Latteri con sede in San Fratello (ME) via Roma 224, C.F.: LTTNNN88D03I199G - P.I.:03565990839, per la fornitura del servizio di presentazione del "</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14017</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14017</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023, alla Ditta HM Management con sede legale a Legnano (MI) via Liguria 11, P.I. 12850410965 per la fornitura dello spettacolo musicale del gruppo Audio 2 da effettuarsi con ingresso libero</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14016</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14016</guid>
     </item>
   </channel>
 </rss>
