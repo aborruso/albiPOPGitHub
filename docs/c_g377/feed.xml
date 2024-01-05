@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>05/01/2024 | Avvisi Vari</title>
+      <description>PIANI PERSONALIZZATI (EX ART. 14 DELLA LEGGE 328/2000).</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7159</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7159</guid>
+    </item>
+    <item>
       <title>05/01/2024 | Ordinanze Dirigenziali</title>
       <description>Ordinanza sospensione lavori fabbricato sito in Via Agrigento, N. 13.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7158</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7125</link>
       <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7125</guid>
-    </item>
-    <item>
-      <title>29/12/2023 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO E IMPEGNO SPESA PER INTERVENTI STRAORDINARI E INDIFFERIBILI PER IL RIPRISTINO DI ALCUNI TRATTI DI RETE FOGNARIA COMUNALE - CIG: ZB23E016AD.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7124</link>
-      <pubDate>Fri, 29 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7124</guid>
     </item>
   </channel>
 </rss>
