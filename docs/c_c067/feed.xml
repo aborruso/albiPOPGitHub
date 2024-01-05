@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 2: DIVIETO DI TRANSITO IN VIA ROMA E DIVIETO DI SOSTA DAL N.C. 15 AL N.C. 38  DA GIORNO 08/01/2024 FINO AL TERMINE DEI LAVORI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26528</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26528</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>ATTO DI INTERPELLO RISERVATO AI DIPENDENTI DELLA PUBBLICA AMMINISTRAZIONE, AI SENSI DELL'ART. 114 C.2-4-6 DEL D. LGS 36/2023  PER IL CONFERIMENTO INCARICO DI : DIRETTORE DEI LAVORI E COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE, RELATIVO AI LAVORI DI "RIQUALIFICAZIONE, RIFUNZIONALIZZAZIONE E RESTAURO URBANO DI LARGO ZINGARI (GIA' AREA DI SOSTA DELLA TARGA FLORIO) E RESTAURO DELL'ACQUEDOTTO STORICO DEL 1476...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26527</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26501</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26501</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>IMPEGNO DI SPESA ALL'AZIENDA COCOLUMO S.R.L. PER L'ACQUISTO DI UNA PIANTANA ROTALIANA MODELLO STRING DI COLORE NERO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26500</link>
-      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26500</guid>
     </item>
   </channel>
 </rss>
