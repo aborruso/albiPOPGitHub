@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Conferimento incarichi Responsabili degli Uffici e dei Servizi ex art. 50 TUEL .</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29057</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29057</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>cancellazione dall'anagrafe per irreperibilità KHAN Suliman</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29056</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28997</link>
       <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28997</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>AMBITO TERRITORIALE DI GINOSA PR Puglia FESR-FSE+ 2021-2027 Priorità: 8. Welfare e Salute O.S. ESO4.11 - Azione 8.13- Nomina del Responsabile del Procedimento per la Misura "Buono Servizio Minori" Annualità 2023/2024  CUP D51J23000900007. Approvazio</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28996</link>
-      <pubDate>Thu, 28 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=28996</guid>
     </item>
   </channel>
 </rss>
