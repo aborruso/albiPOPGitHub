@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/01/2024 | Avvisi Vari</title>
+      <description>TRASFERIMENTO LOCALI SCUOLA INFANZIA CALECA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7164</link>
+      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7164</guid>
+    </item>
+    <item>
       <title>08/01/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Fornitura generi alimentari per il Servizio di Refezione per l'Asilo Nido Comunale "M. Faranda" - Dicembre 2023 - Ditta: Fratelli Arena s.r.l. - Liquidazione.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7163</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7130</link>
       <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7130</guid>
-    </item>
-    <item>
-      <title>30/12/2023 | Determinazioni Dirigenziali</title>
-      <description>Affidamento di due incarichi professionali autonomi, Assistenti Sociali Professionali Comunali ex art. 7, comma VI°, D. LGS. N. 165/2001 - Espletamento prestazioni di sociale nell'ambito dei servizi e degli interventi socio/assistenziali erogati dal Comune di Patti - CIG: Z993D483D3.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7129</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7129</guid>
     </item>
   </channel>
 </rss>
