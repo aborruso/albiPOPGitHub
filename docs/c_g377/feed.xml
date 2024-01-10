@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/01/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>COMPENSI A SALDO AL CTP  DOTT. VISALLI LETTERIO. CONTROVERSIA INTERLANDI. LIQUIDAZIONE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7175</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7175</guid>
+    </item>
+    <item>
       <title>09/01/2024 | Determinazioni Dirigenziali</title>
       <description>LAVORI DI CONSOLIDAMENTO A PROTEZIONE DELLA VIA MAGRETTI, IN PROSSIMITÀ DELLA PIAZZA BELVEDERE, NEL TRATTO INTERESSATO DA FENOMENI DI DISSESTO - CUP: C47B18000170001 - NOMINA COLLAUDATORE STATICO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7174</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7141</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7141</guid>
-    </item>
-    <item>
-      <title>30/12/2023 | Determinazioni Dirigenziali</title>
-      <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA FINALIZZATE ALLA RIQUALIFICAZIONE DI ALCUNI AREE DEL CENTRO STORICO - NOMINA R.U.P., PROGETTISTA E DIRETTORE DEI LAVORI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7140</link>
-      <pubDate>Sat, 30 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7140</guid>
     </item>
   </channel>
 </rss>
