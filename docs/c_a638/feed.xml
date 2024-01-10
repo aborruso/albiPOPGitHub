@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determina Ufficio Piano</title>
+      <description>programazzione risorse del Distretto Socio sanitario del Fondo Povertà 2017. Presa d'atto parere di conguità ed avvio delle attività</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14067</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14067</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°02 del 09/01/2024 - Pratica Edilizia n°22703 a nome della Ditta Cutugno Sebastiano</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14066</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14066</guid>
+    </item>
+    <item>
+      <title>Concessioni Edilizie</title>
+      <description>Permesso di costruire n°01 del 09/01/2024 - Pratica Edilizia n°21562 a nome della Ditta Crisafulli Carmela</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14065</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14065</guid>
+    </item>
+    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Convocazione consiglio comunale che si terrà lunedì 15 gennaio 2024, ore 19:00</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14064</link>
@@ -190,27 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14035</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14035</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>CONTRIBUTO ALL'ASSOCIAZIONE  UNIVERSITA' DELLA TERZA ETA DI BARCELLONA POZZO DI GOTTO PER L'ANNO ACCADEMICO 2022/2023. IMPEGNO DI SPESA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14034</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14034</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIVERSAMENTO SOMME IMU 2017 AL  COMUNE DI FURNARI CONTRIBUENTE VENUTO GRAZIA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14033</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14033</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIVERSAMENTO SOMME IMU 2017 AL COMUNE  MILAZZO CONTRIBUENTE VENUTO GRAZIA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14032</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14032</guid>
     </item>
   </channel>
 </rss>
