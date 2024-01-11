@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 c.p.c. a carico di Dinn Niculina Mihcale</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14070</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14070</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>AGGIUDICAZIONE SERVIZIO  DI TRASPORTO  ALUNNI   SULLE  LINEE RISPETTIVAMENTE   DENOMINATE "ACQUAFICARA-GURAFI" ; FEMMINAMORTA E S.ANTONIO  DALL'8/1/2024 AL 31/5/2024.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14069</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14036</link>
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14036</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Affidamento diretto, ex art 50, c.1, lett b) D. Lgs. n. 36/2023, alla società "Color Group Srl" , con sede legale in via Gregorini, 41 Lovere (Bg) 24065 e sede operativa in Corso Plebisciti, 9 Milano (Mi) 20129, P. I e C.F.: 04497770166, per la forni</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14035</link>
-      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14035</guid>
     </item>
   </channel>
 </rss>
