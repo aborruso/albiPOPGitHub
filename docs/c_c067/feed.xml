@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione HDI Assicurazione per fornitura polizza assicurativa RCT per n° 1 soggetto inserito in  lavori di pubblica utilità a supporto del servizio di manutenzione pubblic...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26558</link>
+      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26558</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione in favore della Freemen Produzioni SRL per la realizzazione di spettacoli durante il periodo natalizi...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26557</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26531</link>
       <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26531</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Concessione permessi ex art 33 Legge 104/92, art. 19 e 20  Legge 53/200, Circolare INPDAP n. 34 del 10.07.2000...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26530</link>
-      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26530</guid>
     </item>
   </channel>
 </rss>
