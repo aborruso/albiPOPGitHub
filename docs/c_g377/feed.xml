@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/01/2024 | Atti Elettorali</title>
+      <description>AGGIORNAMENTO ALBO SCRUTATORI DI SEGGIO ELETTORALE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7206</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7206</guid>
+    </item>
+    <item>
+      <title>15/01/2024 | Atti Elettorali</title>
+      <description>AVVISO DI DEPOSITO DELL'ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE DI SEGGIO ELETTORALE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7205</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7205</guid>
+    </item>
+    <item>
+      <title>15/01/2024 | Determinazioni Dirigenziali</title>
+      <description>APPROVAZIONE ALBO DI SOGGETTI ACCREDITATI PER L'EROGAZIONE DEI SERVIZI ASACOM - SERVIZI E SOSTEGNI SOCIO EDUCATIVI NELLE SCUOLE ADI INTEGRATA - SERVIZIO DI ASSISTENZA DOMICILIARE DISABILI - ADA/SAD SERVIZIO DI ASSISTENZA DOMICILIARE ANZIANI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7204</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7204</guid>
+    </item>
+    <item>
       <title>15/01/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>POSTA CERTIFICATA: Richiesta pubblicazione del bando di corso con selezione finale per Istruttori Tecnici a tempo determinato Cat. C1 "Servizio Protezione Civile e Ambiente" e formazione di una graduatoria di merito valida per i Comuni de</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7203</link>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7172</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7172</guid>
-    </item>
-    <item>
-      <title>09/01/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ACQUISTO CINGOLI IN GOMMA PER ESCAVATORE KOMATZU PC 14R - DITTA: EDILIA 2008 S.R.L. - LIQUIDAZIONE FATTURA N. 552/l DEL 05 SETTEMBRE 2023 - CIG: Z443C1A5AD.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7171</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7171</guid>
-    </item>
-    <item>
-      <title>09/01/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI DERATTIZZAZIONE E DEBLATTIZZAZIONE IN ALCUNI STABILI COMUNALI - DITTA: GECO SERVIZI DI SEBASTIANO RIBAUDO - LIQUIDAZIONE FATTURA N. 333 DEL 27 DICEMBRE 2023 - CIG: ZDF3D9FD27.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7170</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7170</guid>
-    </item>
-    <item>
-      <title>09/01/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>EVENTI ESTATE 2023 - LIQUIDAZIONE ONERI S.I.A.E.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7169</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7169</guid>
     </item>
   </channel>
 </rss>
