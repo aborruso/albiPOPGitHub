@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Merlino Giuseppe</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29148</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29148</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Istituzione dell'Area Pedonale denominata Via Matrice e relativa disciplina della circolazione stradale. Provvedimenti correlati alla D.G.C. n. 3 del 11.01.2024.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29147</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29089</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29089</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Autorizzazione al Responsabile del VII Settore - Servizio Patrimonio per la sottoscrizione dell'atto pubblico di perequazione urbanistica Piano di Zona PIP/D2  Ditta AGRI IONICA Srl.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29088</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29088</guid>
     </item>
   </channel>
 </rss>
