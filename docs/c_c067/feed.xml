@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO MESE DI DICEMBRE - RISCONTRO NEGATIV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26581</link>
+      <pubDate>Mon, 15 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26581</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura  n. 15A del 27/12/2023 della Ditta "La Bottega minicash" di Scancarello Rosario relativa alla fornitura di diversi generi   occorrenti per il servizio di refezione scolastica  - mese di dicembr...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26580</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26554</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26554</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>ANTICIPAZIONE SOMME SERVIZIO ECONOMATO ESERCIZIO FINANZIARIO ANNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26553</link>
-      <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26553</guid>
     </item>
   </channel>
 </rss>
