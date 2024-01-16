@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Atti Di Interesse Generale</title>
+      <description>Si comunica che la farmacia Maiorana dott Stefano Mauro sarà aperta il 20/01/2024 dalle ore 8:30 alle 13:00</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14088</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14088</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
       <description>bando di corso con selezione finale per Istruttori Tecnici  a tempo determinato cat. C1 servizio protezione Civile e Ambiente e formazione di una graduatoria di merito valida per i comuni delle Province d'Italia</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14086</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14058</link>
       <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14058</guid>
-    </item>
-    <item>
-      <title>Determinazioni Sindacali</title>
-      <description>Sostituzione temporanea di un componente dell'ufficio procedimenti disciplinari</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14057</link>
-      <pubDate>Tue, 09 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14057</guid>
     </item>
   </channel>
 </rss>
