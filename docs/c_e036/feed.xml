@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Verbale di conclusione conferenza dei servizi decisoria in forma semplificata e modalità asincrona ai sensi dell'art.14bis della legge 7 agosto 1990, n. 241 e successive modificazioni</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29227</link>
+      <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29227</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO Cardinale Vito</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29226</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29168</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29168</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2022"  I annualità - - I FINESTRA  Linea A  Codice Pratica ZQ65UBWB  (busta paga novembre 2023)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29167</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29167</guid>
     </item>
   </channel>
 </rss>
