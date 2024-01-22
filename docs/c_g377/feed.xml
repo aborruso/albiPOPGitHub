@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/01/2024 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7261</link>
+      <pubDate>Mon, 22 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7261</guid>
+    </item>
+    <item>
       <title>19/01/2024 | Atti Di Interesse Generale</title>
       <description>PROCEDURA APERTA DI PARTECIPAZIONE AI FINI DELL'AGGIORNAMENTO DEL PIANO TRIENNALE DI PREVENZIONE DELLA CORRUZIONE E DELL'ILLEGALITA 2024/2026 COMPRENSIVO DEL PROGRAMMA TRIENNALE PER LA TRASPARENZA E L'INTEGRITA'.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7260</link>
@@ -25,7 +32,7 @@
     </item>
     <item>
       <title>19/01/2024 | Avvisi Vari</title>
-      <description>SFILATE CARRI ALLEGORICI E GRUPPI MASCHERATI - 11 E 13 FEBBRAIO 2024.</description>
+      <description>SFILATE CARRI ALLEGORICI E GRUPPI MASCHERATI - DOMENICA 11 E MARTEDI' 13 FEBBRAIO 2024.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7259</link>
       <pubDate>Fri, 19 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7259</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7227</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7227</guid>
-    </item>
-    <item>
-      <title>16/01/2024 | Determinazioni Del Sindaco</title>
-      <description>ATTRIBUZIONI FUNZIONI DIRIGENZIALI RESPONSABILE DEL VI° SETTORE "TURISTICO, INFORMATICO E ISTRUZIONE" - DR. BONSIGNORE SALVATORE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7226</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7226</guid>
     </item>
   </channel>
 </rss>
