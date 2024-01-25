@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO per l'assegnazione di posteggi nel MERCATO di Ginosa a seguito di spostamento parziale in via Palatrasio, via Portararo e via della Pace</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29266</link>
+      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29266</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Impegno di spesa e contestuale liquidazione imposta di registro atto giudiziario.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29264</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29206</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29206</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione comunita'  socio-educativa "Isotta" di Lucugnano (LE) - per ospitalita'  minore D. N. N. per i mesi di ottobre  novembre - dicembre 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29205</link>
-      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29205</guid>
     </item>
   </channel>
 </rss>
