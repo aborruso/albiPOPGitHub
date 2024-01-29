@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO Pratica n. 658/C - P. di C. n. 002/2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29352</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29352</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>COMUNICAZIONE DELLA PRESENTAZIONE DELLE DOMANDE PER LA FIERA DI APRILE 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29351</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29351</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Istanza per il rilascio del provvedimento di VIA ai sensi dell'art. 23 del D.Lgs. n. 152/2006, relativa al progetto per la reali</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29350</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29293</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29293</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Concessione contributo in favore dell'associazione Visit Ginosa &amp; Marina Aps. Impegno di spesa.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29292</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29292</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Sentenza n. 8516/2023 del Consiglio di Stato. Liquidazione spese di giudizio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29291</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29291</guid>
     </item>
   </channel>
 </rss>
