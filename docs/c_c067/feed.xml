@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Liquidazione acconto competenze alla Dott.ssa Angela Eliseo, CTU nella causa intrapresa dalla Società OMISSIS c/ Comune di Castelbuon...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26741</link>
+      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26741</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>ATTO DI INTERPELLO RIVOLTO AI DIPENDENTI DELLA PUBBLICA AMMINISTRAZIONE, AI SENSI DELLART.116 DEL D.LGS N.36/2023 PER IL CONFERIMENTO INCARICO DI: COLLAUDO STATICO IN CORSO D'OPERA, RELATIVO AI LAVORI PER LA COSTRUZIONE DI OPERE CONNESSE AGLI ALLOGGI POPOLAR I- OPERE A PROTEZIONE STRADALE. PIANO STRAORDINARIO MESSA INSICUREZZA DELLE STRADE DELLE STRADE NEI PICCOLI COMUNI DELLE AREE INTERNE...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26740</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26714</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26714</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE CONTRIBUTO PER TRASPORTO SCOLASTICO ALUNNI PENDOLARI a.s. 2023/2...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26713</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26713</guid>
     </item>
   </channel>
 </rss>
