@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Modifiche temporanee alla circolazione stradale per esecuzione di lavori di taglio di piante di interesse forestale, per piante isolate di gruppo, filari di piante e gruppi di piante localizzate, in agro di Ginosa, località Ginosa Marina  Comando 36°</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29357</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29357</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Misure a tutela della circolazione stradale in Ginosa 01.02.2024 dalle ore 07:00 fino a cessata esigenza per LAVORI DI RISANAMENTO CHIUSINO FOGNARIO  Via S. F. Saverio / O. Flacco - Ditta Itelyum Castiglia Srl</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29356</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29356</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Approvazione Piano Triennale per la Prevenzione della Corruzione e Trasparenza 2024  2026.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29355</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29298</link>
       <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29298</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura per integrazione retta ricovero utente presso la comunità C.a.s.a. B.i.t. di Nociglia (Le) gestita dalla Health Sol Levante cooperativa sociale. Periodo Dicembre 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29297</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29297</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione integrazione retta ricovero utente CIG. Z413BB9430 presso la struttura RSA " Armonie diverse" ANFFAS GINOSA sita in via Degli Ulivi Km.11,600 C.da Madonna D'Attoli  Mese NOVEMBRE 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29296</link>
-      <pubDate>Thu, 25 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29296</guid>
     </item>
   </channel>
 </rss>
