@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO CARRERA TERESA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29399</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29399</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO BOZZA CESARE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29398</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29398</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Piano della Mobilità Ciclistica (PMC) del Comune di Ginosa - Primo stralcio del Piano Urbano della Mobilità Sostenibile (PUMS) - Procedimento di verifica di assoggettabilità a VAS ai sensi dell'art.12 del D. Lgs.152/2006 e ss.mm.ii. e dellart. 8 dell</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29397</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29340</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29340</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>MASE - Area Organizzativa Omogenea (AOO) MASE [ID_VIP: 10614] Istanza per il rilascio del provvedimento VIA, ai sensi dell'art. 23 del D.Lgs. 152/2006, relativa al progetto  Ecologistic spa</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29339</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29339</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Ginosa - dal 29.01.2024 al 03.02.2024 - Ditta Petito Costruzioni Srl - Salice</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29338</link>
-      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29338</guid>
     </item>
   </channel>
 </rss>
