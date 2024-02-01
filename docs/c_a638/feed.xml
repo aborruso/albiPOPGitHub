@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Ordinanza di demolizione di opere realizzate in assenza di titolo abilitativo, e pertanto abusive, in un fabbricato sito in Via Salvatore Cattafi n. 100 del Comune di Barcellona Pozzo di Gotto, individuato nel N.C.U. al foglio 7 part.lla 1756 (art. 3</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14211</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14211</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>RETTIFICA Ordinanza di Demolizione n. 217 del 21/11/2023 di opere realizzate in assenza di titolo abilitativo e pertanto abusive, in un fabbricato sito in Via Cairoli nn. 137-139, in catasto al foglio 35 particella n. 581 sub. 1 del Comune di Barcell</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14210</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14210</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Cartelle Esattoriali</title>
       <description>Avviso deposito cartelle esattoriali per assenza unico nominativo del 31/01/2024</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14209</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14183</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14183</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Delibera di Giunta n. 183 del 04/08/2023 - fattura n. 72 del 12/09/2023 prot. 46926 del 14.09.2023 emessa da Associazione Culturale Ricreativa Atmosfera Blu, per la fornitura di uno spettacolo musicale in data 9 agosto 2023.   Liquidazione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14182</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14182</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Delibera di Giunta n. 183 del 04/08/2023 - fattura n. 57 del 18/09/2023 prot. 47555 del 19.09.2023 emessa dalla Ditta SLM SERVICE di Salvatore La Macchia, per la fornitura di uno spettacolo musicale in data 25 agosto 2023. Liquidazione.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14181</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14181</guid>
     </item>
   </channel>
 </rss>
