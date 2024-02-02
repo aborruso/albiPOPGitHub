@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14233</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14233</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per assenza unico nominativo</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14232</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14232</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Avviso pubblico per manifestazione di interesse finalizzata all'affidamento del servizio di lettura dei contatori idrometrici con certificazione fotografica e georeferenziazione con l'utilizzo di sistemi di completa interoperabilità con il software gestionale sikuel in uso al servizio amministrativo acquedotto del Comune di Barcellona Pozzo di Gotto</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14231</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14231</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Consolidamento del pendio compreso tra il Vicolo III Colonna e la Via Turati nella frazione di Portosalvo-Nomina colladuatore statico fra i dipendenti di amministrazioni aggiudicatrici ai sensi dell'art. 116 comma 4 del D. LGS n. 36/2023</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14230</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14230</guid>
+    </item>
+    <item>
       <title>Delibere Di Giunta Municipale</title>
       <description>CINEFORUM D'AUTORE A BARCELLONA POZZO DI GOTTO</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14229</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Progettazione Direzione lavori contabilità, C.S.P. Lavori per INTERVENTO DI EFFICIENTAMENTO ENERGETICONELL'EDIFICIO COMUNALE DENOMINATO "OASI" E NELLA SCUOLA COMUNALE ETTORE MAJORANA  Liquidazioni Competenze Tecniche per progettazione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</guid>
-    </item>
-    <item>
-      <title>Ordinanza Sindacale</title>
-      <description>Ordinanza di ricovero urgente in T.S.O.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14202</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14202</guid>
-    </item>
-    <item>
-      <title>Bandi - Avvisi Di Gara</title>
-      <description>Avviso pubblico incanto per locazione n 1 immobile ad uso non abitativo (BOX) sito in Barcellona P.G. Via Immacolata n.209, individuato catastalmente al fg.35 part.2213 sub 6.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14201</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14201</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Milite Ignoto e via Degli Artigiani dal giorno 29.01.2024 al giorno 22.02.2024 dalle ore 07:00  alle ore 18:00 e comunque fino a fine lavori.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14199</link>
-      <pubDate>Tue, 30 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14199</guid>
     </item>
   </channel>
 </rss>
