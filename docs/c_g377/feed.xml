@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/02/2024 | Determinazioni Dirigenziali</title>
+      <description>AFFIDAMENTO INCARICO LEGALE PER IL RECUPERO SOMME DA SENTENZA N. 603/2023 - TRIBUNALE DI PATTI - IMPEGNO SPESA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7366</link>
+      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7366</guid>
+    </item>
+    <item>
       <title>02/02/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Diritti di Rogito - Anno 2023.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7365</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7332</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7332</guid>
-    </item>
-    <item>
-      <title>29/01/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>DECRETO DIRETTORIALE N. 614 DEL 22/08/2023 - MINISTERO PER I BENI E LE ATTIVITA' CULTURALI - DIREZIONE GENERALE BIBLIOTECHE E DIRITTO D'AUTORE - CONTRIBUTO ALLE BIBLIOTECHE - ACQUISTO OPERE LIBRARIE - CASA EDITRICE YORICK - LIQUIDAZIONE FATTURA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7331</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7331</guid>
     </item>
   </channel>
 </rss>
