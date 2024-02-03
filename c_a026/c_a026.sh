@@ -44,7 +44,8 @@ myip=$(curl --socks5-hostname localhost:9050 api.ipify.org)
 curl https://ipapi.co/"$myip"/json/
 
 # URL di test risposta sito albo
-URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
+#URLBase="http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
+URLBase="https://acicastello.trasparenza-valutazione-merito.it/web/trasparenza/albo-pretorio"
 #URLBase="https://web.archive.org/web/20220319161659/http://trasparenza.comune.acicastello.ct.it/web/trasparenza/albo-pretorio"
 
 # estrai codici di risposta HTTP dell'albo
