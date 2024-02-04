@@ -24,13 +24,6 @@
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14233</guid>
     </item>
     <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle esattoriali per assenza unico nominativo</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14232</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14232</guid>
-    </item>
-    <item>
       <title>Atti Di Interesse Generale</title>
       <description>Avviso pubblico per manifestazione di interesse finalizzata all'affidamento del servizio di lettura dei contatori idrometrici con certificazione fotografica e georeferenziazione con l'utilizzo di sistemi di completa interoperabilità con il software gestionale sikuel in uso al servizio amministrativo acquedotto del Comune di Barcellona Pozzo di Gotto</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14231</link>
@@ -211,6 +204,13 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Ordinanza di ricovero urgente in T.S.O.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14202</link>
+      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14202</guid>
     </item>
   </channel>
 </rss>
