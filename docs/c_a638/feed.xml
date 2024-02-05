@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale sorteggio pratiche Urbix del 05/02/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14235</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14235</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>liquidazione a titolo rimborso spese a favore dell'Associazione di volontariato CLUB RADIO C.B. di Barcellona Pozzo di Gotto. Convezione approvata con Delibera di Giunta n. 200 del 07.9.2023.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14234</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Progettazione Direzione lavori contabilità, C.S.P. Lavori per INTERVENTO DI EFFICIENTAMENTO ENERGETICONELL'EDIFICIO COMUNALE DENOMINATO "OASI" E NELLA SCUOLA COMUNALE ETTORE MAJORANA  Liquidazioni Competenze Tecniche per progettazione</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14203</guid>
     </item>
   </channel>
 </rss>
