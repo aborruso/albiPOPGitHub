@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori ed interventi su rete gas nell'abitato di Ginosa - dal 05.02.2024 al fine lavori - Ditta Del Fiume Srl  San Giorgio Ionico (TA).</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29404</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29404</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Adozione del Piano Integrato di Attività e Organizzazione (PIAO) 2024/2026, ai sensi dell'art. 6, D.L. n. 80/2021.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29403</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29345</link>
       <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29345</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Avviso pubblico per la presentazione di proposte di intervento per la selezione di progetti socio-educativi strutturati per combattere la povertà educativa nel Mezzogiorno (Abruzzo, Basilicata, Campania, Calabria,Molise, Puglia, Sardegna e Sicilia) a</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29344</link>
-      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29344</guid>
     </item>
   </channel>
 </rss>
