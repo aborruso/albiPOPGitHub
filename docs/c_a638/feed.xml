@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Turni di servizio delle Farmacie di Barcellona P.G. dal 05/02/2024 al 07/04/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14237</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14237</guid>
+    </item>
+    <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Aggiornamento Catasto incendi, ai sensi dell'art. 10, comma 2 della legge n. 353/2000 e ss.mm.ii. - APPROVAZIONE ELENCO PROVVISORIO fino al 2022 - delle aree percorse dal fuoco.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</guid>
+    </item>
+    <item>
       <title>Verbali</title>
       <description>Verbale sorteggio pratiche Urbix del 05/02/2024</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14235</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14206</link>
       <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14206</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Rafforzamento della capacità di accoglienza, inclusione e accompagnamento all'autonomia dei MSNA nella rete SIPROIMI  - Progetto 1833 -  Liquidazione fattura n° 2 del 25/01/2025 prot.5177 del 26/01/2024 -  Soc.Coop.Sociale UTOPIA CIG 9781162639   -</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14205</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14205</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Fattura n. A20020231000039572 del 31.12.2023 emessa da Olivetti S.p.A. - Noleggio fotocopiatore Olivetti D-Copia 6001 MF matr. RU20602643 - Determinazione dirigenziale n. 486 del 30.06.2020, R.G. n. 1537 dell'1.07.2020 -  Liquidazione.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</link>
-      <pubDate>Wed, 31 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14204</guid>
     </item>
   </channel>
 </rss>
