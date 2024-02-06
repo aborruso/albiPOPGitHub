@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Determinazioni Dirigenziali</title>
+      <description>Liquidazione fattura n. 38-PA del 31 Gennaio 2023 per il servizio di accoglienza protetta reso a n. 3 utenti dal 01.08.2023 al 31.08.2023 CIG:Z373DD88EE</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14265</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14265</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
       <description>Provvedimento di liquidazione di spesa relativo alla fattura  A20020231000039949 DEL 31/12/2023 Prot. 434 del 03/01/2024 emessa dalla Ditta Olivetti S.P.A.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14264</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</guid>
-    </item>
-    <item>
-      <title>Verbali</title>
-      <description>Verbale sorteggio pratiche Urbix del 05/02/2024</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14235</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14235</guid>
     </item>
   </channel>
 </rss>
