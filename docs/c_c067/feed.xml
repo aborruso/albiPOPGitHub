@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>ATTRIBUZIONE E/O CONFERMA DEGLI INCARICCHI DI RESPONSABILE DELLA POSIZIONE DI ELEVATA QUALIFICAZIONE RELATIVA AL SETTORE I°,II°,III°,IV°,V°, VI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26799</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26799</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>GIORNI 11 E 13 FEBBRAIO 2024 DIVIETO DI SOSTA NELLE SEGUENTI VIE: VIA TENENTE LUIGI CORTINA, P.ZZA S. LEONARDO, VIA MARIANO RAIMONDI, P.ZZA M. PALUMBO, VIA VITTORIO EMANUELE, P.ZZA MATTEOTTI, VIA UMBERTO I, P.ZZA MARGHERITA P.ZZA CASTELLO, VIA A. VENTIMIGLIA PER MANIFESTAZIONE (CARNEVALE 2024....</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26798</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26771</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26771</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione alla Truck Service srl con sede a Castelbuono in via Geraci n.48 per manutenzione e riparazione dell'autobotte targato PA A 94601 e autocarro CE 581 KH...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26770</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26770</guid>
     </item>
   </channel>
 </rss>
