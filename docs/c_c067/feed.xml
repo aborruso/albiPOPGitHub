@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO - MESE DI GENNAIO 2024 - RISCONTRO POSITIV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26800</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26800</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>ATTRIBUZIONE E/O CONFERMA DEGLI INCARICCHI DI RESPONSABILE DELLA POSIZIONE DI ELEVATA QUALIFICAZIONE RELATIVA AL SETTORE I°,II°,III°,IV°,V°, VI...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26799</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26772</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26772</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 3/PA del 16/01/2024 e n. 21/PA del 27/01/2024 per la fornitura di ipoclorito di sodio 16,5% per clorare l'acqua potabile e la disinfezione delle acque di scarico del depuratore comunale. ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26771</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26771</guid>
     </item>
   </channel>
 </rss>
