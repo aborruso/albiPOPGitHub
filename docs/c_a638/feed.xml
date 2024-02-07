@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartella esattoriale a carico di Rempicci Mauro</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14269</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14269</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartelle esattoriali per irreperibilità nominativi diversi</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14268</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14268</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Provvedimento di messa in sicurezza del fabbricato, sito in Via Caduti di Nassiria n. 20 Pal. A al fine di prevenire e di eliminare gravi pericoli che minacciano l'incolumità pubblica e la sicurezza urbana.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14267</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14267</guid>
+    </item>
+    <item>
+      <title>Ordinanza Sindacale</title>
+      <description>Messa in sicurezza fabbricato pericolante sito in Via Umberto I n. 391  ang. Vicolo Baglio Sottile nn. 2-4, in catasto al foglio di mappa n. 52 part. 19 subb.1,2,3,4,5,6.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14266</link>
+      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14266</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n. 38-PA del 31 Gennaio 2023 per il servizio di accoglienza protetta reso a n. 3 utenti dal 01.08.2023 al 31.08.2023 CIG:Z373DD88EE</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14265</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14240</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14240</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Mandanici per giorno 07.02.2024 dalle ore 08:00 fino ad ultimazione dei lavori.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14239</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14239</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Ordinanza di demolizione di opere realizzate in assenza di titolo abilitativo, e pertanto abusive, in un fabbricato sito in Via Serro del Carmine nn. 5-7 del Comune di Barcellona Pozzo di Gotto, individuato nel N.C.U. al foglio 28 part.lla 1488 sub 1</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14238</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14238</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Turni di servizio delle Farmacie di Barcellona P.G. dal 05/02/2024 al 07/04/2024</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14237</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14237</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Aggiornamento Catasto incendi, ai sensi dell'art. 10, comma 2 della legge n. 353/2000 e ss.mm.ii. - APPROVAZIONE ELENCO PROVVISORIO fino al 2022 - delle aree percorse dal fuoco.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14236</guid>
     </item>
   </channel>
 </rss>
