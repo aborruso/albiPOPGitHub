@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>CILA da sottoporre a istruttoria, verbale estrazione casuale del 7 febbraio 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29463</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29463</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 7 febbraio 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29462</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29462</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione retribuzione di Risultato anno 2021.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29461</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29404</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29404</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Adozione del Piano Integrato di Attività e Organizzazione (PIAO) 2024/2026, ai sensi dell'art. 6, D.L. n. 80/2021.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29403</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29403</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Concessione collaborazione del Comune di Ginosa all'Associazione culturale "ArmoniE OdV" per lutilizzo gratuito del Teatro Alcanices in relazione alliniziativa culturale denominata ArmoniE fra Storie e Futuro- Concerto per Flauto e Chitarra del Duo G</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29402</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29402</guid>
     </item>
   </channel>
 </rss>
