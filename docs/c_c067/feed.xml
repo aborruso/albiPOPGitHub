@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 15 : ISTITUZIONE DI N. 1 STALLO PER LA SOSTA DEI VEICOLI ADIBITI AL TRASPORTO MERCI PER EFFETTUARE LE OPERAZIONI DI CARICO E SCARICO NEL TRATTO DI VIA ROMA TRA IL N.C. 88 E IL N.C. 94 NEI GIORNI FERIALI.........</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26809</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26809</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N.14 : CARNEVALE 2024 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26808</link>
+      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26808</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Lavori di manutenzione straordinaria del basamento area giochi del Parco delle Rimembranze  Fornitura, trasporto e messa in opera del tappeto gommato, tramite affidamento diretto ai sensi dell'art. 50 comma 1 lettera a) del D.Lgs 36/2023  alla ditt...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26807</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26782</link>
       <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26782</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N.10: GIORNO 05/02/2024 DIVIETO DI SOSTA SU AMBO I LATI CON RIMOZIONE FORZATA IN VIA PAPA GIOVANNI XXIII DAL N.C. 41 AL N.C. 63 E FINO AL TERMINE DELLE RIPRESE TELEVISIVE...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26781</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26781</guid>
-    </item>
-    <item>
-      <title>Avviso Di Deposito</title>
-      <description>AVVISO DEPOSITO ATTI CITTADINI DIVERS...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26779</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26779</guid>
     </item>
   </channel>
 </rss>
