@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>CARNEVALE 2024  CIRCOLO ARCI IL PONTE GINOSA  MANIFESTAZIONE MASCHERARCI - SFILATA MASCHERE DEL GIORNO 11 FEBBRAIO 2024 - ISTITUZIONE PROVVEDIMENTI TEMPORANEI DI VIABILITA'</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29479</link>
+      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29479</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione contributo in favore dell'ASD APS Family Horses.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29478</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29420</link>
       <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29420</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Determina Impegno di spesa per retta di ricovero madre/bambino presso comunità alloggio per gestanti e mamme con figli "La Casa di Marianna 2" con sede a Poggiorsini (BA) in Via Mazzini,22, gestita dalla cooperativa sociale Nuovi Orizzonti  con sede</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29419</link>
-      <pubDate>Tue, 06 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29419</guid>
     </item>
   </channel>
 </rss>
