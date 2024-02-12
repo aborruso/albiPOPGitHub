@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione in favore della ditta G&amp; S Baratta SRL per fornitura di n.7 proiettori LED e n.1 centralina telecomando istallata presso la fontana sita in Via Mazzin...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26834</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26834</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno e contestuale liquidazione pari all'80% in favore dell'Associazione di Promozione Sociale I Frastornati per l'organizzazione del Carnevale 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26833</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26833</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 18: CARNEVALE 2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26832</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26806</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26806</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n°5 del 25/01/2024 per la manutenzione del Ford Transit Connect targato DL697FM e dell'escavatore Caterpillar...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26805</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26805</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di manutenzione straordinaria degli immobili comunali  anno 2023/2024 - Affidamento smaltimento e conferimento materiali di rifiuto presso idoneo impianto -   alla ditta Rinchiusa Michele con sede a Gratteri (PA) in C.da Ciuffarello, n° 23 - ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26804</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26804</guid>
     </item>
   </channel>
 </rss>
