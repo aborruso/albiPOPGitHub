@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>APPROVAZIONE BILANCIO DI PREVISIONE 2024/2026 -  NOTA INTEGRATIVA - PIANO DEGLI INDICATORI E RELATIVI ALLEGAT...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26835</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26835</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione in favore della ditta G&amp; S Baratta SRL per fornitura di n.7 proiettori LED e n.1 centralina telecomando istallata presso la fontana sita in Via Mazzin...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26834</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26807</link>
       <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26807</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di "Manutenzione straordinaria della rete idrica e fognante  anno 2023" -Impresa esecutrice: Allegra Santi con sede a Castelbuono 90013 (PA), C.da Scondito snc P.Iva 04708490828- Liquidazione credito residuo giusta fattura n. 1 del 29/01/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26806</link>
-      <pubDate>Wed, 07 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26806</guid>
     </item>
   </channel>
 </rss>
