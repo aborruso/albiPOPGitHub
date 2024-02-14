@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Liquidazione saldo competenze in favore dell'Avv. Alessandra Alaimo legale dell'Ente nella procedura esecutiva c/ OMISSI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26842</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26842</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione delle spese ex art. 194 del D.Lgs. 26/2000 derivanti da Sentenze emesse dalla Corte di Giustizia Tributaria di secondo grado della Sicilia (sezione 12) a favore della ricorrente Omissis...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26841</link>
+      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26841</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno in favore dell'Agenzia HDI Assicurazioni S.p.A. Agenzia Generale 366 G.Ippolito La Grua per stipula polizza RCT - Carnevale 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26840</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26814</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26814</guid>
-    </item>
-    <item>
-      <title>Elenco</title>
-      <description>ELENCO DIRR M2 DIRR N° 6...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26813</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26813</guid>
-    </item>
-    <item>
-      <title>Elenco</title>
-      <description>ELENCO DIRR N° 2...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26812</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26812</guid>
     </item>
   </channel>
 </rss>
