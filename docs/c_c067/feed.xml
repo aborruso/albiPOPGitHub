@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Approvazione graduatoria per l'assegnazione in concessione di lotti cimiteriali ancora liberi ubicati nell'ampliamento del cimitero comunale. Anno 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26850</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26850</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 19: GIORNO 20/02/2024 FINO AL TERMINE DEI LAVORI, DIVIETO DI TRANSITO IN VIA COLLEGIO MARIA E IN VIA BENEDETTINI PER LAVORI RETE IDRICA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26849</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26849</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione Fatt. 27/PS alla Ditta 3 ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26847</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26821</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26821</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Approvazione programma  manifestazione  "Carnevale 2024" - Atto di indirizz...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26820</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26820</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Approvazione Programma del Servizio  per la gestione dei rifiuti solidi urbani per l'anno 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26819</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26819</guid>
     </item>
   </channel>
 </rss>
