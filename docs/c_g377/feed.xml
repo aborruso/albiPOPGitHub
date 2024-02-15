@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/02/2024 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in occasione della sfilata del 60°  Carnevale Pattese  di domenica 18.02.24.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7490</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7490</guid>
+    </item>
+    <item>
       <title>12/02/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DELL'INDENNITÀ CONDIZIONI DI LAVORO - RISCHIO PER LANNO 2019, CONFERITO AI SENSI DELLART.17 COMMA 2 LETT.D) CCNL DEL 01/04/1999 E ART. 37 DEL CCNL 14/09/2000 SERVIZIO GESTIONE IGIENE AMBIENTALE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7489</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7456</link>
       <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7456</guid>
-    </item>
-    <item>
-      <title>09/02/2024 | Ordinanze Dirigenziali</title>
-      <description>Disposizioni di viabilità per lavori: Via L. della Robbia e Via 2 Giugno.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7455</link>
-      <pubDate>Fri, 09 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7455</guid>
     </item>
   </channel>
 </rss>
