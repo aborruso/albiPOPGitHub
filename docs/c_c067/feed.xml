@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>OERD.N.20 DEL 15/02/2024 DIVIETO DI SOSTA   GIORNO 16/02/2024  IN VIA PAPA GIOVANNI   FINE AL TERMINE DELLE RIPRESE RIPRESE TELEVISIVE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26856</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26856</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Parziale modifica Determina del 2° settore n. 1248 del 17/10/2022 Liquidazione performance personale non dirigente -anno 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26855</link>
+      <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26855</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione performance personale non dirigente - Anno 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26854</link>
@@ -148,20 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26835</link>
       <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26835</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore della ditta G&amp; S Baratta SRL per fornitura di n.7 proiettori LED e n.1 centralina telecomando istallata presso la fontana sita in Via Mazzin...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26834</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26834</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno e contestuale liquidazione pari all'80% in favore dell'Associazione di Promozione Sociale I Frastornati per l'organizzazione del Carnevale 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26833</link>
-      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26833</guid>
     </item>
   </channel>
 </rss>
