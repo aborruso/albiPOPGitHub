@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale sorteggio pratiche Urbix del 19/02/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14399</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14399</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione  limitazione alla circolazione veicolare e pedonale dalle ore 07:00 del 19 febbraio 2024 per giorni 60 e comunque fino al termine dei  lavori - in via Operai  dal n.c. 159 al n.c. 165 - via Mandanici  dal n.c. 60 al n.c. 56</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14398</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14369</link>
       <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14369</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>fornitura ed installazione di una nuova caldaia per il plesso scolastico di via NINO BIXIO-I.C. FOSCOLO                       - CIG  B006A06FEB</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14368</link>
-      <pubDate>Wed, 14 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14368</guid>
     </item>
   </channel>
 </rss>
