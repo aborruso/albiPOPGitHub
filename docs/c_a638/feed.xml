@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Delibere Di Giunta Municipale</title>
+      <description>Variazione al bilancio provvisorio  2022/2024 - esercizio 2024 per applicazione quota  vincolata dell'avanzo di amministrazione presunto al 31/12/2023 ai sensi dell'articolo 187, comma 3 del TUEL</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14422</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14422</guid>
+    </item>
+    <item>
       <title>Autorizzazioni</title>
       <description>Lavori privati nel Cimitero - Regolamento Comunale di Polizia Mortuaria e di Edilizia Cimiteriale - approvato con Delibera C.C.n°24 del 23/03/1998 Ditta "Calpona Sebastiano" impresa "CALPONA SEBASTIANO" Via Roma n.307 Barcellona P.G.(ME)</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14421</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14394</link>
       <pubDate>Fri, 16 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14394</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Avviso deposito atto art. 143 cpc a carico di Gentile Domenico</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14393</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14393</guid>
     </item>
   </channel>
 </rss>
