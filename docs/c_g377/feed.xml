@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/02/2024 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7525</link>
+      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7525</guid>
+    </item>
+    <item>
       <title>20/02/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>PIANO NAZIONALE DI RIPRESA E RESILIENZA, FINANZIATO DALL'UNIONE EUROPEA - NEXT GENERATION EU - AVVISO PUBBLICO PROT. N. 48047 DEL 2 DICEMBRE 2021 M4 C1-1.1: PIANO PER ASILI NIDO E SCUOLE DELL'INFANZIA E SERVIZI DI EDUCAZIONE E CURA PER LA PRIMA INFANZIA - LAVORI DI CISTRUZIONE DI UN NUOVO EDIFICIO ASILO NIDO DEL CENTRO -. ZONA ORTI ACQUAFICO COSTRUZIONE DI UN NUOVO ASILO NIDO DEL CENTRO DI PATTI - CUP: C45E22000270006 - CIG: 9836736B55 - LIQUIDAZIONE COMPETENZE TECNICHE PER PROGETTAZIONE DEFINITIVA/ESECUTIVA - ARCH. CONTE ELIO..</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7524</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7491</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7491</guid>
-    </item>
-    <item>
-      <title>15/02/2024 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità in occasione della sfilata del "60° Gran Carnevale Storico Pattese" - Domenica 18 febbraio 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7490</link>
-      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7490</guid>
     </item>
   </channel>
 </rss>
