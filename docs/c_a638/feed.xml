@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>Rinnovo contratto di Concessione Demaniale di un area di mq.3.290,00 e l'ampliamento di mq.632,10 per un totale di mq.3922,10, di pertinenza del corso d'acqua Torrente Termini di Patrì, iscritto al numero 39 dell'elenco delle acque pubbliche della provincia di Messina nel Comune di Barcellona P.G.(ME) limitrofo all'impianto comunale di C/da Cantoni in concessione alla medesima Società, per l'installazione di un impianto di brighettatura fanghi da utilizzare per il processo depurativo reflui. Ditta:Barcellonambiente S.p.A.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14447</link>
+      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14447</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di limitazioni alla circolazione stradale in via Roma da giorno 16 febbraio 2024 al 30 marzo 2024 dalle ore 07:00 alle ore 18:00.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14444</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14418</link>
       <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14418</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Avviso pubblico per il reperimento di immobili da destinare all'accoglienza di cittadini stranieri richiedenti protezione internazionale del  terrirorio comunale</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14417</link>
-      <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14417</guid>
     </item>
   </channel>
 </rss>
