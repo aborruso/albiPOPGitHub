@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Di Deposito</title>
+      <description>ELENCO IRR. ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26924</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26924</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>liquidazione fattura n.TD01 del 9/02/2023 visure extra IV trimestre 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26923</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26923</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione Fatt. n.TD01 del 08/02/24 - Associazione A.Ma.L.Te.A. Onlu...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26922</link>
+      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26922</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>IMPEGNO DI SPESA ALL'AZIENDA COCOLUMO S.R.L. PER L'ACQUISTO DI UNA PIANTANA ROTALIANA MODELLO STRING DI COLORE NERO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26921</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26897</link>
       <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26897</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI 2023 ISTAT  INDAGINE DA LISTA - CONVIVENZE ANAGRAFICHE SPECIALI - LIQUIDAZIONE CONTRIBUTO FISS...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26896</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26896</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Liquidazione fattura per servizio di rilegatura registri di Stato Civile anno 2022 alla Tipografia Le Madonie di Carollo Roberta e Daniele s.n.c...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26895</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26895</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>EMISSIONE CARTA DI IDENTITA' ELETTRONICA (CIE) LIQUIDAZIONE PER IL TRASFERIMENTO DEI CORRISPETTIVI DOVUTI AL MINISTERO DEGLI INTERNI ANNO 2023. MESI DI : SETTEMBRE - OTTOBRE -  NOVEMBRE -  DICEMBR...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26894</link>
-      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26894</guid>
     </item>
   </channel>
 </rss>
