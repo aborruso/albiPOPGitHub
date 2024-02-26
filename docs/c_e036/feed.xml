@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Usucapione</title>
+      <description>USUCAPIONE SPECIALE DELLA PICCOLA PROPRIETA' RURALE Portulano Vincenzo</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29612</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29612</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>AFFIDAMENTO DIRETTO E APPROVAZIONE SCHEMA DI CONVENZIONE PER ANNI DUE DEL SERVIZIO DI PRONTO SOCCORSO H24 ANIMALI RANDAGI (CANI E GATTI), NON DI PROPRIETA', RINVENUTI FERITI SUL TERRITORIO COMUNALE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29611</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29611</guid>
+    </item>
+    <item>
       <title>Decreto</title>
       <description>Nomina del Responsabile della Transizione al Digitale del Comune di Ginosa (art 17 D. Lgs n. 82/2005 Codice dell'Amministrazione Digitale) .</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29610</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29551</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29551</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2022"  I annualità - - I FINESTRA  Linea B Codice Pratica 11LLJGDV (busta paga febbraio 2024 + consulente del lavoro +  ricevuto di affitto mese di febbraio 2024)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29550</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29550</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea A -  I Finestra - Codice Pratica FXJC1MDD (liquidazione busta paga gennaio 2024+ fattura ausili informatici )</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29549</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29549</guid>
     </item>
   </channel>
 </rss>
