@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO SPINELLI ANGELO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29623</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29623</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Russi Nicola</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29622</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29622</guid>
+    </item>
+    <item>
       <title>Decreto</title>
       <description>Assegnazione dell'arma in via continuativa per lo svolgimento dei servizi con armi. Agente di Polizia Locale Pietro SPIERTO.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29620</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29561</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29561</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Corrispettivi CORIPET per conferimento e ritiro dei contenitori in PET: accertamento entrate gennaio 2024 e presa atto prefattura di addebito frazione estranea dicembre 2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29560</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29560</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Approvazione e liquidazione degli atti contabili relativi all'Ordine di Lavoro n° 3 - Lavori manutenzione ordinaria presso alcuni Istituti Scolastici, Caserme Carabinieri Ginosa e Marina di Ginosa, Palazzo Comunale e Stadio "T. Miani" - Liquidazione</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29559</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29559</guid>
     </item>
   </channel>
 </rss>
