@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione fatture nn. 305, 306 e 307 del 07/02/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26961</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26961</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione quota di 1/4 al Sig. Sciandra Faustino per l'acquisto ex salone Baggesi, posto in Castelbuono Via Conceria n. 57 in C.E.U. al fg. 20 distinti dalla particella 410 sub.9 e 10....</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26960</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26941</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26941</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Concessione assegno di maternità  ex art. 66 L.N. 448/9...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26940</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26940</guid>
     </item>
   </channel>
 </rss>
