@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale sorteggio pratiche Urbix del 27/02/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14528</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14528</guid>
+    </item>
+    <item>
+      <title>Bando Di Concorso</title>
+      <description>Avviso Selezione di n.1 Esperto Funzionario Rendicontatore per garantire la definizione e l'attuazione degli interventi previsti dalla Politica di Coesione dell'Unione Europea e Nazionale per i cicli di programmazione 2014-2020 e 2021-2027. - PROFESSIONISTA JUNIOR</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14527</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14527</guid>
+    </item>
+    <item>
       <title>Determina Ufficio Piano</title>
       <description>Liquidazione fattura emessa dalla Soc. Coop. Sociale AZIONE SOCIALE per il servizio di socializzazione per anziani presso i Comuni di Barcellona Pozzo di Gotto e Montalbano Elicona del Distretto Socio Sanitario 28, reso nei mesi di novembre e dicembr</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14526</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14500</link>
       <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14500</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di un parcheggio personalizzato per soggetto diversamente abile contrassegnato EU n. 042/24  con scadenza 07.02.2024 in via Medici prossimità del civ.318.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14499</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14499</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>APPROVAZIONE ACCORDO DI PROGRAMMA TRA IL COMUNE DI BARCELLONA POZZO DI GOTTO E L'AZIENDA SANITARIA PROVINCIALE DI MESSINA</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14498</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14498</guid>
     </item>
   </channel>
 </rss>
