@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Istituzione di limitazioni alla circolazione stradale in via Filippo Turati per giorno 28 febbraio 2024 dalle ore 07:00 fino ad ultimazione dei lavori.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14531</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14531</guid>
+    </item>
+    <item>
+      <title>Ordinanza Dirigenziale</title>
+      <description>Diffida al ripristino dei luoghi - Ordinanza di demolizione di opere realizzate in forza di titolo dichiarato inefficace e pertanto abusive, nell'area pubblica antistante il fabbricato sito in Via Adelaide n. 28 del Comune di Barcellona Pozzo di Gott</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14530</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14530</guid>
+    </item>
+    <item>
       <title>Verbali</title>
       <description>Verbale sorteggio pratiche Urbix del 27/02/2024</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14528</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14503</link>
       <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14503</guid>
-    </item>
-    <item>
-      <title>Determina Ufficio Piano</title>
-      <description>Piano di Zona 2019/2020 - Azione 8 "Sostegno al Reddito". Liquidazione contributo borsa lavoro ai beneficiari del Comune di Barcellona Pozzo di Gotto.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14502</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14502</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di un parcheggio personalizzato per soggetto diversamente abile contrassegnato EU n. 1478/23 con scadenza 07.06.2028 in via Immacolata di fronte al  civ.302.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14500</link>
-      <pubDate>Fri, 23 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14500</guid>
     </item>
   </channel>
 </rss>
