@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Consiglio Comunale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE PER IL 07/03/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26986</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26986</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Incremento orario temporaneo personale assegnato al servizio di P....</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26985</link>
+      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26985</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE ALL'AZIENDA COCOLUMO S.R.L. PER L'ACQUISTO DI UNA PIANTANA ROTALIANA MODELLO STRING DI COLORE NERO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26984</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26959</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26959</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione a saldo fattura n. 23 del 19/02/2024 per fornitura di materiale edile...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26958</link>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26958</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n°170 del 19/02/2024 relativa alla "Manutenzione annuale di n°4 ascensori, ubicati rispettivamente: Casa Comunale Via S.Anna 25, Scuola Media Via Isnello  Museo Naturalistico Minà Palumbo in P.zza San Francesco, Badia"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26957</link>
-      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26957</guid>
     </item>
   </channel>
 </rss>
