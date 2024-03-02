@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
-      <title>01/03/2024</title>
-      <description>Convocazione del Consiglio Comunale monotematico per il 04 marzo 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29687</link>
-      <pubDate/>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29687</guid>
-    </item>
-    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO PIRRAZZO MARIA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29686</link>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29628</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29628</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO AI CREDITORI Ripristino delle opere di adduzione delle acque grezze del tratto dell'Acquedotto del Sinni DN 3000 in agro di Ginosa (TA) danneggiatosi a causa dell'alluvione del 7 ottobre 2013.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29627</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29627</guid>
     </item>
   </channel>
 </rss>
