@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>AREE PERCORSE DAL FUOCO NEL 2023...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26990</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26990</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno spesa ed affidamento diretto per nolo mezzo meccanico necessario per operazioni di scavo nel campo comune cimiteriale all'O.E. DUEEFFE s.r.l.s con sede a Castelbuono in c.da San Paolo-Rametta s.n.c.  P.IVA 06221450825...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26989</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26963</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26963</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>PERSONALE A SUPPORTO DEL SERVIZIO DI REFEZIONE SCOLASTICA PER IL PERIODO 01/03/2024  -  30/04/2024 - IMPEGNO DI SPESA IN FAVORE DELL'ASSOCIAZIONE DI PROMOZIONE SOCIALE AMALTEA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26962</link>
-      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=26962</guid>
     </item>
   </channel>
 </rss>
