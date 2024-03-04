@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Verbali</title>
+      <description>Verbale sorteggio pratiche Urbix del 04/03/2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14573</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14573</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>RICARICA DEI BUONI ACQUISTO DI CARBURANTE PER AUTOTRAZIONE MEDIANTE ADESIONE AD ACCORDO QUADRO CONSIP "CARBURANTE RETE BUONI ACQUISTO 2" LOTTO UNICO</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14572</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14572</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Approvazione avviso pubblico per la presentazione delle domande per la nomina dei Componenti del collegio dei revisori dei conti per il triennio 2024/2027</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14571</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14545</link>
       <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14545</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Liquidazione   fattura  Ditta " LUMINARIE ARTELUCE GRUPPO RAIMONDO SOC. COOP." per  noleggio  e  installazione di ornamento luminoso su alcune alberature in piazza Duomo - CIG Z163E05A71</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14544</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14544</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>BONUS FIGLIO LIQUIDAZIONE  AVENTE DIRITTO I SEMESTRE  ANNO 2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14543</link>
-      <pubDate>Thu, 29 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14543</guid>
     </item>
   </channel>
 </rss>
