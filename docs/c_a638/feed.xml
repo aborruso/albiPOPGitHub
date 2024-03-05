@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>- Richiesta di Autorizzazione per la realizzazione di una nuova linea BT avente lunghezza totale pari a circa 610 m nonchè la posa di n. 5 cassette stradali e n. 12 pozzetti stradali in Viale Ugo Foscolo nel comune di Barcellona Pozzo di Gotto (ME).</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14585</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14585</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Richiesta di autorizzazione per opere civili finalizzati allo sviluppo della rete in fibra ottica nel Comune di Barcellona Pozzo di Gotto, nell'ambito della Concessione di progettazione, costruzione, manutenzione e gestione di una infrastruttura pass</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14584</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14584</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>- Richiesta di autorizzazione allo scavo per la realizzazione di un tratto di linea BT in cavo interrato al fine dell'allacciamento di un nuovo cliente nel Comune di Barcellona Pozzo di Gotto (ME).  Utente:  E- distribuzione Riferimento: E- distribuz</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14583</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14583</guid>
+    </item>
+    <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>- Richiesta di Autorizzazione per i lavori di lavori di scavo per una lunghezza complessiva di circa 7 metri per la costruzione di linea elettrica BT interrata in corrispondenza di Stretto I Croce Maloto nel Comune di Barcellona Pozzo di Gotto (ME).</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14582</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14582</guid>
+    </item>
+    <item>
       <title>Avviso Deposito Atti</title>
       <description>Avviso deposito atto art 143 a carico di ROUMANE TARIK</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14580</link>
@@ -183,34 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14557</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14557</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Filippo Turati per giorno 04 marzo 2024 dalle ore 07:00 fino ad ultimazione dei lavori.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14556</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14556</guid>
-    </item>
-    <item>
-      <title>Ordinanza Dirigenziale</title>
-      <description>Istituzione di limitazioni alla circolazione stradale in via Trento nella giornata di martedì 05 marzo 2024 dalle ore 07:00 alle ore 18:00.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14555</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14555</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Convocazione consiglio comunale "Question Time" che si terrà venerdì 08 marzo 2024, ore 19:00</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14554</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14554</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Cartelle Esattoriali</title>
-      <description>Avviso deposito cartelle eesattoriali pe rirreperibilità nominativi diversi</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14552</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14552</guid>
     </item>
   </channel>
 </rss>
