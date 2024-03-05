@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 1580</title>
+      <description>DELIBERA DI GIUNTA N. 2024/30 - LAVORI PUBBLICI - CI 15053. ARSENALE MESSA IN SICUREZZA GRU ARMSTRONG E RIQUALIFICAZIONE AREA ESTERNA. Approvazione del progetto definitivo</description>
+      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_30_36786_TESTO.pdf</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_30_36786_TESTO.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 1579</title>
+      <description>DELIBERA DI GIUNTA N. 2024/29 - LAVORI PUBBLICI - (C.I: 14955) Approvazione Progetto Definitivo comprensivo del progetto di fattibilità tecnica ed economica dellintervento di riqualificazione aree centrali di Mestre tra P.le Porta Altinate e Piazza Ferretto</description>
+      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_29_36732_TESTO.pdf</link>
+      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_29_36732_TESTO.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 1578</title>
       <description>DELIBERA DI GIUNTA N. 2024/28 - COMMERCIO - Revisione del vigente Piano per il commercio su aree pubbliche, ai sensi dellarticolo 5, comma 3, del vigente regolamento per il commercio su aree pubbliche: Area Marciana e Giardinetti ex Reali.</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_28_36694_TESTO.pdf</link>
@@ -211,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP133539.pdf</guid>
-    </item>
-    <item>
-      <title>#VARIE | Pubblicazione numero 973</title>
-      <description>AVVISO SISTEMA DI QUALIFICAZIONE DI FORNITORI DI GASOLIO PER AUTOTRAZIONE PER I MEZZI DEL SERVIZIO AUTOMOBILISTICO E DEL SERVIZIO DI NAVIGAZIONE PER IL PERIODO 01/04/2019 - 31/03/2024.</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</link>
-      <pubDate>Fri, 22 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP131402.pdf</guid>
     </item>
   </channel>
 </rss>
