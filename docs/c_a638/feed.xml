@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartellle esattoriali  per irreperibilità nominativi diversi del 07 marzo 2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14625</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14625</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Cartelle Esattoriali</title>
+      <description>Avviso deposito cartella esattoriale per assenza nominativo unico del 07 marzo 2024</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14624</link>
+      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14624</guid>
+    </item>
+    <item>
       <title>Ordinanza Dirigenziale</title>
       <description>Istituzione di limitazioni alla circolazione stradale in via Filippo Turati mediante il  divieto di  transito per tutti i veicoli con massa superiore a 3,5t da giorno 06.03.2024 fino ad ultimazione dei lavori.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14623</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14595</link>
       <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14595</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>RIAPERTURA TERMINI DI PRESENTAZIONE PER MANIFESTAZIONI DI INTERESSE VOLTA AD INDIVIDUARE SOGGETTI INTERESSATI ALLA COPROGETTAZIONE DI INTERVENTI DIRETTI A FAVORIRE INIZIATIVE DEDICATE ALLE PERSONE CON DISTURBO DELLO SPETTRO AUTISTICO di cui al DECRET</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14594</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14594</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>VOLTURA CONCESSIONE ALL'USO DI PASSO CARRABILE:  IMBESI GIANFRANCO</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14593</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14593</guid>
     </item>
   </channel>
 </rss>
