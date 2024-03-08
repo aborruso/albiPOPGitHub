@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. 104/E del 22/02/2024 della Società Cooperativa  Sociale l'arca onlus relativa alla gestione del servizio di supporto educativo e servizi generali del micro nido comunale a.s. 2023/2024   mese di gennai...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27028</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27028</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>Approvazione regolamento del sistema per la misurazione e valutazione della performance. ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27027</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27001</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27001</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>IMPEGNO SPESA PER L'INDENNITA' DI COMPETENZE DA CORRISPONDERE AL DIRETTORE-ECONOMO DEL MUSEO CIVICO, DOTT.SSA LAURA BARRECA PER IL PERIODO 01/02/2024 AL 29/02/2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27000</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27000</guid>
     </item>
   </channel>
 </rss>
