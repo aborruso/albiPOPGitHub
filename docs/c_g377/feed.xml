@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/03/2024 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7682</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7682</guid>
+    </item>
+    <item>
       <title>08/03/2024 | Avvisi Vari</title>
       <description>AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO NON PROFIT quale partner privato nellambito dellaggregazione promossa dai Comune di Patti, Montalbano Elicona, San Piero Patti, Ucria, Raccuja e Floresta per la partecipazione al bando pubblico emanato dal GAL Nebrodi Plus e relativo alla Misura 19  sottomisura 19.2 codice 77306, rif. Sottomisura 7.2, del P.S.R. SICILIA 2014-2022, codice univoco bando: 77306.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7681</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7648</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7648</guid>
-    </item>
-    <item>
-      <title>05/03/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DELL'INDENNITÀ CORRELATA AGLI INCARICHI PER SPECIFICHE RESPONSABILITÀ PER L'ANNO 2020, CONFERITO AI SENSI DELL'ART.70 QUINQUIES, COMMA I°.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7647</link>
-      <pubDate>Tue, 05 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7647</guid>
     </item>
   </channel>
 </rss>
