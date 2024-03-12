@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO - MESE FEBBRAIO- RISCONTRO NEGATIVO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27039</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27039</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 23: DIVIETO DI TRANSITO E DI SOSTA A TUTTI I VEICOLI, PEDONI ED ANIMALI SUL TRATTO DI STRADA COMUNALE MARCATOGLIASTRO OPPORTUNAMENTE DELIMITATO DA APPOSITA SEGNALETICA STRADALE MOBILE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27038</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27038</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione contributo a sostegno della famiglia affidataria per affido minore A.A. Mese di Febbraio 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27037</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27012</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27012</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fatt.2_FE del 14/02/2024 all'Arch. Giuseppe Massimiliano Barca, con sede in S. Agata di Militello (ME), via Trento, n. 30 CF: BRCGPP70R15F251W P.IVA: (02531670830) per l'incarico di "D.L., misura, contabilità, Certificato di Regolare Es...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27011</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27011</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n.125 del 14/02/2024 del laboratorio GEOLAB srl  con sede a Carini - PA- in Via De Spuches snc,  P.IVA:04040700827 relativa al servizio di "Prove di carico da eseguire nell'edificio scolastico  F. Minà Palumbo" CIG:  B01DA79DB...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27010</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27010</guid>
     </item>
   </channel>
 </rss>
