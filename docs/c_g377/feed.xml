@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/03/2024 | Concessioni E Permessi Di Costruire</title>
+      <description>Permesso di costruire n.3 del 12/03/2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7698</link>
+      <pubDate>Tue, 12 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7698</guid>
+    </item>
+    <item>
       <title>12/03/2024 | Determinazioni Dirigenziali</title>
       <description>CONCESSIONE AREA CIMITERIALE IN FAVORE DEL SIGNOR ALESSANDRO GIOACCHINO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7697</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7664</link>
       <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7664</guid>
-    </item>
-    <item>
-      <title>07/03/2024 | Deliberazioni Di Giunta</title>
-      <description>Rinnovo contratto di locazione dell'Immobile da adibire ad Alloggio di Servizio del Comandante della Compagnia dei Carabinieri.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7663</link>
-      <pubDate>Thu, 07 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7663</guid>
     </item>
   </channel>
 </rss>
