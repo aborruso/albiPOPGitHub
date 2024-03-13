@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/03/2024 | Determinazioni Del Sindaco</title>
+      <description>NOMINA COMPONENTI CONSIGLIO DELLA BIBLIOTECA COMUNALE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7707</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7707</guid>
+    </item>
+    <item>
       <title>13/03/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N. 4 "Emergenza e Urgenza I^ e II^ Annualità" - PdZ 2018/2019 - Liquidazione a N. 01 Beneficiario del Comune di Patti dell'AOD N. 1.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7706</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7673</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7673</guid>
-    </item>
-    <item>
-      <title>08/03/2024 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità - Chiusura corsia lato monte Via Zuccarello, per manifestazione: sabato 09 e domenica 10 marzo 2024 - Pulizia verde pubblico, Piazza Falcone Borsellino: lunedi 11 marzo 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7672</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7672</guid>
     </item>
   </channel>
 </rss>
