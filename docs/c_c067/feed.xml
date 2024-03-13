@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. 18 del 07/03/2024  prot. n. 5687 del 07/03/2024, per la "Fornitura di materiale idrico da utilizzare per la manutenzione ella rete idrica...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27042</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27042</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione rimborso spese sostenute dal gestore  preventivamente autorizzate per l'allaccio fognario  e immissione in pubblica fognatura dell'Eremo di Liccia,distinto  in catasto al fg. 45 p.lla 682 di proprietà Comunale con compensazione di credi...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27041</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27041</guid>
+    </item>
+    <item>
       <title>Delibera Di Consiglio</title>
       <description>Riconoscimento legittimità debito fuori bilancio ai sensi dell'art. 194 c. lett. a) del TUEL in favore della Dott.ssa OMISSIS in merito alla sentenza n. 957/2023 emessa dal Tribunale di Termini Imerese  - sezione Lavoro - nel contenzioso c/ Comune d...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27040</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27015</link>
       <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27015</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n.48_2024 del 23/02/2024 della CIVEM srl   con sede  a Casteldaccia (PA)  in Via Pietro Mascagni n.15  P.IVA (00779110824) relativa  al I° SAL dei lavori di  lavori di Efficientamento energetico immobile denominato "ex carcere d...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27014</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27014</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 343/2024/V8 del 27/02/2024 a saldo del residuo 20% relativa all'incarico tecnico finalizzato alle verifiche di vulnerabilità sismica degli edifici comunali, adibiti a scuola materna, siti in Via N e Via S. Lucia redatte dall...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27013</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27013</guid>
     </item>
   </channel>
 </rss>
