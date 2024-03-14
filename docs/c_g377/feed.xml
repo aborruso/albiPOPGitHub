@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
-      <title>13/03/2024 | Determinazioni Del Sindaco</title>
-      <description>NOMINA COMPONENTI CONSIGLIO DELLA BIBLIOTECA COMUNALE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7707</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7707</guid>
-    </item>
-    <item>
       <title>13/03/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N. 4 "Emergenza e Urgenza I^ e II^ Annualità" - PdZ 2018/2019 - Liquidazione a N. 01 Beneficiario del Comune di Patti dell'AOD N. 1.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7706</link>
@@ -199,13 +192,6 @@
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7682</guid>
     </item>
     <item>
-      <title>08/03/2024 | Avvisi Vari</title>
-      <description>AVVISO PUBBLICO PER L'INDIVIDUAZIONE DI UN SOGGETTO NON PROFIT quale partner privato nell'ambito dell'aggregazione promossa dai Comuni di Patti, Montalbano Elicona, San Piero Patti, Ucria, Raccuja e Floresta per la partecipazione al Bando Pubblico emanato dal GAL Nebrodi Plus e relativo alla Misura 19 sottomisura 19.2 codice 77306, rif. Sottomisura 7.2, del P.S.R. SICILIA 2014/2022, codice univoco bando: 77306.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7681</link>
-      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7681</guid>
-    </item>
-    <item>
       <title>08/03/2024 | Deliberazioni Di Giunta</title>
       <description>ASSESSORATO REGIONALE DELLA FUNZIONE PUBBLICA E DELLE AUTONOMIE LOCALI - D.A. 2/GAB DEL 15/02/2024 ART. 4 DELLA L. R. 16 GENNAIO 2024, N. 1 - PROGRAMMI FINALIZZATI ALL'EROGAZIONE DI CONTRIBUTI PER INIZIATIVE DI CARATTERE SOCIALE, ECONOMICO E CULTURALE FINALIZZATE AL RAFFORZAMENTO DELLA COESIONE SOCIALE DEL TERRITORIO DI RIFERIMENTO - APPROVAZIONE PROGETTO E ATTO DI INDIRIZZO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7680</link>
@@ -260,6 +246,20 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7673</link>
       <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7673</guid>
+    </item>
+    <item>
+      <title>08/03/2024 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità - Chiusura corsia lato monte Via Zuccarello, per manifestazione: sabato 09 e domenica 10 marzo 2024 - Pulizia verde pubblico, Piazza Falcone Borsellino: lunedi 11 marzo 2024.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7672</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7672</guid>
+    </item>
+    <item>
+      <title>08/03/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DELL'INDENNITÀ DI TURNAZIONE PER L'ANNO 2017, AI SENSI DELL'ART. 23 DEL CCNL FUNZIONI LOCALI 2016/2018 MOD. DALL'ART. 22 DEL CCNL 14/09/200 E DALL'ART. 30 DEL CCNL FUNZIONI LOCALI 2019/2021.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7671</link>
+      <pubDate>Fri, 08 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7671</guid>
     </item>
   </channel>
 </rss>
