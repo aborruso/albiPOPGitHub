@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N.5/2024 RILASCIATO IN DATA 15/03/2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27071</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27071</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE A FATTURA A SALDO ALLA DOTT.SSA VALENTINA BRUSCHI, PER INCARICO " RESPONSABILE SCIENTIFICO PER LA COLLEZIONE DI ARTE MODERNA E CONTEMPORANEA" ANNO 2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27069</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27042</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27042</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione rimborso spese sostenute dal gestore  preventivamente autorizzate per l'allaccio fognario  e immissione in pubblica fognatura dell'Eremo di Liccia,distinto  in catasto al fg. 45 p.lla 682 di proprietà Comunale con compensazione di credi...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27041</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27041</guid>
     </item>
   </channel>
 </rss>
