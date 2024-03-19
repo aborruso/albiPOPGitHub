@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Determinazioni Dirigenziali</title>
+      <description>Aggiudicazione definitiva ai sensi dell'art. 17, comma 2 e 5, del D.Lgs. 36/2023, per l'affidamento diretto dei lavori relativi all'eliminazione di rischi igienico sanitari a seguito di sversamenti di reflui  dovuti a eventi meteorologici, con operat</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14728</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14728</guid>
+    </item>
+    <item>
       <title>Determinazioni Sindacali</title>
       <description>Conferimento di incarico, ad interim, di Dirigente del IV e del V Settore all'Ing. Sapienza Alessandro.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14727</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14695</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14695</guid>
-    </item>
-    <item>
-      <title>Autorizzazioni</title>
-      <description>Autorizzazione allo scarico dei reflui provenienti da insediamenti produttivi assimilabili a civili (L.R. n.27/86 e D.Lgs.vo n.152/06) - Validità mesi 6 Ditta: Maio Francesco - Pescheria Maio Soc.Coop. (Pescheria) Ubicazione: Via J.F.Kennedy n.245</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14694</link>
-      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14694</guid>
     </item>
   </channel>
 </rss>
