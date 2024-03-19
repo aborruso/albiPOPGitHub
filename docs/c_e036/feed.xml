@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Servizio Civile Universale: progettazione avviso 01.2024 - Indirizzi e determinazioni.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29917</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29917</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Assunzione impegno di spesa per il pagamento del debito fuori bilancio in applicazione dell'art. 194 del D.Lgs 267/2000  "Decreto di Liquidazione delle competenze del CTU n. 7162/2023, del Tribunale di Taranto"-riconosciuto con delibera di C.C. n. 5</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29916</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29856</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29856</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Variazione compensativa tra capitoli di spesa appartenenti allo stesso macroaggregato, ai sensi dell'art. 175 comma 5 quater lettera a) del D. Lgs. n. 267/2000.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29855</link>
-      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29855</guid>
     </item>
   </channel>
 </rss>
