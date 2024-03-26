@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/03/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione Fattura N. 13, del 29 febbraio 2024 - Ditta: Bastino Domenico.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7804</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7804</guid>
+    </item>
+    <item>
+      <title>26/03/2024 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità in occasione della Processione delle Varette: venerdì 29 marzo 2024.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7803</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7803</guid>
+    </item>
+    <item>
       <title>25/03/2024 | Ordinanze Sindacali</title>
       <description>Requisizione loculo Cimitero di Patti Centro.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7802</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7770</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7770</guid>
-    </item>
-    <item>
-      <title>20/03/2024 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Revisione biennale Pianta Organica Farmnacie del Comune di Patti, ai sensi della L. 475/68 così come modificata dall'art. 11 L. 27/12 e contestuale conferma della Perimetrazione delle Sedi Farmaceutiche.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7769</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7769</guid>
-    </item>
-    <item>
-      <title>20/03/2024 | Determinazioni Dirigenziali</title>
-      <description>Decisione di contrarre ai sensi dell'art. 17, commi I° e II°, del D. Lgs. N. 36/2023 e s.m.i. e dell'art. 192 del TUEL per l'affidamento del servizio temporaneo e sperimentale del trasporto di persone ai fini turistici/ricreativi, mediante bus-navetta su gomma in Località Tindari (in corrispondenza della ZTL Via Monsignor Pullano S. P. N. 107) compresa la gestione delle annesse Aree Comunali destinate a posteggio auto (periodo presunto: 30 marzo - 31 dicembre 2024 per 155 giorni).</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7768</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=7768</guid>
     </item>
   </channel>
 </rss>
