@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>FORNITURA  ARREDI PER UFFICI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27133</link>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27133</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura n.13 del 15/03/2024 della ditta DUE EFFE SRLS con sede a Castelbuono in C.da San Paolo - Rametta snc  P.IVA:06221450825  per il Servizio di " nolo mezzo meccanico necessario per operazioni di scavo nel campo comune cimiteriale" ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27132</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27105</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27105</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 28: GIORNO 29 MARZO 2024 REVOCA CONCESSIONE SUOLO PUBBLICO  PER LA TRADIZIONALE PROCESSIONE DEL VENERDI SANTO ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27104</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27104</guid>
     </item>
   </channel>
 </rss>
