@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Dell'organo Straordinario Di Liquidazione</title>
+      <description>Direttiva ai sensi dell'art. 253, comma 1 del d.lgs. 267/2000 - Prime istruzioni operative per la corretta istruttoria amministrativo-contabile dei procedimenti di competenza dell'Organo Straordinario di Liquidazione.</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14812</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14812</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Liquidazione fattura n.64/00 del 15/02/2024 alla ditta Biometan Srl per conferimento rifiuti biodegradabili presso l'impianto di compostaggio sito in C.da Milisinni, Catania, dall'01 al 15 febbraio 2024.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14811</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14784</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14784</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>Determina a contrarre per l'affidamento mediante trattativa diretta sul ME.PA. ex art.50, comma 1, lett. b) del DLgs. n. 36/2023 del  Servizio di ricovero e mantenimento cani randagi  e cuccioli abbandonati ricoverati presso il canile di Isnello di M</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14783</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14783</guid>
     </item>
   </channel>
 </rss>
