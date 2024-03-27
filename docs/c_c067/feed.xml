@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Ai Creditori</title>
+      <description>"LAVORI DI EFFICIENTAMENTO ENERGETICO DELL'IMMOBILE DENOMINATO EX CARCERE DI VIA MAZZINI OGGI ADIBITO A EDIFICIO SCOLASTICO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27149</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27149</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Rettifica determina n° 108 del 23/01/2024 avente oggetto " Sostituzione Responsabile Unico del Procedimento (RUP) ai sensi dell'art. 31 del D.Lgs 50/2016 e s.m.i (Codice dei Contratti) Architetto Antonio Dolce, Responsabile del V Settore, per l'atti...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27148</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27148</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n. 06/PA del 29/02/2024  della Ditta Giaconia srl relativa alla fornitura di prodotti carnei occorrenti per il servizio di refezione scolastica  - mese di febbraio ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27147</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27121</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27121</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno di spesa fornitura computer - affidamento ditta Medi@co...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27120</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27120</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno per rimborso spese canile anno 2024 Associazione A.G.A.D.A...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27119</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27119</guid>
     </item>
   </channel>
 </rss>
