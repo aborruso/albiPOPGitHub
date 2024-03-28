@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO CATUCCI VITO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30038</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30038</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO RANALDO LUCIA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30037</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30037</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento diretto ai sensi dell'art. 50, comma 1 lett. b) del D.lgsl. n. 36/2023 per lavori di manutenzio-ne ordinaria di automezzi di proprietà comunale alloperatore economico TECNICAUTO s.r.l. - CIG: B1008BB650</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30036</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29979</link>
       <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29979</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio telematico di consultazione dell'archivio centrale del Pubblico Registro Automobilistico (PRA) consultazioni extra anno 2023. Liquidazione di spesa in favore di ANCI DIGITALE SpA- CIG: ZE13A13C20</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29978</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29978</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura per integrazione retta ricovero utente presso la "Casa per la Vita" Mater Domini 2 sita in C.da Scivolizzo, snc. di Laterza gestita dalla Soc. Coop. Soc. Nuovi Orizzonti    Periodo dall' 01 Luglio al 30 Settembre.2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29977</link>
-      <pubDate>Mon, 25 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=29977</guid>
     </item>
   </channel>
 </rss>
