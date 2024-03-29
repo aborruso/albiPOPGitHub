@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Affidamento diretto all'O.E. Vimec Srl con sede a Luzzara, (RE) in Via Parri, 7, P.IVA 00758850358, per la "Fornitura, posa in opera e collaudo di sistema di accesso per disabili dal fabbricato spogliatoi al campo di calcio Luigi Failla".  CUP: H38H...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27173</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27173</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Affidamento diretto all'O.E. Rilux Srl, con sede a Palermo, (PA) in Via Principe di Paternò, nn. 75-77-79, P.IVA 06166880820, per la "Fornitura ed installazione di lampade a led complete di ogni onere su pali esistenti per lilluminazione del campo d...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27172</link>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27172</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>PUBBLICAZIONE GRADUATORIE DEFINITIVE FORESTALI ANNO 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27171</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27145</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27145</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE PER RICOVERO DEL SIG. G.G. PRESSO STRUTTURA RESIDENZIALE DOMUS CASTELLO. PERIODO: GENNAIO E FEBBRAIO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27144</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27144</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE HUMANITAS PER RICOVERO DEL SIG. A.A. PRESSO COMUNITA'  ALLOGGIO S.ANNA. PERIODO: GENNAIO e FEBBRAIO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27143</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27143</guid>
     </item>
   </channel>
 </rss>
