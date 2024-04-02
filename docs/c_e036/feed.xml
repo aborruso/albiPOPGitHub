@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Laera Lucia Anna</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30067</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30067</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Ginosa - dal 28.03.2024 al 04.04.2024 - Ditta Petito Costruzioni Srl - Salice</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30066</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30066</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Convocazione Commissione Studio e Monitoraggio impianti di smaltimento rifiuti.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30065</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30007</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30007</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura in favore dell'Università di Bari.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30006</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30006</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>LIQUIDAZIONE CONTRIBUTO ABBATTIMENTO BARRIERE ARCHITETTONICHE EX LEGGE 13/89 E SS.MM.II.  ANNO 2023/2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30005</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30005</guid>
     </item>
   </channel>
 </rss>
