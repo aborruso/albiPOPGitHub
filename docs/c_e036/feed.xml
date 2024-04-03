@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>VERBALE ESTRAZIONE CILA marzo 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30071</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30071</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>VERBALE ESTRAZIONE SCA marzo 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30070</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30070</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Misure a tutela della circolazione stradale in Ginosa dal 5 aprile al 12 maggio 2024 per LAVORI DI COMPLETAMENTO DI TRONCHI IDRICI E FOGNANTI - Marina di Ginosa - Ditta F.lli Andresini Srl</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30069</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30069</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO Pratica n. 3670/C - P. di C. n. 007/2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30068</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30011</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30011</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture alla Società Edison Energia SpA per la fornitura di energia elettrica a diversi immobili e siti comunali mese di Gennaio 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30010</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30010</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Incarico di supporto al RUP per pratiche Usi Civici, canoni patrimoniali e autorizzazioni manomissioni suolo pubblico e opere pubbliche dirette dal VII Settore - Liquidazione saldo - CIG: Z97390D958</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30009</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30009</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture alla Società Hera Comm SpA per la fornitura di gas naturale a diversi siti comunali nel mese di Gennaio 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30008</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30008</guid>
     </item>
   </channel>
 </rss>
