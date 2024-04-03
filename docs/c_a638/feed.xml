@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito atto art. 143 c.p.c. a carico di Maiorana Francesco Antonino Santi Mario</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14854</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14854</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>AVVISO DEPOSITO ATTO C/O LA CASA COMUNALE DESTINATARIO CONTI CARMELO</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14853</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14853</guid>
+    </item>
+    <item>
       <title>Determinazioni Dirigenziali</title>
       <description>Teatro Mandanici. Concessione in uso per giorno 18 aprile 2024. Evento "Il Pifferaio magico"</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14852</link>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14817</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14817</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>LIQUIDAZIONE PER I SERVIZI DI MANUTENZIONI PER SOSTIITUZIONE, RIPARAZIONE PNEUMATICI E INTERVENTI DI MECCANICA LEGGERA AUTOMEZZI DELL' AUTOPARCO COMUNALE. CIG. Z2F3D59F0B</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14816</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14816</guid>
-    </item>
-    <item>
-      <title>Determinazioni Dirigenziali</title>
-      <description>OGGETTO: Liquidazione somme a titolo di contributo per l'organizzazione della  Manifestazione "PIPARELLE SOTTO L'ALBERO" - Giardini OASI 23/12/2023</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14815</link>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14815</guid>
     </item>
   </channel>
 </rss>
