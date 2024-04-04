@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ISTITUZIONE STALLI DI SOSTA PERSONALIZZATI PER PERSONE CON RIDOTTA O IMPEDITA CAPACITA' MOTORIA IN DIVERSE VIE E STRADE DELLABITATO DI GINOSA E MARINA DI GINOSA.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30072</link>
+      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30072</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>VERBALE ESTRAZIONE CILA marzo 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30071</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30012</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30012</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture del 29/02/2024 (canone fisso periodo Gennaio  Dicembre 2024) in favore della ditta BEGHELLI SERVIZI SRL di Valsamoggia (BO) e Cessione Crediti del 27/12/2016 in favore della società SPV PROJECT 1508 SRL di Milano.  Realizzazione</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30011</link>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30011</guid>
     </item>
   </channel>
 </rss>
