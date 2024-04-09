@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
       <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito elenco dei verbali di contravvenzione a carico di IORDAN IONUT ANGHEL ai sensi dell'art 143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14909</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14909</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
+      <description>Avviso deposito elenco dei verbali di contravvenzione a carico di Maugeri Isidoro Antonino ai sensi dell'art.143</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14908</link>
+      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14908</guid>
+    </item>
+    <item>
+      <title>Avviso Deposito Atti</title>
       <description>Avviso deposito n°1 atto in busta chiusa a carico di Anastasi Cosimo ai sensi dell'art.60 D.P.R.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14906</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14880</link>
       <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14880</guid>
-    </item>
-    <item>
-      <title>Atti Di Interesse Generale</title>
-      <description>Bonus Caregiver-Contributo economico una tantum per il sostegno del ruolo di cura e di assistenza dei caregiver familiari di soggetti affetti da disabilità grave e gravissima_F.N.A. STATO-Fondo anno 2021</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14879</link>
-      <pubDate>Fri, 05 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14879</guid>
-    </item>
-    <item>
-      <title>Avviso Deposito Atti</title>
-      <description>Verbale sorteggio pratiche Urbix del 04/04/2024</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14878</link>
-      <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14878</guid>
     </item>
   </channel>
 </rss>
