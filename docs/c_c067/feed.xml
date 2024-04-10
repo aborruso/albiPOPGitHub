@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA DITTA CS SRL - CANONE BIMESTRALE FEBBRAIO/MARZO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27255</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27255</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura n. 1693 del 30/03/2024 della Ditta Conca d'uovo snc dei F.lli Chinnici Società agricola relativa alla fornitura di uova occorrenti per il servizio di refezione scolastica - mese di marz...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27254</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27227</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27227</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. xa/15510 del 21/03/2024 della Ditta Migel s.r.l. relativa alla fornitura di pesce surgelato utilizzato per la refezione scolastica - mese di marz...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27226</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27226</guid>
     </item>
   </channel>
 </rss>
