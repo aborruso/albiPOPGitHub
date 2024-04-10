@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Barcellona Pozzo di Gotto</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083005</category>
     <item>
+      <title>Atti Di Interesse Generale</title>
+      <description>LISTA LEVA CL.2007</description>
+      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14942</link>
+      <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14942</guid>
+    </item>
+    <item>
       <title>Atti Dell'organo Straordinario Di Liquidazione</title>
       <description>Atto di indirizzo per la gestione separata dei fondi di gestione vincolata ed intesa.</description>
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14941</link>
@@ -204,13 +211,6 @@
       <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14915</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14915</guid>
-    </item>
-    <item>
-      <title>Delibere Di Giunta Municipale</title>
-      <description>Collocamento a riposo, a far data dal XX/XX/2024, per avvenuto raggiungimento dei limiti di età previsti dalla vigente normativa della dipendente C. A.</description>
-      <link>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14914</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://web11.immediaspa.com/barcellona/mc/mc_p_dettaglio.php?id_pubbl=14914</guid>
     </item>
   </channel>
 </rss>
