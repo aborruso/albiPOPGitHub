@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>NOMINA RESPONSABILE DEL PROCEDIMENTO, DI ISTRUTTORIA E TRATTAMENTO DATI NELLA GESTIONE DEI PROCEDIMENTI SANZIONATOR...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27262</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27262</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA N. 63/2024 DITTA FUTURGRAFIC...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27261</link>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27261</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>Presa d'atto dei contributi regionali ai sensi della legge regionale 31 gennaio 2024, n° 3, art.4 comma 2 - Contributi straordinari  per interventi e programmi con finalità sociali e mandato al Sindaco per accettazione dello stess...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27260</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27234</link>
       <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27234</guid>
-    </item>
-    <item>
-      <title>Elenco</title>
-      <description>ELENCO DIRR N° 11...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27233</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27233</guid>
-    </item>
-    <item>
-      <title>Revisione Semestrale</title>
-      <description>Modello 9 deposito elenchi semestrale elench...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27231</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27231</guid>
     </item>
   </channel>
 </rss>
