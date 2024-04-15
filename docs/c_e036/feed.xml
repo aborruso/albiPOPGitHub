@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Comune di  Ginosa  -aggiornamento albo dei Giudici Popolari - adempimenti ex art 19 Legge 287/51</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30176</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30176</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo in favore della Confraternita di S. Giuseppe per l'organizzazione e la realizzazione della "Festività religiosa in onore di S. Giuseppe e della Madonna Dattoli a Ginosa"- Anno 2024.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30174</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30115</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30115</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Noleggio bagni chimici per area mercatale Ginosa - LIQUIDAZIONE PERIODO DAL 01/09/2023 AL 31/12/2023. DITTA SEBACH SPA UNIPERSONALE. CIG: Z91390D2D3</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30114</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30114</guid>
     </item>
   </channel>
 </rss>
