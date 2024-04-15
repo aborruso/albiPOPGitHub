@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Concessione contributo in favore della Confraternita di S. Giuseppe per l'organizzazione e la realizzazione della "Festività religiosa in onore di S. Giuseppe e della Madonna Dattoli a Ginosa"- Anno 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30174</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30174</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Nomina referente dei pagamenti per il sistema PagoPA.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30173</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30173</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Approvazione perizia redatta dall'U.T.C. in forma di progetto definitivo/esecutivo denominato: "MANUTENZIONE ORDINARIA E STRAORDINARIA DEL PATRIMONIO VERDE COMUNALE  Periodo 2024" - CUP: D37D24000010004</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30172</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30172</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Assemblea ATC Taranto del 29 aprile 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30171</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30114</link>
       <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30114</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione ASECO  per conferimento rifiuti biodegradabili marzo 2024. CIG: B06A8D7281</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30113</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30113</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione DECOM Srl per conferimento rifiuti vari marzo 2024 - CIG: B0BCAE8962</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30112</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30112</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione compensi lavoro straordinario diversi dipendenti - mese di marzo 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30111</link>
-      <pubDate>Mon, 08 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30111</guid>
     </item>
   </channel>
 </rss>
