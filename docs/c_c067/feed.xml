@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N 7/2024 RILASCIATO IN DATA 12/04/2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27300</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27300</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA SINDACALE N. 43 DEL 16-04-2024 REVOCA ORDINANZA N.39 DEL 10/04/2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27299</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27299</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE A FAVORE DELLA CSEA PER PAGAMENTO INTERESSI DI MORA MATURATI DAL 31/12/2022 AL 17/03/2023 E DAL 31/10/2023 AL 10/11/2023 SU MANCATO RIVERSAMENTO NEI TERMINI DELLE COMPONENTI TARIFFARIE PEREQUATIVE UI1, UI2, UI3 E UI4 DEFINITE DALL'ARER...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27298</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27298</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Impegno in favore del "CONSORZIO CULTURA E TRADIZIONI DEI CASTELLI DI SICILIA" quale quota anno 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27297</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27273</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27273</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 2024900894 del 28/03/2024 per l'affidamento del servizio di supporto alla riscossione coattiva alla Ditta Municipi...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27272</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27272</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>RUOLI C.D.S. ANNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27271</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27271</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>ANNULLAMENTO DETERMINA N. 470/2024 RIACCERTAMENTO RESIDUI ATTIVI E PASSIVI 2023 PER ERRATA CORRIGE ALLEGAT...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27270</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27270</guid>
     </item>
   </channel>
 </rss>
