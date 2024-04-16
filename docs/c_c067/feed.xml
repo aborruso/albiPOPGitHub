@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. PA_198  del 31/03/2024  della Società Ambiente e Tecnologia srl, con sede a Enna in Via Nazionale n.31- P.IVA:01220960866 -presso la discarica sita  in C.da Cozzo Vuturo,  relativa al  mese  di MARZO 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27301</link>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27301</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N 7/2024 RILASCIATO IN DATA 12/04/2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27300</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27274</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27274</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE A FAVORE DI SVE VENDITE ENERGIE SRL RELATIVA ALLA FORNITURA DI GAS METANO NELLE SCUOLE E NEGLI IMMOBILI COMUNALI- FEBBRAIO  2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27273</link>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27273</guid>
     </item>
   </channel>
 </rss>
