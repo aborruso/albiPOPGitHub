@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>CAMPAGNA A.I.B. 2024 PUBBLICAZIONE RICHIESTE DISTRETTO FORESTALE N. ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27306</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27306</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Liquidazione saldo competenze in favore dell'Avv. Loretta Colantoni legale dell'Ente avverso il ricorso innanzi alla Corte di Giustizia Tributaria di primo grado di Palermo proposto dalla Società OMISSIS c/ Comune di Castelbuon...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27305</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27279</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27279</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 3/PA del 05/04/2024 della Ditta Emmeci s.r.l. relativa alla fornitura  di diversi generi occorrenti per il servizio di refezione scolastica  mese di marz...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27278</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27278</guid>
     </item>
   </channel>
 </rss>
