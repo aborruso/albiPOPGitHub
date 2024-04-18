@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA N. 108/24 PROT. N. 7826/24 DITTA MEDIACO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27321</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27321</guid>
+    </item>
+    <item>
+      <title>Convocazione Consiglio Comunale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE IN SESSIONE ORDINARIA - PRIMA, SEDUTA PUBBLICA PER IL 24/04/2024 ALLE ORE 18:30...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27320</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27320</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura n. FPA 1/24 dell'11/04/2024 relativa alla fornitura di un misuratore di portata ad ultrasuoni completa di sonda di livello da istallare presso l'impianto di depurazione generale dei reflui civili ubicato in C.da "Santa Lucia" del Comune di Castelbuono (PA)...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27319</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27294</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27294</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione II° bimestre per affitto dei locali adibiti a sede della Sezione Circoscrizionale U.P.l.M.O.-SCICA  Anno 2024....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27293</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27293</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di "Manutenzione straordinaria degli immobili comunali  Anno 2023/24"-  Liquidazione 1° S.A....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27292</link>
-      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27292</guid>
     </item>
   </channel>
 </rss>
