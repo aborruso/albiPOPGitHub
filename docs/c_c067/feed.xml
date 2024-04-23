@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Affidamento fornitura di materiale vario di pulizia occorrente all'Istituto Comprensivo F. Minà Palumbo - Ditta CDM s.r.l. - Impegno di spes...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27344</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27344</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Riaccertamento ordinario residu...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27343</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27343</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 50: ACCERTAMENTO DI AVVENUTO DECESSO  E SEPPELLIMENTO DI ANIMALI EVITANDO SPARGIMENTO DI MATERIALE ORGANICO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27342</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27317</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27317</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore della Libreria Edicolè per la fornitura  di libri destinati alla Biblioteca comunale, giusto D.M. n. 8 del 14 gennaio 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27316</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27316</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE FATTURA DITTA VINCENZO MATASSA - RINNOVO N.3 FIRME DIGITAL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27315</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27315</guid>
     </item>
   </channel>
 </rss>
