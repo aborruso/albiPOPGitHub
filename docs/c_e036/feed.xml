@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Variazione al Bilancio di Previsione Finanziario 2024/2026 ai sensi dell'art. 175, comma 4, D.lgs. n. 267/2000</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30280</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30280</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione dei Solenni Festeggiamenti in onore di San Giuseppe e Santa Maria D'Attoli in Ginosa dal 26 al 29 aprile 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30278</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30220</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30220</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura in favore della società Mec Solution srl. Concessione gestione Palazzetto dello Sport. Mese di marzo 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30219</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30219</guid>
     </item>
   </channel>
 </rss>
