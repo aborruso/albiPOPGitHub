@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Elezioni Del Parlamento Europeo</title>
+      <description>CONVOCAZIONE DEI COMIZI ELETTORALI PARLAMENTO EUROPEO 8 E 9 GIUGNO 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30329</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30329</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento diretto e approvazione schema di convenzione per anni due del servizio di pronto soccorso H24 animali randagi (cani e gatti), non di proprietà, rinvenuti feriti sul territorio comunale alla Clinica veterinaria San Raphael srl. Liquidazione Fattura n. FPA 16/24 del 04/04/2024-prestazioni veterinarie dal 23/02/2024 al 31/03/2024.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30328</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30269</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30269</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea A -  II Finestra - Codice Pratica TS41NB5K (contributi inps)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30268</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30268</guid>
     </item>
   </channel>
 </rss>
