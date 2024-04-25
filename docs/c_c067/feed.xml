@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Impegno di spesa per dare seguito all'accordo bonario tra il Comune di Castelbuono e la sig.ra OMISSIS a seguito del sinistro del 25.11.202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27377</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27377</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>IMPEGNO DI SPESA ALLA DOTT.SSA STEFANIA CORDONE, RESPONSABILE SCIENTIFICA DIPARTIMENTO EDUCAZIONE MUSEO CIVICO CASTELBUONO, PER IDEAZIONE ED ELABORAZIONE DEL PROGETTO EDUCATIVO "T-CUNTU"...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27375</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27348</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27348</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Liquidazione somme in favore del sig. OMISSIS e del suo legale a seguito di accordo transattivo stipulato con il Comun...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27347</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27347</guid>
     </item>
   </channel>
 </rss>
