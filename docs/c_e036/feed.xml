@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Del. G. R. n. 353/2022 di approvazione del V Piano regionale delle politiche sociali 2022-2024 - Del. C. I. n. 26/2023 e n. 3/2024 di adozione del Piano sociale di zona 2022 - 2024 dell'ATS di GINOSA. Indizione della Conferenza dei servizi per l'approvazione del Piano sociale di zona.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30344</link>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30344</guid>
+    </item>
+    <item>
+      <title>29/04/2024</title>
+      <description>Convocazione Consiglio Comunale 30 aprile 2024 - INTEGRAZIONE ODG</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30343</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30343</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento del servizio di pulizia straordinaria dei locali della nuova Community Library.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30342</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30283</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30283</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura n. 0002153749 del 13/12/2023 alla società Maggioli S.p.a. (già Soluzione s.r.l.) per l'abbonamento triennale a "Entionline" Servizi Demografici e Appalti - Seconda annualità. CIG ZA638F96E4</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30282</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30282</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione alle Poste per canone Servizio BRG-Report 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30281</link>
-      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30281</guid>
     </item>
   </channel>
 </rss>
