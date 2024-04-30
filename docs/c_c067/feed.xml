@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>Approvazione integrazione al Piano delle alienazioni e valorizzazioni immobili comunali anno 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27420</link>
+      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27420</guid>
+    </item>
+    <item>
       <title>Elenco</title>
       <description>Elenco depennat...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27419</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27392</link>
       <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27392</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione canone Assistenza/Manutenzione sistema rilevazione e gestione presenze del personale GES.PER . ANNO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27391</link>
-      <pubDate>Mon, 29 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27391</guid>
     </item>
   </channel>
 </rss>
