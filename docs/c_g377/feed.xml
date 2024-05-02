@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/05/2024 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in via C. Battisti, per lavori, con decorrenza dal 06.05.24.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8078</link>
+      <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8078</guid>
+    </item>
+    <item>
       <title>02/05/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fattura n. FATT:PA  01, del 22.03.24 - Dott.ssa Niosi Giusy</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8077</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8043</link>
       <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8043</guid>
-    </item>
-    <item>
-      <title>26/04/2024 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito per lavori Via Bellini, lato monte: 26 aprile 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8042</link>
-      <pubDate>Fri, 26 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8042</guid>
     </item>
   </channel>
 </rss>
