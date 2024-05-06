@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO Volpe Rosario</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30390</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30390</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione della 4a EDIZIONE DELLA CONFERENZA INTERNAZIONALE MDA  MEDITERRANEAN DESIGN ASSOCIATION - Ginosa dal 08 al 11 maggio 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30389</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30324</link>
       <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30324</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Approvazione avviso di manifestazione di interesse per idonei in graduatorie di concorsi pubblici, per l'assunzione a tempo pieno e determinato di n. 4 unità di personale con profilo professionale di Agente di Polizia Locale</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30323</link>
-      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30323</guid>
     </item>
   </channel>
 </rss>
