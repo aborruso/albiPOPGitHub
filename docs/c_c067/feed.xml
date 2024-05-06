@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione fattura alla E.P. spa per fornitura buoni pasto elettronici per il servizio sostitutivo di mensa...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27449</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27449</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione compenso per incarico esperto del Sindaco relativamente agli adempimenti connessi al PNRR. Periodo dal 01/04/2024 l 30/04/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27448</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27448</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura n. 92/PA del 12/04/2024 a favore della Ditta MIT Servizi Srl...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27447</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27421</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27421</guid>
-    </item>
-    <item>
-      <title>Delibera Di Consiglio</title>
-      <description>Approvazione integrazione al Piano delle alienazioni e valorizzazioni immobili comunali anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27420</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27420</guid>
-    </item>
-    <item>
-      <title>Elenco</title>
-      <description>Elenco depennat...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27419</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27419</guid>
     </item>
   </channel>
 </rss>
