@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione fattura n°7_PA del 02/05/2024 relativa al servizio di igiene urbana per la gestione "in house" con la società Castelbuono Ambiente s.r.l. (IV° Acconto 2024)...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27440</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27440</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>FORNITURA N. 2 PALMAR...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27439</link>
+      <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27439</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>LIQUIDAZIONE COOP. SOCIALE SIKANIA PER RICOVERO DEL SIG R.M. PRESSO COMUNITA' ALLOGGIO PER ANZIANI "ANNI D'ARGENTO" DI CAMPOFELICE DI ROCCELLA. PERIODO: GEN-FEB-MAR 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27438</link>
       <pubDate>Mon, 06 May 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27412</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27412</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>FORNITURA PLASTIFICATRICE E POUCHE...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27411</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27411</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 56: AFFIDAMENTO DEFINITIVO DI UN CANE SESSO FEMMINA TAGLIA MEDIA MANTELLO TRICOLOR DI NOME GEMMA ALLA SIG.RA  CAPITANO ANNA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27409</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27409</guid>
     </item>
   </channel>
 </rss>
