@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE DI PIERRO ROCCO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30420</link>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30420</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>LIQUIDAZIONE DITTA "JONIO MARKET SRL" PER RIMBORSO BUONI SPESA COVID 19</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30419</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30357</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30357</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Partecipazione Avviso Pubblico per il sostegno ad azioni inerenti il programma di educazione alimentare di cui alla delibera di Giunta Regionale n. 282 del 7/3/2022  "Approvazione Programma di Promozione dei Prodotti Agroalimentari pugliesi di qualità ed educazione alimentare Annualità 2022/2023". Impegno di Spesa per prestazione, servizi e forniture.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30356</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30356</guid>
     </item>
   </channel>
 </rss>
