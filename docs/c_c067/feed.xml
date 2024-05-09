@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco Di Polizia Giudiziaria</title>
+      <description>ABUSIVISMO EDILIZIO - MESE DI APRILE - RISCONTRO NEGATIV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27495</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27495</guid>
+    </item>
+    <item>
       <title>Consiglio Comunale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE IN SESSIONE ORDINARIA- PRIMA, SEDUTA PUBBLICA PER IL 17/05/2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27494</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27467</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27467</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fatture: n. 83/PA del 25/03/2024 e n. 120/PA del 29/04/2024 per la fornitura di ipoclorito di sodio 16,5% per clorare l'acqua potabile e la disinfezione delle acque di scarico del depuratore comunale...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27466</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27466</guid>
     </item>
   </channel>
 </rss>
