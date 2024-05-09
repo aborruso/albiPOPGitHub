@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Consiglio Comunale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE IN SESSIONE ORDINARIA- PRIMA, SEDUTA PUBBLICA PER IL 17/05/2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27494</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27494</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA N.2016901323 - DITTA MUNICIPIA SP...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27493</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27493</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>ACCERTAMENTO DI ENTRATA PER SOMME A TITOLO DI CANONE UNICO PATRIMONIALE- QUOTA PUBBLICITA' - A SEGUITO DELL'EMISSIONE DI PREAVVISI ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27492</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27492</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>RIAPERTURA AVVISO PER SELEZIONE PROFILI DA PARTE DI ADECCO SPA...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27491</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27466</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27466</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n°133 del 24/04/2024 -  per fornitura materiale vario da utilizzare per la manutenzione comunale...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27465</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27465</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>AFFIDAMENTO INCARICO ALL'ASSOCIAZIONE " IL CINGHIALE E LA BALENA" (APS) RAPPRESENTATA LEGALMENTE DA LUIGI CIOTTA  PER LO SVOLGIMENTO DELL'ATTIVITA' INERENTE AI PROGETTI " ORTO DELL'ARTE" E "LE PASSEGGIATE DELL'INVISIBILE"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27464</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27464</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Aggiornamento del catasto dei soprassuoli percorsi dal fuoco con gli incendi dell'anno 2023. Legge 21.11.2000 n. 353 come recepita in Sicilia con L.R. 6.4.1996 n. 16, modificata ed integrata dalla L.R. 14.4.2006 n. 14...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27463</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27463</guid>
     </item>
   </channel>
 </rss>
