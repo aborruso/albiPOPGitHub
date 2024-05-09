@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>CANCELLAZIONE DALL'ANAGRAFE PER IRREPERIBILITA' CLEMENTE GIOVANNI</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30422</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30422</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Accessibilità dei servizi offerti da strutture ricettive, stabilimenti termali e balneari, e impianti sportivi - Requisiti e check-list</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30421</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30421</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE DI PIERRO ROCCO</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30420</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30359</link>
       <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30359</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura in favore della società Ispar srl.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30358</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30358</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Approvazione contabilità SAL n. 1 e liquidazione Certificato di Pagamento n. 1 in favore della ditta ICOSER SRL - Appalto integrato, denominato: PNNR, Missione 4, Componente 1, Investimento 1.1"Piano per asili nido e scuole dell'infanzia e servizi di educazione e cura per la prima infanzia" - NUOVO EDIFICIO DA DESTINARE A SCUOLA DELL'INFANZIA in Via Pordenone a Marina di Ginosa, CUP: D35E22000050006 - CIG: 9748215181.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30357</link>
-      <pubDate>Tue, 30 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30357</guid>
     </item>
   </channel>
 </rss>
