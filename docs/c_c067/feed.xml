@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Ordinanza</title>
+      <description>ORD. N. 64: DAL GIORNO 13/05/2024 AL 31/05/2024 DISCIPLINA VIABILISTICA DELL'A.P.U...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27503</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27503</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>.ORD. N. 63: DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN PIAZZA CASTELLO ECCETTO I VEICOLI A SEGUITO DELLA MANIFESTAZIONE  NEI GIORNI 13 E 24 MAGGIO 2024  FINO AL TERMINE DELLA MANIFESTAZIONE...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27502</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27473</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27473</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>AFFIDAMENTO DIRETTO ALLA MADONITA SOCIETA' COOPERATIVA SOCIALE DI CASTELBUONO PER IL SERVIZIO DI PULIZIA  AMBIENTI CASTELLO DEI VENTIMIGLIA MESE DI APRILE 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27472</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27472</guid>
     </item>
   </channel>
 </rss>
