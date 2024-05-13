@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>.ORD. N. 63: DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN PIAZZA CASTELLO ECCETTO I VEICOLI A SEGUITO DELLA MANIFESTAZIONE  NEI GIORNI 13 E 24 MAGGIO 2024  FINO AL TERMINE DELLA MANIFESTAZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27502</link>
+      <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27502</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Concessione del beneficio previsto dalla Legge 104/92 -art. 33 comma 3° - dipendente Omissis... a tempo indeterminato e part-time assegnata al VI Settor...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27501</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27472</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27472</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>LIQUIDAZIONE AL PRESTATORE D'OPERA VALENTINA MINUTELLA PER L'ATTIVITA' DI DOCUMENTAZIONE FOTOGRAFICA PER IL PROGETTO "PAESAGGI,MEMORIE E ASTRAZIONI. LA SICILIA DI MELO MINNELLA "STRATEGIA FOTOGRAFIA" 2022...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27471</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27471</guid>
     </item>
   </channel>
 </rss>
