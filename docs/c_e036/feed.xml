@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Elezioni Del Parlamento Europeo</title>
+      <description>ELEZIONI DI SABATO 8 E DOMENICA 9 GIUNGO 2024 - CONVOCAZIONE DELLA COMMISSIONE ELETTORALE COMUNALE PER LA NOMINA DEGLI SCRUTATORI</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30476</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30476</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3779/C - P. di C. n. 018/2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30475</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30417</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30417</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione in favore della Soc. Coop. Soc "ALIMA" Determinazione Dirigenziale Crono. Gen.Le n. 561/2022  Assistenza Educativa Domiciliare  ADE (art. 87 bis del R.R. 4/2007).</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30416</link>
-      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30416</guid>
     </item>
   </channel>
 </rss>
