@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 65: DIVIETO DI SOSTA CON RIMOZIONE FORZATA NEL LARGO ANTISTANTE LA CHIESA DI SANT'AGOSTINO PER I FESTEGGIAMENTI IN ONORE A SANTA RITA DA CASCIA  NEI GIORNI 18-20-21 E 22 MAGGIO 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27512</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27512</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>ELEZIONI DEI MEMBRI DEL PARLAMENTO EUROPEO SPETTANTI ALL'ITALIA DELL'8 e 9 GIUGNO 2024  Delimitazione, ripartizione ed assegnazione spazi da destinare alla propaganda elettorale diretta...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27511</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27483</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27483</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE A FAVORE DI SVE VENDITA ENERGIE SRL PER LA FORNITURA DI GAS METANO NELLE SCUOLE E NEGLI IMMOBILI COMUNALI- MESE DI MARZO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27481</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27481</guid>
     </item>
   </channel>
 </rss>
