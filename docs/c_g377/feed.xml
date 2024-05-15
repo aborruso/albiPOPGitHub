@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/05/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 0002100017 del 30-04-2024 CIG B151D1B0CA beneficiario Siciliam it srl</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8188</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8188</guid>
+    </item>
+    <item>
       <title>15/05/2024 | Ordinanze Sindacali</title>
       <description>DIVIETO DI BALNEAZIONE NEL TRATTO ADIACENTE IL CUNETTONE ACQUAFICO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8187</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8153</link>
       <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8153</guid>
-    </item>
-    <item>
-      <title>10/05/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 1 "Spazio Lavoro" I^ Annualità - AOD N. 1 - PdZ 2019/2020 - Liquidazione mese di aprile 2024 ai soggetti del Comune di Patti.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8152</link>
-      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8152</guid>
     </item>
   </channel>
 </rss>
