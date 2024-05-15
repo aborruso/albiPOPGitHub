@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>Approvazione progetto "Castelbuono è una Favola" che si svolgerà a Castelbuono dal 4 al 7 luglio 2024 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27521</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27521</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Liquidazione Ditta Immedia S.p.A. per servizio assistenza software anno 2024 - seconda rat...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27520</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27492</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27492</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Approvazione del Progetto esecutivo, ai sensi del comma 3 dell'art. 120 del D. Lgs 36/2023, denominato "Castelbuono Piazze sicure". - Progetto di videosorveglianza urbana  Patti per la sicurezza urbana  Comitato provinciale per l'ordine e la sicurezza pubblica. D.M. 21 Ottobre 2022  Gazzetta ufficiale n.281 del 01 dicembre 2022...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27490</link>
-      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27490</guid>
     </item>
   </channel>
 </rss>
