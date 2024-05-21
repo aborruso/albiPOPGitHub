@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Liquidazione somme in favore della sig.ra OMISSIS a seguito all'accordo bonario stipulato con il Comune di Castelbuono relativamente al sinistro del 25.11.202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27577</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27577</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>RIMBORSO SOMME AL SIG. DI GARBO SALVATORE ERRONEAMENTE VERSATE A TITOLO DI IMU AL COMUNE DI CASTELBUON...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27576</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27576</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>- ATTO DI INTERPELLO RISERVATO AI DIPENDENTI DELLA PUBBLICA AMMINISTRAZIONE, ai sensi dell'art. 114 del D.Lgs. 36/2023 incarico di: COORDINATORE PER LA SICUREZZA IN FASE DI ESECUZIONE (CSE) RELATIVO AGLI INTERVENTI DI REALIZZAZIONE DI UN SISTEMA DI VIDEOSORVEGLIANZA TERRITORIALE NEL COMUNE DI POLIZZI GENEROSA..........</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27575</link>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27575</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 71: GIORNO 23/05/2024  DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN P.ZZA S. FRANCESCO PER ( LAVORI RIFACIMENTO SEGNALETICA)...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27574</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27549</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27549</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE AQUILONE SOC. COOP. SOCIALE PER RICOVERO P.E. PERIODO: APRILE 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27548</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27548</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE GERIATRICA SOC. COOP. SOCIALE PER RICOVERO DELLA SIG.RA M.M.G PERIODO: APRILE 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27547</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27547</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE COOP. SOCIALE SIKANIA PER RICOVERO DEL SIG. R.M. PRESSO COMUNITA' ALLOGGIO PER ANZIANI "ANNI D'ARGENTO" DI CAMPOFELICE DI ROCCELLA. PERIODO. APRILE 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27546</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27546</guid>
     </item>
   </channel>
 </rss>
