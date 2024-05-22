@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 72: GIORNO 23 MAGGIO 2024 COMMEMORAZIONE GIUDICE GIOVANNI FALCONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27585</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27585</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE  N. 11/2024 RILASCIATO IN DATA 20 MAGGIO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27584</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27557</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27557</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Concessione assegno di maternità ex art. 66 L.N.448/9...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27556</link>
-      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27556</guid>
     </item>
   </channel>
 </rss>
