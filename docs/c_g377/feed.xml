@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/05/2024 | Atti Elettorali</title>
+      <description>Elenco cittadini italiani residentI all'estero in Stati appartenenti all'U.E. e cittadini italiani temporaneamente residenti all'estero che chiedono di votare all'estero per ELEZIONI DEI MEMBRI DEL PARLAMENTO EUROPEO SPETTANTI ALL'ITALIA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8245</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8245</guid>
+    </item>
+    <item>
+      <title>23/05/2024 | Atti Elettorali</title>
+      <description>Elenco cittadini italiani residenti all'estero che devono venire in Italia per poter esprimere il voto per ELEZIONI DEI MEMBRI DEL PARLAMENTO EUROPEO SPETTANTI ALL'ITALIA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8244</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8244</guid>
+    </item>
+    <item>
       <title>22/05/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N. 3 "Emergenza e Urgenza" I^ e II^ Annualità - PdZ 2019/2020 - Liquidazione a N. 02 Beneficiari dei Comuni dell'AOD N. 1.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8243</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8211</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8211</guid>
-    </item>
-    <item>
-      <title>20/05/2024 | Ordinanze Sindacali</title>
-      <description>Requisizione loculo Cimitero di Patti Centro</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8210</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8210</guid>
-    </item>
-    <item>
-      <title>20/05/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>AVVISO DEPOSITO CONTO CONSUNTIVO ESERCIZIO FINANZIARIO 2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8194</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8194</guid>
     </item>
   </channel>
 </rss>
