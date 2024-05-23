@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione contributo Associazione Delfini - Dist. Castelbuon...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27598</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27598</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>CONUNICAZIONE CHIUSURA UFFICIO PER DISINFESTAZION...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27597</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27570</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27570</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Attivazione servizio di accompagnamento assistito, rivolto alle attività commerciali, ai disabili, agli anziani e ai turisti. Approvazione Protocollo d'Intesa...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27569</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27569</guid>
     </item>
   </channel>
 </rss>
