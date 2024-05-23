@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO DI SELEZIONE PUBBLICA RILEVATORE PER IL CENSIMENTO PERMANENTE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30552</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30552</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>CANCELLAZIONE DALL'ANAGRAFE PER IRREPERIBILITA' PAPA GEORGE EDUARD</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30550</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30487</link>
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30487</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Attività progettuali utili alla realizzazione degli INTERVENTI DI "PREVISIONE E CONTRASTO DEL RISCHIO INCENDI BOSCHIVI E DI INTERFACCIA URBANO - RURALE" - POC PUGLIA 2014-2020  Azione 5.2 (sub-Azione 5.2)  Affidamento definitivo incarico all'Ing. Marino lAbbruzzi  CIG B11362C82F  CUP D35E23000240002</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30486</link>
-      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30486</guid>
     </item>
   </channel>
 </rss>
