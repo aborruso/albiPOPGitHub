@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/05/2024 | Determinazioni Dirigenziali</title>
+      <description>CONCESSIONE PERMESSI LAVORATIVI RETRIBUITI AI SENSI DELL'ART. 33, COMMA  3, DELLA LEGGE 104/92 AL DIPENDENTE MILONE VALERIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8256</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8256</guid>
+    </item>
+    <item>
       <title>24/05/2024 | Atti Di Interesse Generale</title>
-      <description>Consolidamento area urbana Case Nuove Russo, per la mitigazione del rischio geomorfologico  dissesto Cuturi  Case Nuove Russo  Comunicazione di avvio del procedimento finalizzato all'approvazione del progetto esecutivo comportante la pubblica utilità.</description>
+      <description>Consolidamento Area Urbana Case Nuove Russo, per la mitigazione del rischio geomorfologico dissesto Cuturi/Case Nuove Russo - Comunicazione avvio procedimento finalizzato all'approvazione del progetto esecutivo comportante la pubblica utilità.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8255</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8255</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8222</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8222</guid>
-    </item>
-    <item>
-      <title>21/05/2024 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE MATRIMONIO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8221</link>
-      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8221</guid>
     </item>
   </channel>
 </rss>
