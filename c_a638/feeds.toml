@@ -52,11 +52,11 @@ link = "a"
 # date = "time"
 
 # Alternatively for more control `date` can be specified as a table:
-# [feed.config.date]
-# selector = "time"
+[feed.config.date]
+selector = "td:nth-child(5) div:nth-child(2)"
 # # Optional type of value being parsed.
 # # Defaults to DateTime, can also be Date if you're parsing a value without a time.
-# type = "Date"
+type = "Date"
 # # format of the date to parse. See the following for the syntax
 # # https://time-rs.github.io/book/api/format-description.html
-# format = "[day padding:none]/[month padding:none]/[year]" # will parse 1/2/1934 style dates
+format = "[day padding:none]/[month padding:none]/[year]" # will parse 1/2/1934 style dates
