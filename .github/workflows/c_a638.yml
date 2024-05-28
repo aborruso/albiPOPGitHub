@@ -20,9 +20,11 @@ jobs:
         mkdir -p ~/bin
         cp bin/mlr ~/bin
         cp bin/scrape ~/bin
+        cp bin/rsspls ~/bin
         cd ~/bin
         chmod +x mlr
         chmod +x scrape
+        chmod +x rsspls
         sudo apt-get install xmlstarlet
         sudo pip install yq
     - name: scarica i dati e crea feed
