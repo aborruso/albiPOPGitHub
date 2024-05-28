@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 12/2024 RILASCIATO IN DATA 24/05/2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27640</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27640</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE A SINERGIE GROUP SRL PER ALLESTIMENTO MOSTRA PRESSO IL MUSEO CIVICO DI CASTELBUONO PER IL PROGETTO "STRANIERI OVUNQUE" DI CLAIRE FONTAINE NELL'AMBITO DEL PAC 2022-2023...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27639</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27613</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27613</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>RIVERSAMENTO SOMME AL COMUNE DI ISNELLO - IMP. N. 28...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27612</link>
-      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27612</guid>
     </item>
   </channel>
 </rss>
