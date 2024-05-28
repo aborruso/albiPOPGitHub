@@ -9,4 +9,9 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
 # rsspls -c "$folder"/feeds.toml
 
-google-chrome-stable --headless --disable-gpu --print-to-stdout --virtual-time-budget=10000 --dump-dom "https://siderno.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1074/770" >"${folder}"/../docs/c_i725/index.html
+#google-chrome-stable --headless --disable-gpu --print-to-stdout --virtual-time-budget=10000 --dump-dom "https://siderno.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1074/770" >"${folder}"/../docs/c_i725/index.html
+
+#curl -kL "https://siderno.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1074/770" >"${folder}"/../docs/c_i725/index.html
+
+
+curl --socks5-hostname 127.0.0.1:9050 -kL "https://siderno.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/1074/770" >"${folder}"/../docs/c_i725/index.html
