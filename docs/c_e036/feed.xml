@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3434/C - P. di C. n. 023/2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30671</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30671</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Istanza per il rilascio del Provvedimento di VIA PNIEC-PNRR nell'ambito del provvedimento unico in materia ambientale</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30670</link>
+      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30670</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Bando "Premio Città di Leonforte" - 41a Edizione 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30669</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30610</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30610</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno e liquidazioni spese legali.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30609</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30609</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fattura alla Società Advanced Systems per il servizio in Hosting dei gestionali per i tributi IMU, Tasi e Tari per l'anno 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30608</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30608</guid>
     </item>
   </channel>
 </rss>
