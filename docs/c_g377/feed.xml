@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/05/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fattura N. FATTPA 2/24 - d.ssa Niosi G - Liquidazione.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8315</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8315</guid>
+    </item>
+    <item>
       <title>31/05/2024 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. DI MARCO ROSARIO PER LA PROPOSIZIONE DEL RICORSO AVVERSO LA CARTELLA N.295 2024 00097367 62000. IMPEGNO</description>
+      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. DI MARCO ROSARIO PER LA PROPOSIZIONE DEL RICORSO AVVERSO LA CARTELLA N.295 2024 00097367 62000 - IMPEGNO SPESA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8314</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8314</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8281</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8281</guid>
-    </item>
-    <item>
-      <title>28/05/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI PULITURA VASCHE MEDIANTE AUTOESPURGO RELATIVO AGLI INTERVENTI DI SOMMA URGENZA PER LA RIPARAZIONE DEI SOLLEVAMENTI DI VIA PLAYA E SOLLEVAMENTO DELLA PIAZZA PIGAFETTA - LIQUADIZIONE FATTURA FATTPA 55_23 - DITTA: CRISAFULLI ANTONINA.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8280</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8280</guid>
     </item>
   </channel>
 </rss>
