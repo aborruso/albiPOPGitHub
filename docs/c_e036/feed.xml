@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO per l'acquisizione di richieste di contributi per manifestazioni culturali da realizzare nell'estate 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30684</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30684</guid>
+    </item>
+    <item>
       <title>Art. 60 Dpr 29/09/1973</title>
       <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 25</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30683</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30623</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30623</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>AD N. 192/DIR/2023/1040 "AVVISO PUBBLICO PER LA PRESENTAZIONE DELLE DOMANDE PER ACCEDERE AL PATTO DI CURA 2023- 2024". LIQUIDAZIONE SECONDA TRANCHE BENEFICIARI APRILE 2024. CUP: D59I23001340009.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30622</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30622</guid>
     </item>
   </channel>
 </rss>
