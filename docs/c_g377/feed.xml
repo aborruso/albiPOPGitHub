@@ -17,8 +17,22 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/06/2024 | Atti Di Interesse Generale</title>
+      <description>AREA URBANA A SUD DI PIAZZA GRAMSCI - PIANO PARTICELLARE ESPROPRIO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8317</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8317</guid>
+    </item>
+    <item>
+      <title>01/06/2024 | Atti Di Interesse Generale</title>
+      <description>CONSOLIDAMENTO AREA URBANA CASE NUOVE RUSSO - PIANO PARTICELLARE ESPROPRIO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8316</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8316</guid>
+    </item>
+    <item>
       <title>31/05/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Fattura N. FATTPA 2/24 - d.ssa Niosi G - Liquidazione.</description>
+      <description>Liquidazione fattura n. FATTPA 2/24 Dott.ssa Niosi G.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8315</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8315</guid>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8283</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8283</guid>
-    </item>
-    <item>
-      <title>28/05/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>TURNI IN PRONTA DISPONIBILITA' VETERINARIA - MESE DI GIUGNO 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8282</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8282</guid>
-    </item>
-    <item>
-      <title>28/05/2024 | Concessioni E Permessi Di Costruire</title>
-      <description>VOLTURA PERMESSO DI COSTRUIRE N. 1/2023.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8281</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8281</guid>
     </item>
   </channel>
 </rss>
