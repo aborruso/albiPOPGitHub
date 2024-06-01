@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato in Via Pordenone interessata da operazioni di manutenzione e rifacimento del manto stradale - periodo dal 2 al 7 giugno 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30685</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30685</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>AVVISO PUBBLICO per l'acquisizione di richieste di contributi per manifestazioni culturali da realizzare nell'estate 2024.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30684</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30624</link>
       <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30624</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Variazione compensativa tra capitoli di spesa appartenenti allo stesso macroaggregato ai sensi dell'art. 175 co 5 - quater, lett a del d.lgs 267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30623</link>
-      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30623</guid>
     </item>
   </channel>
 </rss>
