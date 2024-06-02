@@ -1,0 +1,62 @@
+# The configuration must start with the [rsspls] section
+[rsspls]
+# Optional output directory to write the feeds to. If not specified it must be supplied via
+# the --output command line option.
+output = "../docs/c_a546"
+# Optional proxy address. If specified, all requests will be routed through it.
+# The address needs to be in the format: protocol://ip_address:port
+# The supported protocols are: http, https, socks and socks5h.
+# It can also be specified as environment variable `http_proxy` or `HTTPS_PROXY`.
+# The config file takes precedence, then the env vars in the above order.
+# proxy = socks5://10.64.0.1:1080
+
+# Next is the array of feeds, each one starts with [[feed]]
+[[feed]]
+# The title of the channel in the feed
+title = "AlboPOP del comune di Bagheria"
+
+# The output filename without the output directory to write this feed to.
+# Note: this is a filename only, not a path. It should not contain slashes.
+filename = "feed.xml"
+
+# Optional User-Agent header to be set for the HTTP request.
+# user_agent = "Mozilla/5.0"
+
+# The configuration for the feed
+[feed.config]
+# The URL of the web page to generate the feed from.
+url = "https://bagheria.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/39908/24264"
+
+# A CSS selector to select elements on the page that represent items in the feed.
+item = "tbody tr:nth-child(n+2)"
+
+# A CSS selector relative to `item` to an element that will supply the title for the item.
+heading = "td.oggetto.text"
+
+# A CSS selector relative to `item` to an element that will supply the link for the item.
+# Note: This element must have a `href` attribute.
+# Note: If not supplied rsspls will attempt to use the heading selector for link for backwards
+#       compatibility with earlier versions. A message will be emitted in this case.
+link = "a[title=\"Apri Dettaglio\"]"
+
+# Optional CSS selector relative to `item` that will supply the content of the RSS item.
+# summary = "a div"
+
+# Optional CSS selector relative to `item` that supplies media content (audio, video, image)
+# to be added as an RSS enclosure.
+# Note: The media URL must be given by the `src` or `href` attribute of the selected element.
+# Note: Currently if the item does not match the media selector then it will be skipped.
+# media = "figure img"
+
+# Optional CSS selector relative to `item` that supples the publication date of the RSS item.
+# date = "time"
+
+# Alternatively for more control `date` can be specified as a table:
+#[feed.config.date]
+#selector = "td:nth-child(5) div:nth-child(2)"
+# # Optional type of value being parsed.
+# # Defaults to DateTime, can also be Date if you're parsing a value without a #time.
+#type = "Date"
+# # format of the date to parse. See the following for the syntax
+# # https://time-rs.github.io/book/api/format-description.html
+#format = "[day padding:none]/[month padding:none]/[year]" # will parse 1/2/1934 style dates
