@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione in favore della  ditta  Castiglia Giovanni  per il noleggio e servizio audio in occasione dell'evento denominato " A ritmo d'asino" svoltosi il 24 e 25 maggio 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27688</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27688</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura n.3_24 del 16/05/2024 del geol. Roberto Di Paola con sede a  Palermo  in Via dell'Orsa Maggiore n.122, P.IVA:05987590824 relativa alla redazione dello "Studio geologico relativo alla frana in c.da Stalluzze" CIG: Z233DFC5F...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27687</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27659</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27659</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 76: GIORNO 31/05/2024  ( LAVORI VIA SERG. MARIANO CAROLLO)...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27658</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27658</guid>
     </item>
   </channel>
 </rss>
