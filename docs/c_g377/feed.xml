@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/06/2024 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE MATRIMONIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8322</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8322</guid>
+    </item>
+    <item>
+      <title>03/06/2024 | Ordinanze Dirigenziali</title>
+      <description>Spostamento temporaneo bancarelle Mercato Settimanale da Piazza Sciacca a Via Mazzini: sabato 08 giugno 2024.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8321</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8321</guid>
+    </item>
+    <item>
       <title>03/06/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>MITIGAZIONE DEL RISCHIO IDROGEOLOGICO DELLA'REA URBANA SITA A SUD DI PIAZZA GRAMSCI DEL CENTRO ABITATO DI PATTI - COMUNICAZIONE AVVIO PROCEDIMENTO FINALIZZATO ALL'APPROVAZIONE DEL PROGETTO ESECUTIVO COMPORTANTE LA PUBBLICA UTILITA'.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8320</link>
@@ -81,7 +95,7 @@
     </item>
     <item>
       <title>31/05/2024 | Deliberazioni Di Giunta</title>
-      <description>ASSEGNAZIONE RISORSE PER PROPORRE RICORSO AVVERSO LA CARTELLA N. 295 2024 00097367 62000 EMESSA DALL'AGENZIA DELLE ENTRATE RISCOSSIONE,  AGENTE DELLA RISCOSSIONE MESSINA.</description>
+      <description>ASSEGNAZIONE RISORSE PER PROPORRE RICORSO AVVERSO LA CARTELLA N. 295 2024 00097367 62000 EMESSA DALL'AGENZIA DELLE ENTRATE RISCOSSIONE, AGENTE DELLA RISCOSSIONE MESSINA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8311</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8311</guid>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8288</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8288</guid>
-    </item>
-    <item>
-      <title>29/05/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA DI REGISTRO LOCALI ADIBITI A SCUOLA MATERNA MONGIOVE - ANNO 2024 - LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8287</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8287</guid>
-    </item>
-    <item>
-      <title>29/05/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Servizio di "Assistenza Tecnica" per il potenziamento degli uffici servizi sociali per i mesi di Marzo e Aprile 2024 - Distretto Socio-Sanitario - AOD N. 1 Prima annualità                                PdZ  2019-2020. CIG: ZBF39F5A60</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8286</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8286</guid>
     </item>
   </channel>
 </rss>
