@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco</title>
+      <description>ELENCO DASS N° 6 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27692</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27692</guid>
+    </item>
+    <item>
+      <title>Elenco</title>
+      <description>ELENCO DASS N° 4...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27691</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27691</guid>
+    </item>
+    <item>
+      <title>Elenco</title>
+      <description>ELENCO DASS N° 5...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27690</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27690</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione in favore della ditta Pubblisette S.R.L. per la pubblicazione di inserzioni pubblicitari...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27689</link>
+      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27689</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione in favore della  ditta  Castiglia Giovanni  per il noleggio e servizio audio in occasione dell'evento denominato " A ritmo d'asino" svoltosi il 24 e 25 maggio 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27688</link>
@@ -183,34 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27664</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27664</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Integrazione alla Deliberazione di Giunta Municipale n. 70 del 20/05/2024 avente ad oggetto: Attivazione servizio di accompagnamento assistito, rivolto alle attività commerciali, ai disabili e ai turist...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27663</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27663</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>RIACCERTAMENTO ORDINARIO DEI RESIDUI 2023 ART.3 COMMA 4 D.LGS.118/201...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27662</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27662</guid>
-    </item>
-    <item>
-      <title>Delibera Di Consiglio</title>
-      <description>Terza Variante Urbanistica  della fattispecie al Piano Regolatore vigente, ai sensi dell'art. 26 della L.R. 19/2020, ex art. 4 della L.R. 71/78, per la correzione di ulteriori  nr. 13 errori material...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27661</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27661</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa e affidamento diretto, per materiale idrico da utilizzare per la manutenzione della rete idrica comunale...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27659</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27659</guid>
     </item>
   </channel>
 </rss>
