@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>VARIAZIONE TITOLARITA' DELLA SEDE FARMACEUTICA  N. 2 IN FAVORE DELLA SOCIETA' "FARMACIA DELL' ANNUNZIATA SNC DI DALESSANDRO NICOLA E MONTESANO MARIA TERESA"</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30725</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30725</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE MONACO GIANPIERO</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30724</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30661</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30661</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Rettifica approvazione graduatoria definitiva a seguito di avviso pubblico per l'assegnazione di posteggi nel mercato di Ginosa volto allo spostamento parziale in Via Palatrasio, via Portararo e via della Pace - verifica in autotutela</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30660</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30660</guid>
     </item>
   </channel>
 </rss>
