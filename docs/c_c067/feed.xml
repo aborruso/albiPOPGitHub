@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI 2023 ISTAT  INDAGINE DA LISTA -  LIQUIDAZIONE - SALDO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27705</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27705</guid>
+    </item>
+    <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Adesione all'Associazione Nazionale Ufficiali di Stato Civile e di Anagrafe (A.N.U.S.C.A.) con sede in Castel San Pietro Terme (BO)  Liquidazione e Versamento quota associativa e polizze assicurative anno 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27704</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27704</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>DIVIETO DI TRANSITO E DI SOSTA A TUTTI I VEICOLI, PEDONI ED ANIMALI SUL TRATTO DI STRADA COMUNALE GONATO OPPORTUNAMENTE DELIMITATO DA APPOSITA SEGNALETICA STRADALE MOBILE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27703</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27703</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>ACCERTAMENTO SOMME TASI ANNO D'IMPOSTA 2018 PER OMESSA E/O PARZIALE VERSAMENT...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27702</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27674</link>
       <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27674</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 77:GIORNO  02 GIUGNO 2024 FINO AL TERMINE DELLA PROCESSIONE,  REVOCA DELLE CONCESSIONI DI SUOLO PUBBLICO NELLE SEGUENTI VIE E PIAZZE: VIA SANT'ANNA, P.ZZA MARGHERITA, VIA ROMA, VIA CAVOUR, VIA VITT. EMANUELE, VIA UMBERTO I...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27673</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27673</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE FATTURA 13/PA PROT. 11558/24 DITTA TECNOLUC...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27672</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27672</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE FATTURA N. 3/PA/2024 PROT. 11562/24 TIPOGRAFIA LE MADONI...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27671</link>
-      <pubDate>Thu, 30 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27671</guid>
     </item>
   </channel>
 </rss>
