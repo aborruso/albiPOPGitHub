@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOSITO CASA COMUNALE ART. 143 PUZZELLO LUIGI ATTO DI CONTESTAZIONE DI VIOLAZIONI FINANZIARIE PROT. AGENZIA N. 7763/TU</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30727</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30727</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Marina di Ginosa - dal 10 al 14.06.2024 - Ditta Petito Costruzioni Srl - Salice Salentino (LE).</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30726</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30663</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30663</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Procedura di gara per l'affidamento del servizio di salvataggio e assistenza alla balneazione stagione balneare 2024. CIG: B18D4EB6AD. Provvedimento di esclusione dalla gara.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30662</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30662</guid>
     </item>
   </channel>
 </rss>
