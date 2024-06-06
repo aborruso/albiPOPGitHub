@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/06/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fattura n. 1/P, del 16.05.24 - Ditta Linea Verde</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8354</link>
+      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8354</guid>
+    </item>
+    <item>
       <title>06/06/2024 | Determinazioni Dirigenziali</title>
       <description>Impegno per rimborso spese vive Associazione di volontariato Rangers International - Delegazione di Patti.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8353</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8320</link>
       <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8320</guid>
-    </item>
-    <item>
-      <title>03/06/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>CONSOLIDAMENTO AREA URBANA CASE NUOVE RUSSO - COMUNICAZIONE AVVIO DEL PROCEDIMENTO FINALIZZATO ALL'APPROVAZIONE DEL PROGETTO ESECUTIVO COMPORTANTE LA PUBBLICA UTILITA'.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8319</link>
-      <pubDate>Mon, 03 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8319</guid>
     </item>
   </channel>
 </rss>
