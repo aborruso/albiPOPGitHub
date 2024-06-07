@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso Pubblico</title>
+      <description>Concessione posteggio in occasione della festa di Sant'Antonio da Padova a Ginosa, località Marina di Ginosa  approvazione e pubblicazione elenco commercianti</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30741</link>
+      <pubDate>Fri, 07 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30741</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
       <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 5 Giugno 2024.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30740</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30677</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30677</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Nuova Viabilità Urbana in Ginosa e Marina di Ginosa. Discussione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30676</link>
-      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30676</guid>
     </item>
   </channel>
 </rss>
