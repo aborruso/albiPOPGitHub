@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE PICCOLO GIUSEPPE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30751</link>
+      <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30751</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione dei Solenni Festeggiamenti in onore di Sant'Antonio da Padova in Marina di Ginosa dal 13 al 16 giugno 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30750</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30690</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30690</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Integrazione retta ricovero anziana in stato di bisogno presso la RSSA "Casa Famiglia Montfort" di Ginosa - art.66 del R.R.4/2019. Impegno di spesa.  Anno 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30689</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30689</guid>
     </item>
   </channel>
 </rss>
