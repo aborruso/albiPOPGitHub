@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>FORNITURA CONTRASSEGNI ART. 188 D.LGS 285/9...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27741</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27741</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione fattura nr. 404L del 27/05/2024 per il "Servizio di esecuzione dei prelievi e relative analisi chimico fisiche del materiale di sedime lapideo e terre (materiale sovralluvionale) del Fiume Castelbuono...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27740</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27714</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27714</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Impegno di spesa per conferimento incarico legale all'Avv. Giovanni Condello - Negoziazione assistita ex art. 2 del D.L. 132/2014, convertito in Legge n. 162/2014, per la soluzione stragiudiziale della controversia  con la sig.ra OMISSI...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27713</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27713</guid>
     </item>
   </channel>
 </rss>
