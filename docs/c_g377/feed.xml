@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>11/06/2024 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta in Via De Gasperi e aree di sosta adiacenti, per pulizia verde pubblico: giovedì 13 giugno 2024.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8386</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8386</guid>
+    </item>
+    <item>
+      <title>11/06/2024 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta Via Lucania per trasloco attrezzature: mercoledì 12 giugno 2024 dalle ore 07:00 alle ore 13:00.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8385</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
@@ -95,7 +102,7 @@
     </item>
     <item>
       <title>10/06/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Servizio trasporto alunni per la zona di Sorrentini affidato alla Ditta AST S.p.A. - Liquidazione Fatture di aprile e maggio 2024.</description>
+      <description>Servizio trasporto alunni per la zona di Sorrentini affidato alla Ditta: AST S.p.A. - Liquidazione Fatture di aprile e maggio 2024.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8374</link>
       <pubDate>Mon, 10 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8374</guid>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8352</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8352</guid>
-    </item>
-    <item>
-      <title>06/06/2024 | Ordinanze Sindacali</title>
-      <description>Requisizione loculo Cimitero di Patti Centro.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8351</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8351</guid>
     </item>
   </channel>
 </rss>
