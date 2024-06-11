@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOSITO CASA COMUNALE AVVISO DI ACCERTAMENTO N. TVP03I100688/2024 E TVP07I100743 CAS INTERNATIONAL SRLS</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30753</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30753</guid>
+    </item>
+    <item>
+      <title>Decreto</title>
+      <description>Nomina Responsabile dell'Anagrafe per la Stazione appaltante (RASA)</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30752</link>
+      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30752</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE PICCOLO GIUSEPPE</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30751</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30692</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30692</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per proroga affidamento del servizio di pulizia di alcuni immobili comunali.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30691</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30691</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione indennità e rimborso spese a Amministratore Comunale per missione istituzionale</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30690</link>
-      <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30690</guid>
     </item>
   </channel>
 </rss>
