@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/06/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fattura N. 43, del 06 giugno 2024 - Dr. Coppolino Giuseppe - Liquidazione.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8392</link>
+      <pubDate>Wed, 12 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8392</guid>
+    </item>
+    <item>
       <title>11/06/2024 | Avvisi Vari</title>
       <description>AVVISO ESPLORATIVO PER MANIFESTAZIONE D'INTERESSE PER L'ASSEGNAZIONE DI N. 4 POSTI DI ORMEGGIO TEMPORANEO (NON CONTEMPORANEI), A CARATTERE SPERIMENTALE, DI NATANTI DA DIPORTO AD USO TURISTICO/COMMERCIALE (PER IL COLLEGAMENTO DIRETTO CON LE ISOLE EOLIE), PRESSO L'APPRODO (PONTILE) DI PATTI MARINA (PERIODO PRESUNTO DALL'01 LUGLIO AL 31 DICEMBRE 2024) - RICHIESTA DI ASSEGNAZIONE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8391</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8358</link>
       <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8358</guid>
-    </item>
-    <item>
-      <title>06/06/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ACQUISTO CONTATORI IDROMETRICI E MATERIALE PER SIGILLATURA - DITTA: TUCCIO MARIA TERESA - LIQUIDAZIONE FATTURA N. 9/A DEL 23 MAGGIO 2024 - CIG: B10D0374F6.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8357</link>
-      <pubDate>Thu, 06 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8357</guid>
     </item>
   </channel>
 </rss>
