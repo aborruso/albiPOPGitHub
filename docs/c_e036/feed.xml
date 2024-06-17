@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato sulle strade del territorio comunale interessate da lavori/servizi di pulizia ordinaria e straordinaria  per il giorno 18 Giugno 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30837</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30837</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fattura finale FPA 9/24 del 06.06.2024 in favore di Rusticando srl per il servizio di refezione scolastica.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30836</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30771</link>
       <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30771</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di spedizione atti giudiziari per notifica violazioni amministrative al C.d.S. - Affidamento ex art. 50 comma 1 lettera b) del D.Lgs. n. 36/2023 alla Ditta SAILPOST SpA  56019 Vecchiano (PI) - CIG B20292BB46;</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30770</link>
-      <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30770</guid>
     </item>
   </channel>
 </rss>
