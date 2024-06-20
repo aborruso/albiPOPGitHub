@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>Liquidazione fattura n. 4/343 del 27/05/2024 relativa alla fornitura di n.1 coppia di elettrodi adulti cod. ELE010 per defibrillatore IPAD CU SP1...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27825</link>
+      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27825</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>LIQUIDAZIONE FATTURA RELATIVA AL SERVIZIO DI TELEFONIA MOBILE 3° BIM 2024 ( FEB-MAR) - TIM S.p.A...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27824</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
@@ -109,10 +116,10 @@
     </item>
     <item>
       <title>Determina</title>
-      <description>LIQUIDAZIONE COOP. NUOVA GENERAZIONE A. R.L. PER SUPPORTO SCOLASTICO ALUNNI DISABILI. PERIODO: MAGGIO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27811</link>
+      <description>Liquidazione fattura n°719 del 12/06/2024 per il servizio di manutenzione estintori  giugno 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27804</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27811</guid>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27804</guid>
     </item>
     <item>
       <title>Avviso Pubblico</title>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27797</link>
       <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27797</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore dell'Associazione Borghi Autentici d'Italia quale quota anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27796</link>
-      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27796</guid>
     </item>
   </channel>
 </rss>
