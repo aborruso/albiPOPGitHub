@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco</title>
+      <description>ELENCO IRR. ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27835</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27835</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Assegnazione delle risorse previste dal Bando "Fondo di Sostegno ai comuni marginali per gli anni 2021-2023". Seconda annualità:2022. Impegno Spesa...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27834</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27815</link>
       <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27815</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 5/PA del 31/05/2024  dell'Associazione di promozione Sociale A.MA.L.TE.A relative all'inserimento socio-lavorativo del personale a supporto servizio refezione scolastica periodo gennaio/aprile 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27814</link>
-      <pubDate>Wed, 19 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27814</guid>
     </item>
   </channel>
 </rss>
