@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>24/06/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione fattura n. 17331, del 17.06.24 -  ACI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8451</link>
+      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8451</guid>
+    </item>
+    <item>
+      <title>24/06/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>PDZ 2021 -  Azione N. 9 - Liquidazione Incentivo al personale Comunale dell'AOD N. 1- Distretto Socio Sanitario n.30.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8450</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8417</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8417</guid>
-    </item>
-    <item>
-      <title>14/06/2024 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per acquisto merce e attrezzature per segnaletica e sicurezza stradale.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8416</link>
-      <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8416</guid>
     </item>
   </channel>
 </rss>
