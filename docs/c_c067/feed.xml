@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>"PROGETTI PILOTA MADONIE" - INVIO II° AVVISO PUBBLICO PER SELEZIONE DI UN TECNICO PER L'ATTUAZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27871</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27871</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Affidamento alla Ditta Municipia  del servizio di elaborazione dei flussi per la formazione degli avvisi di pagamento dell'acconto TARI 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27870</link>
+      <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27870</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n. PA_320  del 31/05/2024  della Società Ambiente e Tecnologia srl, con sede a Enna in Via Nazionale n.31- P.IVA:01220960866 -presso la discarica sita  in C.da Cozzo Vuturo,  relativa al  mese  di Maggio 2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27869</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27844</link>
       <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27844</guid>
-    </item>
-    <item>
-      <title>Convocazione Consiglio Comunale</title>
-      <description>CONVOCAZIONE CONSIGLIO COMUNALE PER VENERDI' 28-06-2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27843</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27843</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa in favore della Proloco Castelbuono APS per l'organizzazione del Primo Torneo di Scacchi "Città di Castelbuono" che si svolgerà nell'ambito di Castelbuono è una Favola dal 4 al 7 luglio 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27842</link>
-      <pubDate>Mon, 24 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27842</guid>
     </item>
   </channel>
 </rss>
