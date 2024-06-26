@@ -17,20 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
-      <title>25/06/2024</title>
-      <description>Convocazione della I Commissione Consiliare: politiche di bilancio e tributarie</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30912</link>
-      <pubDate/>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30912</guid>
-    </item>
-    <item>
-      <title>25/06/2024</title>
-      <description>Convocazione III Commissione consiliare</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30911</link>
-      <pubDate/>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30911</guid>
-    </item>
-    <item>
       <title>Avviso Pubblico</title>
       <description>AVVISO PUBBLICO: Richiesta di offerte/preventivi per l'affidamento del servizio di organizzazione e realizzazione di una rassegna cinematografica estiva rivolta ai bambini</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30910</link>
@@ -435,6 +421,20 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30852</link>
       <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30852</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Impegno di spesa per il servizio di produzione ed altro relativo alla bollettazione Tari 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30851</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30851</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Incarico per l'istruttoria pratiche di condono edilizio ex L. 47/85, 724/94 e 326/2003 inevase - Presa d'atto delle dimissioni del Geom. Giovanni Pronzo - CIG. B0C45E0382</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30850</link>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30850</guid>
     </item>
   </channel>
 </rss>
