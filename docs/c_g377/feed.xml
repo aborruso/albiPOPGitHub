@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/06/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZI DI IGIENE BUBBLICA  - MESE LUGLIO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8478</link>
+      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8478</guid>
+    </item>
+    <item>
       <title>26/06/2024 | Determinazioni Dirigenziali</title>
       <description>TINDARI FESTIVAL 2024  UMANITA'.  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 03 LUGLIO 2024. SPETTACOLO "AQUILE RANDAGIE". ASSOCIAZIONE CULTURALE ARCA AZZURRA</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8477</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8444</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8444</guid>
-    </item>
-    <item>
-      <title>21/06/2024 | Ordinanze Dirigenziali</title>
-      <description>DIvieto di sosta nella piazzetta Cicerone per scerbamento: 24.06.24</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8443</link>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8443</guid>
     </item>
   </channel>
 </rss>
