@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/07/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZIO VETERINARIO - MESE LUGLIO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8493</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8493</guid>
+    </item>
+    <item>
+      <title>01/07/2024 | Manifestazioni Di Interesse</title>
+      <description>AVVISO ESPLORATIVO PER MANIFESTAZIONE D'INTERESSE PER L'ASSEGNAZIONE DI N. 4 POSTI DI ORMEGGIO TEMPORANEO (NON CONTEMPORANEI) DI NATANTI DA DIPORTO AD USO TURISTICO - COMMERCIALE (PER IL COLLEGAMENTO DIRETTO CON LE ISOLE EOLIE), PRESSO L'APPRODO (PONTILE) DI PATTI MARINA (PERIODO PRESUNTO DAL 01 LUGLIO 2024 AL 31 DICEMBRE 2024)</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8492</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8492</guid>
+    </item>
+    <item>
       <title>28/06/2024 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO DI DISINFESTAZIONE E DEBLATTIZZAZIONE DI TUTTO IL TERRITORIO COMUNALE. - DETERMINA A CONTRARRE, AFFIDAMENTO ED IMPEGNO SPESA -  CIG: B23430DD46 -  DITTA: GECO SERVIZI di Sebastiano Ribaudo</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8491</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8459</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8459</guid>
-    </item>
-    <item>
-      <title>25/06/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA REGISTRAZIONE SENTENZA N.659/2021 TRIBUNALE DI PATTI. _LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8458</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8458</guid>
-    </item>
-    <item>
-      <title>25/06/2024 | Ordinanze Dirigenziali</title>
-      <description>Regolamentazione viabilità per festeggiamenti  Parrocchia S. Febronia - Case Nuove Russo: 27 - 30 giugno.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8457</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8457</guid>
     </item>
   </channel>
 </rss>
