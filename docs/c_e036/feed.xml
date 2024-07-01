@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 02</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30966</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30966</guid>
+    </item>
+    <item>
+      <title>01/07/2024</title>
+      <description>Convocazione Consiglio Comunale 01 luglio 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30965</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30965</guid>
+    </item>
+    <item>
       <title>28/06/2024</title>
       <description>Convocazione IV Commissione Consiliare - Controllo e Garanzia</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30964</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30906</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30906</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Regolamentazione temporanea della circolazione stradale per processioni religiose in occasione della Solennità della Madonna del Carmine. Ginosa 1 e 16.07.2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30903</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30903</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina della circolazione stradale in dipendenza di lavori di demolizione di fabbricato nell'abitato di Ginosa - dal 25 al 30.06.2024 - Ditta M. Scavi di Mancino Luca  Gioia del Colle (BA).</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30902</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30902</guid>
     </item>
   </channel>
 </rss>
