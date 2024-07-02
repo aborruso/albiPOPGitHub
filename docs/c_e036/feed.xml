@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Autorizzazione alla collocazione di autoemoteca ed interdizione alla sosta in Marina di Ginosa il giorno 18 luglio 2024 - AVIS Ginosa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30969</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30969</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato/Senso unico alternato in Viale Trieste interessata da operazioni di manutenzione e rifacimento del manto stradale - periodo dal 2 al 6 luglio 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30968</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30968</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Ordinanza Ministeriale n. 000122 del 18.06.2024 relativa a: esame di abilitazione alla libera professione di Perito Agrario e Perito Agrario Laureato-sessione 2024 pubblicato in Gazzetta Ufficiale 4° serie speciale n. 51 del 25 giugno 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30967</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30967</guid>
+    </item>
+    <item>
       <title>Art. 60 Dpr 29/09/1973</title>
       <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 02</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30966</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30909</link>
       <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30909</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Marina di Ginosa - dal 01 al 06.07.2024 - Ditta Petito Costruzioni Srl - Salice Salentino (LE).</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30908</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30908</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Disciplina della circolazione stradale in dipendenza di lavori di manutenzione di tronchi idrici e fognanti nell'abitato di Ginosa e Marina di Ginosa - dal 26 al 29.06.2024 - Ditta Castiglia Srl  Massafra (TA).</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30907</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30907</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE Agriquality srl</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30906</link>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30906</guid>
     </item>
   </channel>
 </rss>
