@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>LIQUDAZIONE FATTURA 6/PA  ALL'ASSOCIAZIONE A.Ma.L.Te....</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27911</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27911</guid>
+    </item>
+    <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Liquidazione alla Ditta Immedia S.p.A. della fattura relativa al servizio denominato "Plus Area Segreteria...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27910</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27910</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Impegno di spesa in favore di E-Distribuzione S.p.A. per versamento IVA delle fatture attinenti le spese fisse di connessione degli impianti fotovoltaici installati relativi i lavori "POR SICILIA 2014-2020 - Sottomisura 7.2 - Produzione energetica finalizzata all'autoconsumo di edifici pubblici nei Comuni di Castelbuono, Isnello, Alia, Montemaggiore Belsito, San Mauro Castelverde, Vallelunga Pratameno". - CUP: H44E17000510006...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27909</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27882</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27882</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORDINANZA   N.95 DEL 26/06/2024  DISCIPLINA  SOSTA NELLE VIE DELL'A.P.U. A SEGUITO DELL'ORDINANZA N.94 DEL 26/06/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27881</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27881</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORDINANZA  SINDACALE N.94 DEL 26/06/2024 MODIFICA DISCIPLINA VIABILISTICA CON DECORRENZA DAL 01/07/2024 AL 31/08/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27880</link>
-      <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27880</guid>
     </item>
   </channel>
 </rss>
