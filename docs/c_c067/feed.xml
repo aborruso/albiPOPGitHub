@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 97: GIORNO 18/06/2024 DIVIETO DI TRANSITO IN VIA COLLEGIO MARIA  E FINO AL TERMINE DEI LAVORI (PER LAVORI RETE FOGNARIA IN VICOLO DELLE FERRIERE E VIA COLLEGIO MARIA)...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27912</link>
+      <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27912</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>LIQUDAZIONE FATTURA 6/PA  ALL'ASSOCIAZIONE A.Ma.L.Te....</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27911</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27883</link>
       <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27883</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE RELATIVA ALLA FORNITURA DI CARBURANTE PER GLI AUTOMEZZI COMUNALI MESE DI MAGGIO 2024- KUWAIT PETROLEUM ITALIA S.p.A...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27882</link>
-      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27882</guid>
     </item>
   </channel>
 </rss>
