@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso Pubblico</title>
+      <description>CILA da sottoporre a istruttoria, verbale estrazione casuale del 3 Luglio 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31038</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31038</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 3 Luglio 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31037</link>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31037</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
       <description>AVVISO PUBBLICO PER LA CONCESSIONE TEMPORANEA DEI POSTEGGI NELL'AMBITO DELLA MANIFESTAZIONE "FIERA DELLA MADONNA DEL ROSARIO 2024"</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31036</link>
       <pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30978</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30978</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Sentenza n. 836/2024 del Giudice di Pace di Taranto. Impegno di spesa per pagamento spese di giudizio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30977</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30977</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Sentenza n. 2355/2023 del Giudice di Pace di Taranto. Impegno di spesa per pagamento spese di giudizio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30976</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30976</guid>
     </item>
   </channel>
 </rss>
