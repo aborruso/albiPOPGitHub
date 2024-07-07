@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 03</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31057</link>
-      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31057</guid>
-    </item>
-    <item>
       <title>Determinazione</title>
       <description>Affidamento fornitura del servizio percorsi di assistenza alla socializzazione dedicati ai minori e all'età di transizione fino ai ventuno anni   alloperatore economico Società Cooperativa Sociale TMA Group, P. I.V.A. 06835901213. Fondo autismo. Numero Trattativa 4477208. CUP D51J23000340001</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31055</link>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30996</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30996</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Liquidazione fattura per il servizio di pulizia di vari immobili comunali. Mese di giugno 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30995</link>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30995</guid>
     </item>
   </channel>
 </rss>
