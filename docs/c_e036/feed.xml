@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Gestione dell'Info Point turistico e del Punto Lettura di Marina di Ginosa. Determinazioni.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31061</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31061</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Costituzione di Comunità di Energia Rinnovabile (CER) ex art. 42 bis del D.L. n.162/2019, D.lgs. n. 199/2021, Decreto MASE n. 414/2023 e delle regole operative pubblicate dal GSE "DECRETO CACER e TIAD  Regole operative per l'accesso al servizio per l'autoconsumo diffuso e al contributo PNRR" del 23.02.24. Indirizzi operativi</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31060</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31060</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento fornitura del servizio percorsi di assistenza alla socializzazione dedicati ai minori e all'età di transizione fino ai ventuno anni   alloperatore economico Società Cooperativa Sociale TMA Group, P. I.V.A. 06835901213. Fondo autismo. Numero Trattativa 4477208. CUP D51J23000340001</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31055</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30997</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30997</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea A -  II Finestra - Codice Pratica 6QSUN0DE (busta paga maggio 2024)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30996</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30996</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura per il servizio di pulizia di vari immobili comunali. Mese di giugno 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30995</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=30995</guid>
     </item>
   </channel>
 </rss>
