@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
+      <description>ELENCO DATI RELATIVI AGLI IMMOBILI E ALLE OPERE REALIZZATI ABUSIVAMENTE. GIUGNO 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31080</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31080</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO CUSTODI GIUDIZIARI ANNO 2024 -2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31079</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31079</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>AVVISO PUBBLICO - Richiesta di preventivi per l'affidamento del servizio di vitto e alloggio manifestazione "Village Vertical Summer Tour 2024"</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31078</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31015</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31015</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>D.G.C. n.281/2023. Approvazione degli ammessi all'Avviso Pubblico per lerogazione di voucher finalizzati a sostenere liscrizione a corsi di formazione professionale.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31014</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31014</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione comunita'  socio-educativa "Isotta" di Lucugnano - per ospitalita'  minore D. N. A. per il mese di Maggio 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31013</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31013</guid>
     </item>
   </channel>
 </rss>
