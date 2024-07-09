@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA N.100 DEL 09/07/2024 LAVORI DI MANUTENZIONE STRAORDINARIA DIVIETO DI TRANSITO E DI SOSTA   IN VIA ROMA GIORNO 10 LUGLIO 2024  FINE A TERMINE DEI LAVORI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27994</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27994</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. 129/PA del 25/06/2024 - prot. n. 14012 del 25/06/2024 - Ditta Ciabilli s.r.l...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27993</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27993</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>RIPUBBLICAZIONE RICHIESTA MANODOPERA FORESTALE DISTRETTO N 9 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27992</link>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27992</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fatture D02/2024/55 - D02/2024/66 all'ASP di Palermo per compartecipazione  retta pro-capite R.S.A. "Regina Mundi"  ai sensi del D.A. 24/5/2010 -  ricovero Sig.ra C.C....</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27991</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27967</link>
       <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27967</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>IMPEGNO DI SPESA IN FAVORE DI GAETANO PICCIUCA PER SERVIZIO DI TAXI RELATIVAMENTE AL TRASPORTO DEGLI OSPITI ARTISTI DEL MUSEO CIVICO DI CASTELBUONO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27966</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27966</guid>
-    </item>
-    <item>
-      <title>Elenco</title>
-      <description>ELENCO DASS N° 7...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27965</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27965</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>PERMESSO DI COSTRUIRE N. 16/2024 RILASCIATO IN DATA 04 /07/2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27964</link>
-      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=27964</guid>
     </item>
   </channel>
 </rss>
