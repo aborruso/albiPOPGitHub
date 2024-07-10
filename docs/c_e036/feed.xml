@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>"Programma di intervento per la prevenzione dei danni da cinghiali alle colture agrarie anno 2024".</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31082</link>
+      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31082</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>DEPOSITO CASA COMUNALE LA MALFA Armando - notifica avvio proc.n.30301/Ass.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31081</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31017</link>
       <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31017</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura alla Ditta Opera srl per la partecipazione al webinar dal titolo "I SERVIZI SOCIALI TRA CODICE DEI CONTRATTI PUBBLICI E CODICE DEL TERZO SETTORE: LA DISCIPLINA DEGLI AFFIDAMENTI DEI SERVIZI" .</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31016</link>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31016</guid>
     </item>
   </channel>
 </rss>
