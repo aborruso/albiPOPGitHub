@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/07/2024 | Ordinanze Dirigenziali</title>
+      <description>Chiusura via Verdi e divieto sosta piazza Niosi per lavori: 15.07.24.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8570</link>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8570</guid>
+    </item>
+    <item>
       <title>11/07/2024 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta in via Crispi e in via C.Colombo per traslochi: 15.07.24.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8569</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8536</link>
       <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8536</guid>
-    </item>
-    <item>
-      <title>09/07/2024 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2024  UMANITA'.  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 15 LUGLIO 2024. SPETTACOLO "UNA SERATA PAZZESCA". TEATRO PUBBLICO LIGURE SRL</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8535</link>
-      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8535</guid>
     </item>
   </channel>
 </rss>
