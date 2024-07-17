@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>IMPEGNO DI SPESA PER RIMBORSO SOMME VERSATE IN ESUBERO DALLA SIG.RA CASTIGLIA ANTONIETT...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28070</link>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28070</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>AVVISI DI MOBILITÀ VOLONTARIA, EX ART. 30, DLGS. 165/2001 A TEMPO PIENO E INDETERMINATO PER LA COPERTURA DI N. 1 POSTO DI FUNZIONARIO CONTABILE-AREA DEI FUNZIONARI E DELLA ELEVATA QUALIFICAZIONEX CTG D.,N.1 POSTO DI ISTRUTTORE TECNICO-AREA DEGI ISTRUTTORI EX CTG.C...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28069</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28050</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28050</guid>
-    </item>
-    <item>
-      <title>Delibera Di Consiglio</title>
-      <description>Riconoscimento  del debito fuori bilancio ai sensi dell'art. 194, primo comma, lettera e) del TUEL  per il pagamento della fattura di Poste italiane n.8718323007 del 28/09/2018. RITIRATA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28049</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28049</guid>
     </item>
   </channel>
 </rss>
