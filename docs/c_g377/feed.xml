@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/07/2024 | Determinazioni Del Sindaco</title>
+      <description>CHIUSURA DEGLI UFFICI COMUNALI NELLE ORE POMERIDIANE MESE LUGLIO E AGOSTO 2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8627</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8627</guid>
+    </item>
+    <item>
       <title>19/07/2024 | Ordinanze Dirigenziali</title>
       <description>Chiusura piazzetta Belvedere e via Magretti per sparo fuochi d'artificio: domenica 28.07.24.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8626</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8593</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8593</guid>
-    </item>
-    <item>
-      <title>15/07/2024 | Pubblicazioni Di Matrimonio</title>
-      <description>PUBBLICAZIONE DI MATRIMONIO</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8592</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8592</guid>
     </item>
   </channel>
 </rss>
