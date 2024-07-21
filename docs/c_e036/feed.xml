@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 01</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31243</link>
-      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31243</guid>
-    </item>
-    <item>
       <title>Determinazione</title>
       <description>Variazione compensativa tra capitoli di spesa appartenenti allo stesso macroaggregato ai sensi dell'art. 175 comma 5 quater lettera a) del D. Lgs. n. 267/2000.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31242</link>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31182</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31182</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea A -  II Finestra - Codice Pratica AVR77Z68 (busta paga giugno 2024)</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31181</link>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31181</guid>
     </item>
   </channel>
 </rss>
