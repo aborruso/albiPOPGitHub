@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Programma delle Manifestazioni Estive nel territorio del Comune di Ginosa  Misure temporanee di modifica della circolazione stradale dal 23 al 25 luglio 2024  Area di P.zza della Croce Rossa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31255</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31255</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>CORSO BASE DI 1° LIVELLO CON SELEZIONE FINALE DI MERITO PER LA FORMULAZIONE DI UNA GRADUATORIA DI VALIDITÀ BIENNALE PER ISTRUTTORE TECNICO CAT. C1</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31254</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31193</link>
       <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31193</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>ANNULLAMENTO DETERMINA N. 1545 del 16-07-2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31192</link>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31192</guid>
     </item>
   </channel>
 </rss>
