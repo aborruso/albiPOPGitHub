@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/07/2024 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità per festeggiamenti in onore della Patrona S. Febronia: 27 e 28/07/24</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8632</link>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8632</guid>
+    </item>
+    <item>
       <title>19/07/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Servizio di supporto tecnico per l'aggiornamento del Piano Economico Finanziario (PEF), aggiornamento tariffario biennale 2024-2025 Liquidazione Fattura n. 324 del 22.05.2024.                                                                                   DITTA: GOLEM NET S.R.L. CIG: B1269E69D8</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8631</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8597</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8597</guid>
-    </item>
-    <item>
-      <title>15/07/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di Gas ENEL ENERGIA nei locali comunali - FATTURE PERIODO MAGGIO 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8596</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8596</guid>
     </item>
   </channel>
 </rss>
