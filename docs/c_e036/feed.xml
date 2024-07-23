@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>-AVVISO AI CREDITORI- Appalto della progettazione esecutiva e dell'esecuzione dei lavori di adeguamento dellimpianto di depurazione a servizio dellAgglomerato di Ginosa Marina (TA).</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31263</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31263</guid>
+    </item>
+    <item>
       <title>Bando Di Concorso</title>
       <description>Bando di concorso pubblico per soli esami per l'assunzione, a tempo indeterminato e pieno, di N. 1 unità nel profilo professionale di Istruttore Tecnico Informatico  Area degli Istruttori  posizione economica C1 - del vigente CCNL delle Funzioni Locali.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31262</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31200</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31200</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Mozione TARIP  presentata da "CON Ginosa e Marina di Ginosa". RESPINTA.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31199</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31199</guid>
     </item>
   </channel>
 </rss>
