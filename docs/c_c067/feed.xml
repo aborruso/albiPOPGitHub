@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>P.A.L. Comunità Rurali Resilienti_Bando sott. 1.3 ambito 2 Cod.univoco 82462 _Comunicazione termini iniziali e finali di presentazione delle domande di sostegno e richiesta di pubblicazione su sito e Albo Pretori...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28103</link>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28103</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>IMPEGNO DI SPESA PROGETTO SICUREZZA URBANA E STRADALE ANNO 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28102</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28083</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28083</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORDINANZA N.102 DEL 18/07/2024 LAVORI RETE FOGNARIA IN VIA PAPA GIOVANNI XXIII...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28082</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28082</guid>
     </item>
   </channel>
 </rss>
