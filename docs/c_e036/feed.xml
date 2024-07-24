@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Convocazione Commissione Politiche di bilancio e tributarie per il 26 luglio 2024 alle ore 12:00</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31272</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31272</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>COLLABORAZIONE DEL COMUNE DI GINOSA CON LA SOCIETA' EVENTS WAY S.R.L. PER LA REALIZZAZIONE DELLA MANIFESTAZIONE CULTURALE DENOMINATA "VILLAGE VERTICAL SUMMER TOUR 2024".</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31271</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31209</link>
       <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31209</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>IMPEGNO DI SPESA E LIQUIDAZIONE ACCONTO DEL CONTRIBUTO ECONOMICO CONCESSO IN FAVORE DELL'A.S.D. GENUSIA BIKE PER L'ORGANIZZAZIONE E LA REALIZZAZIONE DELLA MANIFESTAZIONE SPORTIVA DENOMINATA "V TROFEO DEI BORGHI GINOSA", CHE SI TERRA' IL 21 LUGLIO 2024 A GINOSA.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31208</link>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31208</guid>
     </item>
   </channel>
 </rss>
