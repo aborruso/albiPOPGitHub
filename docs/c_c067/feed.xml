@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>PUBBLICAZIONE GRADUATORIE PROVVISORIE DI AGGIORNAMENTO LAVORATORI FORESTALI ANNO 2024 L.R. 16/96...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28141</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28141</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE IN FAVORE DELLA DITTA GBR ROSSETTO S.p.A. PER IL CANONE DI N. 1 STAMPANTE EPSON- PERIODO 16/06/204-30/09/2...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28140</link>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28140</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>APPROVAZIONE  GRADUATORIA PROVVISORIA  MICRO NIDO COMUNALE A.E 2024/202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28139</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28114</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28114</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>: Liquidazione fattura:  n118/A del 16/07/2024 per fornitura, montaggio, equilibratura e smaltimento di n.4 pneumatici 9.5 R 17.5 129/127M 3PSF Ecotrans Fulda gruppo Goodyer...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28113</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28113</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. 68 del 15/07/2024  prot. n. 15563 del 15/07/2024, per la "Fornitura di un serbatoio con capacità di 10.000 litri  tipo panettone per acqua, da installare in C.da Santuzza...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28112</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28112</guid>
     </item>
   </channel>
 </rss>
