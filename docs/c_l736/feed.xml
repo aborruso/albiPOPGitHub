@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 4607</title>
+      <description>DELIBERA DI CONSIGLIO N. 2024.45 - Variante al Piano degli Interventi n. 67, ai sensi dell'art. 18 della legge regionale n.11/2004, per il riassetto urbanistico dell¿area ove insiste la Casa da Gioco (Casinò) di Tessera - Ca¿ Noghera attraverso la definizione della destinazione d¿uso appropriata ovvero Z.T.O. a standard ¿F17 ¿ Casa da gioco ed attività connesse¿. Adozione.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_45_001_2685_CC_2024_45.odt.pdf</link>
+      <pubDate>Thu, 25 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_45_001_2685_CC_2024_45.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 4604</title>
       <description>DELIBERA DI GIUNTA N. DG/2024/152 - PATRIMONIO - Indirizzi per la concessione di un'area a parcheggio e a spazi pedonalizzati a favore dell'Hotel Ambasciatori in corrispondenza del civico 221 di Corso del Popolo a Mestre.</description>
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_152_33377_TESTO.pdf</link>
@@ -218,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_140_35467_TESTO.pdf</link>
       <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_140_35467_TESTO.pdf</guid>
-    </item>
-    <item>
-      <title>#DELIBERE | Pubblicazione numero 4318</title>
-      <description>DELIBERA DI GIUNTA N. 2024/139 - PATRIMONIO - indirizzi per la concessione a Veritas spa di porzione di immobile, di proprietà comunale, sito all'Isola del Tronchetto denominato Centro Logistico Interscambio Merci, per l'allocazione del nuovo Mercato Ittico di Venezia.</description>
-      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_139_35447_TESTO.pdf</link>
-      <pubDate>Wed, 10 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_139_35447_TESTO.pdf</guid>
     </item>
   </channel>
 </rss>
