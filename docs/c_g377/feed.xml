@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/07/2024 | Ordinanze Dirigenziali</title>
+      <description>Integrazione Ord. n. 159/24.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8687</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8687</guid>
+    </item>
+    <item>
+      <title>26/07/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZI  ASSOCIATIVI  ASMEL  IMPEGNO E LIQUIDAZIONE SOMME ANNO 2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8686</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8686</guid>
+    </item>
+    <item>
       <title>26/07/2024 | Concessioni E Permessi Di Costruire</title>
       <description>CONCESSIONE PERMESSO A COTRUIRE N.14 DEL 26/07/2024.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8685</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8653</link>
       <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8653</guid>
-    </item>
-    <item>
-      <title>23/07/2024 | Determinazioni Dirigenziali</title>
-      <description>Approvazione avviso e modulistica - servizi di Assistenza domiciliare anziani autosufficienti e non - Comune di Patti F.S.C. ai sensi dell'Art. 1, COMMA 563, L. 234/2021. Anno 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8652</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8652</guid>
-    </item>
-    <item>
-      <title>23/07/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A SALDO ALL'AVV. FORTUNATINA GIUFRE. TRANSAZIONE DR.SSA GREGORIO MARCELLA. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8651</link>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8651</guid>
     </item>
   </channel>
 </rss>
