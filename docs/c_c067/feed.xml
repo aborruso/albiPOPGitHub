@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Revisione Dinamica</title>
+      <description>Avviso deposito modello 7/D rev. II dinamic...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28193</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28193</guid>
+    </item>
+    <item>
       <title>Elenco</title>
       <description>AVVISO DI DEPOSITO ELENCO DIRR M2 DIRR. N° 28...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28192</link>
@@ -155,13 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28173</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28173</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura alla E.P. spa per fattura n. 4143/TC  buoni pasto elettronici per il servizio sostitutivo di mens...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28172</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28172</guid>
     </item>
   </channel>
 </rss>
