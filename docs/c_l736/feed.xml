@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 4689</title>
+      <description>DELIBERA DI CONSIGLIO N. 2024.55 - Bilancio di previsione per gli esercizi finanziari 2024-2026 - verifica degli equilibri generali di bilancio, assestamento generale e Stato di Attuazione dei Programmi (SAP) 2024. Documento Unico di Programmazione (DUP) 2025-2027</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_55_001_2787_CC_2024_55.odt.pdf</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_55_001_2787_CC_2024_55.odt.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 4688</title>
+      <description>DELIBERA DI CONSIGLIO N. 2024.53 - Variante al Piano di Recupero di iniziativa pubblica del compendio ex Ospedale Umberto I a Mestre, ai sensi comma 8 ter articolo 20 della L.R. 11/2004. Adozione.</description>
+      <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_53_001_2732_CC_2024_53.odt.pdf</link>
+      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_53_001_2732_CC_2024_53.odt.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 4645</title>
       <description>DELIBERA DI CONSIGLIO N. 2024.54 - Ordinanza della Corte d¿Appello di Londra CA 2023 ¿ 000161 del 20 dicembre 2023 - Riconoscimento di debito fuori bilancio (Reg. 379/2023).</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_54_001_2723_CC_2024_54.odt.pdf</link>
@@ -211,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 4371</title>
-      <description>BANDO D'APPALTO SISTEMA DI QUALIFICAZIONE FORNITORI SMART CARDS</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</guid>
     </item>
   </channel>
 </rss>
