@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>Verifica periodica della regolare tenuta dello  schedario elettorale ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28205</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28205</guid>
+    </item>
+    <item>
+      <title>Delibera Di Giunta</title>
+      <description>INDIVIDUAZIONE GRUPPO DI AMMINISTRAZIONE PUBBLICA E DEL GRUPPO DI CONSOLIDAMENTO PROPEDEUTICO ALL'APPROVAZIONE DEL BILANCIO CONSOLIDATO 2023 DI CUI ALL'ART. 233 BIS DEL DECRETO LEGISLATIVO N. 267/200...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28204</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28204</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Efficientamento energetico degli edifici a servizio del campetto polivalente Totò Spallino. - Nomina R.U.P. (Responsabile Unico del Progetto)...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28203</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28178</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28178</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa  e liquidazione necessario all'acquisizione del parere Igienico Sanitario (ASP) sul "Progetto lavori di costruzione cappella cimiteriale comunale all'interno dellampliamento del cimitero". - Anticipazione in favore dellEconomo ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28177</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28177</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento diretto all'operatore economico Perito Ind. Franco Alleri, ai sensi dellart. 50, comma 1 lett. b) del D.Lgs 36/2023, dei servizi tecnici di ingegneria e architettura attinenti l'incarico di redazione del Progetto di fattibilità tecnico-economica, del Progetto esecutivo e per il Coordinamento della sicurezza in fase di esecuzione dei Lavori di ottimizzazione e riqualificazione con lo scopo del risparmio energetico  manutentivo degli impianti di pubblica illuminazione. CUP: H36I240001500...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28176</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28176</guid>
     </item>
   </channel>
 </rss>
