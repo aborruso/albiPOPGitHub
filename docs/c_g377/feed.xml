@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/08/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 1472 del 31-07-2024 CIG B1959DDC6A beneficiario Media s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8737</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8737</guid>
+    </item>
+    <item>
+      <title>02/08/2024 | Ordinanze Dirigenziali</title>
+      <description>Regolamentazione viabilità a Sorrentini in occasione dei festeggiamenti in onore di S. Teodoro: 04 - 11/08/24</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8736</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8736</guid>
+    </item>
+    <item>
       <title>01/08/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>LAVORI DI MANUTENZIONE STRAORDINARIA DEI PROSPETTI E DEL SOLAIO DI COPERTURA DEL CINETEATRO COMUNALE "BENIAMINO JOPPOLO"  1° STRALCIO -     CODICE CARONTE: SI_1_25700 - CUP C49G19000070002 - CIG 8655135B57 -  LIQUIDAZIONE FATTURA AL 3° S.A.L. -  IMPRESA: MOBA s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8735</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8703</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8703</guid>
-    </item>
-    <item>
-      <title>30/07/2024 | Atti Di Interesse Generale</title>
-      <description>AVVISO MODALITA' DEL SERVIZIO RACCOLTA INDUMENTI USATI - CALENDARIO DELLE GIORNATE DI RACCOLTA</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8702</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8702</guid>
-    </item>
-    <item>
-      <title>30/07/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione spesa ricovero disabile T.M. in Comunità Alloggio "Consorzio Sociale Insieme" Barcellona P.G.  mesi di   Aprile e Maggio  2024 - CIG ZDD3D9087A</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8701</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8701</guid>
     </item>
   </channel>
 </rss>
