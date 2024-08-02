@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
     <item>
+      <title>#DELIBERE | Pubblicazione numero 4768</title>
+      <description>DELIBERA DI GIUNTA N. 2024/167 - TRIBUTI - Nomina del funzionario responsabile della gestione Tassa sui Rifiuti (TARI) ai sensi del comma 692 dell'art. 1 della Legge n. 147 del 27 dicembre 2013</description>
+      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_167_49890_TESTO.pdf</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_167_49890_TESTO.pdf</guid>
+    </item>
+    <item>
+      <title>#DELIBERE | Pubblicazione numero 4767</title>
+      <description>DELIBERA DI GIUNTA N. 2024/165 - SINDACO - Determinazione diverso importo per il pagamento in misura ridotta della sanzione amministrativa relativa alla violazione dell'art. 71 bis comma 1 del Regolamento di Polizia e Sicurezza Urbana</description>
+      <link>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_165_49869_TESTO.pdf</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale.comune.venezia.it/utilities/deliberegiunta/files/2024/DG_2024_165_49869_TESTO.pdf</guid>
+    </item>
+    <item>
       <title>#DELIBERE | Pubblicazione numero 4732</title>
       <description>DELIBERA DI CONSIGLIO N. 2024.50 - Rinnovo della convenzione tra il Comune di Venezia ed il Comune di Santa Maria di Sala per la gestione in forma associata delle funzioni di Polizia Locale e Sicurezza Urbana</description>
       <link>https://portale.comune.venezia.it/utilities/delibereconsiglio/files/2024/DC_2024_50_001_2823_CC_2024_50.odt.pdf</link>
@@ -211,13 +225,6 @@
       <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</link>
       <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP136552.pdf</guid>
-    </item>
-    <item>
-      <title>#AVVISI DI GARA | Pubblicazione numero 4371</title>
-      <description>BANDO D'APPALTO SISTEMA DI QUALIFICAZIONE FORNITORI SMART CARDS</description>
-      <link>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</link>
-      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://portale.comune.venezia.it/utilities/albopretorio/migrazione/AP134800.pdf</guid>
     </item>
   </channel>
 </rss>
