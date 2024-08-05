@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Programma delle Manifestazioni Estive nel territorio del Comune di Ginosa  Misure temporanee di modifica della circolazione stradale dal 06 al 09 agosto 2024  Area di Viale Pola  Lungomare L. Strada</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31393</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31393</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>CONTRIBUTO AGLI INDIGENTI</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31392</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31334</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31334</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione  per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea A -  I Finestra - Codice Pratica FE1MZG1W (busta paga da marzo a giugno 2024+contributi inps+ consulente)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31333</link>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31333</guid>
     </item>
   </channel>
 </rss>
