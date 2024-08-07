@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/08/2024 | Ordinanze Sindacali</title>
+      <description>PROROGA T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8764</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8764</guid>
+    </item>
+    <item>
       <title>07/08/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>PDZ 2021 -  Azione N. 9 - Liquidazione  Incentivo al personale Comunale dell'AOD N. 1- Distretto Socio Sanitario n.30.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8763</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8730</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8730</guid>
-    </item>
-    <item>
-      <title>01/08/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione alla Soc. Coop. Arzilla. "L'Isola del sorriso" per il ricovero del minore   M.AL. per il  mese  di  Giugno  2024  . CIG Z453D907B5</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8729</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8729</guid>
     </item>
   </channel>
 </rss>
