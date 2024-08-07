@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>PUBBLICAZIONE GRADUATORIE DEFINITV...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28264</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28264</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione compensi esperto del Sindaco per adempimenti connessi al PNRR. Periodo luglio 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28263</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28263</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Concessione utenza idrica...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28262</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28237</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28237</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di completamento impianto di illuminazione del corpo centrale del Parco delle Rimembranze ed installazione impianto fotovoltaico. LIQUIDAZIONE CREDITO RESIDUO ALLA GERACI COSTRUZIONI SR...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28236</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28236</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa e liquidazione necessario all'acquisizione del parere Igienico Sanitario (ASP) sui "Lavori di razionalizzazione della rete idrica del centro urbano e delle zone periferiche". - Anticipazione in favore dell'Econom...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28235</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28235</guid>
     </item>
   </channel>
 </rss>
