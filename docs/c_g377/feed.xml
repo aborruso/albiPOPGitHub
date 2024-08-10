@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/08/2024 | Ordinanze Dirigenziali</title>
+      <description>Chiusura al transito temporanea corsia via  Di Vittorio - direzione c.so Matteotti: per lavori urgenti ditta Nibali s.p.a.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8790</link>
+      <pubDate>Sat, 10 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8790</guid>
+    </item>
+    <item>
       <title>09/08/2024 | Deliberazioni Di Giunta</title>
       <description>FINANZIAMENTI COMUNITARI PNRR  Avvisi Pubblici " Misura 1.4.3 APP IO " -  Misura 1.4.4 SPID CIE  -  Misura 1.4.5 PIATTAFORMA NOTIFICHE DIGITALI .  ASSEGNAZIONE RISORSE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8789</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8756</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8756</guid>
-    </item>
-    <item>
-      <title>06/08/2024 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2024  UMANITA'.  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 19 AGOSTO 2024. SPETTACOLO "ODIO GLI INDIFFERENTI". ASS.NE TEATRO AQUILANTE APS - CIG: B2B44FC5EA</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8755</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8755</guid>
     </item>
   </channel>
 </rss>
