@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Marina di Ginosa. Esercitazione recupero naufrago in mare stagione balneare 2024.  Interdizione Spiaggia libera.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31469</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31469</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>"Redazione del DVR e RSPP fino al mese di ottobre 2024 immobile sito nel comune di Ginosa alla C.da Cesine e destinato a Canile Sanitario", Determina a contrarre e affidamento del servizio all'Ing. Vincenzo Brunone di Ginosa (TA) - CIG: B2C1A7E71F</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31468</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31408</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31408</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Elezioni dei membri del Parlamento europeo spettanti all'Italia 8-9 giugno 2024. Affidamento fornitura "materiale di cancelleria indispensabile per il funzionamento dell'ufficio elettorale" -Impegno di spesa e liquidazione fatt. n. 2040/240014324 del 31.05.2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31407</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31407</guid>
     </item>
   </channel>
 </rss>
