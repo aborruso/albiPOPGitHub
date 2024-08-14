@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>Deliberazioni Di Giunta | Approvazione schema atto di transazione e autorizzazione alla firma. Atto di indirizzo"</title>
+      <description>"Oggetto: Piano di riequilibrio finanziario pluriennale ex art. 243bis del tuel -</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8815</link>
+      <pubDate>13/08/2024	Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8815</guid>
+    </item>
+    <item>
+      <title>13/08/2024 | Deliberazioni Di Giunta</title>
+      <description>Acquisto fornitura di cloro per il trattamento dell'acqua destinata al consumo umano. Assegnazione Risorse</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8814</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8814</guid>
+    </item>
+    <item>
       <title>13/08/2024 | Ordinanze Sindacali</title>
       <description>PROROGA T.S.O.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8813</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8781</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8781</guid>
-    </item>
-    <item>
-      <title>08/08/2024 | Deliberazioni Di Giunta</title>
-      <description>Lavori di manutenzione degli impianti di climatizzazione dei locali comunali in P.zza Scaffidi. Assegnazione risorse.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8780</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8780</guid>
-    </item>
-    <item>
-      <title>08/08/2024 | Deliberazioni Di Giunta</title>
-      <description>ANNULLAMENTO IN AUTOTUTELA DELLA DELIBERA DI GIUNTA MUNICIPALE N.116 DEL 19/04/2024 DI COLLOCAMENTO A RIPOSO DEL DIPENDENTE SIG. MAIRO GABRIELE</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8779</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8779</guid>
     </item>
   </channel>
 </rss>
