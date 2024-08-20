@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Autorizzazione alla collocazione di autoemoteca ed interdizione alla sosta in Marina di Ginosa il giorno 22 Agosto 2024 - AVIS Ginosa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31518</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31518</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Costi di smaltimento RUI/CSS, ristoro ambientale, tributo speciale e  trasporto del rifiuto biostabilizzato da discarica (EER 19.05.01.) presso l'impianto gestito da Italcave S.p.A.  liquidazione competenze luglio 2024 a favore di CISA Spa. CIG 243720090E.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31517</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31458</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31458</guid>
-    </item>
-    <item>
-      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
-      <description>Elenco dati relativi agli immobili e alle opere realizzati abusivamente. Luglio 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31455</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31455</guid>
     </item>
   </channel>
 </rss>
