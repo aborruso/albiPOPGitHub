@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/08/2024 | Determinazioni Dirigenziali</title>
+      <description>Lavoro straordinario del personale dipendente del I Settore per l'anno 2024  Impegno di spesa</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8841</link>
+      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8841</guid>
+    </item>
+    <item>
       <title>21/08/2024 | Deliberazioni Di Giunta</title>
       <description>Interventi straordinari e indifferibili per pulitura urgente delle caditoie e dei tombini di raccolta acque bianche, nella località Patti Marina. Assegnazione risorse.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8840</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8806</link>
       <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8806</guid>
-    </item>
-    <item>
-      <title>Determine Dirigenziali Di Liquidazione | LIQUIDAZIONE FATTURA N.60/2021 - DITTA:  ALAK  s.r.l."</title>
-      <description>"SERVIZIO DI TRASPORTO E CONFERIMENTO FANGHI IN IMPIANTO DI COMPOSTAGGIO E SMALTIMENTO VAGLIO E SABBIE IN IMPIANTO AUTORIZZATO PROVENIENTI DALLA GESTIONE DELL'IMPIANTO DI DEPURAZIONE. - </description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8805</link>
-      <pubDate>12/08/2024	Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8805</guid>
     </item>
   </channel>
 </rss>
