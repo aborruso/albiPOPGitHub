@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>Relazione annuale del Sindaco sullo stato di attuazione del programma ai sensi dell'art. 17 della L.R. n. 7 del 26.08.1992 e ss.mm.ii. Valutazion...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28393</link>
+      <pubDate>Fri, 23 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28393</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n. 11 del 03/08/2024 per intervento di manutenzione in somma urgenza necessari per il ripristino della funzionalità della condotta idrica che da Calabrò raggiunge il serbatoio Croce...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28392</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28364</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28364</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Affidamento alla ditta VM AGENCY GROUP SRL per la fornitura dei servizi connessi alla realizzazione della Mostra " I Siciliani nel mondo" - Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28363</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28363</guid>
     </item>
   </channel>
 </rss>
