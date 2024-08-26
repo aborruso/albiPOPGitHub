@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>APPROVAZIONE REGOLAMENTO COMUNALE CRITERI E MODALITA' PER L'ATTUAZIONE DELLA CESSIONE DI CUBATURE E/O TRASFERIMENTO DI VOLUMETRIA E LA DELOCALIZZAZIONE NELLE ZONE OMOGENEE PER ECCETTO DELLA ZONA "A" DEL P.R.G. DI CUI ALL'ART.22 DELLA L.R. N.16 DEL 10.08.2016 COSI' COME MODIFICATO DALL'ART.17 DELLA L.R. N.23 DEL 06.08.202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28397</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28397</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>Autorizzazione al Sindaco a resistere tramite legale avverso l'atto stragiudiziale proposto dalla Società OMISSIS c/ Comune di Castelbuon...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28396</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28368</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28368</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Revoca Delibera di Giunta Municipale n. 29 del 19/04/2015 ad oggetto: "Adesione del Comune di Castelbuono all'Associazione Borghi Autentici d'Italia...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28367</link>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28367</guid>
     </item>
   </channel>
 </rss>
