@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>AVVISO DI ERRATA CORRIGE DELIBERA DI C.C. N. 20 DEL 07/06/2024 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28403</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28403</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>AVVISO DI ERRATA CORRIGE DELIBERA DI C.C. N. 22 DEL 07/06/2024 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28402</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28402</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n. VE002735 del 30/07/2024 per intervento di manutenzione in somma urgenza necessari per il ripristino della funzionalità della condotta idrica che da Calabrò raggiunge il serbatoio Croce.                - Ditta Sicil Condotte S.r.l. con sede a Misterbianco (CT...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28401</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28373</link>
       <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28373</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione retta giornaliera per utenza ospite C/o Comunità Alloggio di accoglienza di II livello. Periodo: luglio-agosto 2024- Integrazione retta mese di gennaio 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28372</link>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28372</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>" VARIANTE PER LA MODIFICA AL VIGENTE ART.  34 DELLE N.T.A.", ADOTTATA CON DELIBERA DI CONSIGLIO COMUNALE N 63 DEL 22.12.2023...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28371</link>
-      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28371</guid>
     </item>
   </channel>
 </rss>
