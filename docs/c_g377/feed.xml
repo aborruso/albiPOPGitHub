@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/08/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZIO DI TRASPORTO E CONFERIMENTO FANGHI IN IMPIANTO DI COMPOSTAGGIO E SMALTIMENTO VAGLIO E SABBIE IN IMPIANTO AUTORIZZATO PROVENIENTI DALLA GESTIONE DELL'IMPIANTO DI DEPURAZIONE. LIQUIDAZIONE FATTURA N.47/2024 DITTA:  ALAK  s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8877</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8877</guid>
+    </item>
+    <item>
       <title>30/08/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' IGIENE PUBBLICA - SETTEMBRE 2024 - TURNI SABATO MATTINA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8876</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8843</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8843</guid>
-    </item>
-    <item>
-      <title>22/08/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Trasferimento componenti tariffarie UI1, UI2, UI3 e UI4 applicate al servizio idrico integrato a favore del CSEA. Ruolo secondo semestre 2022.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8842</link>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8842</guid>
     </item>
   </channel>
 </rss>
