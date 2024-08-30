@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/08/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' IGIENE PUBBLICA - SETTEMBRE 2024 - TURNI SABATO MATTINA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8876</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8876</guid>
+    </item>
+    <item>
+      <title>30/08/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>POSTA CERTIFICATA: Invio per posta elettronica: Avviso completo</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8875</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8875</guid>
+    </item>
+    <item>
       <title>30/08/2024 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8874</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8842</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8842</guid>
-    </item>
-    <item>
-      <title>22/08/2024 | Determinazioni Dirigenziali</title>
-      <description>Lavoro straordinario del personale dipendente del I Settore per l'anno 2024  Impegno di spesa</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8841</link>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8841</guid>
-    </item>
-    <item>
-      <title>21/08/2024 | Deliberazioni Di Giunta</title>
-      <description>Interventi straordinari e indifferibili per pulitura urgente delle caditoie e dei tombini di raccolta acque bianche, nella località Patti Marina. Assegnazione risorse.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8840</link>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8840</guid>
     </item>
   </channel>
 </rss>
