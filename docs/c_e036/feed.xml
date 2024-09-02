@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato sulle strade del territorio comunale interessate da lavori/servizi di pulizia ordinaria e straordinaria  per il giorno 3 settembre 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31597</link>
+      <pubDate>Mon, 02 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31597</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>A V V I S O P U B B L I C O RILASCIO PERMESSO DI COSTRUIRE Aloia Domenica.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31596</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31537</link>
       <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31537</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Rimborso al Comune di Santeramo per permessi fruiti da Amministratore Comunale nel I semestre 2024 ai sensi dell'art. 1 c. 536 L. 213/2023</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31536</link>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31536</guid>
     </item>
   </channel>
 </rss>
