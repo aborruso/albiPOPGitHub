@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione contributo  in favore dell'Associazione Sportiva Supergiovane Castelbuon...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28429</link>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28429</guid>
+    </item>
+    <item>
       <title>Elenco Di Polizia Giudiziaria</title>
       <description>ABUSIVISMO EDILIZIO-MESE AGOSTO-RISCONTRO NEGATIVO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28428</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28402</link>
       <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28402</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n. VE002735 del 30/07/2024 per intervento di manutenzione in somma urgenza necessari per il ripristino della funzionalità della condotta idrica che da Calabrò raggiunge il serbatoio Croce.                - Ditta Sicil Condotte S.r.l. con sede a Misterbianco (CT...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28401</link>
-      <pubDate>Wed, 28 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28401</guid>
     </item>
   </channel>
 </rss>
