@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/09/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 202400857 del 06-09-2024 CIG Z233DBACDF beneficiario Halley sud s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8940</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8940</guid>
+    </item>
+    <item>
       <title>09/09/2024 | Avvisi Vari</title>
       <description>AVVISO - PUBBLICAZIONE CIRCOLARE N. 18 DEL 30/08/2024 -PROCEDURE PER LA FORNITURA GRATUITA DEI LIBRI DI TESTO LEGGE 448/98 -    ANNO SCOLASTICO 2024/2025.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8939</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8906</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8906</guid>
-    </item>
-    <item>
-      <title>04/09/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione fornitura di energia elettrica ENEL ENERGIA nei locali comunali PERIODO LUGLIO 2024 E CONGUAGLI PERIODI VARI .-</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8905</link>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8905</guid>
     </item>
   </channel>
 </rss>
