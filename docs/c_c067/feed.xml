@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>PUBBLICAZIONE ED EVASIONE RICHIESTA MANODOPERA FORESTALE DISTR. N. 9...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28483</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28483</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>LIQUIDAZIONE COOP. SOCIALE SIKANIA PER RICOVERO DEL SIG. R. M. PRESSO COMUNITA' ALLOGGIO PER ANZIANI "ANNI D'ARGENTO" DI CAMPOFELICE DI ROCCELLA. PERIODO: AGOSTO 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28482</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28456</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28456</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione alla Ingham srl per fornitura  coppe e targhe per la premiazione della 24^ ediz. del Concorso Nazionale di Fotografia Città di Castelbuono  Premio giovani Fotoriflettendo "Momò Calascibetta" svoltosi dal 29 luglio al 4 agosto 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28455</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28455</guid>
     </item>
   </channel>
 </rss>
