@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Proposta di rettifica degli elaborati del P.P.T.R. ai sensi dell'art. 104 delle NTA del PPTR  Domenico Ranaldo - PEC del 13.2.2024. Comunicazione ai sensi dell'art. 9 della L.N. n.241/1990.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31648</link>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31648</guid>
+    </item>
+    <item>
       <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
       <description>Elenco dati relativi agli immobili e alle opere realizzati abusivamente Agosto 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31647</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31589</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31589</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione in favore dell' Associazione Radio CB Help 27 SER ODV ETS per il servizio di salvataggio a mare ed assistenza alla balneazione-stagione balneare 2024-reso fino alla data del 31.07.2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31588</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31588</guid>
     </item>
   </channel>
 </rss>
