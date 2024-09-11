@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
+      <description>Elenco dati relativi agli immobili e alle opere realizzati abusivamente Agosto 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31647</link>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31647</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Determina di affidamento incarico legale in favore dell'Avv. Giuseppe Misserini in relazione ad un Ricorso dinanzi alla Corte di Cassazione-Sezione Unite- ex art. 111 comma 8 Cost. del S. avverso la sentenza n. 4480/2024 del Consiglio di Stato.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31646</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31588</link>
       <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31588</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa e liquidazione acconto del contributo economico concesso in favore dell'Associazione Gruppo Carnevale Marinese APS per il progetto culturale denominato "25x100 verso la 40° edizione del Carnevale Marinese- tra Storia, Cultura e Tradizione!".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31587</link>
-      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31587</guid>
     </item>
   </channel>
 </rss>
