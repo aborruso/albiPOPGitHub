@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/09/2024 | Pubblicazioni Di Matrimonio</title>
+      <description>Pubblicazione di matrimonio Scardino - Denarda</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8976</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8976</guid>
+    </item>
+    <item>
+      <title>13/09/2024 | Ordinanze Dirigenziali</title>
+      <description>Viabilità in occasione Tindari Rally - Patti Marina 21 e 22 settembre 2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8975</link>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8975</guid>
+    </item>
+    <item>
       <title>12/09/2024 | Determinazioni Dirigenziali</title>
       <description>LAVORI DI AMPLIAMENTO SCUOLA MEDIA PIRANDELLO - OPERE DI COMPLETAMENTO - CUP C41E14000580006 -  DETERMINA A CONTRARRE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8974</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8942</link>
       <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8942</guid>
-    </item>
-    <item>
-      <title>10/09/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RIPRISTINO DI FUNZIONAMENTO SISTEMA AVVISATORE ACUSTICO MAREMOTO NEI 4 PUNTI DISLOCATI NEL TERRITORIO DI PATTI. DITTA: SIKURSYSTEM S.R.L.S. LIQUIDAZIONE FATTURA N. V00058 del 08.08.2024 CIG: B27FC4A268</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8941</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8941</guid>
-    </item>
-    <item>
-      <title>09/09/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione  fattura n 202400857 del 06-09-2024 CIG Z233DBACDF beneficiario Halley sud s.r.l.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8940</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8940</guid>
     </item>
   </channel>
 </rss>
