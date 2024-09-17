@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Approvazione prima perizia di variante PV2, ai sensi del comma 1 lett. c) dell'art. 106 del D.Lgs. 50/2016 e s.m.i., relativa ai lavori di Recupero e ristrutturazione dellex cine teatro "Le Fontanelle" finalizzato alla costituzione di uno spazio polifunzional...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28549</link>
+      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28549</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N.125: GIORNO 17/09/2024 DIVIETO DI TRANSITO IN VIA COLLEGIO MARIA FINO AL TERMINE DEI LAVORI DI ALLESTIMENTO PONTEGGIO PER LAVORI IN VIA COLLEGIO MARIA...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28548</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28522</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28522</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Servizio di manutenzione degli impianti della pubblica illuminazione distribuiti all'interno del perimetro del centro urbano del comune di Castelbuono - Importo del servizio inferiore ad   5.000,00. Nomina quale  RUP  il dipendente comunale assegnato a questo Settore Istruttore Tecnico Giuseppe Allegra....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28521</link>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28521</guid>
     </item>
   </channel>
 </rss>
