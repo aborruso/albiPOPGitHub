@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lo svolgimento della manifestazione podistica denominata "Genusia Spartan Gara ad Ostacoli" - Ginosa 22 settembre 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31750</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31750</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Revoca istituzione di "Zona Disco" in C.so V. Emanuele  Modifica Ordinanza n. 67 del 16.11.2019</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31749</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31686</link>
       <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31686</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura per integrazione retta ricovero utente presso la comunità C.a.s.a.     B.i.t. di Nociglia (Le) gestita dalla Health Sol Levante cooperativa sociale. Periodo AGOSTO 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31685</link>
-      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31685</guid>
     </item>
   </channel>
 </rss>
