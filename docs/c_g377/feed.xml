@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/09/2024 | Avvisi Vari</title>
+      <description>AVVISO .LAVORI DI DEMOLIZIONE E RICOSTRUZIONE LOCULI COMPROMESSI DAL DISSESTO MURO IN AREA CIMITERIALE SCALA D IPATTI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9011</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9011</guid>
+    </item>
+    <item>
       <title>20/09/2024 | Determinazioni Dirigenziali</title>
       <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER L'ACQUISTO VESTIARIO OPERATORI ECOLOGICI E ATTREZZATURE PER LA MANUTENZIONE DEL CIMITERO COMUNALE DEL CENTRO.                                                                                                                                           DITTA: F.E.P. S.r.l.s. di Palmeri Giuseppe CIG: B3195C1938</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9010</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8976</link>
       <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8976</guid>
-    </item>
-    <item>
-      <title>13/09/2024 | Ordinanze Dirigenziali</title>
-      <description>Viabilità in occasione Tindari Rally - Patti Marina 21 e 22 settembre 2024</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8975</link>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=8975</guid>
     </item>
   </channel>
 </rss>
