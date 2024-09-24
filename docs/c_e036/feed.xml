@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>RICHIESTA DI DEPOSITO ATTI N. 20 ALLA CASA COMUNALE ART. 143</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31802</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31802</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fatture in favore della Coop. Soc. "ADAM" per servizio prestato di Assistenza Domiciliare Integrato (A.D.I.) - Mesi di marzo, aprile e maggio 2024  CIG  87594617E2</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31801</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31743</link>
       <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31743</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Mobilità volontaria compensativa o per interscambio di personale tra il Comune di Ginosa, il Comune di Policoro e il Comune di Pisticci.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31742</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31742</guid>
     </item>
   </channel>
 </rss>
