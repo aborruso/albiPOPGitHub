@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura n. 206/PA del 30/08/2024 ditta MIT SERVIZI SRL per il servizio di scansione esiti notifiche accertamenti TARI 201...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28611</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28611</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione fattura Immedia s.p.A. n. 00020240730 del 12/06/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28610</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28610</guid>
+    </item>
+    <item>
       <title>Determinazione Del Segretario Generale</title>
       <description>Liquidazione per fornitura targa toponomastica per nuova area di circolazione denominata Vicolo dei Nebrod...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28609</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28584</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28584</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>APPROVAZIONE RENDICONTO SPESE ECONOMATO MARZO/APRILE 2024 E RIMBORSO DI £493,20 AL DIRETTORE ECONOMO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28583</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28583</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>LIQUIDAZIONE IN FAVORE DI MOGER ARTE E CULTURA - SOC. COOP. SOC. ONLUS CON SEDE A CASTELBUONO (PA), IN VIA P.PE UMBERTO,5 PER COMPARTECIPAZIONE DEL MUSEO CIVICO ALLE SPESE PER LA REALIZZAZIONE DELL'EVENTO"CASTELBUONO CLASSICA 2024"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28582</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28582</guid>
     </item>
   </channel>
 </rss>
