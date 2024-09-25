@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2274/C - P. di C. n. 036/2024 ROMA ANTONIETTA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31803</link>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31803</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>RICHIESTA DI DEPOSITO ATTI N. 20 ALLA CASA COMUNALE ART. 143</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31802</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31744</link>
       <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31744</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Decreto interministeriale 29 luglio 2022 "Fondo per l'inclusione delle persone con disabilità" -  Delibera di Giunta Regionale 1918/2022. CUP: D51J23000340001. Approvazione avviso</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31743</link>
-      <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31743</guid>
     </item>
   </channel>
 </rss>
