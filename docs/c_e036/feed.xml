@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO DI PUBBLICAZIONE PLANIMETRIE AGGIORNATE DALL'UFFICIO TECNICO.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31837</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31837</guid>
+    </item>
+    <item>
       <title>Delibera C.c.</title>
       <description>LAVORI DI SOMMA URGENZA AI SENSI DELL'ART. 140 DEL DECRETO LEGISLATIVO 36/2023 RELATIVI ALL'EVENTO METEOROLOGICO DEL 4 AGOSTO 2024. RICONOSCIMENTO DEL DEBITO FUORI BILANCIO AI SENSI DEGLI ARTT. 191 C. 3 E 194 C. 1 LETT. E) DEL D. LGS. 267/2000 E S.M.I.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31836</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31778</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31778</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di pulizia e custodia dei bagni pubblici comunali - Liquidazione del corrispettivo per il mese di agosto 2024 - C.I.G. ZC63B96678</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31777</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31777</guid>
     </item>
   </channel>
 </rss>
