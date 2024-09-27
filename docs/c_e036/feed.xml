@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Convenzione Gestione Associata CUC Unione Comuni Montedoro. Esecuzione. Autorizzazione Ach. Rosa Giacomobello.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31838</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31838</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>AVVISO DI PUBBLICAZIONE PLANIMETRIE AGGIORNATE DALL'UFFICIO TECNICO.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31837</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31779</link>
       <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31779</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Centro Antiviolenza "Rompiamo il silenzio" Associazione SUD EST DONNE rendicontazione mesi da Marzo al Agosto 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31778</link>
-      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31778</guid>
     </item>
   </channel>
 </rss>
