@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>SERVIZIO REFEZIONE SCOLASTICA - AFFIDAMENTO DIRETTO FORNITURA DI PRODOTTI VEGETALI FRESCHI (FRUTTA E VERDURA) - LEGUMI  - DITTA GAGLIANO SILVESTRO  -  PERIODO 02/10/2024  -  30/12/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28670</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28670</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>SERVIZIO DI REFEZIONE SCOLASTICA - AFFIDAMENTO DIRETTO FORNITURA DI PRODOTTI CARNEI OCCORRENTI ALLA DITTA GIACONIA S.R.L. - PERIODO 02/10/2024 - 31/12/202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28669</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28669</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 128: FESTEGGIAMENTI MADONNA DEL ROSARIO...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28668</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28643</link>
       <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28643</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione alla ditta VM AGENCY GROUP SRL per la fornitura dei servizi connessi alla realizzazione della Mostra " I Siciliani nel mondo" - Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28642</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28642</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione  in favore del musicista Bevilacqua Gabbrio per partecipazione al concerto "La Notte dei Fiati" svoltasi il 10 agosto c/o il comune di Giuliana nell'ambito del Castelbuono Jazz Festival 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28641</link>
-      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28641</guid>
     </item>
   </channel>
 </rss>
