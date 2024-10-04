@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/10/2024 | Ordinanze Dirigenziali</title>
+      <description>PROVVEDIMENTO DI IRROGAZIONE DI SANZIONE PECUNIARIA (Art. 31 comma 4-bis D.P.R. n. 380/2001 e s.m.i.)</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9104</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9104</guid>
+    </item>
+    <item>
       <title>04/10/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE LAVORO STRAORDINARIO NELL'AMBITO DEL PROGETTO PIANO DI ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLE RISORSE DELLA QUOTA SERVIZI DEL FONDO POVERTÀ ANNUALITÀ 2021- DISTRETTO SOCIO SANITARIO N. 30. CUP C49G23000490001  MESI DI LUGLIO, AGOSTO E SETTEMBRE 2024.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9103</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9069</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9069</guid>
-    </item>
-    <item>
-      <title>30/09/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI "PER LA RIGENERAZIONE ED IL COMPLETAMENTO DELL'IMPIANTO SPORTIVO GEPY FARANDA" MEDIANTE LADEGUAMENTO E MESSA IN SICUREZZA DELLA PISTA DI ATLETICA LEGGERA, DELL'IMPIANTO DI ILLUMINAZIONE E DEI LOCALI SPOGLIATOI  I STRALCIO.-  CUP: D42H17000050001 - CIG: 98403208F2. -  LIQUIDAZIONE FATTURA AL I° SAL. -  IMPRESA: TOMASELLO GROUP S.R.L.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9068</link>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9068</guid>
     </item>
   </channel>
 </rss>
