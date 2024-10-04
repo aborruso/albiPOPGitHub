@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione dei Solenni Festeggiamenti in onore di Maria SS del Rosario e dei Santi Medici in Ginosa dal 4 al 13 ottobre 2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31885</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31885</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>AUTORIZZAZIONE AL FUNZIONAMENTO CODICE PRATICA F9GJ0V1 - COOPERATIVA ALIMA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31883</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31825</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31825</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per concessione contributi in favore delle Confraternite organizzatrici delle feste patronali del mese di Ottobre 2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31824</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31824</guid>
     </item>
   </channel>
 </rss>
