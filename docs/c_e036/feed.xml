@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Concessione contributo economico in favore di L3 S.r.l.s. - Explovery Terra delle Gravine- per la partecipazione al TTG Travel Experience - Fiera di Rimini, 9-11 Ottobre 2024, nell' Area Espositori.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31888</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31888</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA TORTORELLA NELLA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31887</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31827</link>
       <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31827</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Determina di liquidazione del saldo del contributo economico concesso in favore dell' Associazione S.S.D. A.R.L. Volley Castellaneta, per l'organizzazione e la realizzazione della manifestazione sportiva denominata "Torneo Nazionale di Beach Volley, Beach 1 Circuito Apulia Cup 2024".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31826</link>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31826</guid>
     </item>
   </channel>
 </rss>
