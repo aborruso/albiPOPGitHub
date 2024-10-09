@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/10/2024 | Ordinanze Sindacali</title>
+      <description>Smaltimento carcassa bovina</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9154</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9154</guid>
+    </item>
+    <item>
       <title>09/10/2024 | Atti Di Interesse Generale</title>
       <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9153</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9120</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9120</guid>
-    </item>
-    <item>
-      <title>07/10/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI URGENTI ED INDIFFERIBILI PER IL RIPRISTINO DI ALCUNI TRATTI DI RETE FOGNARIA  DEL TERRITORIO COMUNALE, MEDIANTE L'AUSILIO DI AUTOESPURGO. DITTA: CRISAFULLI ANTONINA LIQUIDAZIONE FATTURA N. 43_24 DEL 28.09.2024 CIG: B2C577BB5F </description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9119</link>
-      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9119</guid>
     </item>
   </channel>
 </rss>
