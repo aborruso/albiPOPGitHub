@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO di selezione per l'attribuzione delle progressioni economiche all'interno delle Aree.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31911</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31911</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fattura di saldo in favore della ditta Faames srl - Servizio di verifica, controllo e manutenzione degli estintori antincendio in dotazione agli immobili comunali. - CIG: B230822E63.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31910</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31851</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31851</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento del Servizio di trattamento rifiuti biodegradabili ad ASECO Spa e impegno di spesa.  CIG: B33862E316</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31850</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31850</guid>
     </item>
   </channel>
 </rss>
