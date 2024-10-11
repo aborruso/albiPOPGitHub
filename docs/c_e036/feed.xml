@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2280/C - P. di C. n. 037/2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31918</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31918</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>DEPOSITO CASA COMUNALE Verbale: N. 970845/2024/V Pr. 25306/2024/V del 20/05/2024 JAOUAD EJJILALI.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31917</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31858</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31858</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione saldo per l'utilizzo della piattaforma tecnologica "Bonuspesa.it" per lerogazione di un contributo straordinario per il sostegno al pagamento delle utenze domestiche di energia elettrica/o gas e per lerogazione di voucher per la partecipazione a corsi di formazione- D.G.C. n. 281/2023 e D.D. n.404/2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31857</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31857</guid>
     </item>
   </channel>
 </rss>
