@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/10/2024 | Ordinanze Sindacali</title>
+      <description>ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C) PER STATO DI EMERGENZA IN RELAZIONE ALLA SITUAZIONE DI GRAVE DEFICIT IDRICO IN ATTO NEL TERRITORIO DELLA CITTA' DI PATTI.-  </description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9189</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9189</guid>
+    </item>
+    <item>
       <title>11/10/2024 | Determinazioni Dirigenziali</title>
       <description>Impegno somme Progetto Piano di Attuazione Locale (PAL) programmazione risorse QSFP 2022 Distretto Socio Sanitario n. 30. CUP C41H24000040001 </description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9188</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9155</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9155</guid>
-    </item>
-    <item>
-      <title>09/10/2024 | Ordinanze Sindacali</title>
-      <description>Smaltimento carcassa bovina</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9154</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9154</guid>
     </item>
   </channel>
 </rss>
