@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>VERBALE DI CONSTATAZIONE DELLO STATO DI ABBANDONO DI VEICOLO A MOTORE (AI SENSI DEL D. M. 460/99)</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31961</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31961</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PER IRREPERIBILI EX ART.14 L.R. N. 3 DEL 2005 - PROCEDURA ESPROPRIATIVA DEGLI IMMOBILI NECESSARI ALLA REALIZZAZIONE DELL'INTERVENTO DENOMINATO LAVORI DI REALIZZAZIONE DI UNA ROTATORIA TRA LA EX SS 580</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31960</link>
+      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31960</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  I Finestra - Codice Pratica  MSERBA4N (anticipo 20%)</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31959</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31902</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31902</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento diretto art. 50, co. 1, lett. b) del d.lgs. n. 36/2023 del servizio di "Educativa di strada e contrasto a fenomeni patologici e alle dipendenze". Aggiudicazione ed impegno spesa. CIG: B34497AD14.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31901</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31901</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura alla Società Office Line Srl per la fornitura di materiale di pulizia per i servizi igienici dell'Ente.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31900</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31900</guid>
     </item>
   </channel>
 </rss>
