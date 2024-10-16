@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Ricovero disabile psichico presso Comunità Alloggio "Il Carrubbo" con sede a Bagheri...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28809</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28809</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Trasferimento n° 2 minori unitamente alla madre presso  casa di accoglienza per gestanti e donne con figl...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28808</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28808</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 137: GIORNO 19 E GIORNO 24 OTTOBRE 2024 DIVIETO DI SOSTA CON RIMOZIONE FORZATA E DI TRANSITO NEL PIAZZALE DI VIA BENEDETTO ALESSANDRO, ECCETTO I VEICOLI AUTORIZZATI  PER ESAMI DI GUIDA...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28807</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28782</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28782</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore dell'Assessore Annalisa Genchi per la missione effettuata a Torino dal 29 settembre al 1 ottobre 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28781</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28781</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE COMPENSO AL RAG. ANDREA FERRANTE QUALE COMPONENTE DEL COLLEGIO DEI REVISORI DEI CONTI - PERIODO 01/07/2024 AL 30/09/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28780</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28780</guid>
     </item>
   </channel>
 </rss>
