@@ -26,7 +26,7 @@ jobs:
         chmod +x scrape
         chmod +x rsspls
         sudo apt-get install xmlstarlet
-        sudo pip install --user yq
+        pip install --user yq
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}

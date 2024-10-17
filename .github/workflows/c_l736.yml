@@ -24,7 +24,7 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install xmlstarlet
-#        sudo pip install --user yq
+#        pip install --user yq
 #        sudo pip install goodtables
     - name: scarica i dati e crea feed
       env:
