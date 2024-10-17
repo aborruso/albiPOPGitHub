@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione di varie manifestazioni in Ginosa dal 19.10 al 10.11.2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31980</link>
+      <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31980</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Avviso pubblico finalizzato all'acquisizione delle manifestazioni di interesse per le azioni di incremento della capacità degli ATS di rispondere alle esigenze dei cittadini, garantendo adeguati Servizi Sociali alla Persona e alla Famiglia- triennio 2025-2027. Presa d'atto delibera Coordinamento Istituzionale n. 12/2024. Impegno alla assunzione.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31979</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31919</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31919</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire In Sanatoria</title>
-      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2280/C - P. di C. n. 037/2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31918</link>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31918</guid>
     </item>
   </channel>
 </rss>
