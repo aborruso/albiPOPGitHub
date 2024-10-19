@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Chiusura per tutti i plessi scolastici di qualsiasi ordine e grado, pubblici e privati, degli asili nido, pubblici e privati, centri diurni, centri anziani, nonché della frequenza delle attività scolastiche e di formazione superiore, presenti sull'intero territorio del Comune di Ginosa (TA) per ALLERTA METEO ARANCIONE prevista per il giorno 19.10.2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32022</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32022</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Cattura cane vagante sul territorio di Ginosa alla via S. D'acquisto per Solferino.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32021</link>
       <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31961</link>
       <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31961</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>AVVISO PER IRREPERIBILI EX ART.14 L.R. N. 3 DEL 2005 - PROCEDURA ESPROPRIATIVA DEGLI IMMOBILI NECESSARI ALLA REALIZZAZIONE DELL'INTERVENTO DENOMINATO LAVORI DI REALIZZAZIONE DI UNA ROTATORIA TRA LA EX SS 580</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31960</link>
-      <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31960</guid>
     </item>
   </channel>
 </rss>
