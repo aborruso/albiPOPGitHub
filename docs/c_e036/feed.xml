@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della solennità di San Leonardo e della festività di Ognissanti in Ginosa  periodo dal 26.10.2024 al 06.11.2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32026</link>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32026</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Sentenza Consiglio di Stato 4480/2024. Procedura selettiva finalizzata all'assegnazione delle concessioni demaniali marittime per finalità turistico-ricreative e sportive del territorio costiero del Comune di Ginosa. Presa d'atto del Decreto-Legge 16 Settembre 2024 n.131. Indirizzi operativi.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32025</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31967</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31967</guid>
-    </item>
-    <item>
-      <title>Delibere Coordinamento Istituzionale</title>
-      <description>Approvazione della Relazione Sociale anno 2023 - Piano Sociale di Zona 2022-2024. DCI n. 11/2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31966</link>
-      <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=31966</guid>
     </item>
   </channel>
 </rss>
