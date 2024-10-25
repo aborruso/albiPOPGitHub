@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Impegno spesa in favore dell'Agenzia SIAE di Cefalù per i diritti  d'autore per gli eventi che si svolgeranno  nell'ambito del Castelbuono Funghi Fest  26/27 ottobre 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28903</link>
+      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28903</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>PROVVEDIMENTO UNICO - PERMESSO DI COSTRUIRE N. 3 - 6 /2024 DEL 09 OTTOBRE 2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28902</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28872</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28872</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Liquidazione spese di lite - a seguito di riconoscimento di DFB, ex art. 194 c. 1 lett. a) del TUEL - in favore dell'Avv. Massimiliano Fiasconaro, legale del sig. OMISSIS nella causa intrapresa c/ Comune di Castelbuon...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28871</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28871</guid>
     </item>
   </channel>
 </rss>
