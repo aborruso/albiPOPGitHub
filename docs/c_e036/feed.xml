@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina della circolazione stradale in dipendenza di lavori di realizzazione di allacciamenti di utenza e del prolungamento di tronchi idrici e fognanti nell'abitato di Marina di Ginosa - dal 04 al 26.11.2024 - Ditta Petito Costruzioni Srl - Salice Salentino (LE).</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32113</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32113</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Atto di ricognizione ambito progetto "misura 1.4.4. - estensione dell'utilizzo delle piattaforme nazionali di identita' digitale - spid cie - comuni (aprile 2022)" - m1c1 pnrr investimento 1.4 servizi e cittadinanza digitale" finanziato dall'unione europea  nextgenerationeu</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32112</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32053</link>
       <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32053</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo concesso all' Associazione "Il filo delle arti" per "La festa dell'arte".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32052</link>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32052</guid>
     </item>
   </channel>
 </rss>
