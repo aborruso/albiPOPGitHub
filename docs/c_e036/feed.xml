@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della sosta in Via Della Pace  per il periodo dal 01 al 03 novembre 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32143</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32143</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della celebrazione del "4 novembre" e del convegno "Educare alla Legalità"  Ginosa e Marina di Ginosa 4 e 5 novembre 2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32142</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32142</guid>
+    </item>
+    <item>
+      <title>Decreto</title>
+      <description>DECRETO DI NOMINA ASSESSORE COMUNALE E DELEGHE ASSESSORILI (ART. 46, D.LGS. N. 267/2000)</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32141</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32141</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>CONSERVAZIONE DEL CATASTO TERRENI VERIFICHE QUINQUENNALI ART.118 E119 DEL REGOLAMENTO 8.12.1938 N. 2153 ANNO 2024 PUBBLICAZIONE MANIFESTI COMUNI DI MARTINA FRANCA, CRISPIANO, MONTEMESOLA [ENTRATE|AGEDP-TA|REGISTRO UFFICIALE|145383</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32140</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32084</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32084</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di spedizione atti giudiziari per notifica violazioni amministrative al C.d.S. Liquidazione di spesa alla Ditta SAILPOST SpA 56019 Vecchiano (PI) - CIG B20292BB46.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32083</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32083</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Trattativa diretta tramite piattaforma MEPA con unico operatore economico per fornitura ed installazione di segnaletica stradale. CIG.: A03347E842. Liquidazione di spesa in favore della Ditta Segnaletica 3000 S.r.l. corrente in Matera.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32082</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32082</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Servizio di spedizione atti giudiziari per notifica violazioni amministrative al C.d.S. Liquidazione di spesa alla Ditta SAILPOST SpA 56019 Vecchiano (PI) - CIG B20292BB46.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32081</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32081</guid>
     </item>
   </channel>
 </rss>
