@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>CONSERVAZIONE DEL CATASTO TERRENI VERIFICHE QUINQUENNALI ART.118 E119 DEL REGOLAMENTO 8.12.1938 N. 2153 ANNO 2024 PUBBLICAZIONE MANIFESTI COMUNI DI MARTINA FRANCA, CRISPIANO, MONTEMESOLA [ENTRATE|AGEDP-TA|REGISTRO UFFICIALE|145383</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32140</link>
+      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32140</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE BONELLI MARIA CARMELA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32139</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32081</link>
       <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32081</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>"Servizio di pulizia e disinfestazione da guano di piccione presso l'immobile sito in C.so Vittorio Emanuele n. 92 di proprietà della Fondazione Asilo Infantile Domenico Perrone" - Liquidazione alla Ditta New V.G.A. Multiservice s.r.l.s. di Ginosa (TA) - CIG: B32264D1E5</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32080</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32080</guid>
     </item>
   </channel>
 </rss>
