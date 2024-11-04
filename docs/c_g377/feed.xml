@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/11/2024 | Avvisi Deposito Atti</title>
+      <description>Avviso deposito atti.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9324</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9324</guid>
+    </item>
+    <item>
+      <title>04/11/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Approvazione conto della gestione dell'Economo relativo al periodo dal 01/08/2024 al 28/09/2024 - Rimborso all'Economo delle spese pagate e rendicontate.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9323</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9323</guid>
+    </item>
+    <item>
       <title>04/11/2024 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>PRONTA DISPONIBILITA' SERVIZIO VETERINARIO MESE DI NOVEMBRE 2024</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9322</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9290</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9290</guid>
-    </item>
-    <item>
-      <title>28/10/2024 | Ordinanze Sindacali</title>
-      <description>Proroga T.S.O.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9289</link>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9289</guid>
-    </item>
-    <item>
-      <title>25/10/2024 | Deliberazioni Di Giunta</title>
-      <description>ADOZIONE DELLO SCHEMA DEL PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2024-2026 E DELL'ELENCO ANNUALE DEI LAVORI PER LANNO 2024.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9288</link>
-      <pubDate>Fri, 25 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9288</guid>
     </item>
   </channel>
 </rss>
