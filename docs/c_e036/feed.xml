@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Rettifica decreto sindacale n. 25 del 29-10-2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32179</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32179</guid>
+    </item>
+    <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 65 POSTE TARANTO</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32178</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32178</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2593/C - P. di C. n. 042/2024 Nigro Luigi e De Leonardis Rosa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32176</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32119</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32119</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>IMPEGNO DI SPESA  PER LA FORNITURA DI MATERIALE INFORMATIVO RELATIVO AL PROGETTO DI S.C.U. " PIANETA GIOVANI 2023".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32118</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32118</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>APPROVAZIONE DISCIPLINARE PER LA EROGAZIONE DEL CONTRIBUTO PER L'ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE NEGLI EDIFICI PRIVATI E RALATIVI MODELLI DI DOMANDA</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32117</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32117</guid>
     </item>
   </channel>
 </rss>
