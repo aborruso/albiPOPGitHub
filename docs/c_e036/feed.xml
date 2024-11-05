@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Rende Noto relativo all'istanza di Ricerca [codice Derivazione Sotterranea: 64631, codice richiesta: RIC-31758-2024]</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32187</link>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32187</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>"RIFUNZIONALIZZAZIONE ED ADEGUAMENTO DI UN ALA DEL PLESSO SCOLASTICO EX SCUOLA "G. CARDUCCI" DI GINOSA AL FINE DI OSPITARE UN ASILO NIDO.", con CUP: D33C24000660001, finanziato con fondi del PNRR Missione 4 Istruzione e ricerca  Componente 1 Potenziamento dell'offerta dei servizi di istruzione: dagli asili nido alle Università  Investimento 1.1 Piano per asili nido e scuole dellinfanzia e servizi di educazione e cura per la prima infanzia</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32186</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32127</link>
       <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32127</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Accertamento entrate corrispettivi CoReVe per la raccolta differenziata di rifiuti d'imballaggio in vetro  Periodo settembre 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32126</link>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32126</guid>
     </item>
   </channel>
 </rss>
