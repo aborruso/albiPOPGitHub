@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>Approvazione del Progetto esecutivo relativo i Lavori di scerbatura della vegetazione spontanea dell'alveo del torrente San Calogero nel Comune di Castelbuono...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28953</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28953</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Lavori di scerbatura della vegetazione spontanea dell'alveo del torrente San Calogero nel Comune di Castelbuono. Nomina R.U.P. (Responsabile Unico del Progetto)...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28952</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28926</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28926</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Piano Nazionale di Ripresa e Resilienza M1C1 - Investimento 1.4 "Servizi e cittadinanza digitale" Misura 1.4.5 Piattaforma Notifiche Digitali (Comuni - settembre 2022) finanziato dall'Unione Europea Next Generation EU.  Liquidazione a favore di PagoPA S.p.A. di n. 2 fatture per spese di notifiche digitali tramite piattaforma SEN...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28925</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28925</guid>
     </item>
   </channel>
 </rss>
