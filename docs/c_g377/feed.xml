@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/11/2024 | Ordinanze Dirigenziali</title>
+      <description>Viabilità per potatura alberi in via Gorizia</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9362</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9362</guid>
+    </item>
+    <item>
       <title>05/11/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>INTERVENTI URGENTI ED INDIFFERIBILI PER IL SERVIZIO DI PRELIEVO, TRASPORTO E SMALTIMENTO RIFIUTI PROVENIENTI DAL CANILE COMUNALE SITO NELLA CONTRADA MULINELLO. - CIG B13E57EA04 -  LIQUIDAZIONE FATTURA n°200/2024 -  IMPRESA: MIDURI S.R.L.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9361</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9328</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9328</guid>
-    </item>
-    <item>
-      <title>04/11/2024 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Borse di Studio " Antonio Pisani Caccia  Anno scolastico 2019/2020. Erogazione seconda rata alla Signora Spatola Ester Letizia Grazia</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9327</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9327</guid>
     </item>
   </channel>
 </rss>
