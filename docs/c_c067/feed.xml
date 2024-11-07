@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA SINDACALE N.151 DEL 07/11/2024  AREA PER LA SOSTA AD PERSONAM TITOLARE CONTRASSEGNO DISABILUI N.503...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28977</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28977</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA N.150 DEL 07/11/2024 "FLASH MOB" GIORNO 9 NOVEMBRE 2024 DIVIETO DI TRANSITO  NELL'A.P.U.  PER TUTTI I VEICOLI COMPRESI QUELLI AUTORIZZATI   DALLE ORE 17:00 FINO AL TERMINE DELLA MANIFESTAZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28976</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28976</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>IMPEGNO SPESA POSTALIZZAZIONE FATTURE SERVIZIO IDRICO INTEGRATO RUOLO SALDO 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28975</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28949</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28949</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE FATTURA N. 12/PA DEL 27/09/2024 PROT. N. 21247/24 - AMALTEA ONLU...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28948</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28948</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>CENSIMENTO PERMANENTE DELLA POPOLAZIONE E DELLE ABITAZIONI 2024 ISTAT  RILEVAZIONE DA LISTA - IMPEGNO DI SPESA E ACCERTAMENTO D'ENTRAT...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28947</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=28947</guid>
     </item>
   </channel>
 </rss>
