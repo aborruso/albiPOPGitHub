@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>BANDO PUBBLICO PER L'ASSEGNAZIONE DI N.102 (CENTODUE) DISPONIBILITÀ DI NUOVE AUTORIZZAZIONI PER L'ESERCIZIO DELL'ATTIVITÀ DI CONSULENZA PER LA CIRCOLAZIONE DEI MEZZI DI TRASPORTO NEI COMUNI</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32249</link>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32249</guid>
+    </item>
+    <item>
       <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
       <description>Elenco dati relativi agli immobili e alle opere realizzati abusivamente Ottobre 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32248</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32189</link>
       <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32189</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>RENDE NOTO ANGELA PASCALE  CDS 64631  PRATICA 2607</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32188</link>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32188</guid>
     </item>
   </channel>
 </rss>
