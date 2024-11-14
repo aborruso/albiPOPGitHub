@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/11/2024 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito e di sosta nella via Playa il giorno 22 novembre 2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9427</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9427</guid>
+    </item>
+    <item>
       <title>14/11/2024 | Determinazioni Dirigenziali</title>
       <description>Concessione assegno di Maternità ai sensi dell'art. 66 della legge 23 dicembre 1998 n. 448   e successive modifiche ed integrazioni.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9426</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9393</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9393</guid>
-    </item>
-    <item>
-      <title>11/11/2024 | Determinazioni Dirigenziali</title>
-      <description>REALIZZAZIONE DI STRUTTURE COMMERCIALI SPECIALIZZATE PER LA VENDITA DI PRODOTTI AGRICOLI E ZOOTECNICI E DELLA FILIERA AGRO-ALIMENTARE -  APPROVAZIONE QUADRO ECONOMICO FINALE AMMISSIBILE ALLE AGEVOLAZIONI DEL PATTO TERRITORIALE</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9392</link>
-      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9392</guid>
     </item>
   </channel>
 </rss>
