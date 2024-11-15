@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibere Coordinamento Istituzionale</title>
+      <description>Quota Servizi Fondo Povertà: gestione dell'attività di rafforzamento dei servizi di segretariato sociale. Delega ai comuni dell'Ambito Territoriale TA/1. DCI n. 15/2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32335</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32335</guid>
+    </item>
+    <item>
       <title>Bando Pubblico</title>
       <description>II° AVVISO DI VENDITA DR PUGLIA E BASILICATA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32334</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32276</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32276</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Daniele Ambiente Srl per conferimento rifiuti CER 17.09.04 ottobre 2024 - CIG: B0E26C7DE8.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32275</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32275</guid>
     </item>
   </channel>
 </rss>
