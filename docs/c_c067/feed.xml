@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Aggiornamento e proroga graduatoria per l'assegnazione in concessione di lotti cimiteriali liberi ubicati nell'ampliamento del cimitero comunale. Anno 2024-202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29065</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29065</guid>
+    </item>
+    <item>
       <title>Determina Del Direttore  Museo Civico</title>
       <description>LIQUIDAZIONE IN FAVORE DELLA DOTT.SSA ROSSELLA BARRECA PER INCARICO PROFESSIONALE DI "RESPONSABILE COMUNICAZIONE E GRAFICA" , MESE DI OTTOBRE 2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29064</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29038</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29038</guid>
-    </item>
-    <item>
-      <title>Bando</title>
-      <description>BANDO PUBBLICO per l'assegnazione delle risorse previste dal Fondo di sostegno ai comuni marginali per l'annualità 2023 - terza annualit...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29037</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29037</guid>
     </item>
   </channel>
 </rss>
