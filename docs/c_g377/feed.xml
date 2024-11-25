@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/11/2024 | Atti Elettorali</title>
+      <description>POSTA CERTIFICATA: 0051383/24 TRASMISSIONE D.P. N.568/GAB REGIONE SICILIA RINVIO ELEZIONI AMMINISTRATIVE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9490</link>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9490</guid>
+    </item>
+    <item>
       <title>22/11/2024 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9489</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9456</link>
       <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9456</guid>
-    </item>
-    <item>
-      <title>20/11/2024 | Deliberazioni Del Consiglio Comunale</title>
-      <description>PROGETTO PER LA COSTRUZIONE DI UN EDIFICIO DA DESTINARE ALLA MENSA SCOLASTICA PRESSO L'IC N.3 "LOMBARDO RADICE" - PLESSO DI PIAZZA XXV APRILE - DISCUSSIONE E MOZIONE.-</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9455</link>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9455</guid>
     </item>
   </channel>
 </rss>
