@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della solennità di Maria SS Immacolata in Ginosa e Marina di Ginosa 08.12.2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32447</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32447</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Autorizzazione alla collocazione di autoemoteca ed interdizione alla sosta in Marina di Ginosa il giorno 03  Dicembre 2024 - AVIS Ginosa</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32446</link>
+      <pubDate>Wed, 27 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32446</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Appalto integrato del servizio di progettazione definitiva/Esecutiva e dell'esecuzione dei lavori di realizzazione di un "ASILO NIDO IN VIA F.LLI MATERANO A GINOSA " Finanziamento PNRR - CUP: D35E22000270006. - CIG: 97606241BC. Presa datto della trasformazione del Consorzio Stabile OPERA S.c.a.r.l." in Consorzio Stabile OPERA S.c.p.a.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32445</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32388</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32388</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Avviso pubblico - Indagine di mercato per l'affidamento diretto del servizio di elaborazione pratiche ex UMA</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32383</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32383</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Convocazione Consiglio Comunale in data 28.11.2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32382</link>
-      <pubDate>Fri, 22 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32382</guid>
     </item>
   </channel>
 </rss>
