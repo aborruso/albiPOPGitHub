@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/11/2024 | Atti Di Interesse Generale</title>
+      <description>ESERCITAZIONE DI EMERGENZA NELLA GALLERIA FERROVIARIA DEL TINDARI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9530</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9530</guid>
+    </item>
+    <item>
+      <title>29/11/2024 | Ordinanze Dirigenziali</title>
+      <description>Ordinanza divieto di transito e di sosta per lavori sulla via Fonderia, Palissy, Mascagni e Cilea</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9529</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9529</guid>
+    </item>
+    <item>
       <title>29/11/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione fornitura cartellonistica turistica ditta Tecnosistemi di Bastino Domenico</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9528</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9496</link>
       <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9496</guid>
-    </item>
-    <item>
-      <title>26/11/2024 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1, LETT. B) DEL D.LGS N. 36 del 31/03/2023  ED IMPEGNO DI SPESA PER LA MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETÀ COMUNALE   DITTA: FIORAVANTI RAFFAELE  - CIG B46F10A84F</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9495</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9495</guid>
-    </item>
-    <item>
-      <title>26/11/2024 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1, LETT. B) DEL D.LGS N. 36 del 31/03/2023  ED IMPEGNO DI SPESA PER LA MANUTENZIONE E RIPARAZIONE DEGLI AUTOMEZZI DI PROPRIETÀ COMUNALE   DITTA: FRANCO LEMBO S.R.L.  - CIG B46E799DBB</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9494</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9494</guid>
     </item>
   </channel>
 </rss>
