@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Conferimento incarichi ai Consiglieri comunali ex art. 22 dello Statuto comunale e conferma della delega funzioni ex art 20 dello Statuto comunale e art. 54 del D. Lgs. 267/2000</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32471</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32471</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Noleggio, installazione, montaggio, smontaggio, ad esclusione del collegamento elettrico, della fornitura di energia e della vigilanza delle luminarie natalizie, nei centri abitati di Ginosa e Marina di Ginosa" dal giorno 05.12.2024 al 06.01.2025 - CIG B40D31538C - AUTORIZZAZIONE AL SUBAPPALTO</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32470</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32412</link>
       <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32412</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>AVVISO DI MANIFESTAZIONE DI INTERESSE AD INVITO A PROCEDURA NEGOZIATA EX ART. 50, COMMA 1, LETT. E) DEL D.LGS. N. 36/2023, PER L'AFFIDAMENTO DEL "SERVIZIO DI INTEGRAZIONE SCOLASTICA ED EXTRASCOLASTICA IN FAVORE DI ALUNNI DIVERSABILI RESIDENTI NEI COMUNI DELL'AMBITO TERRITORIALE SOCIALE DI GINOSA (TA) PER L'A.S. 2024/2025  APPROVAZIONE AVVISO PUBBLICO E SCHEMA DI MANIFESTAZIONE DI INTERSSE.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32411</link>
-      <pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32411</guid>
     </item>
   </channel>
 </rss>
