@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
+      <description>Elenco dati relativi agli immobili e alle opere realizzati abusivamente NOVEMBRE2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32621</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32621</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Raccordi in entra - esce alla nuova CP "Ginosa" dall'elettrodotto 150 kV Matera 380  Ginosa Marina. (EL-596) Deposito progetto in formato digitale.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32620</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32562</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32562</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Approvazione progetto di fattibilità tecnico economico "Ginosa Ciclabile". Autorizzazione al Sindaco alla presentazione della domanda di sostegno e nomina RUP.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32561</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32561</guid>
     </item>
   </channel>
 </rss>
