@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/12/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura di generi alimentari per il servizio di refezione per l'Asilo Nido Comunale M. Faranda.  Mese di novembre 2024. Liquidazione Ditta Marino 1959 s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9689</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9689</guid>
+    </item>
+    <item>
       <title>10/12/2024 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI ALL'ALBO ELENCO N 12.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9688</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9655</link>
       <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9655</guid>
-    </item>
-    <item>
-      <title>06/12/2024 | Deliberazioni Di Giunta</title>
-      <description>Approvazione del Piano Integrato di Attività e Organizzazione 2024-2026 - ai sensi dell'art. 6 del DL n. 80/2021, convertito con modificazioni in Legge n. 113/2021</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9654</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9654</guid>
     </item>
   </channel>
 </rss>
