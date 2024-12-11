@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione di varie manifestazioni natalizie in Ginosa  12, 14 e 15.12.2024.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32629</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32629</guid>
+    </item>
+    <item>
+      <title>Delibera C.c.</title>
+      <description>Approvazione Piano Diritto allo Studio 2025 (A. 2024 - 2025).</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32628</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32628</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Approvazione dello schema di Bilancio di Previsione Finanziario 2025/2027 (Art. 11 D.lgs. 118/2011) e della Nota di aggiornamento al Documento Unico di Programmazione 2025/2027 (Art. 170, comma 1, del D.lgs. 267/2000)</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32627</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32570</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32570</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Conferma pianta organica delle farmacie presenti sul territorio comunale  Anno 2024. Revisione effettuata ai sensi dell'art. 2 comma 2 della Legge 475/1968, modificata dallart. 11 della Legge 27/2012.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32568</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32568</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Appello avverso la sentenza n. 2678/2024 del Tribunale di Taranto.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32567</link>
-      <pubDate>Fri, 06 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32567</guid>
     </item>
   </channel>
 </rss>
