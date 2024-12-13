@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>13/12/2024 | Ordinanze Dirigenziali</title>
+      <description>Divieto temporaneo di sosta per lavori corso Matteotti</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9755</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9755</guid>
+    </item>
+    <item>
+      <title>13/12/2024 | Atti Di Interesse Generale</title>
+      <description>ELENCO RAPPORTI E ORDINANZE DI SOSPENSIONE DI ILLECITI EDILIZI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9754</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9754</guid>
+    </item>
+    <item>
+      <title>13/12/2024 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito temporaneo per lavori sulla via Magretti</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9753</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9753</guid>
+    </item>
+    <item>
       <title>12/12/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Fornitura di derrate alimentari e materiale vario  per il servizio di refezione. Mese di novembre 2024. Liquidazione Ditta Marino 1959 s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9752</link>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9721</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9721</guid>
-    </item>
-    <item>
-      <title>11/12/2024 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per transazione con l'Avv. Andrea Pirri per il pagamento dei compensi n.q. di legale incaricato dall'Ente a seguito giudizi definiti. Controversie Balletta, Buzzanca, Chiella, Fallo +1, Miracola + 1, Ocera +2, Orlando, Rossi, Rufa.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9720</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9720</guid>
-    </item>
-    <item>
-      <title>11/12/2024 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per riconoscimento danni da sinistro Sig. Fallo Salvatore Gaetano.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9719</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9719</guid>
-    </item>
-    <item>
-      <title>11/12/2024 | Deliberazioni Di Giunta</title>
-      <description>Assegnazione risorse per riconoscimento danni da sinistro Sig. Costanzo Nicola.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9718</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9718</guid>
     </item>
   </channel>
 </rss>
