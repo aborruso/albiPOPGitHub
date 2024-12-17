@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso Deposito Atti Rev.Sem.Mod.1...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29437</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29437</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Concessione assegno di maternità ex art. 66 L.N. 448/9...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29436</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29436</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>PSR SICILIA 2014/2020 MISURA 7 SOTTOMISURA 7.5 Sostegno a investimenti di fruizione pubblica in infrastrutture ricreative, informazioni turistiche su piccola scala - ATS Basse Madonie "Insieme si può". Lavori di riqualificazione del campo di calcetto in Contrada Chiannara del Comune di Gratteri. CUP (Finanziamento D.D.S. n. 1348 del 15/04/2021): G34E17008650009 - CUP (Progetto): H34E17000310006. CIG: B25983573F. Liquidazione S.A.L. n. 1 (fattura n. FATTPA 20_24 del 16/12/2024). Impresa Vinci Sport s.r.l., con sede legale in Via San Biagio, snc, 98069, Sinagra (ME), P.IVA: 03133260830...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29435</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29410</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29410</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Accertamento somme Riparto 2024- Piano infanzia D.lgs 65/201...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29409</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29409</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Variazione al Bilancio 2024 mediante applicazione avanzo vincolato ai sensi dell'art 175 d.lgs 267/2000 e s.m.i. e ll'art.30, comma 1. lettera c) del Regolamento comunale di contabilità.- Erogazione contributi fascia 0-6 Piano Infanzi...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29408</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29408</guid>
     </item>
   </channel>
 </rss>
