@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOSITO CASA COMUNALE Verbale nr. V/5635V/2024  - JAOUAD EJJILALI -</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32714</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32714</guid>
+    </item>
+    <item>
       <title>Decreto</title>
       <description>Modifica orari degli uffici e servizi comunali per le festività natalizie. Anticipo rientro pomeridiano degli uffici comunali del 24 dicembre 2024 e 31 dicembre 2024 a lunedì 23 dicembre 2024 e lunedì 30 dicembre 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32713</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32653</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32653</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Delibera di Giunta Regionale 220/2020 del 25/02/2020 e 861 del 19-06-2023- Piano Regionale delle Politiche Familiari- A.D. n. 852/2023- Interventi per il benessere delle famiglie numerose. Approvazione graduatoria definitiva. CUP: B69G23001460002.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32652</link>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32652</guid>
     </item>
   </channel>
 </rss>
