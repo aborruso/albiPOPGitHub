@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione di varie manifestazioni natalizie in Ginosa e Marina di Ginosa  periodo dal 20.12.2024 al 06.01.2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32765</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32765</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Accertamento risorse concessione contributo ai Comuni per il soddisfacimento del fabbisogno dal 02/03/2023 al 01/03/2024  Legge 9 gennaio 1989, n. 13 "Disposizioni per favorire il superamento e l'eliminazione delle barriere architettoniche negli edifici privati".</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32764</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32706</link>
       <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32706</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Piano di lottizzazione di iniziativa privata per il comparto n. 8 (già C.5.3) in Marina di Ginosa (TA) a firma dei tecnici Ing. Paolo Magrini, Ing. Salvatore D'Alonzo, Ing. Mario Mele e Geom. Venturino Giannico e Geom. Cosimo Di Tinco. ADOZIONE</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32705</link>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32705</guid>
     </item>
   </channel>
 </rss>
