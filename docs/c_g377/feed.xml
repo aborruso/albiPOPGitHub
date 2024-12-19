@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/12/2024 | Deliberazioni Del Comitato Dei Sindaci</title>
+      <description>DELIBERAZIONE DEL COMITATO DEI SINDACI N.4 DEL 17/12/2024</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9847</link>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9847</guid>
+    </item>
+    <item>
       <title>19/12/2024 | Determinazioni Dirigenziali</title>
       <description>Autorizzazione lavoro straordinario nell'ambito del progetto Piano di Attuazione Locale (PAL) per la programmazione delle risorse della Quota servizi del Fondo Povertà annualità 2022 Distretto Socio Sanitario n. 30. CUP C41H24000040001</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9846</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9813</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9813</guid>
-    </item>
-    <item>
-      <title>17/12/2024 | Manifestazioni Di Interesse</title>
-      <description>AVVISO ESPLORATIVO finalizzato ad acquisire manifestazioni di interesse all'affidamento della concessione del servizio di Trasporto Pubblico Locale della Città di Patti.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9812</link>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9812</guid>
     </item>
   </channel>
 </rss>
