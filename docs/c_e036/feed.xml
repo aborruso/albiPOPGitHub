@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Convocazione Consiglio Comunale in data 30.12.2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32777</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32777</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>RENDENOTOPOZZO_65907 ANTONELLI PAOLO COMUNE DI GINOSA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32776</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32776</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Convocazione III Commissione Consigliare in data 27.12.2024</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32775</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32775</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Ricorso al Tar Lecce società B spa. Costituzione in giudizio.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32774</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32717</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32717</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Ricorso dinanzi al Giudice di Pace di Taranto Sig.ra M.O. Costituzione in giudizio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32716</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32716</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Presa d'atto dimissioni volontarie di dipendente con contratto a tempo pieno e indeterminato, con profilo professionale di Istruttore Amministrativo-Contabile, Area Istruttori.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32715</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32715</guid>
-    </item>
-    <item>
-      <title>Art. 143 Cpc</title>
-      <description>DEPOSITO CASA COMUNALE Verbale nr. V/5635V/2024  - JAOUAD EJJILALI -</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32714</link>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32714</guid>
     </item>
   </channel>
 </rss>
