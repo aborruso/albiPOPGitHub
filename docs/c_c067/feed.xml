@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>PROVVEDIMENTO UNICO PERMESSO DI COSTRUIRE N° 46/2024 DEL 20 DICEMBRE 2024...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29499</link>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29499</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Approvazione lista di carico saldo TARI 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29498</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29472</link>
       <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29472</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>PROPOSTA CONTRIBUTI DA EROGARE AI CIRCOLI ANZIAN...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29471</link>
-      <pubDate>Thu, 19 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29471</guid>
     </item>
   </channel>
 </rss>
