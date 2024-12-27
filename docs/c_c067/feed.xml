@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Consiglio</title>
+      <description>APPROVAZIONE DEL BILANCIO DI PREVISIONE FINANZIARIO 2025 - 2027 (ART. 151, D.LGS. N. 267/2000 E ART. 10, D.LGS. N. 118/2011...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29527</link>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29527</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Acquisto di ulteriori 1500 contatori idrici dotati di telelettura nel rispetto della direttiva 2014/32/UE per le utenze del servizio idrico integrato mediante adesione all'Accordo Quadro tra il Comune di Castelbuono e lUnione dei Comuni Madonie alla Ditta Information Development and Automation s.r.l in sigla I.D.E.A.  - Nomina RUP, determina a contrarre, impegno spesa e affidamento diretto   ai sensi dell'art. 50 c.1 lett. b) del D.Lgs. 36/2023.  CUP: H36C20000020004 Comune di Castelbuono  --  CUP: B37J22000030006 Unione Madonie ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29526</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29500</link>
       <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29500</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire</title>
-      <description>PROVVEDIMENTO UNICO PERMESSO DI COSTRUIRE N° 46/2024 DEL 20 DICEMBRE 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29499</link>
-      <pubDate>Mon, 23 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29499</guid>
     </item>
   </channel>
 </rss>
