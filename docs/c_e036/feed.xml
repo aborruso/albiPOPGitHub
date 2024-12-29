@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 01 DONNO VINCENZO</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32807</link>
-      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32807</guid>
-    </item>
-    <item>
       <title>Determinazione</title>
       <description>Reddito di Dignità Regionale - L.R.3/2016 e Reg. Reg. 8/2016 e ss.mm.i. D.G.R. n. 688/2020- A.D. n. 403/2020. Azioni di sistema. Omologazione della spesa.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32806</link>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32747</link>
       <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32747</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>"Incarico professionale per la redazione di progetto di fattibilità tecnico economica di cui all'Avviso pubblico per la selezione di interventi finalizzati alla realizzazione di reti percorsi ciclabili e o ciclopedonali in aree urbane e suburbane - BURP n. 74 del 12/09/2024" - Liquidazione alla Ditta Città Fertile Società Tra Professionisti Società Cooperativa a responsabilità limitata con sede in Lecce - CIG: B44EBEDC0C</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32746</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32746</guid>
     </item>
   </channel>
 </rss>
