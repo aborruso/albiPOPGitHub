@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/12/2024 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Rimborso somme anticipate dal dipendente in nome e per conto del Comune di Patti.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9972</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9972</guid>
+    </item>
+    <item>
       <title>31/12/2024 | Determinazioni Dirigenziali</title>
       <description>PROGRESSIONE ECONOMICA ORIZZONTALE DEL PERSONALE DIPENDENTE - APPROVAZIONE GRADUATORIA E ATTRIBUZIONE PROGRESSIONI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9971</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9938</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9938</guid>
-    </item>
-    <item>
-      <title>31/12/2024 | Determinazioni Dirigenziali</title>
-      <description>MANIFESTAZIONE "NATALE A PATTI 2024"  D.D.S. N. 3465/S6 DEL 29/10/2024 - I.D.P. ASSESSORATO REGIONALE DEL TURISMO, DELLO SPORT E DELLO SPETTACOLO. IMPEGNO DI SPESA</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9937</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9937</guid>
     </item>
   </channel>
 </rss>
