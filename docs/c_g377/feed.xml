@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/01/2025 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Relazione redatta da Sindaco di Patti, ai sensi della Legge Regionale 26 agosto 1992 n.7 così come modificata dalla Legge Regionale 28 dicembre 2014 n.17 e dall'art.119 della Legge Regionale 31 gennaio 2024 n.3 pubblicata nel GURS del 03.02.2024, sullo stato di attuazione del programma e dell' attività svolta, nonché sui fatti particolarmente rilevanti - periodo Marzo - Dicembre 2024 - Discussione.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9973</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9973</guid>
+    </item>
+    <item>
       <title>31/12/2024 | Determine Dirigenziali Di Liquidazione</title>
       <description>Rimborso somme anticipate dal dipendente in nome e per conto del Comune di Patti.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9972</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9939</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9939</guid>
-    </item>
-    <item>
-      <title>31/12/2024 | Determinazioni Dirigenziali</title>
-      <description>MANIFESTAZIONE "NATALE CON GUSTO  2024". INIZIATIVA FINANZIATA DALL'ASSESSORATO REGIONALE  DELLAGRICOLTURA, DELLO SVILUPPO RURALE E DELLA  PESCA MEDITERRANEA  DIPARTIMENTO REGIONALE DELLAGRICOLTURA  D.A. N. 16/GAB/2024 - IMPEGNO DI SPESA</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9938</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9938</guid>
     </item>
   </channel>
 </rss>
