@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>ADOZIONE DEL PIANO PER L'ELIMINAZIONE DELLE BARRIERE ARCHITETTONICHE NEL TERRITORIO COMUNALE DI CASTELBUONO (PA) (P.E.B.A....</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29576</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29576</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>ISCRIZIONE NELLA LISTA DI LEVA DEI GIOVANI NATI NELL'ANNO 2008...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29575</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29575</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>Approvazione sistema di graduazione della retribuzione di posizione del Segretario Generale del Comune di Castelbuono (art. 60 del CCNL 16.07.2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29574</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29548</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29548</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Emissione avvisi di accertamento per omesso pagamento della TARI 201...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29547</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29547</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>RIMBORSO SOMME INDEBITAMENTE VERSATE AL COMUNE DI CASTELBUONO DALLA DITTA CAPUANA &amp; GENTILE PER IMU 2015 -imp. di spes...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29546</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29546</guid>
     </item>
   </channel>
 </rss>
