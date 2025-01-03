@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione di manifestazione natalizia in Marina di Ginosa  Concerto de La Combriccola di Boe - 06.01.2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32897</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32897</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Accertamento entrate corrispettivi COMIECO per la raccolta differenziata di rifiuti d'imballaggio a base cellulosica  Periodo novembre 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32895</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32835</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32835</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Legge 21.11.2000, n. 353 e s.m.i. "Legge-quadro in materia di incendi boschivi". AGGIORNAMENTO CATASTO DELLE AREE PERCORSE DAL FUOCO NELL'ANNO 2023.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32834</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32834</guid>
     </item>
   </channel>
 </rss>
