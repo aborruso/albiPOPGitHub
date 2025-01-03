@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/01/2025 | Determinazioni Dirigenziali</title>
+      <description>Approvazione/parificazione conto della gestione reso dall'Economo Comunale per l'esercizio finanziario 2023.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9992</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9992</guid>
+    </item>
+    <item>
+      <title>03/01/2025 | Ordinanze Dirigenziali</title>
+      <description>Chiusura lungomare C. Zuccarello in occasione festività Epifania</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9991</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9991</guid>
+    </item>
+    <item>
       <title>02/01/2025 | Deliberazioni Del Consiglio Comunale</title>
       <description>Art. 194, comma 1, lett.e) del TUEL - Riconoscimento di legittimità del debito fuori bilancio per l'esecuzione di lavori ausilio autoespurgo, riparazione condotte idriche, posa in opera impianto sollevamento, sistemazione Piazzetta Via Rossini, messa in sicurezza edificio Sciacca Baratta.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9990</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9958</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9958</guid>
-    </item>
-    <item>
-      <title>31/12/2024 | Deliberazioni Di Giunta</title>
-      <description>RETTIFICA "VERBALE DI PRESA D'ATTO DOCUMENTO SULLA PARTECIPAZIONE (All. A) DEMOCRAZIA PARTECIPATA  ANNUALITA 2024 (ART. 6 COMMA 1  L.R. 5/2014 E SS.MM.II..) ASSEGNAZIONE RISORSE", APPROVATO CON DELIBERAZIONE DI GIUNTA MUNICIPALE N. 488 DEL 27/12/2024 RELATIVAMENTE AL RESTAURO DEL DIPLOMA DI FERDINANDO III DEL 1806</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9957</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9957</guid>
-    </item>
-    <item>
-      <title>31/12/2024 | Deliberazioni Di Giunta</title>
-      <description>PROSECUZIONE INTERVENTI IN FAVORE DEI SOGGETTI IMPEGNATI IN ATTIVITÀ SOCIALMENTE UTILI CON ONERI A CARICO DEL BILANCIO REGIONALE DALL'01/01/2025 AL 31/12/2025.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9956</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9956</guid>
     </item>
   </channel>
 </rss>
