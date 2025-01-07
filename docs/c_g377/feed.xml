@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/01/2025 | Ordinanze Sindacali</title>
+      <description>T.S.O.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10001</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10001</guid>
+    </item>
+    <item>
       <title>03/01/2025 | Determinazioni Dirigenziali</title>
       <description>Anticipazione a Favore dell'Economo di cui all'art. 15 del vigente regolamento comunale per il servizio economato - Impegno di spesa relativo alla somma presumibilmente occorrente nell'esercizio finanziario 2025 per gli acquisti tramite il servizio economato.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10000</link>
@@ -57,13 +64,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9994</link>
       <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9994</guid>
-    </item>
-    <item>
-      <title>03/01/2025 | Deliberazioni Di Giunta</title>
-      <description>AUTORIZZAZIONE PER L'OPPOSIZIONE AL RICORSO EX ART. 700 C.P.C. CON RICHIESTA DI EMISSIONE DI DECRETO INAUDITA ALTERA PARTE DAVANTI AL TRIBUNALE DI PATTI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9993</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9993</guid>
     </item>
     <item>
       <title>03/01/2025 | Deliberazioni Di Giunta</title>
