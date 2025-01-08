@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>A V V I S O P U B B L I C O RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica 325/NC  Permesso di Costruire n. 001/2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32898</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32898</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione di manifestazione natalizia in Marina di Ginosa  Concerto de La Combriccola di Boe - 06.01.2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32897</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32836</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32836</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per proroga affidamento servizio di pulizia di vari immobili comunali. Mese di gennaio 2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32835</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32835</guid>
     </item>
   </channel>
 </rss>
