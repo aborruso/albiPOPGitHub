@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 01: GIORNO 13/01/2025 E FINO AL TERMINE DEI LAVORI DIVIETO DI TRANSITO IN VICOLO DEGLI ANGELI E  L'ISTITUZIONE TEMPORANEA DI N. 2 STALLI DI SOSTA RISERVATI, RISPETTIVAMENTE ALLE CONCESSIONI NN. 236 E 339, IN LARGO PARROCCHIA N. 22.  PER LAVORI DI MANUTENZIONE STRAORDINARIA NELLA CHIESA PARROCCHIALE S. NATIVITA' (MATRICE NUOVA)...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29581</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29581</guid>
+    </item>
+    <item>
+      <title>Regolamento</title>
+      <description>NUOVO REGOLAMENTO PER L'APPLICAZIONE DELL'IMPOSTA DI SOGGIORNO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29580</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29580</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Incarico medico competente per tutto il  2025...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29579</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29553</link>
       <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29553</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>Impegno di spesa per rinnovo licenza software imposta di soggiorno alla Ditta Proxima s.r.l...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29552</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29552</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Approvazione Quadro Tecnico Economico finale (a lavori ultimati e contabilizzati) inerente i lavori di "Realizzazione del manto erboso in erba sintetica del campo di calcio Luigi Failla Comune di Castelbuono" CUP: H38H2000028000...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29551</link>
-      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29551</guid>
     </item>
   </channel>
 </rss>
