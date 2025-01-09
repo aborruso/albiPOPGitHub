@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/01/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>CONTROVERSIA TRA IL COMUNE DI PATTI E LA R.T.I. ITINERA S.P.A. (capogruppo) - PISCIOTTA COSTRUZIONI s.r.l. (mandante). LIQUIDAZIONE FATTURE</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10018</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10018</guid>
+    </item>
+    <item>
       <title>08/01/2025 | Ordinanze Sindacali</title>
       <description>Rettifica Ordinanza N° 2 del 04/01/2025</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10017</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9983</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9983</guid>
-    </item>
-    <item>
-      <title>02/01/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento di legittimità del debito fuori bilancio derivante dall'acquisizione del servizio di noleggio impianto audio-video ed assistenza tecnica - Ditta Tele Service di Baragona Nicola - CIG Z7F1E9F64D</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9982</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9982</guid>
     </item>
   </channel>
 </rss>
