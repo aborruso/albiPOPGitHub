@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>ISCRIZIONE NELLA LISTA DI LEVA DEI GIOVANI NATI NELL'ANNO 2008.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32919</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32919</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Protocollo d'Intesa partenariato con Enti del Terzo Settore ai sensi dell'art. 55 del D. Lgs n. 117/2017 tra il Circolo ARCI "Il Ponte-APS" che promuove l' Università Territoriale per l' Educazione Permanente (UTEP) Maria Giannini a Ginosa e  l' AUSER che promuove l' Università Territoriale per l' Educazione Permanente (UTEP) Rosa Vizzielli a Marina di Ginosa (qui indicati semplicemente come ARCI/AUSER) e il Comune di Ginosa per interventi educativi, culturali e sociali attuati dall'Università Territoriale per l' Educazione Permanente - impegno di spesa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32918</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32859</link>
       <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32859</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Costi di smaltimento RUI/CSS, ristoro ambientale, tributo speciale e trasporto del rifiuto biostabilizzato da discarica (EER 19.05.01.) presso l'impianto gestito da Italcave S.p.A.  integrazione impegno di spesa e liquidazione competenze novembre 2024 a favore di CISA Spa. CIG 243720090E.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32858</link>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32858</guid>
     </item>
   </channel>
 </rss>
