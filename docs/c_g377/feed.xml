@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/01/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>STATO DI EMERGENZA REGIONALE, PER LA GRAVE CRISI IDRICA NEL SETTORE POTABILE - DELIBERAZIONE DEL CONSIGLIO DEI MINISTRI DEL 06/05/2024 PER LA FORNITURA DI MATERIALE ELETTRICO PER INTERVENTI STRAORDINARI, URGENTI E INDIFFERIBILI SU PARTI ELETTRICHE DEI POZZI DELLA CENTRALE IDRICA TIMETO. DITTA: SAM S.r.l. LIQUIDAZIONE FATTURA N. 1865/24 DEL 28.12.2024 CIG: B49F10061D</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10021</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10021</guid>
+    </item>
+    <item>
+      <title>09/01/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>COMPLETAMENTO TURNAZIONE E SABATO MATTINA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10020</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10020</guid>
+    </item>
+    <item>
       <title>09/01/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>TRSFERIMENTI SOMME AL MINISTERO PER LE CIE EMESSE DAL 1.12.2024 AL 31.12.,2024</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10019</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9986</link>
       <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9986</guid>
-    </item>
-    <item>
-      <title>02/01/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento debito fuori bilancio di cui all'art. 194 , comma1 lette) del D.Lgs. n. 267/2000 - spesa di cui alla fattura n.21/2014 - Ditta Fabbroelettra di Palmeri Antonino.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9985</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9985</guid>
-    </item>
-    <item>
-      <title>02/01/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento di legittimità del debito fuori bilancio derivante dall'acquisizione del servizio di noleggio impianto audio-video ed assistenza tecnica - Ditta Fabbroelettra di Palmeri Antonino.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9984</link>
-      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=9984</guid>
     </item>
   </channel>
 </rss>
