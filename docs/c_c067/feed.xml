@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 3: GIORNO 17 GENNAIO 2025 DIVIETO DI TRANSITO NEL TRATTO DI VIA ISNELLO COMPRESO TRA L'INCROCIO DI VIA ROMA E L'INCROCIO CON LA STRADA COMUNALE C/DA STALLUZZE. E NEI GIORNI 16 E 17 GENNAIO 2025 DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA ISNELLO DAL N.C. 20 AL N.C. 36  PER LAVORI VIA ISNELLO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29623</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29623</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Assegnazione definitiva dei lotti con destinazione artigianale industriale  agroalimentare  commerciale ricadenti all'interno del piano insediamenti produttivi (P.I.P.) del Comune di Castelbuono  Lotti nn.1, 2, 3.  - Presa  d'atto verbale prot. n. 12519 del 05/06/2024  - Presa d'atto e approvazione verbale prot. n. 19353 del 05/09/2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29622</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29595</link>
       <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29595</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Attività di rimozione della neve sulla strada comunale compresa tra Piano Milocca e Piano Sempria. - Approvazione verbali somma urgenza e perizie di spesa giustificative...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29594</link>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29594</guid>
     </item>
   </channel>
 </rss>
