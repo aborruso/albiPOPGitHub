@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Bando Pubblico</title>
+      <description>Bando corso I0125 CORSOBASEDI1°LIVELLO CONSELEZIONE FINALE DI MERITO PERLAFORMULAZIONEDIUNA GRADUATORIADIVALIDITÀ BIENNALE PER ISTRUTTORE AMMINISTRATIVO CONTABILE CAT. C1</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33001</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33001</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione delle fatture di AGSM AIM ENERGIA SPA per la fornitura di energia elettrica a vari immobili e siti comunali per il periodo di Novembre 2024</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33000</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32942</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32942</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione in favore della Soc. Coop. Soc "ALIMA" Determinazione Dirigenziale Crono. Sett. n.394/2023 Assistenza Educativa Domiciliare  ADE (art. 87 bis del R.R. 4/2007). MESE DI OTTOBRE 2024 (DET. IMP. 139)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32941</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32941</guid>
     </item>
   </channel>
 </rss>
