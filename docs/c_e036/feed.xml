@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Nomina di un componente con funzioni di Presidente dell' Organismo indipendente di valutazione in forma collegiale del Comune di Ginosa triennio 2024/2027.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33002</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33002</guid>
+    </item>
+    <item>
       <title>Bando Pubblico</title>
       <description>Bando corso I0125 CORSOBASEDI1°LIVELLO CONSELEZIONE FINALE DI MERITO PERLAFORMULAZIONEDIUNA GRADUATORIADIVALIDITÀ BIENNALE PER ISTRUTTORE AMMINISTRATIVO CONTABILE CAT. C1</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33001</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32943</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32943</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  II Finestra - Codice Pratica RA0PAJSD (busta paga novembre dicembre 2024 + contributi inps )</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32942</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32942</guid>
     </item>
   </channel>
 </rss>
