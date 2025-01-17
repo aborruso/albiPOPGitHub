@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/01/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA DI SCARICO. - CIG 9955856845 -  LIQUIDAZIONE FATTPA 31_2024. -   DITTA:  DELFINO EDMONDO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10096</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10096</guid>
+    </item>
+    <item>
       <title>16/01/2025 | Ordinanze Sindacali</title>
       <description>ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C) PER GESTIONE EMERGENZA METEO-IDROGEOLOGICO E IDRAULICO DEL 16/17 GENNAIO 2025  CHIUSURA SCUOLE PER IL GIORNO 17 GENNAIO P.V.-</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10095</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10062</link>
       <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10062</guid>
-    </item>
-    <item>
-      <title>14/01/2025 | Atti Di Interesse Generale</title>
-      <description>DISSEMINAZIONE INIZIALE DM 19</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10061</link>
-      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10061</guid>
     </item>
   </channel>
 </rss>
