@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
       <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA N.PA03552 ALLA DITTA COMUNICA ITALIA SRL PER SERVIZIO ALERT SYSTEM ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29672</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29672</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>AVVISO RIVOLTO A SOGGETTI DIPENDENTI ALTRE AMMINISTRAZIONI PUBBLICHE, AI SENSI DELL?ART. 116, COMMA 4 DEL D.LGV. 31.03.2023, N. 36, PER L?AFFIDAMENTO DELL?INCARICO DI COLLAUDATORE TECNICO AMMINIS .........</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29671</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29671</guid>
+    </item>
+    <item>
+      <title>Determina</title>
       <description>Liquidazione  per fornitura furgone Nissan targato EL460SK. ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29670</link>
       <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29645</link>
       <pubDate>Determina	16/01/2025	Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29645</guid>
-    </item>
-    <item>
-      <title>Bando</title>
-      <description>COMUNICAZIONE BANDI CONCORSUAL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29644</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29644</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>ALBO UNICO DELLE PERSONE IDONEE ALL'UFFICIO DI SCRUTATORE...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29643</link>
-      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29643</guid>
     </item>
   </channel>
 </rss>
