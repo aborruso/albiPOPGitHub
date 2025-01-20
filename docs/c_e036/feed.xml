@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso pubblico per l'assegnazione in concessione temporanea di posteggi per il commercio su aree pubbliche  Fiera di Santa Maria DAttoli e Fiera della Madonna del Rosario 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33028</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33028</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fattura in favore della società Parsec 3.26 S.R.L.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33027</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32969</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32969</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>AD N. 192/DIR/2023/1039 AVVISO PUBBLICO PER LA PRESENTAZIONE DELLE DOMANDE PER ACCEDERE AL "SOSTEGNO  FAMILIARE". LIQUIDAZIONE SESTO ELENCO AMMESSI E FINANZIATI: PERIODO DICEMBRE  2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32968</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=32968</guid>
     </item>
   </channel>
 </rss>
