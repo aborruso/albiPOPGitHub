@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Determinazione</title>
+      <description>Avviso Pubblico 2024 per l'assegnazione delle borse di studio comunali. Approvazione graduatorie provvisorie.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33074</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33074</guid>
+    </item>
+    <item>
       <title>Delibera C.c.</title>
       <description>I Variazione Programma triennale Lavori Pubblici 2024-2026 e del relativo elenco annuale 2024 ai sensi art. 37 del D.LGS. 36/2023 e ALL I.5.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33073</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33015</link>
       <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33015</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>AD N. 192/DIR/2023/1039 AVVISO PUBBLICO PER LA PRESENTAZIONE DELLE DOMANDE PER ACCEDERE AL " SOSTEGNO  FAMILIARE ". LIQUIDAZIONE MENSILITA' DICEMBRE 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33014</link>
-      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33014</guid>
     </item>
   </channel>
 </rss>
