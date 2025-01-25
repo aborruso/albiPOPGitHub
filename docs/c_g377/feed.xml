@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/01/2025 | Deliberazioni Di Giunta</title>
+      <description>ADOZIONE DELLO SCHEMA DEL PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2025-2027 E DELL'ELENCO ANNUALE DEI LAVORI PER L'ANNO 2025.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10166</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10166</guid>
+    </item>
+    <item>
       <title>24/01/2025 | Determinazioni Dirigenziali</title>
       <description>Rimborso oneri previdenziali, assistenziali e assicurativi agli amministratori locali ai sensi dell'art. 86 del D.Lgs. n. 267/2000 e dell'art. 22 della L.R. n. 30/2000.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10165</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10131</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10131</guid>
-    </item>
-    <item>
-      <title>21/01/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LAVORI URGENTI PER IL CONVOGLIAMENTO DELLE ACQUE METEORICHE NEL TRATTO COMPRESO TRA LA VIA TENENTE NATOLI ED IL TORRENTE MONTAGNAREALE, FINALIZZATI ALLA ELIMINAZIONE DEL RISCHIO IDRAULICO E ALL'ELIMINAZIONE DEI FENOMENI DI ALLAGAMENTO DELL'ABITATO URBANO DELLA LOCALITÀ PATTI MARINA. -  CUP C47B20000570001 - CIG 8828184FE3 -  LIQUIDAZIONE COMPETENZE TECNICHE DIREZIONE DEI LAVORI E COORDINAMENTO DELLA SICUREZZA IN FASE DI ESECUZIONE AL 1° S.A.L.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10130</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10130</guid>
     </item>
   </channel>
 </rss>
