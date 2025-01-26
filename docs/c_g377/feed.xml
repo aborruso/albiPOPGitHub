@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/01/2025 | Avvisi Vari</title>
+      <description>SCHEMA DI PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2025-2026-2027 ED ELENCO ANNUALE 2025</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10167</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10167</guid>
+    </item>
+    <item>
       <title>25/01/2025 | Deliberazioni Di Giunta</title>
       <description>ADOZIONE DELLO SCHEMA DEL PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2025-2027 E DELL'ELENCO ANNUALE DEI LAVORI PER L'ANNO 2025.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10166</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10132</link>
       <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10132</guid>
-    </item>
-    <item>
-      <title>21/01/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE FORNITURA E-ENERGIA (CONGUAGLIO FATTURE PERIODI VARI).</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10131</link>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10131</guid>
     </item>
   </channel>
 </rss>
