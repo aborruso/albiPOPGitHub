@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Piano di Azione per la Sostenibilità 2025-2027. Approvazione.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33129</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33129</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Manifestazione di interesse adesione al progetto "RECOPET"  di COREPLA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33128</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33128</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Variazione compensativa tra capitoli di spesa appartenenti allo stesso macroaggregato ai sensi dell'art. 175 comma 5 quater lettera a) del D. Lgs. n. 267/2000.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33127</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33070</link>
       <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33070</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Art. 58 D.L. 112/2008 approvato con modificazioni dalla L. 133/2008 di conversione - Approvazione Piano delle Alienazioni e Valorizzazioni per il Triennio 2025-2027.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33069</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33069</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Art. 16, comma 5  6 del DPR 6 giugno 2001, n. 380 e ss.mm.ii. e L.R. Puglia n. 6/79, 66/79, 6/85, 53/85 e ss.mm.ii. Aggiornamento dell'incidenza degli oneri di urbanizzazione primaria e secondaria e determinazione modalità di pagamento. Periodo 2025 - 2029 - Provvedimenti</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33068</link>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33068</guid>
     </item>
   </channel>
 </rss>
