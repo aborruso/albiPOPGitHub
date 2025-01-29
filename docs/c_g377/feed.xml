@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/01/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 81 del 28-01-2025 CIG B0860FA8D9 beneficiario Irisco s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10204</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10204</guid>
+    </item>
+    <item>
+      <title>29/01/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Fornitura di derrate alimentari e materiale vario  per il servizio di refezione. Mese di gennaio 2025. Liquidazione Ditta Marino 1959 s.r.l.  -</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10203</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10203</guid>
+    </item>
+    <item>
       <title>29/01/2025 | Ordinanze Dirigenziali</title>
       <description>Revoca Ordinanza Dirigente Settore Polizia Municipale N° 276 del 05.12.2024 - Chiusura al transito temporanea di un tratto della via C.F. Zuccarello</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10202</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10170</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10170</guid>
-    </item>
-    <item>
-      <title>27/01/2025 | Determinazioni Dirigenziali</title>
-      <description>FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DI PROPRIETA' COMUNALE. ADESIONE ALLA CONVENZIONE CARBURANTI RETE BUONI ACQUISTO 2 CIG MASTER: 9292449380 - CIG DERIVATO: B54A714BBA  - DITTA ENILIVE S.p.A. -</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10169</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10169</guid>
-    </item>
-    <item>
-      <title>27/01/2025 | Determinazioni Dirigenziali</title>
-      <description>Affidamento per la redazione della perizia sullo stato di salute dell'albero  di pino prospicente Villa Pisani e sugli eventuali interventi da effettuare per la sua stabilità e per garantire la salvaguardia della pubblica incolumità</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10168</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10168</guid>
     </item>
   </channel>
 </rss>
