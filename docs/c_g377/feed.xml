@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/01/2025 | Ordinanze Dirigenziali</title>
+      <description>ORDINANZA FERMO IMPIANTO (AI SENSI DELL'ART. 12 E SS. DEL DPR N. 162/99)</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10207</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10207</guid>
+    </item>
+    <item>
       <title>29/01/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Versamento alla Cassa per i Servizi Energetici e Ambientali (CSEA) delle componenti perequative UR1 e UR2 relative all'anno 2024.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10206</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10173</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10173</guid>
-    </item>
-    <item>
-      <title>27/01/2025 | Ordinanze Sindacali</title>
-      <description>Requisizione loculo Cimitero di Patti Centro</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10172</link>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10172</guid>
     </item>
   </channel>
 </rss>
