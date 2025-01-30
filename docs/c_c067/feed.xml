@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco</title>
+      <description>ELENCO M2 DASS N° 2 ...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29785</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29785</guid>
+    </item>
+    <item>
+      <title>Elenco</title>
+      <description>ELENCO M2 DASS N° 1...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29784</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29784</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>PROVVEDIMENTO UNICO - PERMESSO DI COSTRUIRE N° 1-6/2025 DEL 29 GEN. 2025...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29783</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29783</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>PNRR  M2C4  I4.2_172 -Atto di liquidazione della fattura n. 96 del 18/12/2024 emessa dall' O.E. "AKWA ENGINEERING srl" per il servizio di Direzione dellesecuzione del contratto nellambito del servizio di mappatura, ricerca perdite e modellizzazione idraulica delle reti_unità funzionale WBS-01 e riferito al secondo SAL a tutto il 28/11/2024. CUP N. B37J22000030006     CIG N.  A01674D1F2...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29782</link>
@@ -141,27 +162,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29765</link>
       <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29765</guid>
-    </item>
-    <item>
-      <title>Revisione Dinamica</title>
-      <description>Avviso deposito modello 7/D rev. II dinamic...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29764</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29764</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Oggetto: Servizio di montaggio e smontaggio di n. 1150 contatori dotati di telelettura nel rispetto della direttiva 2014/32/UE per le utenze del servizio idrico integrato.  Nomina RUP, determina a contrarre, impegno spesa e affidamento diretto ai sensi dell'art.50 c.1 lett. b) del D.Lgs. 36/2023. CUP: H36C20000020004 Comune di Castelbuono  --  CUP: B37J22000030006 Unione Madoni...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29762</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29762</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Determina  contrarre ai sensi dell'art. 17 commi 1 del D.Lgs 36/2023 e affidamento diretto ai sensi dell'art. 1 comma 450 della Legge 296/2006 per il "Servizio di manutenzione delle opere in ferro all'interno del patrimonio comunale  Anno 2025"  RdO_MePA id. 5018676 del 20/01/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29761</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29761</guid>
     </item>
   </channel>
 </rss>
