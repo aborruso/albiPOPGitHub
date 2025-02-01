@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/01/2025 | Deliberazioni Di Giunta</title>
+      <description>Approvazione avanzo presunto 2024 e determinazione quote vincolate.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10236</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10236</guid>
+    </item>
+    <item>
       <title>31/01/2025 | Determinazioni Dirigenziali</title>
       <description>Piano di Zona 2019-2020. Azione n. 4 "ADI Integrata  - I^ e II^ annualità - Interventi di assistenza domiciliare in favore dei disabili residenti nei Comuni del D.S.S. n. 30 AOD n.1  riapertura termine per presentazione istanze.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10235</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10202</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10202</guid>
-    </item>
-    <item>
-      <title>28/01/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RIMBORSO FRANCHIGIA ALLA REALE MUTUA ASSICURAZIONE IN ADEMPIMENTO ALLE CONDIZIONI DI POLIZZA N.2022/05/3048458.LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10201</link>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10201</guid>
     </item>
   </channel>
 </rss>
