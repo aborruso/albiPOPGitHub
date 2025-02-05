@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>AVVISO PUBBLICO PER SELEZIONE DI UN ESPERTO NELLA RENDICONTAZIONE DI PROGETTI PNRR...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29839</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29839</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione compensi per funzioni tecniche interne ai sensi dell'art. 45 del Decreto Lgs. 36/23.   "Castelbuono Piazze Sicure" - Progetto di videosorveglianza urbana  Patti per la sicurezza urbana...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29838</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29812</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29812</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>ACQUISTO N.4 ARMADI METALLICI PER UFFICI COMUNAL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29811</link>
-      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29811</guid>
     </item>
   </channel>
 </rss>
