@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/02/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Definizione agevolata n. identificativo "W-2023041305077158" presentata dal Comune di Patti all'Agenzia delle Entrate Riscossione ai sensi dell'art. 1, comma 231 e ss. della L. n. 197/2022- Liquidazione rate aventi scadenza nell'anno 2025.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10280</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10280</guid>
+    </item>
+    <item>
       <title>04/02/2025 | Ordinanze Sindacali</title>
       <description>Smaltimento carcassa bovino</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10279</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10246</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10246</guid>
-    </item>
-    <item>
-      <title>03/02/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Spesa danni da sinistro - sig. Gregoli Alessandro - Liquidazione.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10245</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10245</guid>
     </item>
   </channel>
 </rss>
