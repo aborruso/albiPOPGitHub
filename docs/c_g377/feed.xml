@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/02/2025 | Ordinanze Dirigenziali</title>
+      <description>Ordinanza divieto temporaneo di sosta per lavori corso Matteotti</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10308</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10308</guid>
+    </item>
+    <item>
       <title>06/02/2025 | Determinazioni Dirigenziali</title>
       <description>Approvazione Graduatoria - Servizio di Assistenza Domiciliare Anziani  ADA/SAD  In favore dei beneficiari residenti nei Comuni dell'AOD N.1 -  D. S. S. N. 30 - Azione N. 6 -  PDZ 2021</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10307</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10274</link>
       <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10274</guid>
-    </item>
-    <item>
-      <title>04/02/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA TRANSAZIONE GIUDIZIO PENDENTE TRIBUNALE DI PATTI R.G.N.457/2022. CONTROVERSIA GIUTTARI CARMELO. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10273</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10273</guid>
     </item>
   </channel>
 </rss>
