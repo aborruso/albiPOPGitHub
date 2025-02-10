@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Proroga del comando ai sensi dell'art.30, comma 2-sexies D. Lgs. n.165/2001 e s.m.i. dipendente Funzionario Amministrativo, Area Funzionari ed elevate qualificazioni presso la Prefettura - UTG Matera.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33266</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33266</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Reimmissione sul territorio del cane di proprietà del Comune di Ginosa, così identificato in anagrafe, nome Lello - microchip 380260004508961</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33265</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33265</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>RICOGNIZIONE DEI RESIDUI ATTIVI E PASSIVI AL 31/12/2024 DI COMPETENZA DEL VI SETTORE  AI FINI DELL'APPROVAZIONE DEL RENDICONTO DI GESTIONE DEL COMUNE DI GINOSA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33264</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33207</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33207</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Aggiornamento e rideterminazione del risultato presunto di amministrazione al 31 dicembre 2024 ex art. 187, comma 3, comma 3-quater e comma 3-quinquies, del D.lgs. 267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33206</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33206</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Verifica regolare tenuta Schedario Elettorale (Art. 6 T.U. 20/03/1967, n. 223 e Circ. Ministeriale n. 2600/L del 1/2/986) alla data del 31.12.2024.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33205</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33205</guid>
     </item>
   </channel>
 </rss>
