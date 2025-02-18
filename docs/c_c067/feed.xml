@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Presa atto regolamento Comunale per l'assegnazione di agevolazioni alle  famiglie con tre o più figli -. Approvazione avviso pubblico i  e modulo istanz...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29926</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29926</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>RICHIESTA AFFISSIONE ALL'ALBO PRETORIO DELL'AVVISO PUBBLICO PER LA CONCESSIONE AL PASCOLO NEI TERRENI DEL DEMANIO FORESTALE E REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE TERRITORIALE DI PALERMO ANNO 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29925</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29899</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29899</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fatt.1_PA del 09/01/2025 a saldo dello Studio associato di Geologia Torre, con sede in Petralia Sottana (PA), in C.da Paratore snc -  P.IVA: (04971150828) per la Redazione dello Studio geologico e delle indagini geognostiche relativi ai lavori per "Ampliamento edificio esistente adibito ad asilo nido di Via Mazzini finalizzato alla creazione di nuovi posti". - CUP: H38H24000480006 - CIG: B328A0E3B...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29898</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29898</guid>
     </item>
   </channel>
 </rss>
