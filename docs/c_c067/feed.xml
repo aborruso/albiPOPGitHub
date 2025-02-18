@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>RICHIESTA AFFISSIONE ALL'ALBO PRETORIO DELL'AVVISO PUBBLICO PER LA CONCESSIONE AL PASCOLO NEI TERRENI DEL DEMANIO FORESTALE E REGIONALE GESTITI DAL DIPARTIMENTO DELLO SVILUPPO RURALE TERRITORIALE DI PALERMO ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29925</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29925</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Concessione permessi ex art 33 Legge 104/92, art. 19 e 20  Legge 53/200, Circolare INPDAP n. 34 del 10.07.2000...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29924</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29898</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29898</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa quota consortile ATO rifiuti anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29897</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29897</guid>
     </item>
   </channel>
 </rss>
