@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Centro per il Libro e la Lettura e Fondazione con il Sud in collaborazione con ANCI. Quarta edizione del bando "Biblioteche e Comunità" - Progetto "Casalab Centro Arti e Saperi Accessibili" della Cooperativa Sociale Cooply di Brindisi. Adesione del Comune di Ginosa quale Partner.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33450</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33450</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLO STESSO MACROAGGREGATO, AI SENSI DELL'ART. 175, COMMA 5 QUATER, LETTERA a) DEL D.Lgs n. 267/2000.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33449</link>
@@ -74,7 +81,7 @@
     </item>
     <item>
       <title>Determinazione</title>
-      <description>IMPEGNO DI SPESA INSERIMENTO PERRINO M.P. PRESSO STRUTTURA EDUCATIVA INTEGRATA " ATLANTE" IN GRAVINA IN PUGLIA  - CORSO CANIO MUSACCHIO, N. 50 DAL 31 GENNAIO 2025 AL 30 GIUGNO 2025.</description>
+      <description>IMPEGNO DI SPESA INSERIMENTO M.P. PRESSO STRUTTURA EDUCATIVA INTEGRATA " ATLANTE" IN GRAVINA IN PUGLIA  - CORSO CANIO MUSACCHIO, N. 50 DAL 31 GENNAIO 2025 AL 30 GIUGNO 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33441</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33441</guid>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33391</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33391</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  II Finestra - Codice Pratica PS1URUU3 (busta paga gennaio 2025 + CONSULENZA ANFFAS)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33390</link>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33390</guid>
     </item>
   </channel>
 </rss>
