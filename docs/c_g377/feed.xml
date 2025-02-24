@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/02/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - PARISI / SCAGLIONE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10450</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10450</guid>
+    </item>
+    <item>
       <title>21/02/2025 | Deliberazioni Di Giunta</title>
       <description>AUTORIZZAZIONE PER LA COSTITUZIONE NELL'ATTO DI CITAZIONE PROMOSSO DALLA SIGRA DI DIO DEBORA MARIA DAVANTI AL GIUDICE DI PACE DI PATTI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10449</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10416</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10416</guid>
-    </item>
-    <item>
-      <title>19/02/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento Debito Fuori Bilancio ai sensi dell'art. 194 comma 1° lett.a) del Decreto Leg.vo n. 267/2000 a favore del legale distrattario nella controversia Raffaele Domenico in esecuzione della sentenza N. 211/2023 del Tribunale di Patti.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10415</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10415</guid>
     </item>
   </channel>
 </rss>
