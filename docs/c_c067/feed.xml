@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD.N.16 DEL 24/02/2025 CARNEVALE 2025...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29968</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29968</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno e contestuale  liquidazione in favore della Fondazione Sportcity per l'adesione allevento Sportcity day del  21 settembre 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29967</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29967</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Presa d'atto del D.A. 619 del 24.12.2024 dell'Assessorato Regionale delle Autonomie Locali e della Funzione Pubblica di assegnazione di contributi agli studenti universitari residenti nel Comune di Isnello e idonei alle borse di studio con ISEE inferiore a  30.000,00 per il rimborso delle spese sostenute per il trasporto nell'anno 2024 che abbiano frequentato per oltre 50 km sedi centrali e decentrate delle Università di Palermo, Catania, Messina ed Enna. Approvazione Avviso Pubblico e modello di domanda...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29966</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29941</link>
       <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29941</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>"Servizio di supporto tecnico specialistico per la gestione nel Portale Appalti inerente il Progetto d'idee Coprire per Scoprire"- Nomina quale  RUP  il dipendente comunale assegnato a questo Settore...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29940</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29940</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n°7/PA del 30/01/2025 per il progetto "Insieme per il Verde...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29939</link>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29939</guid>
     </item>
   </channel>
 </rss>
