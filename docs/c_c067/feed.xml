@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>APPROVAZIONE SCHEMA DI CONVENZIONE TRA IL COMUNE DI CASTELBUONO E LA CAPP COOPERATIVA SOCIALE FINALIZZATA ALL'INDIVIDUAZIONE DI SOGGETTI DEL TERZO SETTORE DISPONIBILI ALLA COPROGETTAZIONE DI SERVIZI PER LA DISABILITA E LINCLUSIONE SOCIALE DA ATTUARE PRESSO LA STRUTTURA DENOMINATA "S. ANTONINO"....</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30003</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30003</guid>
+    </item>
+    <item>
+      <title>Delibera Di Giunta</title>
+      <description>Approvazione del piano annuale dei flussi di cassa per l'esercizio 2025 (art. 6 del D.L. 155/2024, convertito con modificazioni dalla L. 9 dicembre 2024, n. 189...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30002</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30002</guid>
+    </item>
+    <item>
+      <title>Delibera Di Giunta</title>
+      <description>Disponibilità  e  adesione progetto di  ampliamento  progettuale del Comune di Bisacquino - Ente titolare del progetto SAI - Sistema di accoglienza e Integrazion...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30001</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30001</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>LIQUIDAZIONE RELATIVA  ALLA  FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DEL PARCO MACCHINE COMUNALE MESE DI GENNAIO 2025 ...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30000</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29976</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29976</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>liquidazione in favore del Sindaco per rimborso spese, missioni periodo gennaio 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29975</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29975</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE A FAVORE DELL'AGENZIA  APACA DI SALVATORE CITTA' RELATIVA ALLA CONSULENZA E ROTTAMAZIONE AUTOVEICOLO FIAT DOBLO' TARGATO EJ334TE...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29974</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29974</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione dei diritti d'autore in favore dell'Agenzia SIAE di Cefalù per gli eventi svolti nell'ambito della manifestazione "Dolcemente Castelbuono - Natale 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29973</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=29973</guid>
     </item>
   </channel>
 </rss>
