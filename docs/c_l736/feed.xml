@@ -16,19 +16,5 @@
     <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Venezia</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:027042</category>
-    <item>
-      <title># | Pubblicazione numero </title>
-      <description/>
-      <link/>
-      <pubDate/>
-      <guid/>
-    </item>
-    <item>
-      <title># | Pubblicazione numero </title>
-      <description/>
-      <link/>
-      <pubDate/>
-      <guid/>
-    </item>
   </channel>
 </rss>
