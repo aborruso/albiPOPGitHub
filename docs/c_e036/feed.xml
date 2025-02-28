@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>28/02/2025</title>
+      <description>Avviso Pubblico</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33486</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33486</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Realizzazione di un asilo nido in via F.lli Materano a Ginosa. Finanziamento PNRR Missione 4 Componente 1 Investimento 1.1 CUP D35E22000270006. Rimodulazione del quadro economico a seguito dell'aggiudicazione dei lavori</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33484</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33423</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33423</guid>
-    </item>
-    <item>
-      <title>Art. 143 Cpc</title>
-      <description>VERBALE CDS N. BU1453 LOMBARDI VINCENZO AMM. TRASPORTI LOGISTICA LOMBARDI SRL</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33422</link>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33422</guid>
     </item>
   </channel>
 </rss>
