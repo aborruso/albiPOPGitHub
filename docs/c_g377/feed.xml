@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>06/03/2025 | Ordinanze Dirigenziali</title>
+      <description>Transito temporaneo mezzi di cantiere in direzione mare-monti nella via G. Ceraolo</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10519</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10519</guid>
+    </item>
+    <item>
+      <title>05/03/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 00020250238 del 03-03-2025 CIG B4E2788E55 beneficiario Immedia s.p.a.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10518</link>
+      <pubDate>Wed, 05 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10518</guid>
+    </item>
+    <item>
       <title>05/03/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione  fattura n CPEA24000369/EA del 23-12-2024 CIG 555015747A beneficiario Crédit agricole italia s.p.a.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10517</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10485</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10485</guid>
-    </item>
-    <item>
-      <title>27/02/2025 | Ordinanze Dirigenziali</title>
-      <description>Divieto di transito temporaneo tratto lato monte lungomare C.F. Zuccarello</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10484</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10484</guid>
-    </item>
-    <item>
-      <title>27/02/2025 | Concessioni E Permessi Di Costruire</title>
-      <description>PERMESSO DI COSTRUIRE n.2 del 26/02/2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10483</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10483</guid>
     </item>
   </channel>
 </rss>
