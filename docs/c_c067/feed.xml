@@ -17,6 +17,34 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>IMPEGNO DI SPESA PROGETTO SEGNALETICA STRADALE - COOP. SOC. GI.CO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30036</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30036</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>IMPEGNO DI SPESA  PER  RIMBORSO SPESE ASSOCIAZIONE AGADA ANNO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30035</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30035</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>IMPEGNO DI SPESA FORNITURA VESTIARIO ESTIVO P.M. - DITTA MARGUGLIO GIUSEPP...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30034</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30034</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>ADESIONE AL SERVIZIO POSTALE "SMA  SENZA MATERIALE AFFRANCATURA" PER LA NOTIFICA DEGLI ATTI GIUDIZIARI DELLA POLIZIA MUNICIPALE E ATTI COLLEGATI PER ANNI 1 (UNO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30033</link>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30033</guid>
+    </item>
+    <item>
       <title>Delibera Di Giunta</title>
       <description>PRESA D'ATTO DELLE RISULTANZE DEI CONTROLLI SUCCESSIVI DI REGOLARITÀ AMMINISTRATIVA RELATIVI AL II SEMESTRE 2024. REPORT 2024...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30032</link>
@@ -183,34 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30008</link>
       <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30008</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno in favore dell'Agenzia HDI Assicurazioni S.p.A. Agenzia Generale 366 G.Ippolito La Grua per stipula polizza RCT - Carnevale 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30007</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30007</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa in favore dell'Agenzia SIAE di Cefalù per i diritti  d'autore connesse all'organizzazione del Carnevale 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30006</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30006</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 19: DA GIORNO 15 A GIORNO 19 MARZO 2025 DIVIETO DI SOSTA 0/24 CON RIMOZIONE FORZATA IN VIA MARIO LEVANTE DAL N.C. 11 AL N.C. 13 PER MANIFESTAZIONE "A TAVULA SI SAN GIUSEPPE"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30005</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30005</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORD. N. 18: ACCERTAMENTO DI AVVENUTO DECESSO DI ANIMALI EVITANDO LO SPARGIMENTO DI MATERIALE ORGANICO...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30004</link>
-      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30004</guid>
     </item>
   </channel>
 </rss>
