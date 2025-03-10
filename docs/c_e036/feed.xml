@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Appello avverso la sentenza n. 263/2025 del Tribunale di Taranto.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33572</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33572</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Regolamentazione temporanea della circolazione stradale in occasione del concerto musicale denominato Nostalgia 90 presso Piazza della Croce Rossa Marina di Ginosa dalle ore 21.00 alle ore 24.00 del 09.03.2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33571</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33511</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33511</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo economico concesso in favore dell'Associazione Italiana Amici del Presepio per la realizzazione della manifestazione culturale natalizia "XXIII Mostra del Presepio" per l'avviso "Natale delle Meraviglie 2024".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33510</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33510</guid>
     </item>
   </channel>
 </rss>
