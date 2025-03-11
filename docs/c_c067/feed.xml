@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 23: NEI GIORNI 22 E 27 MARZO 2025  DIVIETO DI SOSTA CON RIMOZIONE FORZATA E DI TRANSITO NEL PIAZZALE DI VIA BENEDETTO ALESSANDRO, ECCETTO I VEICOLI AUTORIZZATI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30072</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30072</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 22: GIORNO 14/03/2025  DIVIETO DI TRANSITO IN VIA ROMA E DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA ROMA DAL N.C. 55 AL N.C. 78...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30071</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30071</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 21: AVVENUTO  DECESSO DI ANIMALI SENZA SPARGIMENTO DI MATERIALE ORGANICO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30070</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30070</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>RIACCERTAMENTO  DEI RESIDUI ATTIVI E PASSIVI  AL 31/12/2024 EFFETTUATO AI SENSI DELL'ART.3 COMMA 4 DEL D.L.118/2011 E SM...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30069</link>
@@ -190,27 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30045</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30045</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione in favore dell'emittente Media One per la promozione dell'evento "Castelbuono Classica" durante il Festival di Sanremo 2025 e Format tv Tele On...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30044</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30044</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Fornitura servizio sostitutivo di mensa mediante B.P. Elettronici. Liquidazione di spesa fattura n. 852/TC del 17/02/202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30043</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30043</guid>
-    </item>
-    <item>
-      <title>Consiglio Comunale</title>
-      <description>CONVOCAZIONE CONSIGLIO COMUNALE IN SESSIONE ORDINARIA - PRIMA, SEDUTA PUBBLICA PER MARTEDI' 18-03- 2025...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30042</link>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30042</guid>
     </item>
   </channel>
 </rss>
