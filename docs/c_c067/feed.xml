@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Determina di liquidazione CSEA - Deliberazione ARERA n. 386/2023/R/rif: Versamento Componenti Perequative 1,a e 2,a relative all'anno 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30128</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30128</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>PERMESSO DI COSTRUIRE N. 04/2025 AI SIGG.  IGNATTI LAURA, LETA MARIANNA, IGNATTI ROSARIO E IGNATTI MARIA PINA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30127</link>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30127</guid>
+    </item>
+    <item>
       <title>Avviso Ad Opponendum</title>
       <description>MANUTENZIONE STRAORDINARIA DELLE STRADE EXTRAURBANE ED URBANE ASFALTATE DEL COMUNE DI CASTELBUONO PER L'ANNO 2025...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30126</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30101</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30101</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione a saldo fattura n°9/PA del 27/02/2025 per il progetto "Insieme per il Verde"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30100</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30100</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione compensi per funzioni tecniche interne ai sensi dell'art. 45 del Decreto Lgs. 36/23.  "Lavori di completamento dell'impianto di illuminazione del corpo centrale del Parco delle Rimembranze ed installazione di impianto fotovoltaico".  C.U.P. H34H2300072000...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30099</link>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30099</guid>
     </item>
   </channel>
 </rss>
