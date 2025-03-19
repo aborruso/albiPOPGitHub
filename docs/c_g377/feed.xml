@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/03/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto temporaneo di transito per lavori via san Michele e via Dei Greci</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10665</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10665</guid>
+    </item>
+    <item>
       <title>18/03/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Rimborso tributi (IMU-TARI-SERVIZIO IDRICO) erroneamente versate dai contribuenti al Comune di Patti</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10664</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10630</link>
       <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10630</guid>
-    </item>
-    <item>
-      <title>14/03/2025 | Determinazioni Dirigenziali</title>
-      <description>SPESA A FAVORE DELLA SIG.RA TESTA LUCIA E DEL LEGALE DISTRATTARIO IN ESECUZIONE DELLA SENTENZA N.207/2023 DEL TRIBUNALE DI PATTI. IMPEGNO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10629</link>
-      <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10629</guid>
     </item>
   </channel>
 </rss>
