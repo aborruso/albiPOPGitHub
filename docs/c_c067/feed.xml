@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Elenco</title>
+      <description>ELENCO IRR...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30169</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30169</guid>
+    </item>
+    <item>
+      <title>Avviso</title>
+      <description>LAVORI DI RICOSTRUZIONE E CONSOLIDAMENTO DEL MURO DI CONTENIMENTO A SOSTEGNO DEL TERRAPIENO DELL'AREA DI PERTINENZA DEL COMPLESSO SANTA LUCIA-VICO AGATANO - AVVISO PER L'AFFIDAMENTO DELL'INCARICO DI COLLAUDATORE STATICO IN CORSO D'OPERA E DEFINITIVO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30168</link>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30168</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N 05/2025 RILASCIATO AL SIG. BATTAGLIA  GIUSEPPE NELLA QUALITA' DI PRESIDENTE PRO-TEMPORE DEL "COMITATO "FIUMARA"...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30167</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30142</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30142</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>RACCOLTA FIRME  REFERENDUM PER LA LIBERTA' DI SCELTA VACCINALE PEDIATRICA...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30141</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30141</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE FATTURA N. 570-2025-B-MM DEL 07/03/2025, PROT. n. 5055 del 08/03/2025 - DITTA MY CICERO - AGGIO SOSTA FEBBRAIO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30140</link>
-      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30140</guid>
     </item>
   </channel>
 </rss>
