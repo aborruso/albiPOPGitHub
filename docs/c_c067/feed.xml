@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURE POSTE ITALIANE SPA - CORRISPONDENZA E SERVIZIO DI PICK UP MESE DI FEBBRAIO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30180</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30180</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE A FAVORE DI KUWAIT PETROLEUM ITALIA S.p.A. RELATIVA  ALLA FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DEL PARCO MACCHINE COMUNALE - MESE DI FEBBRAIO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30179</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30179</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORD. N. 26: GIORNO 24/03/2025  DIVIETO DI TRANSITO IN VIA SANTA CROCE NEL TRATTO COMPRESO DAL N. C. 1  AL N. C. 35...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30178</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30151</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30151</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Approvazione schema di convenzione tra il comune di Castelbuono e Sig. ra Chiara Spallino studendessa dell'Institut Fur Bildung Und Entwicklung...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30150</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30150</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>INTEGRAZIONI ALLA CONVENZIONE TRA IL COMUNE DI CASTELBUONO E LA COOPERATIVA SOCIALE GI.CO. FINALIZZATO ALLA CO-PROGETTAZIONE E REALIZZAZIONE DI ATTIVITA' DI INTERESSE GENERAL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30149</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30149</guid>
     </item>
   </channel>
 </rss>
