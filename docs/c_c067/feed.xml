@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 25: SGOMBERO DI TUTTA LA DOCUMENTAZIONE CUSTODITA NEI LOCALI DI VIA BENEDETTINI/PARCO DELLE RIMEMBRANZE N. 1 E PARTE DELLA DOCUMENTAZIONE  CUSTODITA NEI LOCALI DELLA BADIA E DEL PALAZZO MUNICIPALE; TRASFERIRE TEMPORANEAMENTE LA DOCUMENTAZIONE IN OGGETTO DI SGOMBERO NEI LOCALI SITI IN VIA BENEDETTO ALESSANDRO S.N.C.; ESEGUIRE GLI INTERVENTI DI CENSIMENTO E DI SELEZIONE, DELLA DOCUMENTAZIONE IN ARGOMENTO, PER IL SUCCESSIVO AVVIO ALLA FASE DI SCARTO O DI ARCHIVIAZIONE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30173</link>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30173</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Affidamento e impegno di spesa per il servizio di formazione specialistica al personale per un'efficiente gestione e conservazione dei documenti informatici, della gestione dei flussi documentali e redazione manuale di gestione del protocollo informatico...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30172</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30144</link>
       <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30144</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE SOC. COOP. SOCIALE PANTOGRA. PERIODO: GENNAIO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30143</link>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30143</guid>
     </item>
   </channel>
 </rss>
