@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Determinazione</title>
+      <description>"Interventi urgenti finalizzati alla lotta contro la processionaria per alberi siti nei territori comunali di Ginosa e Marina Di Ginosa" - Affidamento dei lavori alla Ditta Green For All srls - CIG: B6185287B4</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33804</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33804</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Lavori di adeguamento dei locali adibiti alla preparazione dei pasti e degli impianti tecnologici, della scuola G. Paolo II, nell'ambito dellAccordo Quadro Triennale ex comma 3 art. 54 del D.lgsl. 50/2016  Triennio 2023/2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33803</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33803</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Reimmissione sul territorio del cane di proprietà del Comune di Ginosa, così identificato in anagrafe - microchip 380260170292512.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33802</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33743</link>
       <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33743</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024   I FINESTRA  Linea B Codice Pratica 9ZUHTYT8 - (busta paga febbraio 2025+fattura consulenza)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33742</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33742</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  I Finestra - Codice Pratica PSKT16XP (busta paga febbraio 2025)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33741</link>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33741</guid>
     </item>
   </channel>
 </rss>
