@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/03/2025 | Avvisi Deposito Atti</title>
+      <description>Atto di citazione " Carroccio Felicia"</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10763</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10763</guid>
+    </item>
+    <item>
       <title>27/03/2025 | Determinazioni Dirigenziali</title>
       <description>Impegno spesa maggiori oneri da sentenze di assistenza obbligatoria con o senza allontanamento dal nucleo familiare. F.S.C. ai sensi dell'Art. 1, COMMA 563, L. 234/2021</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10762</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10729</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10729</guid>
-    </item>
-    <item>
-      <title>24/03/2025 | Atti Elettorali</title>
-      <description>ELEZIONI RSU</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10728</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10728</guid>
     </item>
   </channel>
 </rss>
