@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/03/2025 | Ordinanze Sindacali</title>
+      <description>Smaltimento carcassa bovino</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10777</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10777</guid>
+    </item>
+    <item>
+      <title>28/03/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di  transito tratto del Lungomare C.F. Zuccarello per processione e celebrazione religiosa</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10776</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10776</guid>
+    </item>
+    <item>
       <title>28/03/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>INTERVENTI DI PULIZIA STRAORDINARIA SUL TERRITORIO COMUNALE DITTA: VERDE PIU' S.R.L.S. LIQUIDAZIONE FATTURA N. 4/001 del 24.03.2025 CODICE CIG: B56F36D0D2</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10775</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10743</link>
       <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10743</guid>
-    </item>
-    <item>
-      <title>25/03/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A ALL'AVV. MARIO FOTI. SENTENZA N.921/2024 TRIBUNALE DI PATTI - GIAIMO CLELIA. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10742</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10742</guid>
-    </item>
-    <item>
-      <title>25/03/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PRONTA DISPONIBLITA' SERVIZIO DI  IGIENE PUBBLICA E MEDICINA LEGALE-  E TURNI SABATO MATTINA - MESE APRILE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10741</link>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10741</guid>
     </item>
   </channel>
 </rss>
