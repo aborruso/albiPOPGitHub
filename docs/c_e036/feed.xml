@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>RENDE NOTO POZZO_66181 DONNO ANTONIO PRATICA 2915 -</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33829</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33829</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>RENDE NOTOPOZZO_68253 TROVISI FRANCESCO PRATICA 2917 - GINOSA</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33828</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33828</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>ATTRIBUZIONE CODICE D59D16003000001 PAC II RIPARTO - SCHEDA DI INTERVENTO - Scheda Intervento di Tipologia 3 "Spese per il funzionamento del/dei PUA".</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33827</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33769</link>
       <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33769</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione delle fatture alla Società Acquedotto Pugliese Spa relative ai consumi da Ottobre 2024 a Febbraio 2025 per servizio idrico integrato a diversi immobili comunali. CIG: esente ai sensi del punto 2.5 delle Linee Guida sulla tracciabilità dei flussi finanziari</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33768</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33768</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  II Finestra - Codice Pratica RA0PAJSD (busta paga febbraio 2025)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33767</link>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33767</guid>
     </item>
   </channel>
 </rss>
