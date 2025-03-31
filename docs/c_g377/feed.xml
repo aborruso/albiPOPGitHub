@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/03/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto temporaneo di sosta  per lavori Piazza Mario Sciacca</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10791</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10791</guid>
+    </item>
+    <item>
       <title>28/03/2025 | Deliberazioni Di Giunta</title>
       <description>Regolarizzazione area edificio scolastico sito nel Comune di Patti c.da San Cosimo</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10790</link>
@@ -248,18 +255,11 @@
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10758</guid>
     </item>
     <item>
-      <title>26/03/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE  FATTURA N. 0000160 DEL 27.01.2023  ADDEBITO PENALE RIFIUTO NON CONFORME  CONFERIMENTO DEL 31.12.2022 DITTA TRAPANI SERVIZI SPA. CIG: 96043711AE</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10757</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10757</guid>
-    </item>
-    <item>
-      <title>26/03/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>CANONE ASSISTENZA TECNICA MODULO WEB TRASPARENZA RIFIUTI (DELIBERA ARERA n. 444/2019/R/rif. E DELIBERA ARERA n. 15/2022/R/rif)  FINO  AL 31.12.2025  LIQUIDAZIONE FATTURA N. 43 DEL 08.01.2025 DITTA: GOLEM NET SRL CIG: B46540330D</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10756</link>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10756</guid>
+      <title>31/03/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Decreto 21 maggio 2020 n. 71- Regolamento recante l'erogazione di misure di sostegno agli orfani dei crimini domestici - Istanze borse di studio a favore degli orfani dei crimini domestici  alle famiglie affidatarie .</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10697</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10697</guid>
     </item>
   </channel>
 </rss>
