@@ -17,8 +17,15 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/04/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 489 del 31-03-2025 CIG B5DE3D93F1 beneficiario Media s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10815</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10815</guid>
+    </item>
+    <item>
       <title>01/04/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
-      <description>PREVENZIONE VETERINARIA - TURNI PRONTA DISPONIBILITA'  MESE -APRILE .</description>
+      <description>PREVENZIONE VETERINARIA - TURNI PRONTA DISPONIBILITA'  MESE - APRILE .</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10814</link>
       <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10814</guid>
@@ -113,20 +120,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10801</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10801</guid>
-    </item>
-    <item>
-      <title>31/03/2025 | Avvisi Vari</title>
-      <description>TRASORTO  EXTRAURBANO DEGLI ALUNNI ANNO SCOLASTICO 2025/2026</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10800</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10800</guid>
-    </item>
-    <item>
-      <title>31/03/2025 | Avvisi Vari</title>
-      <description>TRASPORTO GRATUITO DEGLI ALUNNI PER L'ANNO SCOLASTICO 2025/2026</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10799</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10799</guid>
     </item>
     <item>
       <title>31/03/2025 | Atti Elettorali</title>
@@ -253,6 +246,13 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10781</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10781</guid>
+    </item>
+    <item>
+      <title>28/03/2025 | Deliberazioni Del Consiglio Comunale</title>
+      <description>Interrogazioni scritte ex art.37 del Regolamento Comunale  c.d. "Question Time</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10780</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10780</guid>
     </item>
     <item>
       <title>31/03/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
