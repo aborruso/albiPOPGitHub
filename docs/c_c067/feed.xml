@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Impegno di spesa e contestuale liquidazione all'Agenzia Allianz S.p.A. di Cefalù per il rinnovo della polizza RCT n. 806009223 relativa alla struttura ex Monastero di Santa Venera - Badi...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30247</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30247</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Impegno di spesa in favore della ditta Castiglia Giovanni per il noleggio dei fari per  l'illuminazione del Castello dei Ventimiglia giorno 2 aprile 2025 in occasione della Giornata Mondiale per la Consapevolezza sull'Autismo...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30246</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30246</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI BIENNIO 2025-2026...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30245</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30220</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30220</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Concessione utenza idrica  PRISINZANO DOMENIC...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30219</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30219</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>Impegno di spesa per incarico professionale di "Responsabile comunicazione e grafica" alla dott.ssa Rossella Barreca dal 01/01/2025 al 30/06/2025...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30218</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30218</guid>
     </item>
   </channel>
 </rss>
