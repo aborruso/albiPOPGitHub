@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>OPZIONE DEGLI ELETTORI RESIDENTI ALL'ESTERO PER LESERCIZIO DEL DIRITTO DI VOTO IN ITALIA IN OCCASIONE DEI REFERENDUM ABROGATIVI EX ART. 75 DELLA COSTITUZIONE INDETTI PER I GIORNI 8 E 9 GIUGNO 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33884</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33884</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Avviso Pubblico 2024 per l'assegnazione di contributi, a titolo di rimborso spese, per la frequenza di attività socio-educative rivolte ai minori (0-17).Approvazione graduatorie definitive e liquidazione ai beneficiari.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33883</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33823</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33823</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>PIANO COMUNALE DELLE COSTE DI GINOSA. Presa d'atto Elaborati di progetto di Piano ed indicazioni operative.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33822</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33822</guid>
     </item>
   </channel>
 </rss>
