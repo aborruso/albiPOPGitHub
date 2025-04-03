@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di Cori</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>https://aborruso.github.io/albiPOPGitHub/c_d003/feed.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_d003/feed.xml" type="application/rss+xml"/>
+    <docs>https://albopop.it/comune/cori/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">Cori</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Latina</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Lazio</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">41.643171</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">12.915165</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di Cori</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:059006</category>
+    <item>
+      <title>LIQUIDAZIONE DI SPESA RELATIVO AL SINISTRO N. 004-2022-11 DEL 22.03.2022 (DETERMINA/2025/252/02-04-2025)(AREA 5 - AFFARI GENERALI - 36)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5884&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5884&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>ISTITUZIONE DIVIETO DI SOSTA E DI TRANSITO IN PIAZZA DELLA CROCE LATO CONAD PER LAVORI DI PAVIMENTAZIONE DAL 07 APRILE 2025 E FINO AL TERMINE DELL'INTERVENTO (ORDIRESP/2025/15/03-04-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5883&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5883&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>PUBBLICAZIONE ANNO 2025 NRO.3 UFFICIO UFFICIO DI STATO CIVILE GIULIA RIFERITA A VINCENZO MUSELLA E GIOVANNA SOMMELLA</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5882&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5882&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - PETROCCIONE ALDO 13-01-2025/FPA 1/25 (2025.01.176) (DETERMINA/2025/248/02-04-2025)(AREA 6 - AREA TECNICA - URBANISTICA - AMBIENTE - 43)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5881&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5881&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - AMBIENTE &amp; RISORSE S.R.L. 28-02-2025/I000115 (2025.01.192) (DETERMINA/2025/242/02-04-2025)(AREA 6 - AREA TECNICA - URBANISTICA - AMBIENTE - 42)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5880&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5880&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>ART. 143 C.P.C. DEPOSITO ELENCO N. 000598888 PROT. 6520 DEL 02.04.2025</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5879&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5879&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - VETERINARIA PACIFICO 07-03-2025/44/FT.PA (2025.01.219) (DETERMINA/2025/251/02-04-2025)(AREA 3- POLIZIA MUNICIPALE - 39)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5878&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5878&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - VETERINARIA PACIFICO 07-03-2025/43/FT.PA (2025.01.218) (DETERMINA/2025/250/02-04-2025)(AREA 3- POLIZIA MUNICIPALE - 38)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5877&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5877&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - ABACO S.P.A. 10-03-2025/2025140001624 (2025.01.191) (DETERMINA/2025/244/02-04-2025)(AREA 3- POLIZIA MUNICIPALE - 37)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5876&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5876&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - CALICIOTTI BUS S.R.L. 05-03-2025/14 (2025.01.190) (DETERMINA/2025/241/02-04-2025)(AREA 3- POLIZIA MUNICIPALE - 36)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5875&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5875&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - BIORISTORO ITALIA SRL 12-03-2025/301 (2025.01.201) (DETERMINA/2025/249/02-04-2025)(AREA 2 - WELFARE - 84)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5874&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5874&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>ISTITUZIONE DIVIETO DI SOSTA E SENSO UNICO ALTERNATO S.P. SAN NICOLA PER LAVORI DI RISANAMENTO RETI IDRICHE ACQUALATINA DAL 07 APRILE 2025 E FINO AL TERMINE DELL'INTERVENTO (ORDIRESP/2025/14/02-04-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5873&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5873&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - CASA FAMIGLIA EMMANUEL - PROVINCIA ROMANA DELLE FIGLIE DELLA CARITÀ DI SAN VINCENZO DE' PAOLI - 03-03-2025/4 (2025.01.194) (DETERMINA/2025/246/02-04-2025)(AREA 2 - WELFARE - 82)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5872&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5872&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURE - BELGECA 05-02-2015/154/2015-154 (2015.01.107) - BELGECA 12-03-2015/288/2015-288 (2015.01.199) - BELGECA 19-05-2015/PA-7/2015-PA-7 (2015.01.410) - BELGECA 05-06-2015/PA-20/2015-PA-20 (2015.01.471) - BELGECA 25-06-2015/PA-35/2015-PA-35 (2015.01.622) - BELGECA 18-07-2015/PA-48/2015-PA-48 (2015.01.741) (DETERMINA/2025/245/02-04-2025)(AREA 2 - WELFARE - 81)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5871&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5871&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - IL CAVALLINO FELICE 07-03-2025/34 (2025.01.193) (DETERMINA/2025/243/02-04-2025)(AREA 2 - WELFARE - 80)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5870&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5870&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - COOPERATIVA ARFARÒ 10-03-2025/15/2025 (2025.01.196) (DETERMINA/2025/247/02-04-2025)(AREA 2 - WELFARE - 83)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5869&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5869&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURE - ITALIAN HOSPITAL GROUP SPA 02-01-2025/Z-73 (2025.01.187) - ITALIAN HOSPITAL GROUP SPA 01-10-2024/Z-1163 (2025.01.188) - ITALIAN HOSPITAL GROUP SPA 04-11-2024/Z-1282 (2025.01.189) (DETERMINA/2025/240/02-04-2025)(AREA 2 - WELFARE - 79)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5868&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5868&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - RI.CA. S.R.L. 28-02-2025/3/85 (2025.01.182) (DETERMINA/2025/239/02-04-2025)(AREA 2 - WELFARE - 78)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5867&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5867&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>SUBIMPEGNO DI SPESA CONTRIBUTO REGIONALE DI CUI ALL' AVVISO PUBBLICO DEDICATO AI COMUNI DEL LAZIO, AI MUNICIPI DEL COMUNE DI ROMA, ENTI GESTORI DELLE RISERVE E DEI PARCHI REGIONALI PER LE MANIFESTAZIONI DA REALIZZARE NEL TERRITORIO DELLA REGIONE LAZIO NEL PERIODO INTERCORRENTE TRA IL 01 DICEMBRE 2024 E IL 7 GENNAIO 2025 CUP J69I24002240002CIG B51C639934 (DETERMINA/2025/237/01-04-2025)(AREA 2 - WELFARE - 77)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5866&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5866&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER APPENDICE ASSICURATIVA PER GESTIONE PRESTITO OPERE D'ARTE POLIZZA MUSEO. (DETERMINA/2025/238/02-04-2025)(AREA 5 - AFFARI GENERALI - 35)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5865&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5865&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - BELLARDI PIERLUIGI 25-03-2025/20/001 (2025.01.221) (DETERMINA/2025/235/01-04-2025)(AREA 5 - AFFARI GENERALI - 34)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5864&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5864&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - RIDA AMBIENTE 31-03-2025/000227 (2025.01.226) (DETERMINA/2025/236/01-04-2025)(AREA 6 - AREA TECNICA - URBANISTICA - AMBIENTE - 41)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5863&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5863&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - 4 SOLUTION SRLS 28-02-2025/3 (2025.01.227) (DETERMINA/2025/234/01-04-2025)( AREA 1- ECONOMICO - FINANZIARIA - 35)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5862&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5862&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA A COPERTURA DI LAVORO IN REGIME DI STRAORDINARIO PER I DIPENDENTI COMUNALI ASSEGNATI ALL'AREA 1 ECONOMICA E FINANZIARIA. ANNO 2025 (DETERMINA/2025/233/01-04-2025)( AREA 1- ECONOMICO - FINANZIARIA - 34)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5861&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5861&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO PER LAVORO IN REGIME DI STRAORDINARIO ISTRUTTORI DI VIGILANZA-ANNUALITA' 2025 (DETERMINA/2025/231/31-03-2025)(AREA 3- POLIZIA MUNICIPALE - 35)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5860&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5860&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - TELEIMPIANTI SRL 27-02-2025/20/IMP (2025.01.225) (DETERMINA/2025/229/31-03-2025)(AREA 3- POLIZIA MUNICIPALE - 34)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5859&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5859&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>AGGIORNAMENTO DEGLI ALBI DEI GIUDICI POPOLARI PER LE CORTI D'ASSISE E PER LE CORTI D'ASSISE D'APPELLO</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5839&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5839&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>RATEIZZAZIONE CONSORZIO DI BONIFICA ANNO 2025 (DETERMINA/2025/232/31-03-2025)( AREA 1- ECONOMICO - FINANZIARIA - 33)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5858&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5858&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER SPESE VOLO A CRACOVIA PER AMMINISTRATORI IN OCCASIONE VIAGGIO AD OSWIECIM PER GIORNATA DELLA MEMORIA 2025. (DETERMINA/2025/230/31-03-2025)(AREA 2 - WELFARE - 76)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5857&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5857&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CONTRIBUTI ECONOMICI (DETERMINA/2025/228/31-03-2025)(AREA 2 - WELFARE - 75)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5856&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5856&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>PARTECIPAZIONE AVVISO PUBBLICO PER INIZIATIVE DI PROMOZIONE DEL SISTEMA AGROALIMENTARE DEL LAZIO COMUNI DEL LAZIO/PRO LOCO/PARCHI REGIONALIPERIODO 15 MAGGIO 2025 - 30 SETTEMBRE 2025CUP F89F25000000002 (GIUNTA/2025/39/31-03-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5855&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5855&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE A FAVORE DEL CONSORZIO VOLONTARIO PER LA TUTELA E LA VALORIZZAZIONE DEI VINI DOC. (DETERMINA/2025/210/22-03-2025)(AREA 5 - AFFARI GENERALI - 32)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5854&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5854&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>COSTITUZIONE COMMISSIONE PER N. 2 SELEZIONI DI PROGRESSIONE TRA LE AREE IN DEROGA. (DETERMINA/2025/227/31-03-2025)(AREA 5 - AFFARI GENERALI - 33)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5853&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5853&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - ALD AUTOMOTIVE ITALIA S.R.L. 01-03-2025/INR0225153 (2025.01.222) (DETERMINA/2025/225/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 33)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5852&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5852&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - ALD AUTOMOTIVE ITALIA S.R.L. 25-02-2025/INR0207024 (2025.01.179) (DETERMINA/2025/224/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 32)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5851&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5851&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE CANONE ANNUO PER ACCESSO ARCHIVI MCTC (DETERMINA/2025/223/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 31)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5850&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5850&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO PER LAVORO SVOLTO IN REGIME DI STRAORDIANARIO MESSI COMUNALI-ANNUALITA' 2025- (DETERMINA/2025/222/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 30)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5849&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5849&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO ECONOMO COMUNALE PER SPESE D'UFFICIO (DETERMINA/2025/221/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 29)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5848&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5848&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA CASA FAMIGLIA "EMMANUEL" ENTE PROVINCIA ROMANA DELLE FIGLIE DELLA CARITÀ DI SAN VINCENZO DE PAOLI A VALMONTONE PER INSERIMENTO MINORI.CIG. : B639525D62 (DETERMINA/2025/220/28-03-2025)(AREA 2 - WELFARE - 74)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5847&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5847&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA STAMPA COPIE PER CORSO DI EDUCAZIONE STRADALE A "IL MERLO PARLANTE EDIZIONI DI GRAZIANO VITALE" CIG: B623FCCD00 (DETERMINA/2025/219/28-03-2025)(AREA 2 - WELFARE - 73)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5846&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5846&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA NOLEGGIO LUDOBUS PER LA GIORNATA DEL GIOCO 28 MAGGIO 2025- COOPERATIVA SOCIALE ONLUS ALTRI COLORICIG: B624115C80 (DETERMINA/2025/218/28-03-2025)(AREA 2 - WELFARE - 72)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5845&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5845&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>LIQUIDAZIONE FATTURA - EDENRED ITALIA SRL 24-03-2025/N47688 (2025.01.223) (DETERMINA/2025/226/28-03-2025)( AREA 1- ECONOMICO - FINANZIARIA - 32)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5844&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5844&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>SEMPLIFICAZIONE AMMINISTRATIVA: SOPPRESSIONE DIRITTI DI SEGRETERIA RELATIVI ALLE CERTIFICAZIONI ANAGRAFICHE (GIUNTA/2025/31/07-03-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5843&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5843&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>DEFINIZIONE CONTRIBUTO AMMINISTRATIVO DOMANDE DI RICONOSCIMENTO DELLA CITTADINANZA ITALIANA, PRESENTATE AI SENSI DEGLI ARTT. 1 - 2 - 3 E 14 DELLA L. N. 91/1992 NONCHÈ AGGIORNAMENTO CONTRIBUTO AMMINISTRATIVO PER LE RICHIESTE DI CERTIFICATI E/O ESTRATTI DI STATO CIVILE FORMATI DA OLTRE UN SECOLO (GIUNTA/2025/32/07-03-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5842&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5842&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>REALIZZAZIONE AULA CONSILIARE MULTIMEDIALE - ATTO D'INDIRIZZO (GIUNTA/2025/33/07-03-2025)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5841&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5841&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>PARIFICAZIONE DEI CONTI DELLA GESTIONE DEGLI AGENTI CONTABILI - ESERCIZIO 2024 (DETERMINA/2025/217/28-03-2025)( AREA 1- ECONOMICO - FINANZIARIA - 31)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5840&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5840&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>DEPOSITO ART 143 EL N 000589324 PROT 6123 DEL 27-03-2025</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5838&amp;curArchivio=S&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5838&amp;curArchivio=S&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>INTEGRAZIONE ODG CONSIGLIO COMUNALE DEL 28.03.2025 CONVOCATO CON NOTA PROT. N. 5762 DEL 21.03.2025</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5837&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5837&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>DEPOSITO ART. 143 ELENCO N. 34/2025 PROT 5995 DEL 26-03-2025</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5836&amp;curArchivio=S&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5836&amp;curArchivio=S&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA A FAVORE DELLA GLOBAL POWER SPA PER L'ATTIVAZIONE DI NUOVO PUNTO DI PRELIEVO DI ENERGIA ELETTRICA PER ALIMENTAZIONE PUBBLICAILLUMINAZIONE SITA IN VIAL LE PASTINE SNC CORI (DETERMINA/2025/214/25-03-2025)(AREA 6 - AREA TECNICA - URBANISTICA - AMBIENTE - 40)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5835&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5835&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+  </channel>
+</rss>
