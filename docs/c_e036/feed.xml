@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso Pubblico</title>
+      <description>Approvazione avviso di selezione per mobilità interna per un posto di Istruttore Amministrativo-Contabile da destinare al I Settore - Area Affari Generali e Demografica-Elettorale.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33887</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33887</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
       <description>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33886</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33827</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33827</guid>
-    </item>
-    <item>
-      <title>Permesso Di Costruire In Sanatoria</title>
-      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica 248/NC  Permesso di Costruire n. 003/2025 Avantaggiato Antonio ed altri eredi Avantaggiato</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33825</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33825</guid>
     </item>
   </channel>
 </rss>
