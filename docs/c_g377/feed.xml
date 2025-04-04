@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/04/2025 | Determinazioni Dirigenziali</title>
+      <description>Art. 192 del D.Lgs. n. 267/2000 ed art. 17 del D.Lgs. n. 36/2023 - Decisione a contrarre per l'affidamento del servizio di supporto nella gestione economica del personale dei cantieri di lavoro finanziati dalla Regione al Comune di Patti, ivi compresi gli adempimenti fiscali e contributivi  - (C.I.G.:  B65C05DBB9).</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10858</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10858</guid>
+    </item>
+    <item>
       <title>04/04/2025 | Avvisi Deposito Atti</title>
       <description>AVVISO DEPOSITO ATTI ALL'ALBO</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10857</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10824</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10824</guid>
-    </item>
-    <item>
-      <title>01/04/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE A SALDO INDAGINE ISTAT MULTISCOPO SULLE FAMIGLIE _ USO DEL TEMPO_ ANNI 2022 - 2023</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10823</link>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10823</guid>
     </item>
   </channel>
 </rss>
