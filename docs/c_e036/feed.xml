@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Magazzino Miriana</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33885</link>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33885</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>OPZIONE DEGLI ELETTORI RESIDENTI ALL'ESTERO PER LESERCIZIO DEL DIRITTO DI VOTO IN ITALIA IN OCCASIONE DEI REFERENDUM ABROGATIVI EX ART. 75 DELLA COSTITUZIONE INDETTI PER I GIORNI 8 E 9 GIUGNO 2025</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33884</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33824</link>
       <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33824</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Approvazione schema di convenzione per adesione al progetto Bandiera Lilla 2025-2027</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33823</link>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33823</guid>
     </item>
   </channel>
 </rss>
