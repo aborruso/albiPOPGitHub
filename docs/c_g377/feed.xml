@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/04/2025 | Determinazioni Dirigenziali</title>
+      <description>Attivazione Patto di Servizio  Impegno di spesa a favore dell'Ass.ne Ialite ETS</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10882</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10882</guid>
+    </item>
+    <item>
+      <title>07/04/2025 | Determinazioni Dirigenziali</title>
+      <description>Impegno e affidamento fornitura  mangime per i cani randagi detenuti nei box comunali di emergenza di c.da Mulinello</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10881</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10881</guid>
+    </item>
+    <item>
       <title>05/04/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta e di transito  per rappresentazione religiosa</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10880</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10848</link>
       <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10848</guid>
-    </item>
-    <item>
-      <title>03/04/2025 | Determinazioni Dirigenziali</title>
-      <description>Presa atto verbale di gara n. 01, del   02/04/2025, relativo all'affidamento dei servizi di gestione del centro di accoglienza per cittadini ucraini, in fuga dal conflitto, nella disponibilità del Comune di Patti.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10847</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10847</guid>
-    </item>
-    <item>
-      <title>03/04/2025 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta temporaneo per lavori corso Matteotti</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10846</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10846</guid>
     </item>
   </channel>
 </rss>
