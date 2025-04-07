@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Proposta di partnership tecnica ed economica del Comune di Ginosa per l'evento Benvenuti in Puglia 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33914</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33914</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Approvazione dell'Avviso Pubblico per la ricerca di Sponsor per la partenza della Tappa del Giro-E 2025 e passaggio Giro d'Italia organizzato da RCS ed affidamento pubblicazione dello stesso in favore della Società CAIRORCS MEDIA S.p.A. di Milano-impegno di spesa.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33913</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33854</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33854</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 02 Aprile 2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33853</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33853</guid>
     </item>
   </channel>
 </rss>
