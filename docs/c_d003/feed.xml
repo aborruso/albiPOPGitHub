@@ -17,6 +17,12 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Cori</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:059006</category>
     <item>
+      <title>PUBBLICAZIONE MATRIMONIO RIFERITA A ANELLO RAPONI E YIRELYS MAYET TORRES</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5893&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5893&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
       <title>IMPEGNO PER LAVORO IN REGIME DI STRAORDINARIO PERSONALE AREA V AFFARI GENERALI SERVIZI DI STAFF (DETERMINA/2025/259/04-04-2025)(AREA 5 - AFFARI GENERALI - 37)</title>
       <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5892&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
@@ -309,12 +315,6 @@
       <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5845&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5845&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
-    </item>
-    <item>
-      <title>LIQUIDAZIONE FATTURA - EDENRED ITALIA SRL 24-03-2025/N47688 (2025.01.223) (DETERMINA/2025/226/28-03-2025)( AREA 1- ECONOMICO - FINANZIARIA - 32)</title>
-      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5844&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5844&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
     </item>
   </channel>
 </rss>
