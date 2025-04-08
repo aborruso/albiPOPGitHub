@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/04/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>RETTIFICA TURNI PRONTA DISPONIBILITA' APRILE 2025</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10917</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10917</guid>
+    </item>
+    <item>
+      <title>08/04/2025 | Bandi Di Concorso</title>
+      <description>POSTA CERTIFICATA: Prot. N.4703 del 08-04-2025 - AVVISO PUBBLICO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10916</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10916</guid>
+    </item>
+    <item>
       <title>08/04/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Lavoro Straordinario Anno 2024 al Personale Dipendente del Settore V Area Ragioneria  Generale</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10915</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10883</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10883</guid>
-    </item>
-    <item>
-      <title>07/04/2025 | Determinazioni Dirigenziali</title>
-      <description>Attivazione Patto di Servizio  Impegno di spesa a favore dell'Ass.ne Ialite ETS</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10882</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10882</guid>
-    </item>
-    <item>
-      <title>07/04/2025 | Determinazioni Dirigenziali</title>
-      <description>Impegno e affidamento fornitura  mangime per i cani randagi detenuti nei box comunali di emergenza di c.da Mulinello</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10881</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10881</guid>
     </item>
   </channel>
 </rss>
