@@ -17,6 +17,12 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Cori</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:059006</category>
     <item>
+      <title>LIQUIDAZIONE FATTURA - UTOPIA 2000 01-04-2025/35/PA (2025.01.239) (DETERMINA/2025/268/08-04-2025)(AREA 2 - WELFARE - 87)</title>
+      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5898&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5898&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
+    </item>
+    <item>
       <title>LIQUIDAZIONE FATTURA - ALFEI MICHAEL - ENI 02-04-2025/2025/FE54021/663 (2025.01.234) (DETERMINA/2025/265/08-04-2025)(AREA 6 - AREA TECNICA - URBANISTICA - AMBIENTE - 46)</title>
       <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5897&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
@@ -309,12 +315,6 @@
       <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5850&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
       <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5850&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
-    </item>
-    <item>
-      <title>IMPEGNO PER LAVORO SVOLTO IN REGIME DI STRAORDIANARIO MESSI COMUNALI-ANNUALITA' 2025- (DETERMINA/2025/222/28-03-2025)(AREA 3- POLIZIA MUNICIPALE - 30)</title>
-      <link>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5849&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</link>
-      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cloud.urbi.it/urbi/progs/urp/ur1ME001.sto?StwEvent=91000302&amp;IdMePubblica=5849&amp;curArchivio=&amp;Modale_DaControllare=idModale1&amp;SOLCollegamentoAtti=&amp;DB_NAME=n1233954</guid>
     </item>
   </channel>
 </rss>
