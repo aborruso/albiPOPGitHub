@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP  Varie strade Ginosa e Marina di Ginosa dal 14 al 19.04.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33916</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33916</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione delle Processioni dei SS. Misteri, delle Palme e rappresentazione della Passio Christi in Ginosa e Marina di Ginosa dal 12 al 18.04.2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33915</link>
+      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33915</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Proposta di partnership tecnica ed economica del Comune di Ginosa per l'evento Benvenuti in Puglia 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33914</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33856</link>
       <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33856</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>Regolamentazione temporanea della circolazione stradale in occasione di Via Crucis Interparrocchiale e processione della Palme in Ginosa 04 e 13.04.2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33855</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33855</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>CILA da sottoporre a istruttoria, verbale estrazione casuale del 02 Aprile 2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33854</link>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33854</guid>
     </item>
   </channel>
 </rss>
