@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Convocazione Consiglio Comunale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE IN SESSIONE ORDINARIA - PRIMA, SEDUTA PUBBLICA...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30321</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30321</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>PUBBLICAZIONE DELL'AVVISO PUBBLICO DESTINATO ALLE AMMINISTRAZIONI STATALI, AGLI ENTI PUBBLICI NON ECONOMICI A CARATTERE NAZIONALE, AGLI ENTI LOCALI, ALLE CAMERE DI COMMERCIO, ALLE AZIENDE SANITARIE LOCALI E ALLE REGIONI PER IL FINANZIAMENTO DEI PROGETTI FINALIZZATI ALLA VALORIZZAZIONE DELLE LINGUE E DELLE CULTURE TUTELATE DALLA LEGGE 15 DICEMBRE 1999, N. 482 RECANTE "NORME IN MATERIA DI TUTELA DELLE MINORANZE LINGUISTICHE STORICHE" - ANNO 2025...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30320</link>
+      <pubDate>Wed, 09 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30320</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione in favore della ditta Domus Tech per fornitura pali per illuminazione pubblic...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30319</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30293</link>
       <pubDate>Fri, 04 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30293</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno di spesa in favore della Cooperativa Sociale GI.CO per la realizzazione di attività di interesse  generale a chiamata relative al  trasporto sociale e alla collaborazione propedeutica ai servizi scolastici...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30292</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30292</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura n°04_PA del 01/04/2025 relativa al servizio di igiene urbana per la gestione "in house" con la società Castelbuono Ambiente s.r.l. (III° Acconto 2025)...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30291</link>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30291</guid>
     </item>
   </channel>
 </rss>
