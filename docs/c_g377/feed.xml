@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>10/04/2025 | Ordinanze Dirigenziali</title>
+      <description>Riserva stallo di sosta ai veicoli di servizio della Guardia Costiera</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10955</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10955</guid>
+    </item>
+    <item>
       <title>10/04/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione Lavoro Straordinario Anno 2024 al Personale Dipendente del Settore VI Area Turistico Informatico ed Istruzione</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10954</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10921</link>
       <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10921</guid>
-    </item>
-    <item>
-      <title>08/04/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Associazione  "Omissis" per il ricovero della Sig.ra Omissis  per i mesi  di  Gennaio -Febbraio  2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10920</link>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=10920</guid>
     </item>
   </channel>
 </rss>
