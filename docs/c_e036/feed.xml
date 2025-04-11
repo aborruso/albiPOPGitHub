@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2883/C - P. di C. n. 010/2025 Posa Maria ed altri.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33959</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33959</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>AD N. 192/DIR/2023/1039 AVVISO PUBBLICO PER LA PRESENTAZIONE DELLE DOMANDE PER ACCEDERE AL "SOSTEGNOFAMILIARE". APPROVAZIONE ESITI IX TRANCHE</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33958</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33899</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33899</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione all'Associazione di Promozione Sociale Feel at Home con sede a Gravina in Puglia Via Reggio Calabria n 49 per retta ricovero periodo Febbraio 2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33898</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33898</guid>
     </item>
   </channel>
 </rss>
