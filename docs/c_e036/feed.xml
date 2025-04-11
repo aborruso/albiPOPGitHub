@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Attivazione servizio bagni pubblici in via Quarto. Atto d'indirizzo.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33961</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33961</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Concessione a titolo di contributo economico all' associazione culturale "Laboratorio Artistico Symbola" per la manifestazione culturale denominata "Corde su tela", workshop di chitarra, che si terrà il 18 Aprile 2025 per i diritti SIAE.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33960</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33960</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2883/C - P. di C. n. 010/2025 Posa Maria ed altri.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33959</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33901</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33901</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per la costituzione della Comunità Europea dello Sport 2027 "Terra delle Gravine" e candidatura in qualità di Comune Capofila al premio "Comunità Europea dello Sport" (European Community of Sport) per l'anno 2027.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33900</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33900</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Partnership tecnica ed economica del Comune di Ginosa per l'evento Benvenuti in Puglia 2025. Affidamento servizi Media Relations S.r.l. CIG: B65C17FB0A</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33899</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33899</guid>
     </item>
   </channel>
 </rss>
