@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Concessione contributo all' "Associazione Don Bosco 3 A- O.d.V." per il supporto alla realizzazione del campo di volontariato dell'Operazione Mato Grosso, in programma a Ginosa dal 5 al 12 aprile 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33968</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33968</guid>
+    </item>
+    <item>
       <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
       <description>ELENCO ABUSI EDILIZI MESE MARZO 2025</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33967</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33908</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33908</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Approvazione Piano Triennale per la Prevenzione della Corruzione e Trasparenza 2025 - 2027.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33907</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33907</guid>
     </item>
   </channel>
 </rss>
