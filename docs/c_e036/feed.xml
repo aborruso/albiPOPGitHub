@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
+      <description>ELENCO ABUSI EDILIZI MESE MARZO 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33967</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33967</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento del servizio di apertura, chiusura, pulizia e custodia dei bagni pubblici comunali.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33966</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33907</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33907</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Proroga della concessione dell'utilizzo gratuito dei locali della Delegazione Comunale di  Marina di Ginosa alle varie Associazioni Marinesi  per l'anno 2025- Determinazioni.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33906</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33906</guid>
     </item>
   </channel>
 </rss>
