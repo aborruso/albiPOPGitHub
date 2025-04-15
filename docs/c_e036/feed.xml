@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Zito Annunziata</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33970</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33970</guid>
+    </item>
+    <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOISITO CASA COMUNALE PER IRREPERIBILITA' ART. 143 GIANNANDREA DORIS</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33969</link>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33969</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo all' "Associazione Don Bosco 3 A- O.d.V." per il supporto alla realizzazione del campo di volontariato dell'Operazione Mato Grosso, in programma a Ginosa dal 5 al 12 aprile 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33968</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33910</link>
       <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33910</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Protocollo d'Intesa partenariato con Enti del Terzo Settore ai sensi dellart. 55 del D. Lgs n. 117/2017 tra la società "LINE WORK società cooperativa sociale" e il Comune di Ginosa per iniziative sociali e culturali.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33909</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33909</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Piano Integrato di Attività e Organizzazione (PIAO) 2025/2027. Approvazione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33908</link>
-      <pubDate>Mon, 07 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=33908</guid>
     </item>
   </channel>
 </rss>
