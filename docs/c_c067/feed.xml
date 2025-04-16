@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD. N. 39 GIORNO 16 APRILE 2025 DIVIETO DI TRANSITO IN VIA PRINCIPE UMBERTO...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30379</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30379</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Determinazione dell' accertamento derivante dall'applicazione del Canone Patrimoniale di concessione, autorizzazione o esposizione pubblicitaria - anno 2025 - (Canoni permanenti/annual...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30378</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30352</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30352</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>Rimborso di spese sostenute e anticipate dal Collaboratore Eliza Collin per trasferta, nel periodo dal 14/02/2025 al 16/03/2025, legata all'attività di relatore del public program per il progetto "Ecosistemi Connessi. Museo e comunità Post-Varietali" nell'ambito del PAC 2024....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30351</link>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30351</guid>
     </item>
   </channel>
 </rss>
