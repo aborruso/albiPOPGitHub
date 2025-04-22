@@ -40,4 +40,19 @@ jobs:
         git add -A
         timestamp=$(date --iso-8601=seconds)
         git commit -m "c_c067, Castelbuono: ${timestamp}" || exit 0
-        git push
+
+        tentativi=0
+        max_tentativi=5
+
+        until git pull --rebase && git push; do
+          tentativi=$((tentativi+1))
+          echo "❌ Tentativo $tentativi fallito"
+          if [ "$tentativi" -ge "$max_tentativi" ]; then
+            echo "💥 Raggiunto il numero massimo di tentativi ($max_tentativi), esco"
+            exit 1
+          fi
+          echo "⏳ Riprovo tra 5 secondi..."
+          sleep 5
+        done
+
+
