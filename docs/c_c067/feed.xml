@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORD.N.40 DEL 22-04-2025 DIVIETO DI SOSTA E TRANSITO PER  ESAMI DI GUIDA GIORNI 03 E 08 MAGGIO 2025 PIAZZALE DI VIA BENEDETTO ALESSANDRO FINO AL TERMINE DELLE PROVE...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30440</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30440</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n. PA_172  del 31/03/2025  della Società Ambiente e Tecnologia srl, con sede a Enna in Via Nazionale n.31- P.IVA:01220960866 -presso la discarica sita  in C.da Cozzo Vuturo,  relativa al  mese  di Marzo 2025...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30438</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30411</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30411</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>LIQUIDAZIONE SAIS TRASPORTI SPA PER ABBONAMENTI SCOLASTICI. PERIODO: MARZO 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30410</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30410</guid>
     </item>
   </channel>
 </rss>
