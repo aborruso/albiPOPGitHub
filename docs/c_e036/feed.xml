@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato sulle strade del territorio comunale interessate da lavori/servizi di pulizia ordinaria e straordinaria  in data 24.04.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34088</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34088</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Reimmissione sul territorio di n. 4 cani di proprietà del Comune di Ginosa - così identificati in anagrafe nn. microchip: 380260170293246, 380260004508907, 380260004511633, 380260004511635.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34087</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34028</link>
       <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34028</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione integrazione retta ricovero utente CIG: B0AA8D2672 presso la struttura RSA "Armonie diverse" ANFFAS GINOSA sita in via Degli Ulivi Km 11,600 C.da Madonna D'Attoli - Ginosa per il periodo di GENNAIO-FEBBRAIO-MARZO 2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34027</link>
-      <pubDate>Thu, 17 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34027</guid>
     </item>
   </channel>
 </rss>
