@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/04/2025 | Avvisi Vari</title>
+      <description>TRASMISSIONE AVVISO - MODALITA' DI ACCESSO AGLI SPORTELLI ANAGRAFE ASSISTITI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11076</link>
+      <pubDate>Wed, 23 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11076</guid>
+    </item>
+    <item>
       <title>22/04/2025 | Determinazioni Dirigenziali</title>
       <description>LAVORI DI  RISTRUTTURAZIONE EDIFICIO COMUNALE IN VIA SCIACCA BARATTA, DA ADIBIRE AD UFFICI PUBBLICI -  CUP C48B18000280002 - CARONTE SI_1_24439 - CIG: 8842913AA6 -  APPROVAZIONE IMPORTO COMPENSAZIONE RELATIVAMENTE AL SAL BIS N°2 E RIMODULAZIONE QUADRO ECONOMICO</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11075</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11042</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11042</guid>
-    </item>
-    <item>
-      <title>18/04/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento Debito Fuori Bilancio ai sensi dell'art. 194 comma 1° lett.a) del Decreto Leg.vo n. 267/2000 a favore del Sig. Giarrizzo Antonino e del legale distrattario Avv. Mariella Sciammetta  in esecuzione della sentenza n. 636/2022 della Corte dAppello di Messina.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11041</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11041</guid>
     </item>
   </channel>
 </rss>
