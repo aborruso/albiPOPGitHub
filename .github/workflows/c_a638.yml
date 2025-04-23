@@ -42,4 +42,5 @@ jobs:
         git add -A
         timestamp=$(date --iso-8601=seconds)
         git commit -m "c_a638, Barcellona Pozzo di Gotto: ${timestamp}" || exit 0
+        git pull --rebase
         git push
