@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico Richiesta Preventivi</title>
+      <description>Referendum in data 8 e 9 giugno 2025. Avviso pubblico per l'affidamento diretto, previa richiesta di preventivi di spesa, del servizio di assistenza facchinaggio, trasporto, ritiro e consegna del materiale elettorale ai seggi e ufficio elettorale comunale.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34107</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34107</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Referendum abrogativi in data 8 e 9 giugno 2025 - manifesto convocazione dei comizi</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34106</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34047</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34047</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione indennità per l'esercizio di compiti che comportano specifiche responsabilità (art.84 del CCNL 16/11/2022) per l'anno 2023 al personale dell'Area Finanziaria e dell'Area Risorse Umane</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34046</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34046</guid>
     </item>
   </channel>
 </rss>
