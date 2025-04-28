@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione dello svolgimento delle Fasi provinciali di Corsa Orientamento e Trail-O - 30 Aprile 2025 Ginosa /Centro storico.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34140</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34140</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione dei Solenni Festeggiamenti in onore di San Giuseppe e Santa Maria D'Attoli in Ginosa dal 25 al 28 aprile 2025 Integrazione Ordinanza n. 29 del 21.04.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34139</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34139</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Piano Integrato di Attività e Organizzazione (PIAO) 2025/2027 approvato con DGC 59/2025. II Modifica.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34138</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34079</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34079</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>RETI DI FACILITAZIONE DIGITALE PIANO NAZIONALE DI RIPRESA E RESILIENZA (Missione 1 - Componente 1 - Asse 1 - MISURA 1.7.2)  Liquidazione della fattura a favore della Nadir Cancelleria di Roberto Lorusso &amp; C. sas. CUP:  D59I23001050006</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34078</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34078</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Avviso Pubblico "CreativaMente" per l'attuazione di interventi innovativi a favore di adolescenti e giovani (16-21 anni) da parte di Enti del Terzo Settore iscritti al R.U.N.T.S. Liquidazione 2^ tranche del contributo economico riconosciuto all'Associazione Indahouse A.P.S.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34077</link>
-      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34077</guid>
     </item>
   </channel>
 </rss>
