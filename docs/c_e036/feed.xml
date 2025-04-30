@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>REFERENDUM 8 E 9 GIUGNO 2025-ELENCO CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO IL DICIOTTESIMO ANNO DI ETA' IN DATA 8 GIUGNO 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34183</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34183</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>REFERENDUM 8 E 9 GIUGNO 2025-ELENCO DEI CITTADINI CHE, PUR ESSENDO COMPRESI NELLE LISTE ELETTORALI, NON AVRANNO COMPIUTO IL DICIOTTESIMO ANNO DI ETA' IN DATA 8 GIUGNO 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34182</link>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34182</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Variazione compensativa ai sensi dell'art.175, comma 5-quater, lett a), del D.lgs. n.267/2000</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34180</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34122</link>
       <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34122</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa e contestuale liquidazione rimborso spese di viaggio di alcuni componenti della Sottocommisione Elettorale Circondariale di Ginosa per il secondo semestre 2020.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34121</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34121</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Accertamento entrate per emissione ed approvazione della lista di carico per la riscossione coattiva degli accertamenti esecutivi TASI emessi per gli anni di imposta 2015 (residuo)-2016-2017 e 2018.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34120</link>
-      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34120</guid>
     </item>
   </channel>
 </rss>
