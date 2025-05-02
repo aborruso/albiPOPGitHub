@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/05/2025 | Atti Elettorali</title>
+      <description>ELENCO DEI CITTADINI CHE PUR ESSENDO COMPRESE NELLE LISTE ELETTORALI NEL GIORNO FISSATO PER LE VOTAZIONI NON AVRANNO COMPIUTO IL 18° ANNO DI ETA'.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11140</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11140</guid>
+    </item>
+    <item>
       <title>02/05/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione  fattura n 823 del 30-04-2025 CIG B5DE3D93F1 beneficiario Media s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11139</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11106</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11106</guid>
-    </item>
-    <item>
-      <title>28/04/2025 | Determinazioni Dirigenziali</title>
-      <description>SPESA A FAVORE DELLA SOCIETA' KILLIN S.P.A. IN ESECUZIONE DELLA DELIBERA DI C.C. N.37/2025. IMPEGNO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11105</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11105</guid>
     </item>
   </channel>
 </rss>
