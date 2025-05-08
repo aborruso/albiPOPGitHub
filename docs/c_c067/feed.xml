@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA  VIABILITA' PER INAUGURAZIONE MONUMENTO PARTIGIANI - P.ZZA PARROCCHI...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30562</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30562</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>accertamento ed impegno spesa per ricovero in RSA "Regina Mundi" di finale di Pollin...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30561</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30534</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30534</guid>
-    </item>
-    <item>
-      <title>Determinazione Del Segretario Generale</title>
-      <description>EMISSIONE CARTA DI IDENTITA' ELETTRONICA (CIE): ACCERTAMENTO E ASSUNZIONE IMPEGNO SPESA PER IL TRASFERIMENTO DEI CORRISPETTIVI DOVUTI AL MINISTERO DEGLI INTERNI - PERIODO MARZ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30533</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30533</guid>
     </item>
   </channel>
 </rss>
