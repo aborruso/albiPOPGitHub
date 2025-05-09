@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina Del Direttore  Museo Civico</title>
+      <description>Affidamento diretto, ai sensi dell'art. 50 comma 1 lett. b) del D.Lgs. n. 36/2023, della fornitura, trasporto e posa in opera di elementi vari di illuminotecnica previsti al'interno degli "Interventi di manutenzione e valorizzazione del Castello dei Ventimiglia - Museo Civico di Castelbuono"...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30565</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30565</guid>
+    </item>
+    <item>
       <title>Delibera Di Consiglio</title>
       <description>Integrazione alla Mozione Anci-Sicilia dell'otto luglio 2024 relativa alla problematica dell'aumento delle ore per il personale stabilizzato a tempo indeterminato e parziale appartenente al bacino ex L.R. 85/95 e L.R. 21/2003...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30563</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30536</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30536</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>Liquidazione in favore del Direttore  Economo del Museo Civico, Dott.ssa Laura Barreca per l'indennità di competenza relativa al mese di Aprile 2025....</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30535</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30535</guid>
     </item>
   </channel>
 </rss>
