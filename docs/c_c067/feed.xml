@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Delibera Di Giunta</title>
+      <description>VARIAZIONE COMPENSATIVA TRA MACROAGGREGATI APPARTENENTI ALLA STESSA MISSIONE, PROGRAMMA E TITOLO AI SENSI DELL'ART. 175, COMMA 5-BIS, LETT. E-BIS) E COMMA 6 DEL D. LGS. N. 267/200...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30568</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30568</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>LIQUIDAZIONE FATTURA N. 119/PS del 18/04/2025, prot. 8201 del 22/04/2025 - DITTA 3G ITALIA SR...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30567</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30567</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione in favore dell'Agenzia SIAE di Cefalù per i diritti d'autore  dovuti per  la manifestazione Carnevale 202...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30566</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30539</link>
       <pubDate>07/05/2025	Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30539</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione fattura nr. 1 del 23/04/2025 relativa allo smaltimento e conferimento materiali di rifiuto presso idoneo impianto di smaltimento provenienti dai lavori di "Manutenzione straordinaria delle strade urbane e opere annesse  Anno 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30538</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30538</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>Liquidazione in favore della Dott.ssa Rossella Barreca per incarico professionale di "Responsabile comunicazione e grafica", mese di aprile 2025. ...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30537</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30537</guid>
     </item>
   </channel>
 </rss>
