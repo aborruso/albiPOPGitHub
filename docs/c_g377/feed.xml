@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>12/05/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 564 PA del 30-04-2025 CIG B4FD9516E0 beneficiario Unimatica rgi s.p.a.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11245</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11245</guid>
+    </item>
+    <item>
+      <title>12/05/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione  fattura n 202500466 del 02-05-2025 CIG B5049FAF36 beneficiario Halley sud s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11244</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11211</link>
       <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11211</guid>
-    </item>
-    <item>
-      <title>07/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESA  A FAVORE DELLA ITALIANA MEDIAZIONE S.R.L. PROCEDURA N.88/2025. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11210</link>
-      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11210</guid>
     </item>
   </channel>
 </rss>
