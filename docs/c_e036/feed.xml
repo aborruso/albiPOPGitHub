@@ -18,6 +18,20 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Ordinanza per la disciplina della circolazione stradale in occasione del passaggio del 108° Giro d'Italia  Corsa ciclistica internazionale per professionisti  5^ tappa da Ceglie Messapica a Matera, in programma il giorno 14 maggio 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34274</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34274</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Ordinanza per la disciplina della circolazione stradale in occasione della manifestazione con biciclette a pedalata assistita denominata "Giro-E" evento collaterale del 108° Giro d'Italia in programma il giorno 14 maggio 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34273</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34273</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Sospensione delle attività scolastiche per il giorno 14 maggio 2025 in occasione del passaggio della 5^ tappa del Giro d'Italia in Marina di Ginosa e della partenza e passaggio del "Giro-E" in Ginosa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34272</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34214</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34214</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Determina per l'acquisto servizio di assistenza tecnica ai sensi dell'art. 1 lett. b), del D.lgs. n. 36/2023, mediante R.D.O. sul Mercato Elettronico della Pubblica Amministrazione (MEPA). FINANZIAMENTO FNA CUP D59I2300134009</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34213</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34213</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura di saldo in favore del geologo Sergio CALABRESE di Bari - Servizi tecnici e professionali per la esecuzione di indagini e rilievi, relativi allo Studio geologico preliminare propedeutico alla progettazione dell'intervento "MANUTENZIONE STRAORDINARIA E MESSA IN SICUREZZA DEL VERSANTE PROSPICIENTE IL TORRENTE GRAVINELLA IN ZONA "CIRCONVALLAZIONE SUD". - CUP: D38H22000290001. - CIG: B2CCB280CE.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34212</link>
-      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34212</guid>
     </item>
   </channel>
 </rss>
