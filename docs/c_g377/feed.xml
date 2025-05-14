@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/05/2025 | Ordinanze Dirigenziali</title>
+      <description>Parcheggio invalidi riservato ad personam</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11259</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11259</guid>
+    </item>
+    <item>
+      <title>14/05/2025 | Ordinanze Dirigenziali</title>
+      <description>Parcheggio rosa riservato ad personam</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11258</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11258</guid>
+    </item>
+    <item>
       <title>13/05/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta temporaneo in via Aldo Moro per potatura alberi</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11257</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11225</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11225</guid>
-    </item>
-    <item>
-      <title>09/05/2025 | Determinazioni Dirigenziali</title>
-      <description>Registrazione di attrazione dello spettacolo viaggiante e assegnazione del codice identificativo (D.M. 18 maggio 2007)  ditta "ELNA di Pintaudi Giovanna".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11224</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11224</guid>
-    </item>
-    <item>
-      <title>09/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione UCS progetto Piano di Attuazione Locale (PAL) per la programmazione delle risorse della Quota servizi del Fondo Povertà annualità 2021 Distretto Socio Sanitario n. 30. CUP C49G23000490001</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11223</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11223</guid>
     </item>
   </channel>
 </rss>
