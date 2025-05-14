@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/05/2025 | Determinazioni Dirigenziali</title>
+      <description>RETTIFICA DETERMINA N.R.S. 75 DEL 24/0482025  - N.R.G. 258 DEL 24/04/2025</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11267</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11267</guid>
+    </item>
+    <item>
       <title>14/05/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Spese per attività di gestione delle emergenze dell'Ufficio Comunale di Protezione Civile  Liquidazione di spesa per mandato di anticipazione allEconomo Comunale.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11266</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11233</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11233</guid>
-    </item>
-    <item>
-      <title>12/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Art. 192 del D.Lgs. n. 267/2000 ed art. 17 del D.Lgs. n. 36/2023. Affidamento servizio temporaneo di trasporto, per gli alunni delle scuole dell'obbligo e degli Istituti Secondari di secondo grado. Liquidazione fattura</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11232</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11232</guid>
     </item>
   </channel>
 </rss>
