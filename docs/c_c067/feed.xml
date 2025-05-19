@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>PUBBLICAZIONE RICHIESTA MANODOPERA FORESTALE DISTRETTO N9 AVVIS...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30625</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30625</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>LIQUIDAZIONE RELATIVA ALLA FORNITURA DI CARBURANTE PER GLI AUTOMEZZI COMUNALI MESE DI APRILE 2025 - KUWAIT ITALIA S.p.A...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30624</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30598</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30598</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Impegno spesa e affidamento diretto, ai sensi dell'art. 50 comma 1 lett. b) del D.Lgs. n. 36/2023, dell'incarico professionale relativo all'Aggiornamento del Piano Comunale di protezione Civile...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30597</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30597</guid>
     </item>
   </channel>
 </rss>
