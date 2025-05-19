@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE LORUSSO GIUSEPPE.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34366</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34366</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Emergenza Xylella - DDS N. 00086 del 14/05/2025 della Sezione Osservatorio Fitosanitario - Regione Puglia</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34365</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34303</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34303</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>"Fornitura di basole martellate, cordoli in pietra" - Liquidazione alla Ditta Giacumbo Marmi.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34302</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34302</guid>
     </item>
   </channel>
 </rss>
