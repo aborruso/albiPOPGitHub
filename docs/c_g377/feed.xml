@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>19/05/2025 | Determinazioni Dirigenziali</title>
+      <description>Affidamento in concessione del servizio temporaneo e sperimentale dei parcheggi a pagamento non custoditi sull'intero territorio comunale per anni UNO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11294</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11294</guid>
+    </item>
+    <item>
+      <title>19/05/2025 | Determinazioni Dirigenziali</title>
+      <description>SERVIZIO DI FORNITURA WEB SERVICE SOAP DI PROTOCOLLAZIONE AUTOMATICA ISTANZE ONLINE- DECISIONE A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO SUL ME.PA. ED IMPEGNO SPESA. CIG. B6D843790A</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11293</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11293</guid>
+    </item>
+    <item>
       <title>17/05/2025 | Determinazioni Dirigenziali</title>
       <description>LAVORI DI EFFICIENTAMENTO ENERGETICO PRESSO GLI UFFICI COMUNALI DI PIAZZA MARIO SCIACCA. - CODICE CARONTE: SI_1_25030  - RIMBORSO SOMME ANTICIPATE A VALERE SUL FONDO DI ROTAZIONE  - IMPEGNO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11292</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11259</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11259</guid>
-    </item>
-    <item>
-      <title>14/05/2025 | Ordinanze Dirigenziali</title>
-      <description>Parcheggio rosa riservato ad personam</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11258</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11258</guid>
-    </item>
-    <item>
-      <title>13/05/2025 | Ordinanze Dirigenziali</title>
-      <description>Divieto di sosta temporaneo in via Aldo Moro per potatura alberi</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11257</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11257</guid>
     </item>
   </channel>
 </rss>
