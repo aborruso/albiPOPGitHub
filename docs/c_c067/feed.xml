@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determina</title>
+      <description>Liquidazione incentivo in favore dell'Assistente Sociale Dott.ssa Lorena Sferruzza  Vice Responsabile dellUfficio Piano  per le attività svolte nellambito del Piano di Zona 2021  Azione 1  Periodo dal 01/01/2024 al 05/05/2025...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30627</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30627</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>Liquidazione in favore del Sindaco Mario Cicero per rimborso spese sostenute in occasione della missione istituzionale a Szada (Ungheria) dal 2 al 6 maggio 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30626</link>
+      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30626</guid>
+    </item>
+    <item>
       <title>Avviso</title>
       <description>PUBBLICAZIONE RICHIESTA MANODOPERA FORESTALE DISTRETTO N9 AVVIS...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30625</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30600</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30600</guid>
-    </item>
-    <item>
-      <title>Ordinanza</title>
-      <description>ORDINANZA DI VIABILITA' CHIUSURA AL TRANSITO VIA SAN PAOL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30599</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30599</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione per rimborso delle somme versate relative al rinnovo della concessione di un loculo comunale nel cimitero comunale per la defunta Turrisi Luci...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30598</link>
-      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30598</guid>
     </item>
   </channel>
 </rss>
