@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso Pubblico</title>
+      <description>Avviso di deposito elenchi elettori AIRE votanti all`estero</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34369</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34369</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
       <description>Referendum 8 e 9 giugno 2025. Elenco Presidenti e scrutatori.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34368</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34306</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34306</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno spesa per integrazione retta ricovero struttura RSA "Armonie diverse" ANFFAS GINOSA CIG:B6B8ED14AC periodo dal 01/01/2025 al 31/12/2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34305</link>
-      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34305</guid>
     </item>
   </channel>
 </rss>
