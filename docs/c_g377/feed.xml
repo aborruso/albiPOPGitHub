@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/05/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione  fattura n 9/PA del 19-05-2025 CIG B6D5580C28 beneficiario Ecoufficio italia srl unipersonale</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11300</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11300</guid>
+    </item>
+    <item>
       <title>19/05/2025 | Avvisi Vari</title>
       <description>Bando di Iscrizione all'Asilo Nido Comunale "M. Faranda" Anno scolastico 2025/2026.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11299</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11266</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11266</guid>
-    </item>
-    <item>
-      <title>14/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Progettazione del Piano Urbanistico Generale e relativo Studio demografico e socioeconomico. Liquidazione fattura n° 7 del 13. 03.2025 relativa ad acconto del 25% delle competenze tecniche dell'incarico conferito al Prof. Ing. Arch. Giuseppe Trombino.  CIG: ZD9218E3BB</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11265</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11265</guid>
     </item>
   </channel>
 </rss>
