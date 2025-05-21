@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO di selezione per un incarico ex art. 110, per la copertura a tempo pieno e determinato di 1 FUNZIONARIO TECNICO, area dei FUNZIONARI ed ELEVATE QUALIFICAZIONI, da assegnare al VII Settore.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34385</link>
+      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34385</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>P.I.R.P. del Comune di Ginosa di cui alla DGR n°870/2006 e successiva rimodulazione con Atto Dirigenziale n°189/2019.  Progetti: "Recupero dell'immobile detto Casermetta e relative Opere di completamento" - CUP:D33D21007890002, e Realizzazione di nuovi alloggi di edilizia residenziale sovvenzionata in Via Mazzini -   CUP:D33I18000460002. - NOMINA NUOVO RUP</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34384</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34322</link>
       <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34322</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento fornitura per bouffet in occasione del conferimento della cittadinanza onoraria della Città di Ginosa al Prof. Giuseppe Antoci.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34321</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34321</guid>
     </item>
   </channel>
 </rss>
