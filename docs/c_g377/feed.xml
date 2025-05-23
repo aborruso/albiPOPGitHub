@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/05/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>TURNI PRONTA DISPONIBILITA' - SERVIZI IGIENE PUBBLICA E MEDICINA LEGALE - MESE GIUGNO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11360</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11360</guid>
+    </item>
+    <item>
       <title>22/05/2025 | Determinazioni Dirigenziali</title>
       <description>ACQUISTO N. 50 COPIE DEL LIBRO DAL TITOLO "MONGIOVE     RICORDI SPUNTI E APPUNTI PER LA STORIA DI UNA FRAZIONE DI PATTI", AUTORE AVV. NICOLA ADAMO, EDITO DALLA CASA EDITRICE YORICK DELLA DOTT.SSA GAIA MAIRO- IMPEGNO E AFFIDAMENTO</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11359</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11326</link>
       <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11326</guid>
-    </item>
-    <item>
-      <title>21/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SPESE LEGALI A SALDO ALL'AVV. CERAOLO STEFANO. CONTROVERSIA MARTINES. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11325</link>
-      <pubDate>Wed, 21 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11325</guid>
     </item>
   </channel>
 </rss>
