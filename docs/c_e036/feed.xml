@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 11</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34420</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34420</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione fattura in favore della Pentagono Service Soc. Coop. Servizio di apertura, chiusura, pulizia e custodia dei bagni pubblici comunali. Mese di aprile 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34419</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34359</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34359</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Area Affari Generali. Liquidazione indennità anno 2023 per l'esercizio di compiti che comportano specifiche responsabilità.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34358</link>
-      <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34358</guid>
     </item>
   </channel>
 </rss>
