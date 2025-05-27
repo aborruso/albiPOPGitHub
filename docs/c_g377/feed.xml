@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/05/2025 | Determinazioni Dirigenziali</title>
+      <description>ADA/SAD  Servizio di Assistenza Domiciliare Anziani in favore dei beneficiari residenti nei Comuni dell'AOD N.1 -  D. S. S. N.30 - Azione N. 6 -  PDZ 2021- Scorrimento Graduatoria</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11397</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11397</guid>
+    </item>
+    <item>
       <title>27/05/2025 | Determinazioni Del Sindaco</title>
       <description>Artt. 166, 167 e 176 del TUEL - Prelievo dal "Fondo debiti potenziali" e dal "Fondo di riserva di cassa".</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11396</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11363</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11363</guid>
-    </item>
-    <item>
-      <title>23/05/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA DI REGISTRO  LOCALI ADIBITI A SCUOLA MATERNA MONGIOVE - ANNO 2025- LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11362</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11362</guid>
     </item>
   </channel>
 </rss>
