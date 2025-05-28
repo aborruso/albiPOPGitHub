@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA VIABILITA' MANIFESTAZIONE ORCHESTRA...NDO 202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30700</link>
+      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30700</guid>
+    </item>
+    <item>
+      <title>Determina</title>
+      <description>SERVIZIO REFEZIONE SCOLASTICA -  INTEGRAZIONE IMPEGNO PER AFFIDAMENTO FORNITURA DI OLIO EXTRAVERGINE DI OLIVA PER L'ANNO SCOLASTICO  2024/25  - DITTA MADONIA ANGEL...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30699</link>
+      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30699</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>LIQUIDAZIONE FATTURA N. 1138-2025-BMM DEL 13/05/2025 PROT. 10337 DEL 17/05/25 - AGGIO SOSTA  APRILE 2025 - DITTA MYCICER...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30698</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30673</link>
       <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30673</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Lavori di efficientamento energetico ed adeguamento del complesso Badia II° stralcio.  Liquidazione I° SAL bis (per maggiori oneri ai sensi dell'art. 26 del D.L. 5022). Impresa edile: Allegra Vincenzo con sede a Castelbuono (PA), in Via Salita al Bosco n. 16 - P. I.V.A.: 05582660824   C.U.P.:H39J20001680001890064222...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30672</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30672</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>Liquidazione alla Ditta Proxima s.r.l. della fattura n. 117 del 16/05/2025 per canone assistenza software imposta di soggiorno anno 202...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30671</link>
-      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30671</guid>
     </item>
   </channel>
 </rss>
