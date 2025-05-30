@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Cessazione, con effetto immediato, dell'attività di estetista...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30730</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30730</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Approvazione graduatoria dei richiedenti il Servizio Assistenza Domiciliare Anziani-  Azione n°5 del Piano di Zona 2021 redatto ai sensi della L.328/00...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30729</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30700</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30700</guid>
-    </item>
-    <item>
-      <title>Determina</title>
-      <description>SERVIZIO REFEZIONE SCOLASTICA -  INTEGRAZIONE IMPEGNO PER AFFIDAMENTO FORNITURA DI OLIO EXTRAVERGINE DI OLIVA PER L'ANNO SCOLASTICO  2024/25  - DITTA MADONIA ANGEL...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30699</link>
-      <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30699</guid>
     </item>
   </channel>
 </rss>
