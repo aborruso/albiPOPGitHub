@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>30/05/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo su tratto del lungomare C.F. Zuccarello per bitumazione manto stradale</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11443</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11443</guid>
+    </item>
+    <item>
       <title>30/05/2025 | Determinazioni Dirigenziali</title>
       <description>INTERVENTI DI LIVELLAMENTO E SERVIZIO DI PULIZIA STRAORDINARIA E MANTENIMENTO DELLE SPIAGGE LIBERE DI MARINA DI PATTI, PLAYA, MARINELLO, GALICE E MONGIOVE E PULITURA DEI CANALI ACQUE BIANCHE RICADENTI SULLA SPIAGGIA -  DETERMINA A CONTRARRE, AFFIDAMENTO ED IMPEGNO SPESA -  CIG.  B6F2BBFB5A -  DITTA:  PMM s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11442</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11409</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11409</guid>
-    </item>
-    <item>
-      <title>28/05/2025 | Ordinanze Dirigenziali</title>
-      <description>Chiusura corsia lato mare lungomare  C. F. Zuccarello  1 e 3 giugno 2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11408</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11408</guid>
     </item>
   </channel>
 </rss>
