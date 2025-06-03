@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/06/2025 | Atti Di Interesse Generale</title>
+      <description>AVVISO CAMBIAMENTO NOME E/O COGNOME AI SENSI DELL’ARTICOLO 90, COMMA 1 DEL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 03/11/2000, N. 396 E DEL DECRETO DEL PRESIDENTE DELLA REPUBBLICA 13/032012 N. 54 - MINORE XHAFAJ ENEA</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11444</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11444</guid>
+    </item>
+    <item>
       <title>30/05/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta temporaneo su tratto del lungomare C.F. Zuccarello per bitumazione manto stradale</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11443</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11410</link>
       <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11410</guid>
-    </item>
-    <item>
-      <title>28/05/2025 | Determinazioni Dirigenziali</title>
-      <description>Impegno spesa e volontà a contrarre acquisto vestiario personale Polizia Municipale</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11409</link>
-      <pubDate>Wed, 28 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11409</guid>
     </item>
   </channel>
 </rss>
