@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Determinazione Del Segretario Generale</title>
+      <description>Referendum popolari abrogativi ex articolo 75 della Costituzione in materia di giustizia, indetti per domenica 8 giugno e lunedì 9 giugno 2025  Accertamento somme rimborsabil...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30752</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30752</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>Provvedimento Unico-Permesso di Costruire n. 5-6/2025 rilasciato in data 03.06.202...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30751</link>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30751</guid>
+    </item>
+    <item>
       <title>Determina</title>
       <description>Liquidazione fattura n°14/R del 12/05/2025 per il servizio inerente  "la trasformazione dell'autobotte Fiat IVECO targ. PAA94601 in macchina operatrice"  OdA  MePA 4973809 del 24/12/2024  CIG: B500CCC58...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30750</link>
@@ -197,20 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30725</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30725</guid>
-    </item>
-    <item>
-      <title>Avviso</title>
-      <description>AVVISO PUBBLICAZIONE GRADUATORIA PROVVISORIA CANTIERI DI LAVOR...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30724</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30724</guid>
-    </item>
-    <item>
-      <title>Delibera Di Giunta</title>
-      <description>Approvazione in linea amministrativa del "Progetto di fattibilità tecnico-economica e del Progetto Esecutivo inerente l'Adeguamento sismico dell'edificio scolastico - Scuola Materna Via N"...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30723</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30723</guid>
     </item>
   </channel>
 </rss>
