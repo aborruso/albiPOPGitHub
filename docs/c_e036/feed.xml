@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera G.c.</title>
+      <description>Assegnazione ai Settori Comunali di n.4 unità di personale a tempo pieno e indeterminato, profilo professionale "Istruttore Amministrativo-Contabile", Area degli Istruttori.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34526</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34526</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Referendum giugno 2025 - apertura uffici comunali per il rilascio delle tessere elettorali</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34525</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34467</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34467</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Aggiornamento e modifica del Piano Integrato di Attività e Organizzazione (PIAO) 2025/2027, ai sensi dell'art. 6, D.L. n. 80/2021, sezione organizzazione e capitale umano, sottosezione di programmazione piano triennale dei fabbisogni, a seguito dell'approvazione del Rendiconto della gestione per lesercizio 2024, ai sensi dellart. 227, D.lgs. n. 267/2000, con DCC n. 7 del 29/04/2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34466</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34466</guid>
     </item>
   </channel>
 </rss>
