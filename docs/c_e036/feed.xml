@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Referendum giugno 2025 - apertura uffici comunali per il rilascio delle tessere elettorali</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34525</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34525</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Attestazione delle attività formative dei dipendenti del VII Settore, ai sensi dell'art. 55 del CCNL FF.LL. 2019/2021 e dell'art. 8 dell'allegato II.4 al Codice dei Contratti Pubblici.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34524</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34466</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34466</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Colonia Marina Diurna Minori Anno 2025. Criteri e modalità di erogazione del servizio.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34465</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34465</guid>
     </item>
   </channel>
 </rss>
