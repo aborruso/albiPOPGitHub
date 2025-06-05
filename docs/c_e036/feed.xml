@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Azienda : CTP S.p.A. Prot : 3327 - 1 del 03/06/2025 - AVVISO PUBBLICO: MANIFESTAZIONE D'INTERESSE NOMINA AMMINISTRATORE UNICO OVVERO PRESIDENTE DEI CONSIGLIERI DI AMMINISTRAZIONE CTP SPA: ERRATA CORRIGE</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34530</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34530</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3386/C - P. di C. n. 015/2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34529</link>
+      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34529</guid>
+    </item>
+    <item>
       <title>Delibera C.c.</title>
       <description>Conferimento della cittadinanza onoraria della Città di Ginosa al Dott. Giuseppe Antoci.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34528</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34471</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34471</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Assunzione n. 3 Agenti di Polizia Locale (TI) e n. 3 Agenti di Polizia Locale (TD).  Approvazione schema di accordo utilizzo "graduatoria pubblica per la copertura a tempo pieno e indeterminato di n. 60 posti nel profilo professionale di Agente di Polizia Locale (ex categoria giuridica C) Area Istruttori" del Comune di Taranto. Modifica DGC 94/2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34470</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34470</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Puglia FESR-FSE+ 2021-2027. Ginosa Ciclabile. Realizzazione di un percorso ciclabile di connessione dei principali attrattori in ambito urbano. CUP: D31B24000390002. Approvazione schema di Disciplinare regolante i rapporti con la Regione Puglia.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34469</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34469</guid>
     </item>
   </channel>
 </rss>
