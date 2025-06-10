@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Castelbuono</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082022</category>
     <item>
+      <title>Avviso</title>
+      <description>Avviso pubblico esplorativo per Manifestazione di Interesse ai fini dell'affidamento diretto dell'incarico di "Data Protection Officer" - "Responsabile della Protezione Dati" D.P.O. - R.P.D. e di servizi vari di supporto per l'attuazione del regolamento U.E. 679/2016 (G.D.P.R.) in G.U.U.E. 4 maggio 2016...</description>
+      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30809</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30809</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>ORDINANZA VIABILITA' LAVORI VIA ORATORI...</description>
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30808</link>
@@ -204,13 +211,6 @@
       <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30781</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30781</guid>
-    </item>
-    <item>
-      <title>Determina Del Direttore  Museo Civico</title>
-      <description>Rimborso di spese sostenute e anticipate dal Prestatore d'opera Elena Catalano, periodo 21//03/2025 al 21/03/2025 relativo al progetto Ecosistemi Connessi. Museo e comunità Post-Varietali nell'ambito del PAC 2024...</description>
-      <link>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30780</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.castelbuono.pa.it/castelbuono/mc/mc_p_dettaglio.php?id_pubbl=30780</guid>
     </item>
   </channel>
 </rss>
