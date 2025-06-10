@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Reimmissione sul territorio di due cani di proprietà del Comune di Ginosa, così identificati in anagrafe - microchip 380260170293453, 380260170293454.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34568</link>
+      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34568</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Concessione congedo straordinario per l'assistenza a familiare portatore di handicap in situazione di gravità, ai sensi dell'art.42, comma 5, del D.Lgs. 151/2001 alla dipendente "omissis" matricola n.85.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34567</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34508</link>
       <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34508</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Lavori di manutenzione e di montaggio delle passerelle comunali di accesso alle spiagge libere di Marina di Ginosa - Stagione 2025 - IMPEGNO DI SPESA</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34507</link>
-      <pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34507</guid>
     </item>
   </channel>
 </rss>
