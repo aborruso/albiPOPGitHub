@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/06/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito tratto via Fiume per sparo giochi di artificio</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11523</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11523</guid>
+    </item>
+    <item>
       <title>10/06/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Impegno di spesa e liquidazione imposta registrazione contratto di locazione (annualità successive alla prima) Avviso di liquidazione nr. 2021/3T/002831/000/001/2023/003 emesso dall'Agenzia delle Entrate, Ufficio Territoriale di Barcellona P.G.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11522</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11489</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11489</guid>
-    </item>
-    <item>
-      <title>06/06/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL  69^ EDIZIONE - ANNO 2025  " NOMINA SUNT CONSEQUENTIA RERUM". AFFIDAMENTO SERVIZIO STIPULA POLIZZA RCT PER GLI EVENTI AL TEATRO GRECO DI TINDARI</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11488</link>
-      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11488</guid>
     </item>
   </channel>
 </rss>
