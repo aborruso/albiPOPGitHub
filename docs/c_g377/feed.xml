@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/06/2025 | Deliberazioni Di Giunta</title>
+      <description>Art. 175, comma 4 del TUEL - Variazioni, in via d'urgenza, al bilancio di previsione 2025/2027.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11539</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11539</guid>
+    </item>
+    <item>
+      <title>12/06/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - GIARRIZZO / CALBRESE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11538</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11538</guid>
+    </item>
+    <item>
       <title>12/06/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di transito temporaneo via Meazza per accensione giochi di artificio</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11537</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11505</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11505</guid>
-    </item>
-    <item>
-      <title>10/06/2025 | Ordinanze Dirigenziali</title>
-      <description>Chiusura al transito tratto corso Matteotti per lavori di bitumazione manto stradale</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11504</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11504</guid>
-    </item>
-    <item>
-      <title>10/06/2025 | Determinazioni Dirigenziali</title>
-      <description>Decisione di contrarre ai sensi dell'art. 17 commi 1 e 2 del D.Lgs. n. 36/2023 e s.m.i., impegno somme e presa atto dellaggiudicazione dei lavori di manutenzione straordinaria per il ripristino delle condotte fognarie delle Vie "Salandra e San Giuliano", in C.da Sorrentini, Comune di Patti.  Affidamento diretto ai sensi dellart. 50 comma 1 lettera a) del D.Lgs. n. 36/2023 e s.m.i. mediante RDO su MEPA  (N. 5358503 del 14.05.2025).</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11503</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11503</guid>
     </item>
   </channel>
 </rss>
