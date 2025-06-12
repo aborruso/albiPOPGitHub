@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 07</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34602</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34602</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Convocazione III Commissione consiliare</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34601</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34541</link>
       <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34541</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>"Acquisto materiale di ricambio per pattini" - Determina a contrarre e affidamento alla Ditta C.N.A. Cantiere Nautico s.r.l. - CIG: B724FAB631</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34540</link>
-      <pubDate>Thu, 05 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34540</guid>
     </item>
   </channel>
 </rss>
