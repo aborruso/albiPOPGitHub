@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>20/06/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - TARANTINO/NATOLI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11623</link>
+      <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11623</guid>
+    </item>
+    <item>
       <title>20/06/2025 | Determinazioni Dirigenziali</title>
       <description>OGGETTO: FORNITURA DI CARBURANTE PER GLI AUTOMEZZI DI PROPRIETA' COMUNALE. ADESIONE ALLA CONVENZIONE CARBURANTI RETE BUONI ACQUISTO 2 CIG MASTER: 9292449380 - CIG DERIVATO: B74F30FFC6              DITTA ENILIVE S.p.A.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11622</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11589</link>
       <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11589</guid>
-    </item>
-    <item>
-      <title>17/06/2025 | Ordinanze Dirigenziali</title>
-      <description>Divieto di transito temporaneo in via Fiume per sparo giochi d'artificio</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11588</link>
-      <pubDate>Tue, 17 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11588</guid>
     </item>
   </channel>
 </rss>
