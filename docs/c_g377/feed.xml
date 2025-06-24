@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/06/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>SERVIZIO  PREVENZIONE VETERINARIA  - MODIFICA PRONTA DISPONIBILITA' MESE GIUGNO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11638</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11638</guid>
+    </item>
+    <item>
+      <title>24/06/2025 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE CONSIGLIO COMUNALE</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11637</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11637</guid>
+    </item>
+    <item>
       <title>23/06/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>SERVIZIO DI NOLEGGIO MACCHINE MULTIFUNZIONE DIGITALI PER GLI UFFICI COMUNALI PER 16 MESI. - CIG: Z053C28DBC -  LIQUIDAZIONE FATTURA 99FTSP/25 -  IMPRESA: ZS INFORMATICA s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11636</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11604</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11604</guid>
-    </item>
-    <item>
-      <title>18/06/2025 | Determinazioni Dirigenziali</title>
-      <description>Autorizzazione all'utilizzo temporaneo di un'area privata sita in Patti Marina da destinare a sosta camper e parcheggio ad uso pubblico</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11603</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11603</guid>
-    </item>
-    <item>
-      <title>18/06/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RETTIFICA DETERMINA N. 584 DEL 04/06/2025 - LIQUIDAZIONE AL PERSONALE NON DIRIGENTE DELL'INDENNITÀ CORRELATA  AGLI INCARICHI PER SPECIFICHE RESPONSABILITÀ PER LANNO 2022, CONFERITO AI SENSI DELLART.70 QUINQUIES, COMMA 1</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11602</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11602</guid>
     </item>
   </channel>
 </rss>
