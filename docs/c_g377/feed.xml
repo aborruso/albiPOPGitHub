@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/06/2025 | Determinazioni Dirigenziali</title>
+      <description>Impegno spesa per rimborso Sig.ra Avellino Adriana</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11640</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11640</guid>
+    </item>
+    <item>
+      <title>24/06/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>LIQUIDAZIONE COMPENSO E SPESE AI COMPONENTI IL COLLEGIO DEI REVISORI DEI CONTI. PERIODO: DAL 01 GENNAIO AL 31 MARZO 2025 (I^ TRIMESTRE 2025)</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11639</link>
+      <pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11639</guid>
+    </item>
+    <item>
       <title>24/06/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
       <description>SERVIZIO  PREVENZIONE VETERINARIA  - MODIFICA PRONTA DISPONIBILITA' MESE GIUGNO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11638</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11606</link>
       <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11606</guid>
-    </item>
-    <item>
-      <title>18/06/2025 | Ordinanze Dirigenziali</title>
-      <description>Divieto di transito tratto della  via Meazza per sparo giochi d'artificio</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11605</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11605</guid>
-    </item>
-    <item>
-      <title>18/06/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ELEZIONI REFERENDUM ABROGATIVO DEL 08 E 09 GIUGNO 2025  LIQUIDAZIONE LAVORO STRAORDINARIO PRESTATO DAL PERSONALE COMUNALE NEL PERIODO DAL 17 APRILE 2025 AL 14 GIUGNO 2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11604</link>
-      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11604</guid>
     </item>
   </channel>
 </rss>
