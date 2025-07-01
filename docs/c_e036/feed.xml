@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Reimmissione sul territorio di due cani di proprietà del Comune di Ginosa, così identificati in anagrafe - microchip 380260004721365, 380260004508966.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34845</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34845</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>ATTIVAZIONE NUOVO PORTALE S.U.E. DAL 01/07/2025 (SPORTELLO UNICO PER L'EDILIZIA)</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34844</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34844</guid>
+    </item>
+    <item>
       <title>Art. 60 Dpr 29/09/1973</title>
       <description>DEPOSITO CASA COMUNALE ATTI N. 03</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34843</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34786</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34786</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Gara servizi legali aggiudicata con Determinazione Area Affari Generali n. 538 del 02.12.2017. Assunzione ulteriore impegno di spesa.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34785</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34785</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>PRESA D'ATTO, ORA PER ALLORA, DELLAVVENUTA LEGITTIMAZIONE E CONTEMPORANEO PROVVEDIMENTO DI AFFRANCAZIONE DEL CANONE DI NATURA ENFITEUTICA IMPOSTO SUI FONDI SITI IN AGRO DI GINOSA (TA) AL FOGLIO 25 P.LLA 156 DI HA 00.21.99, A FAVORE DI LENGE DONATO LNGDNT77H01C136F E LENGE GIULIANO LNGGLN80A01C136R</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34784</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34784</guid>
     </item>
   </channel>
 </rss>
