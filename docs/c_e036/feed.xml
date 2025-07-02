@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc</title>
+      <description>DEPOSITO ATTI ALLA CASA COMUNALE AI SENSI DELL'ART. 143 CPC</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34846</link>
+      <pubDate>Wed, 02 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34846</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Reimmissione sul territorio di due cani di proprietà del Comune di Ginosa, così identificati in anagrafe - microchip 380260004721365, 380260004508966.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34845</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34787</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34787</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per contributo economico concesso in favore dell'Università degli Studi di Bari "Aldo Moro"- Dipartimento di Ricerca ed Innovazione Umanistica (DiRIUm) annualità 2025, per realizzare le attività di indagine e divulgazione nel comparto di Madonna D'Attoli, giusto nuovo Accordo Organizzativo di Ricerca.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34786</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34786</guid>
     </item>
   </channel>
 </rss>
