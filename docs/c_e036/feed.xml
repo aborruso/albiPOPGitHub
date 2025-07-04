@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>LEGGE REGIONALE N°7 DEL 30 MAGGIO 2025  "DISCIPLINA REGIONALE DELL'UTILIZZO DELLE ACQUE SUPERFICIALI E SOTTERRANEE E DISPOSIZIONI DIVERSE".</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34872</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34872</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>ORDINANZA SINDACALE CIRCA LO STATO DI GRAVE PERICOLOSITÀ DEGLI INCENDI BOSCHIVI PER L'ANNO 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34871</link>
+      <pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34871</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Approvazione del Documento di Indirizzo alla Progettazione (DIP).  Intervento di riqualificazione e messa in sicurezza della palestra e del campo esterno all'I.C. "G. Deledda"  Via della Pace, Ginosa (TA). Indirizzi operativi. CUP: D39I25000490007</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34869</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34810</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34810</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Fornitura materiale per piccoli interventi di manutenzione - Liquidazione</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34809</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34809</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2023" Linea  B -  II Finestra - Codice Pratica KV0X71N4 (busta paga maggio 2025 + giugno 2025 +contributi inps + consulente lavoro)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34808</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34808</guid>
     </item>
   </channel>
 </rss>
