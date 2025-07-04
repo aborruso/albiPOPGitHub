@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 2863/C - P. di C. n. 017/2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34873</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34873</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>LEGGE REGIONALE N°7 DEL 30 MAGGIO 2025  "DISCIPLINA REGIONALE DELL'UTILIZZO DELLE ACQUE SUPERFICIALI E SOTTERRANEE E DISPOSIZIONI DIVERSE".</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34872</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34811</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34811</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno di spesa per affidamento incarico legale all'Avv. Giuseppe Misserini in esecuzione della Deliberazione di Giunta Comunale n. 129 del 20.06.2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34810</link>
-      <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34810</guid>
     </item>
   </channel>
 </rss>
