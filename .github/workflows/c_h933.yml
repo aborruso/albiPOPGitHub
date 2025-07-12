@@ -18,9 +18,9 @@ jobs:
     - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet, uv e scrape-cli
       run: |-
         mkdir -p ~/bin
-        cp bin/mlr_6 ~/bin
+        cp bin/mlr_6 ~/bin/mlr
         cd ~/bin
-        chmod +x mlr_6
+        chmod +x mlr
         sudo apt-get install xmlstarlet
         curl -LsSf https://astral.sh/uv/install.sh | sh
         uv tool install scrape-cli
