@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di San Giuseppe Jato</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>https://aborruso.github.io/albiPOPGitHub/c_h933/feed.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/c_h933/feed.xml" type="application/rss+xml"/>
+    <docs>https://albopop.it/comune/sangiuseppejato/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">San Giuseppe Jato</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Palermo</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Sicilia</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">37.97204893237417</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">13.18512860910005</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20266</title>
+      <description>Liquidazione  fattura n 77 del 18-06-2025  beneficiario Sia srls di Andrea Cilluffo per verbali incassati periodo da marzo a maggio 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20266</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20266</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20265</title>
+      <description>LIQUIDAZIONE  DI SOMMA ERRONEAMENTE INTROITATA A TITOLO DI SANZIONE AMMINISTRATIVA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20265</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20265</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20264</title>
+      <description>108-VARIAZIONE FRA MACROAGGREGATI ALL'INTERNO DELLO STESSO PROGRAMMA - BILANCIO 2025-2027</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20264</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20264</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20263</title>
+      <description>110-INDIVIDUAZIONE DI UN LEGALE PER L'ATTO DI PIGNORAMENTO PROMOSSO DAL GEOM. OMISSIS. C/O COMUNE DI SAN GIUSEPPE JATO</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20263</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20263</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20262</title>
+      <description>109-PRELEVAMENTO DAL FONDO DI RISERVA -SPESE PER INCARICO LEGALE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20262</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20262</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20261</title>
+      <description>111-RETTIFICA DELIBERAZIONE G.M. N. 100 DEL 03.07.2025 APPROVAZIONE RELAZIONE SULLA PERFORMANCE RELATIVA AL RAGGIUNGIMENTO DEGLI OBIETTIVI FISSATI PER L'ANNO 2024</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20261</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20261</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20260</title>
+      <description>-53-VARIAZIONE DI BILANCIO AI SENSI DELL'ART.175, COMMA 2 DEL D.LGS N. 267/2000- SETTORE AFFARI GENERALI</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20260</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20260</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20259</title>
+      <description>-48-NOMINA SCRUTATORI E LETTURA ED APPROVAZIONE  SEDUTA PRECEDENTE.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20259</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20259</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20258</title>
+      <description>LIQUIDAZIONE LAVORO STRAORDINARIO  AL PERSONALE COMUNALE  IN OCCASIONE DELLE CONSULTAZIONI REFERENDARIE  DI  DOMENICA  E LUNEDI' 08 E 09 GIUGNO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20258</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20258</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20257</title>
+      <description>Liquidazione  fattura n 200/PA del 04-07-2025 CIG B49CFE21DA beneficiario Societa' cooperativa sociale quadrifoglio mese di giugno 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20257</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20257</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20256</title>
+      <description>PAGAMENTO DIRITTI D'AUTORE. ASSUNZIONE IMPEGNO DI SPESA A FAVORE DELLA SOCIETA' ITALIANA DEGLI AUTORI ED EDITORI (SIAE) - EVENTO "NOTE D'ESTATE" 13 LUGLIO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20256</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20256</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20255</title>
+      <description>ADESIONE ALL'INIZIATIVA "PULIAMO IL MONDO 2025" - IMPEGNO DI SPESA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20255</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20255</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20254</title>
+      <description>51-APPROVAZIONE DEL RENDICONTO DELL'ESERSIZIO FINANZIARIO 2024 (ART.227,2° C,D.LGS. 18.08.2000 N. 267)</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20254</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20254</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 20253</title>
+      <description>-26-interdizione della circolazione e divieto della sosta di tutti i veicoli in piazza falcone e borsellino di questo comune e deviazione del traffico veicolare per vie alternative durante lo svolgimento dell'evento di "Degustazione del piatto JATENSES-EDIZIONE ZERO- NOTE D'ESTATE".</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20253</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20253</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 20252</title>
+      <description>-25-interdizione della sosta e della circolazione di tutti i veicoli in .P.zza del popolo, Corso Umberto I° , VIA Porta Palermo e P.zza Falcone  e Borsellino di questo Comune in occasione della fiaccolata per la pace organizzativa dell'Amministrazione Comunale.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20252</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20252</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20251</title>
+      <description>LIQUIDAZIONE FATTURE ESTRA ENERGIE S.R.L. FORNITURA GAS NATURALE PERIODO MAGGIO 2025. CONVENZIONE CONSIP GAS NATURALE 15 BIS LOTTO 9 SICILIA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20251</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20251</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20250</title>
+      <description>IMPEGNO DI SPESA PER LA FORNITURA DEL SERVIZIO IDRICO INTEGRATO UTENZE COMUNALI I° ACCONTO ANNO 2025.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20250</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20250</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20249</title>
+      <description>Liquidazione  fattura n 1025156576 del 07-07-2025 CIG B27DE91B40 fattura n 1025156576 del 07-07-2025 CIG B27DE91B40 beneficiario Poste italiane s.p.a.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20249</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20249</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20248</title>
+      <description>PERIZIA DI VARIANTE -  ACCORDO QUADRO PER LA REALIZZAZIONE DI LAVORI DI MANUTENZIONE ORDINARIA E D'URGENZA DEL PATRIMONIO COMUNALE  STRADE, PIAZZE, MARCIAPIEDI E PERTINENZE DI PROPRIETÀ AD USO PUBBLICO, DEL COMUNE DI SAN GIUSEPPE JATO (PA)- PRESA D'ATTO.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20248</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20248</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20247</title>
+      <description>Liquidazione rimborso spese alla dipendente Randazzo Giuseppa per la partecipazione alla premiazione della XXXII edizione COMUNI RICICLONI a Roma il 02.07.02025.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20247</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20247</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20246</title>
+      <description>Impegno spesa relativo al Consorzio di Filiera COREPLA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20246</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20246</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20245</title>
+      <description>CONCESSIONE FINANZIAMENTO DEI CANTIERI DI SERVIZI N. 491/PA CUP N. D93J19000210002 PER N. 11 LAVORATORI E TRE MESI. IMPEGNO DI SPESA PER L'APERTURA POSIZIONE INAIL.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20245</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20245</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20244</title>
+      <description>LIQUIDAZIONE  FATTURA N. 12/358 del 07/07/2025  BENEFICIARIO   HORIZONS UNILIMITED H.U.- S.P.A. DI BOLOGNA  PER IL  SERVIZIO  DI BIBLIOTECA DIGITALE MLOL( MediaLibraryOnLine) COD: CIG:B77A489924</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20244</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20244</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20243</title>
+      <description>RETTIFICA IMPEGNO E PRENOTAZIONE SPESA  GETTONI DI PRESENZA ANNO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20243</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20243</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20242</title>
+      <description>LIQUIDAZIONE COMPENSO AL PRESIDENTE DEL COLLEGIO DEI REVISORI DEI CONTI PER IL I SEMESTRE  2025.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20242</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20242</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA SINDACO | Pubblicazione numero 20241</title>
+      <description>07-Deroga per il superamento dei limiti delle emissioni sonore notturne durante lo svolgimento dell' evento denominato "NOTE D'ESTATE" che si terrà il 13/07/2025.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20241</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20241</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20240</title>
+      <description>LIQUIDAZIONE COMPENSO COMPONENTE DEL COLLEGIO DEI REVISORI DEI CONTI II TRIMESTRE 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20240</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20240</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20239</title>
+      <description>Liquidazione  fattura n 005242443189 del 08-06-2025 CIG B542329F03 fattura n 005242443201 del 08-06-2025 CIG B542329F03 beneficiario Enel energia s.p.a.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20239</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20239</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20238</title>
+      <description>SALDO RIMBORSO SPESE PER LA CONVENZIONE STIPULATA CON L'ASSOCIAZIONE DI VOLONTARI DENOMINATA NUCLEO OPERATIVO VALLE JATO - ANNO 2024.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20238</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20238</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20237</title>
+      <description>AFFIDAMENTO DIRETTO  SEMPLIFICATO AI SENSI DELL'ART. 50 C. 1 LETT. B) DEL DECRETO LEG.V0 36/2023, PER APPROVVIGIONAMENTO   DI SEDUTE ERGONOMICHE  CON RICORSO ALLA PIATTAFORMA DI APPROVVIGIORNAMENTO DIGITALE - MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE  CONSIP S.P.A. MEDIANTE O.D.A.  IMPEGNO SPESA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20237</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20237</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20236</title>
+      <description>AFFIDAMENTO DIRETTO  SEMPLIFICATO AI SENSI DELL'ART. 50 C. 1 LETT. B) DEL DECRETO LEG.V0 36/2023, PER APPROVVIGIONAMENTO    DI N. 1 CLMATIZZATORE A POMPA DI CALORE PER UFFICI COMUNALI.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20236</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20236</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20235</title>
+      <description>Affidamento Servizio di supporto professionale per la redazione delle Verifiche di Compatibilità relative ad istanze di fabbricati in sanatoria ricadenti in aree a pericolosità idrogeologica P0, P1 e P2 del Piano Stralcio di Bacino Idrografico (PAI) del Comune di San Giuseppe Jato. DETERMINA A CONTRATTO ED IMPEGNO.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20235</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20235</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20234</title>
+      <description>LIQUIDAZIONE ASSICURAZIONE UNIPOL SAI AFFIDO FAMILIARE N° 2 MINORI PERIODO 16/06/2025 AL  16/06/2026 .</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20234</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20234</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20233</title>
+      <description>LIQUIDAZIONE COMPENSI COMPONENTI SEGGIO IN OCCASIONE DEI REFERENDUM DELL'8 E 9 GIUGNO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20233</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20233</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20232</title>
+      <description>Liquidazione  fattura n 606/E del 25-06-2025 CIG B4901C06AA beneficiario Iside Societa' Cooperativa Sociale-disabile psichico V.L. -Mese di Maggio 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20232</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20232</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20231</title>
+      <description>Liquidazione  fattura n 2/69 del 30-06-2025 CIG B48FED80B4 beneficiario Prometeo coop. sociale onlus - com. alloggio arcobaleno-Disabile Psichico A.M.R.- Mese di Giugno 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20231</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20231</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20230</title>
+      <description>Liquidazione  fattura n 191/PA del 20-06-2025 CIG B49CFE21DA beneficiario Societa' cooperativa sociale quadrifoglio mese di maggio 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20230</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20230</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20229</title>
+      <description>IMPEGNO DI SPESA - CONCESSIONE CONTRIBUTO ALL'ASSOCIAZIONE DI VOLONTARIATO SICILIA SOCCORSO - PER SERVIZIO ASSISTENZA SANITARIA IN AMBULANZA PER L'EVENTO "NOTE D'ESTATE" CHE SI TERRA' IL 13/07/2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20229</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20229</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20228</title>
+      <description>AFFIDAMENTO IMPEGNO DI SPESA PER SERVIZIO NOLEGGIO VIDEO LUCI AUDIO, DA UTILIZZARE IN OCCASIONE DELL'EVENTO "NOTE D'ESTATE" CHE SI TERRA' IL 13 LUGLIO 2025 ALLA DITTA VLA SERVICE SRL - CODICE CIG: B78B946849</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20228</link>
+      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20228</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20227</title>
+      <description>LIQUIDAZIONE FATTURE ENEL ENERGIA S.P.A FORNITURA ENERGIA ELETTRICA IMMOBILI COMUNALI PERIODO MAGGIO 2025. CONVENZIONE CONSIP ENERGIA ELETTRICA 21 LOTTO 16 SICILIA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20227</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20227</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20224</title>
+      <description>IMPEGNO DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20224</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20224</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20223</title>
+      <description>-107-CONCESSIONE CONTRIBUTO, ALL'ASSOCIAZIONE VOLONTARIATO SICILIA SOCCORSO PER SERVIZIO AMBULANZA MSA CON MEDICO A BORDO PER L'EVENTO "NOTE D'ESTATE" CHE SI SVOLGERA' IL 13 LUGLIO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20223</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20223</guid>
+    </item>
+  </channel>
+</rss>
