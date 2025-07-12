@@ -49,15 +49,15 @@ output="$folder"/../docs/"$iPA"
 # URL di test risposta sito albo
 URLBase="https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_ricerca.php?multiente=sgjato&multiente=sgjato&multiente=sgjato&pag=0"
 
-# estrai codici di risposta HTTP dell'albo
+# Verifica la raggiungibilità del sito dell'albo
 code=$(curl -s -L -o /dev/null -w "%{http_code}" "$URLBase")
 
 if [ $code -eq 200 ]; then
 
-  # crea copia del template del feed
+  # Crea una copia del template XML del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
 
-  # inserisci gli attributi anagrafici nel feed
+  # Inserisci i metadati anagrafici nel feed RSS
   xmlstarlet ed -L --subnode "//channel" --type elem -n title -v "$titolo" "$folder"/processing/feed.xml
   xmlstarlet ed -L --subnode "//channel" --type elem -n description -v "$descrizione" "$folder"/processing/feed.xml
   xmlstarlet ed -L --subnode "//channel" --type elem -n link -v "$selflink" "$folder"/processing/feed.xml
@@ -73,17 +73,20 @@ if [ $code -eq 200 ]; then
   xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$name" -i "//channel/category[8]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-name" "$folder"/processing/feed.xml
   xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//channel/category[9]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-uid" "$folder"/processing/feed.xml
 
-  # if "${folder}"/tmp/albo.jsonl exists, delete it
+  # Rimuovi eventuali dati temporanei precedenti
   if [ -f "${folder}"/tmp/albo.jsonl ]; then
     rm "${folder}"/tmp/albo.jsonl
   fi
 
+  # Scraping delle pagine dell'albo: estrai i dati tabellari per ogni pagina
   for i in {0..5}; do
     scrape -be "table tbody tr" "https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_ricerca.php?multiente=sgjato&multiente=sgjato&multiente=sgjato&pag=${i}" | xq -c '.html.body.tr[] |{title: .td[1].a.div["#text"],href: .td[1].a["@href"], date: .td[3].div[0],tipo:.td[0].div[2]}' >>"${folder}"/tmp/albo.jsonl
   done
 
+  # Normalizza i dati estratti e convertili in TSV
   mlr --ijsonl --otsv unsparsify then put '$href="https://servizi.comune.sangiuseppejato.pa.it".$href;$date = strftime(strptime($date, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z");$id=regextract($href,"\d+")' "${folder}"/tmp/albo.jsonl | tail -n +2 >"${folder}"/tmp/albo.tsv
 
+  # Genera gli item RSS per ogni pubblicazione trovata
   newcounter=0
   while IFS=$'\t' read -r oggetto URL dataInizio naturaValore numero; do
     newcounter=$(expr $newcounter + 1)
@@ -96,8 +99,10 @@ if [ $code -eq 200 ]; then
       "$folder"/processing/feed.xml
   done <"${folder}"/tmp/albo.tsv
 
+  # Copia il feed generato nella cartella pubblica
   cp "$folder"/processing/feed.xml "$output"
 
-  cp "$folder"/processing/feed.xml "$output"
+  # Pulisci i file temporanei
+  rm -f "$folder"/tmp/albo.jsonl "$folder"/tmp/albo.tsv
 
 fi
