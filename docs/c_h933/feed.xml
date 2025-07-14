@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20271</title>
+      <description>AGGIORNAMENTO II TRIMESTRE DEL PIANO ANNUALE DEI FLUSSI DI CASSA DELL'ANNO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20271</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20271</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20270</title>
       <description>DET. A CONTRARRE PER AFFIDAMENTO CON TRATTATIVA DIRETTA, AI SENSI DELL'ART. 50, COMMA 1, LETT. B) DEL D.LGS. 36/2023, ATTRAVERSO LUTILIZZO DELLA PIATTAFORMA MEPA, DEL SERVIZIO DI CONFERIMENTO "IMBALLAGGI IN MATERIALI MISTI", CODICE CER 15.01.06 PER IL PERIODO LUGLIO  DICEMBRE 2025. AGGIUDICAZIONE ED IMPEGNO SOMME.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20270</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20230</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20230</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20229</title>
-      <description>IMPEGNO DI SPESA - CONCESSIONE CONTRIBUTO ALL'ASSOCIAZIONE DI VOLONTARIATO SICILIA SOCCORSO - PER SERVIZIO ASSISTENZA SANITARIA IN AMBULANZA PER L'EVENTO "NOTE D'ESTATE" CHE SI TERRA' IL 13/07/2025</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20229</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20229</guid>
     </item>
   </channel>
 </rss>
