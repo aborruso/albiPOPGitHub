@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/07/2025 | Determinazioni Dirigenziali</title>
+      <description>Impegno di spesa per attivazione Patto di Servizio a favore di n. 1 beneficiario ( OMISSIS).</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11849</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11849</guid>
+    </item>
+    <item>
+      <title>14/07/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta per scerbamento nella via A. Moro</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11848</link>
+      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11848</guid>
+    </item>
+    <item>
       <title>11/07/2025 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO PUBBLICITARIO GAZZETTA DEL SUD  - AFFIDAMENTO SERVIZIO SOCIETA' PUBBLICITARI EDITORIALE E DIGITALE S.R.L.  - CIG B79B333714</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11847</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11815</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11815</guid>
-    </item>
-    <item>
-      <title>09/07/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2025  69^ EDIZIONE - NOMINA SUNT CONSEQUENTIA RERUM".  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 02 AGOSTO 2025  - SPETTACOLO "GIOVANNI CACCAMO  LIVE TINDARI  - CIG B78D6E16AD</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11814</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11814</guid>
-    </item>
-    <item>
-      <title>09/07/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2025  69^ EDIZIONE - NOMINA SUNT CONSEQUENTIA RERUM".  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 29 LUGLIO 2025  - SPETTACOLO "LA GUERRA SVELATA DI CASSANDRA - ALETHEIA. NUTRIMENTI TERRESTRI S.R.L.S.  CIG B7934927B9</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11813</link>
-      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11813</guid>
     </item>
   </channel>
 </rss>
