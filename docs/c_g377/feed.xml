@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/07/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO - SCALISE/ALIBERTO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11860</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11860</guid>
+    </item>
+    <item>
+      <title>15/07/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZIONE DI MATRIMONIO LORENZINI/CAMMARERI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11859</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11859</guid>
+    </item>
+    <item>
       <title>15/07/2025 | Determinazioni Dirigenziali</title>
       <description>Concessione agevolazioni di cui all'art. 33, c. 3 della L. 104/92, dipendente settore Polizia Municipale</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11858</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11826</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11826</guid>
-    </item>
-    <item>
-      <title>10/07/2025 | Determinazioni Dirigenziali</title>
-      <description>Concessione permessi mensili ai sensi dell'art. 33 c. 3 della legge n. 104/92 e s.m.i. alla lavoratrice a Tempo Indeterminato "Omissis"</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11825</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11825</guid>
-    </item>
-    <item>
-      <title>10/07/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Azione N. 1 "Spazio Lavoro" II^ Annualità  -  AOD N. 1  -  PdZ 2019-2020  -   Liquidazione   mesi di Giugno e Luglio 2025, ai  soggetti  del  Comune  di  Patti.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11824</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11824</guid>
     </item>
   </channel>
 </rss>
