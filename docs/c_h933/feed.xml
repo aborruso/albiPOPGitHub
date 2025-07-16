@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20281</title>
+      <description>LIQUIDAZIONE  DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20281</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20281</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 20280</title>
+      <description>-28- interdizione della circolazione e divieto della sosta di tutti i veicoli in Piazza Falcone e Borsellino di questo Comune e deviazione del traffico veicolare per vie alternative durante lo svolgimento dell'evento "WORKSHOP DI PITTURA COLLETTIVA"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20280</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20280</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20279</title>
       <description>PRESA D'ATTO DEL CAMBIO DI RAGIONE SOCIALE DELLA SOCIETÀ MEA SUD DI QUATTROCCHI GIUSEPPE DI PALERMO IN QUATTROCCHI GIUSEPPE, MANTENENDO INVARIATI SEDE LEGALE, PARTITA IVA E CODICE FISCALE. GIUSTA DETERMINA DIRIGENZIALE N. 753 DEL 14.11.2024.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20279</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20240</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20240</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20239</title>
-      <description>Liquidazione  fattura n 005242443189 del 08-06-2025 CIG B542329F03 fattura n 005242443201 del 08-06-2025 CIG B542329F03 beneficiario Enel energia s.p.a.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20239</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20239</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20238</title>
-      <description>SALDO RIMBORSO SPESE PER LA CONVENZIONE STIPULATA CON L'ASSOCIAZIONE DI VOLONTARI DENOMINATA NUCLEO OPERATIVO VALLE JATO - ANNO 2024.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20238</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20238</guid>
     </item>
   </channel>
 </rss>
