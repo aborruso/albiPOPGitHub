@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/07/2025 | Atti Di Interesse Generale</title>
+      <description>DISPOSIZIONI INERENTI LE MISURE DI SICUREZZA URBANA E LA VIABILITA', PER LOSVOLGIMENTO DELLA MANIFESTAZIONE "FESTA DI MARIA SS DI FATIMA" DA SVOLGERSI A COLLA MAFFONE IL 20.07.2025</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11875</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11875</guid>
+    </item>
+    <item>
       <title>16/07/2025 | Determinazioni Dirigenziali</title>
       <description>Rimborso spese di viaggio al comandante Scaffidi Lallaro Antonino - Impegno Spesa</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11874</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11841</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11841</guid>
-    </item>
-    <item>
-      <title>11/07/2025 | Determinazioni Dirigenziali</title>
-      <description>DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO DI SPESA PER L'ACQUISTO VESTIARIO OPERATORI ECOLOGICI.                                                                                                                           DITTA: F.E.P. S.r.l.s. di Palmeri Giuseppe CIG: B76BE27AF4</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11840</link>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11840</guid>
     </item>
   </channel>
 </rss>
