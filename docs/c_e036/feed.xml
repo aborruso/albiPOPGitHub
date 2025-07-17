@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Decreto</title>
+      <description>Procedura selettiva, ai sensi e per gli effetti dell'art.110, comma 1, D.lgs. 267/2000, per la copertura a tempo pieno e determinato di n.1 unità, profilo professionale Funzionario Tecnico, Area dei Funzionari ed Elevate Qualificazioni  Conferimento incarico</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35014</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35014</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVIS PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 830/C - P. di C. n. 018/2025 Leobardi Carlo</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35013</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34955</link>
       <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34955</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento del servizio di ricovero e cura di cani in rifugio presso la Clinica veterinaria San Raphael Srl, a seguito della chiusura del canile comunale per motivi di emergenza sanitaria.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34954</link>
-      <pubDate>Thu, 10 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34954</guid>
     </item>
   </channel>
 </rss>
