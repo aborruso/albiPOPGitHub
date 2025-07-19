@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina di somministrazione di alimenti e bevande, delle attività di intrattenimento ed emissioni sonore dei Pubblici Esercizi</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35027</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35027</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di E-Distribuzione  Ginosa  Viale Ionio - Italia dal 18.07.2025 al 31.07.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35026</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35026</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di E-Distribuzione  Ginosa  Circonvallazione Nord dal 18.07.2025 al 04.12.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35025</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35025</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Convocazione della III Commissione Consiliare: Lavori Pubblici, Ambiente, Pianificazione Territoriale e Urbana, Attività Produttive, PNNR.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35024</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34968</link>
       <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34968</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento del servizio di fornitura sedie e gruppo elettrogeno alla Ditta Bmc Noleggi Srls per la manifestazione culturale dell'11 Luglio 2025 e per la Cerimonia di consegna delle Bandiere Blu.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34967</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34967</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione compenso ai Revisori dei Conti periodo secondo trimestre 2025.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34966</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34966</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Versamento quota forfettaria oneri previdenziali per contribuzione soggettiva anno 2025 a favore di Amministratore locale</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34965</link>
-      <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=34965</guid>
     </item>
   </channel>
 </rss>
