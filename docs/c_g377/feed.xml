@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
       <title>22/07/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito sulla via Magretti per lavori</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11942</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11942</guid>
+    </item>
+    <item>
+      <title>22/07/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta temporaneo sulla via Fontanelle per pulizia banchine</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11941</link>
       <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11908</link>
       <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11908</guid>
-    </item>
-    <item>
-      <title>17/07/2025 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI SCERBAMENTO E DECESPUGLIAMENTO DI ALCUNE STRADE COMUNALI DETERMINA A CONTRARRE MEDIANTE AFFIDAMENTO DIRETTO ED IMPEGNO SPESA DITTA: MERENDINO NUNZIATO</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11907</link>
-      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11907</guid>
     </item>
   </channel>
 </rss>
