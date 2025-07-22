@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>AVVISO PUBBLICO PER LA PRESENTAZIONE DI MANIFESTAZIONE DI INTERESSE ALL'UTILIZZO DI ACQUE REFLUE DEPURATE PER USO IRRIGUO.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35069</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35069</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo al Teatro degli Incamminati Soc. Coop. per la manifestazione "Posso battere Kennedy a golf" del 17 Luglio 2025 presso l'Anfiteatro del Rione Casale.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35068</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35009</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35009</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Avviso Pubblico "CreativaMente" per l'attuazione di interventi innovativi a favore di adolescenti e giovani (16-21 anni) da parte di Enti del Terzo Settore iscritti al R.U.N.T.S. Liquidazione del contributo economico riconosciuto all'Associazione "G. LOCAL  A.P.S.".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35008</link>
-      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35008</guid>
     </item>
   </channel>
 </rss>
