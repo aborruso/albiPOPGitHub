@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/07/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito e di sosta nel via Largo Dei Normanni per lavori</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11968</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11968</guid>
+    </item>
+    <item>
+      <title>25/07/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo nella via Dei Fiori per lavori di scerbamento</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11967</link>
+      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11967</guid>
+    </item>
+    <item>
       <title>24/07/2025 | Concessioni E Permessi Di Costruire</title>
       <description>PERMESSO DI COSTRUIRE N. 14 DEL 24/07/2025</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11966</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11934</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11934</guid>
-    </item>
-    <item>
-      <title>21/07/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2025  69^ EDIZIONE - NOMINA SUNT CONSEQUENTIA RERUM".  AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 08 AGOSTO 2025  - SPETTACOLO "CAVALLERIA RUSTICANA  ASSOCIAZIONE CULTURALE ARTE PUPI FRATELLI NAPOLI  CIG B7B14B5066</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11933</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11933</guid>
-    </item>
-    <item>
-      <title>21/07/2025 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. GALBATO MUCIO STANCA PER LA PROPOSIZIONE DELLAPPELLO AVVERSO LA SENTENZA N.642/2025 DEL TRIBUNAL DI PATTI RELATIVA AL SIG. STANCA IVANO. IMPEGNO. CIG N.B7B2DF3501.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11932</link>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11932</guid>
     </item>
   </channel>
 </rss>
