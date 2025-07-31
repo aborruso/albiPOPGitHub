@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>31/07/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZIO  VETERINARIO - MESE DI AGOSTO 2025.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12022</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12022</guid>
+    </item>
+    <item>
+      <title>31/07/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>PRONTA DISPONIBILITA' SERVIZIO IGIENE PUBBLICA E MEDICINA LEGALE  E TURNAZIONE SABATO MESE DI AGOSTO 2025</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12021</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12021</guid>
+    </item>
+    <item>
       <title>31/07/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Azione N.3 "Emergenza Urgenza I^ II^ Annualità- PDZ 2019/2020  Liquidazione n. 01 Beneficiari del Comune di Piraino dell'AOD N.1</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12020</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11986</link>
       <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11986</guid>
-    </item>
-    <item>
-      <title>25/07/2025 | Determinazioni Dirigenziali</title>
-      <description>Parificazione conti della gestione relativi all'esercizio 2024 resi dall'Agente Contabile Sig.ra Viagrande Nunziata Salvatrice</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11985</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11985</guid>
-    </item>
-    <item>
-      <title>25/07/2025 | Determinazioni Dirigenziali</title>
-      <description>Parificazione conto della gestione relativo all'esercizio finanziario 2024 reso dall'Agente contabile Ispettore di P.M. Cavallaro Carmelo.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11984</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=11984</guid>
     </item>
   </channel>
 </rss>
