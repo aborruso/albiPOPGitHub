@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20385</title>
+      <description>LIQUIDAZIONE FATTURE ENEL ENERGIA S.P.A FORNITURA ENERGIA ELETTRICA IMMOBILI COMUNALI PERIODO GIUGNO 2025. CONVENZIONE CONSIP ENERGIA ELETTRICA 21 LOTTO 16 SICILIA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20385</link>
+      <pubDate>Thu, 31 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20385</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20384</title>
       <description>LIQUIDAZIONE ALL'OPERATORE ECONOMICO MYO S.P.A. A FORMULAPIÙ EDK (IL PORTALE DELLA MODULISTICA E DELLINFORMAZIONE ON-LINE DEDICATO AGLI ENTI LOCALI) TRAMITE PROCEDURA TELEMATICA. AI SENSI DELLART. 50 COMMA 1 LETT. B) DEL DECRETO LEG.VO N. 36/2023.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20384</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20344</link>
       <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20344</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 20343</title>
-      <description>Procedura aperta nuovo Codice Integrativo di comportamento dipendenti comunali</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20343</link>
-      <pubDate>Thu, 24 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20343</guid>
     </item>
   </channel>
 </rss>
