@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20402</title>
+      <description>CONCESSIONE  RATEIZZAZIONE SU ACCERTAMENTO TARI ANNO 2021.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20402</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20402</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20401</title>
+      <description>CONCESSIONE RATEIZZAZIONE SU ACCERTAMENTO TARI ANNO 2021.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20401</link>
+      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20401</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20400</title>
       <description>ACCERTAMENTO ENTRATA  DEI VERBALI degli  artt.. 80 e 193 del CDS PERIODO DI GIUNO 2025 E RELATIVO PRELEVAMENTO.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20400</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20360</link>
       <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20360</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 20359</title>
-      <description>FINALIZZATO ALL'ACQUISIZIONE DI MANIFESTAZIONI DI INTERESSE PER LA LOCAZIONE Dl UN IMMOBILE Dl PROPRIETÀ DELL'ISTITUTO PUBBLICO DI ASSISTENZA E BENEFICENZA "OPERA PIA RICCOBONO" SITO IN SAN GIUSEPPE JATO (PA) CORSO UMBERTO IO N.409</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20359</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20359</guid>
-    </item>
-    <item>
-      <title>#DETERMINA ARO | Pubblicazione numero 20358</title>
-      <description>-11-"Individuazione Ditta per il servizio di conferimento del rifiuto Plastica Dura (COD. CER 20.01.39). proveniente dalla raccolta differenziata dei rifiuti solidi urbani dei territori comunali di San Cipirello e San Giuseppe lato (PA)".</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20358</link>
-      <pubDate>Fri, 25 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20358</guid>
     </item>
   </channel>
 </rss>
