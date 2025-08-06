@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Manifestazione "Gi. Ri. D'arte 2025"   Misure temporanee di modifica della circolazione stradale dal 07.08.2025 al 08.08.2025  Area di P.zza Orologio e C.so V. Emanuele</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35253</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35253</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire</title>
+      <description>A V V I S O P U B B L I C O RILASCIO PERMESSO DI COSTRUIRE DELFINO NICOLA.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35252</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35252</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>CILA da sottoporre a istruttoria, verbale estrazione casuale del 06 Agosto 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35251</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35251</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 06 Agosto 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35250</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35193</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35193</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Variazione compensativa ai sensi dell'art.175, comma 5-quater, lett. a), del D.lgs. n.267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35192</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35192</guid>
-    </item>
-    <item>
-      <title>Dpr 6 Giugno 2001 N.380-art.31/7</title>
-      <description>ELENCO ABUSI EDILIZI MESE LUGLIO 2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35191</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35191</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Prelevamento dal Fondo di riserva ai sensi degli artt.166 e 176 del D.lgs. n.267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35190</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35190</guid>
     </item>
   </channel>
 </rss>
