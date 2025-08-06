@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 06 Agosto 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35250</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35250</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP  in Ginosa alla Via Brodolini dal 08 al 12.08.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35249</link>
+      <pubDate>Wed, 06 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35249</guid>
+    </item>
+    <item>
       <title>Art. 143 Cpc</title>
       <description>cancellazione per irreperibilità masiello angelica</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35248</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35190</link>
       <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35190</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Individuazione degli enti e delle società partecipate costituenti il perimetro di consolidamento dei conti, degli enti, aziende e società costituenti il Gruppo Amministrazione Pubblica (GAP) ai fini della predisposizione del Bilancio Consolidato esercizio 2024</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35189</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35189</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Concessione contributo economico in favore dell'Ass. Circolo Arci "Il Ponte APS" per l'organizzazione e la realizzazione della manifestazione sportiva denominata "Allena il Corpo e Libera la Mente: H2O, Lezioni di SpiaggiaGym- Seconda edizione".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35188</link>
-      <pubDate>Mon, 04 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35188</guid>
     </item>
   </channel>
 </rss>
