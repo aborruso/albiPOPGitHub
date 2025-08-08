@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Reimmissione sul territorio di un cane di proprietà del Comune di Ginosa - così identificato in anagrafe n. microchip: 380260170296381.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35332</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35332</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina di somministrazione di alimenti e bevande, delle attività di intrattenimento ed emissioni sonore dei Pubblici Esercizi</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35331</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35331</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Concessione contributo economico in favore dell' Associazione Amici della Musica Ginosa APS per la manifestazione "Una città per cantare" del 16 Agosto 2025 a Ginosa e del 22 Agosto 2025 a Marina di Ginosa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35330</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35272</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35272</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Deliberazione di Giunta Comunale n. 162 del 05.08.2025. Affidamento incarico legale all'Avv. Giuseppe Misserini. Impegno di spesa.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35271</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35271</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Revisione periodica obbligatoria di n. 2 mezzi di proprietà del Comune di Ginosa - CIG: B6FE2784F6 -Autoservice Sannelli srl - LIQUIDAZIONE</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35270</link>
-      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35270</guid>
     </item>
   </channel>
 </rss>
