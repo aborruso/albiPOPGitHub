@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Ordinanza</title>
+      <description>Programma delle Manifestazioni Estive nel territorio del Comune di Ginosa  Misure temporanee di modifica della circolazione stradale dal 14 al 17 agosto 2025  Area di Viale Pola  Lungomare L. Strada</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35390</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35390</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
       <description>Reimmissione sul territorio di un cane di proprietà del Comune di Ginosa - così identificato in anagrafe n. microchip: 380260170292162.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35389</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35329</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35329</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Accordo con il Comune di Lecce per l'utilizzo della graduatoria relativa al Concorso per il Profilo di "Istruttore Tecnico"</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35328</link>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35328</guid>
     </item>
   </channel>
 </rss>
