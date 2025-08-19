@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DEL SINDACO | Pubblicazione numero 20492</title>
+      <description>-11-INDIVIDUAZIONE SEGRETARIO COMUNALE TITOLARE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20492</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20492</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20491</title>
       <description>Impegno di spesa per contributo Associazione N.O.V.J. per collaborazione servizi di Polizia Municipale.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20491</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20451</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20451</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20450</title>
-      <description>63-APPROVAZIONE REGOLAMENTO DEL CONSIGLIO COMUNALE PER RENDERE POSSIBILI LE RIPRESE AUDIO VIDEO DELLE SEDUTE PUBBLICHE DEL CONSIGLIO COMUNALE. - NON APPROVAZIONE -.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20450</link>
-      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20450</guid>
     </item>
   </channel>
 </rss>
