@@ -11,8 +11,8 @@ async def extract_feed():
         page = await browser.new_page()
         await page.goto("https://servizi.comune.capaci.pa.it/openweb/albo/albo_pretorio.php")
 
-        # Wait for some time to ensure all content is loaded
-        await asyncio.sleep(2)
+        # Wait for the table rows to be loaded
+        await page.wait_for_selector('table#tabella_albo > tbody > tr')
 
         # Get full HTML content
         html_content = await page.content()
