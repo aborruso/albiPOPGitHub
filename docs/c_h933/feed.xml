@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20519</title>
+      <description>TRASFERIMENTO DEI CORRISPETTIVI DOVUTI AL MINISTERO DELL'  INTERNO, DEGLI INTROITI DERIVANTI DALLE CARTE DI IDENTITÀ  ELETTRONICHE RILASCIATE DAL 1 MAGGIO AL 30 GIUGNO  2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20519</link>
+      <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20519</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20518</title>
       <description>LIQUIDAZIONE SOMMA PER RIMBORSO RETROCESSIONE LOCULO CIMITERO COMUNALE PER IL SIG. FRANVCAVIGLIA GIUSEPPE.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20518</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20477</link>
       <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20477</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20476</title>
-      <description>IMPEGNO SPESA DEBITO FUORI BILANCIO PER LA SENTENZA 3767/2024 R.G.8731/2024-PERI ANNA CHIARA /AGENZIA DELLE ENTRATE RISCOSSIONE /COMUNE DI SAN GIUSEPPE JATO</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20476</link>
-      <pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20476</guid>
     </item>
   </channel>
 </rss>
