@@ -22,47 +22,24 @@ async def extract_feed():
         # Parse HTML with lxml
         tree = html.fromstring(html_content)
 
-        # Extract text content for parsing items
-        content = tree.xpath('//body')[0].text_content()
-
-        # Find the section containing the actual data (same as before)
-        data_start_marker = "Fine Pubblicazione"
-        data_end_marker = "1 2 3 4 5 > >>"
-
-        start_index = content.find(data_start_marker)
-        end_index = content.find(data_end_marker)
-
-        extracted_data_text = ""
-        if start_index != -1 and end_index != -1 and end_index > start_index:
-            extracted_data_text = content[start_index + len(data_start_marker):end_index].strip()
-        elif start_index != -1:
-            extracted_data_text = content[start_index + len(data_start_marker):].strip()
-
-        # Split the text into potential items.
-        item_pattern = re.compile(r"^(\d{4}/\d{7}.*)", re.MULTILINE)
-        items_raw = item_pattern.findall(extracted_data_text)
-
         rss_items = []
-        for item_text in items_raw:
-            parts = item_text.strip().split('\t')
-            
-            if len(parts) >= 5:
-                number = parts[0].strip()
-                obj = parts[1].strip()
-                act_type = parts[2].strip()
-                date_affissione = parts[3].strip()
-                fine_pubblicazione = parts[4].strip()
+        # Find all table rows in the body of the table with id 'tabella_albo'
+        rows = tree.xpath('//table[@id="tabella_albo"]/tbody/tr')
 
-                # Now, find the corresponding link from the HTML
-                link_xpath = "//a[normalize-space(.)='{}' and contains(@href, 'albo_dettagli.php?id=')]".format(number)
-                link_element = tree.xpath(link_xpath)
-
-                link_url = ""
-                if link_element:
-                    link_url = link_element[0].get('href')
+        for row in rows:
+            cells = row.xpath('./td')
+            if len(cells) >= 5:
+                # Extract link and number from the first cell
+                link_element = cells[0].find('.//a')
+                if link_element is not None:
+                    link_url = link_element.get('href')
                     if not link_url.startswith("http"):
                         link_url = "https://servizi.comune.capaci.pa.it/openweb/albo/" + link_url
+                else:
+                    continue # Skip row if no link
 
+                obj = cells[1].text_content().strip()
+                date_affissione = cells[3].text_content().strip()
 
                 title = obj
                 
