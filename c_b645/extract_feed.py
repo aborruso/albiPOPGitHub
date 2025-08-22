@@ -42,13 +42,6 @@ async def extract_feed():
         item_pattern = re.compile(r"^(\d{4}/\d{7}.*)", re.MULTILINE)
         items_raw = item_pattern.findall(extracted_data_text)
 
-        # Debugging: Print all <a> tags text and href
-        all_links = tree.xpath('//a')
-        print("DEBUG: All links on page:", file=sys.stderr)
-        for a_tag in all_links:
-            print(f"  Text: '{a_tag.text_content().strip()}', Href: '{a_tag.get('href')}'", file=sys.stderr)
-        print("DEBUG: End of all links.", file=sys.stderr)
-
         rss_items = []
         for item_text in items_raw:
             parts = item_text.strip().split('\t')
@@ -61,7 +54,7 @@ async def extract_feed():
                 fine_pubblicazione = parts[4].strip()
 
                 # Now, find the corresponding link from the HTML
-                link_xpath = "//a[text()='{}' and contains(@href, 'albo_dettagli.php?id=')]".format(number)
+                link_xpath = "//a[normalize-space(.)='{}' and contains(@href, 'albo_dettagli.php?id=')]".format(number)
                 link_element = tree.xpath(link_xpath)
 
                 link_url = ""
