@@ -61,7 +61,7 @@ async def extract_feed():
                 fine_pubblicazione = parts[4].strip()
 
                 # Now, find the corresponding link from the HTML
-                link_xpath = "//a[text()='{}' and contains(@href, 'albo_dettagli.php?id=')]”.format(number)
+                link_xpath = "//a[text()='{}' and contains(@href, 'albo_dettagli.php?id=')]".format(number)
                 link_element = tree.xpath(link_xpath)
 
                 link_url = ""
