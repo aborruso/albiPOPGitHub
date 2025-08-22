@@ -13,6 +13,12 @@ set -eu
 cd "$(dirname "$0")"
 
 #
+# docs
+#
+
+mkdir -p ../docs/c_b645
+
+#
 # clean
 #
 
@@ -24,11 +30,5 @@ rm -f \
 #
 
 python3 ./extract_feed.py > ../docs/c_b645/feed.xml
-
-#
-# docs
-#
-
-mkdir -p ../docs/c_b645
 
 
