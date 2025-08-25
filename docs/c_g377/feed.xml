@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>25/08/2025 | Determinazioni Dirigenziali</title>
+      <description>Concessione permessi mensili ai sensi dell'art. 33 c. 3 della legge n. 104/92 e s.m.i. al dipendente di ruolo Omissis</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12165</link>
+      <pubDate>Mon, 25 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12165</guid>
+    </item>
+    <item>
       <title>25/08/2025 | Ordinanze Dirigenziali</title>
       <description>Divieto di sosta in piazza XXV Aprile e via Crispi per scerbamento</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12164</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12131</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12131</guid>
-    </item>
-    <item>
-      <title>14/08/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL 2025  69^ EDIZIONE -" NOMINA SUNT CONSEQUENTIA RERUM".  PAGAMENTO SERVIZIO IN PLUS ORARIO PERSONALE DI CUSTODIA TEATRO GRECO DI TINDARI PER GLI EVENTI DEL 22 AGOSTO -  CONCERTO ANTONELLO VENDITTI E DEL 24 AGOSTO  PAOLO CREPET</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12130</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12130</guid>
     </item>
   </channel>
 </rss>
