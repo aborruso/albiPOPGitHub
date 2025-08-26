@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>26/08/2025 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>SERVIZIO DI IGIENE PUBBLICA E MEDICINA LEGALE - TURNI MESE DI SETTEMBRE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12167</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12167</guid>
+    </item>
+    <item>
+      <title>26/08/2025 | Determinazioni Dirigenziali</title>
+      <description>Impegno di spesa e affidamento fornitura vernice per segnaletica stradale ditta Bridafer di Angela Briguglio con sede a Patti</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12166</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12166</guid>
+    </item>
+    <item>
       <title>25/08/2025 | Determinazioni Dirigenziali</title>
       <description>Concessione permessi mensili ai sensi dell'art. 33 c. 3 della legge n. 104/92 e s.m.i. al dipendente di ruolo Omissis</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12165</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12133</link>
       <pubDate>Mon, 18 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12133</guid>
-    </item>
-    <item>
-      <title>14/08/2025 | Ordinanze Dirigenziali</title>
-      <description>Modifiche alla viabilità nel centro città in occasione del concerto musicale del 29 agosto 2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12132</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12132</guid>
-    </item>
-    <item>
-      <title>14/08/2025 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL  69^ EDIZIONE - ANNO 2025  " NOMINA SUNT CONSEQUENTIA RERUM". ASSISTENZA IMPIANTI ELETTRICI EVENTI TEATRO GRECO DI TINDARI.   ESTENSIONE AFFIDAMENTO SERVIZIO  - CIG B7F7305CB7</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12131</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12131</guid>
     </item>
   </channel>
 </rss>
