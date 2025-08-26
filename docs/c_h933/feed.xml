@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 20530</title>
+      <description>ELENCO NOMINATIVI ART.140 C.P.C</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20530</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20530</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DEL SINDACO | Pubblicazione numero 20529</title>
+      <description>-12-Nomina del Segretario Comunale titolare.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20529</link>
+      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20529</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20528</title>
       <description>Liquidazione  fattura n 005258917244 del 07-08-2025 CIG B542329F03 fattura n 005258917262 del 07-08-2025 CIG B542329F03 beneficiario Enel energia s.p.a.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20528</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20488</link>
       <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20488</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20487</title>
-      <description>-66-VARIAZIONE DI BILANCIO Al SENSI DELL'ART. 175, COMMA 2 DEL D.LGS. N. 267/2000 - SETTORE TECNICO E LL.PP.. " FONDO INVESTIMENTO REGIONALE"</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20487</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20487</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 20486</title>
-      <description>-65-ASSESTAMENTO GENERALE DI BILANCIO E SALVAGUARDIA DEGLI EQUILIBRI PER L'ESERCIZIO 2025 Al SENSI DEGLI ARTT. 175., COMMA ,8 E 193 D.GLS. N. 267/2000</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20486</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20486</guid>
     </item>
   </channel>
 </rss>
