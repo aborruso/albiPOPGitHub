@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20532</title>
+      <description>CONCESSIONE RATEIZZAZIONE SU ACCERTAMENTO TARI ANNO 2021.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20532</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20532</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20531</title>
+      <description>CONCESSIONE DI RATEIZZAZIONE SU ACCERTAMENTO IMU 2023.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20531</link>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20531</guid>
+    </item>
+    <item>
       <title>#DEPOSITO | Pubblicazione numero 20530</title>
       <description>ELENCO NOMINATIVI ART.140 C.P.C</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20530</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20490</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20490</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20489</title>
-      <description>IMPEGNO DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20489</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20489</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20488</title>
-      <description>ACCERTAMENTO IN ENTRATA  E PROVVEDIMENTO DI ACCOGLIMENTO ISTANZA DI RATEIZZAZIONE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20488</link>
-      <pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20488</guid>
     </item>
   </channel>
 </rss>
