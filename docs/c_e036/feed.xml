@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso pubblico variante al PRG</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35457</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35457</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Acquisto di risme di carta in formato A4 e A3 per fotocopiatrici e stampanti in dotazione ai vari Uffici Comunali. Affidamento diretto alla Società MONDOSCUOLA SRLS mediante ordine diretto di acquisto su Mepa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35456</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35396</link>
       <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35396</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione delle fatture alla Società Acquedotto Pugliese Spa relative ai consumi fino ad Luglio 2025 per servizio idrico integrato a diversi immobili comunali. CIG: esente ai sensi del punto 2.5 delle Linee Guida sulla tracciabilità dei flussi finanziari</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35395</link>
-      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35395</guid>
     </item>
   </channel>
 </rss>
