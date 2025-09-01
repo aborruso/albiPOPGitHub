@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/09/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di transito e sosta nella via C.F. Zuccarello per operazioni di trasloco</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12209</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12209</guid>
+    </item>
+    <item>
+      <title>01/09/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo in piazza Cavour per raduno auto storiche</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12208</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12208</guid>
+    </item>
+    <item>
+      <title>01/09/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione rimborso spese Associazione Gea  ODV-  C.F. 90032620834  c.da Cica, 11 - Gioiosa Marea per mantenimento e trasferimento cani randagi</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12207</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12207</guid>
+    </item>
+    <item>
       <title>29/08/2025 | Determinazioni Dirigenziali</title>
       <description>EVENTI ESTATE 2025. SERVIZIO NOLEGGIO IMPIANTO AUDIO-SERVICE ED ASSISTENZA TECNICA IN OCCASIONE DELLO SPETTACOLO "L'ODISSEA E' DONNA" - 31 AGOSTO 2025 TEATRO GRECO DI TINDARI  DITTA F.C.MANAGEMENT  D.A. DI DONATO ANNA MARIA - AFFIDAMENTO SERVIZIO  - CIG  B813DBE97F</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12206</link>
@@ -239,27 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12174</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12174</guid>
-    </item>
-    <item>
-      <title>26/08/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>INTERVENTI DI DERATTIZZAZIONE DEL CANILE COMUNALE SITO NELLA CONTRADA MULINELLO.                  DITTA: GECO SERVIZI SRL di Sebastiano Ribaudo  LIQUIDAZIONE FATTURA N. 236 del 11.08.2025 CIG: B2C30D134B</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12173</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12173</guid>
-    </item>
-    <item>
-      <title>26/08/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Associazione  "Omissis" per il ricovero del minore Omissis  per il mese  di  Luglio  2025  . CIG B5027077EC</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12172</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12172</guid>
-    </item>
-    <item>
-      <title>26/08/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Associazione  "Omissis" per il ricovero del minore  Omissis  per il mese  di  Luglio  2025  . CIG B5026D7052</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12171</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12171</guid>
     </item>
   </channel>
 </rss>
