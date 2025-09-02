@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/09/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>FORNITURA DI CLORO PER IL TRATTAMENTO DELL'ACQUA DESTINATA AL CONSUMO UMANO. -  LIQUIDAZIONE FATTURA N.24/PA/2025  -  DITTA: CHIMICA NOTO s.r.l.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12211</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12211</guid>
+    </item>
+    <item>
       <title>01/09/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>Liquidazione  fattura n 202501069 del 01-09-2025 CIG B5049FAF36 beneficiario Halley sud s.r.l.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12210</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12176</link>
       <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12176</guid>
-    </item>
-    <item>
-      <title>26/08/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>SERVIZIO DI NOLEGGIO MACCHINE MULTIFUNZIONE DIGITALI PER GLI UFFICI COMUNALI PROROGA CONTRATTUALE PER 12 MESI. - CIG: Z053C28DBC - LIQUIDAZIONE FATTURA 159FTSP/25 -  IMPRESA: ZS INFORMATICA s.r.l.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12175</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12175</guid>
     </item>
   </channel>
 </rss>
