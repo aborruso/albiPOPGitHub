@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>03/09/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo per lavori di scerbamento via L. della Robbia e Largo Pioppo</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12214</link>
+      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12214</guid>
+    </item>
+    <item>
+      <title>02/09/2025 | Determinazioni Dirigenziali</title>
+      <description>Cantiere di Lavoro per la "Sistemazione e riqualificazione di alcuni tratti di marciapiedi di Piazza XXV Aprile" finanziato con D.D.G. n°273 del 30.01.2025 - CUP C45F24000520002 - C.I.P. n.PAC_POC_1420/8/8_9/CLC/649/ME. -  Approvazione Verbale Manifestazione Interesse e Nomina Nuovo Operaio Qualificato</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12213</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12213</guid>
+    </item>
+    <item>
       <title>02/09/2025 | Determinazioni Dirigenziali</title>
       <description>SMONTAGGIO E RICOLLOCAZIONE GUARD-RAIL, PER APERTURA TEMPORANEA DEL VARCO DI ACCESSO, TRA LE PROGRESSIVE KM.67+100 E KM 67+200, IN OCCASIONE DEI FESTEGGIAMENTI CHE SI TERRANNO IN ONORE DI MARIA SS. DEL TINDARI, NEL PERIODO COMPRESO TRA IL 05 E IL 15 SETTEMBRE 2025  IMPEGNO SPESA E AFFIDAMENTO SERVIZIO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12212</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12179</link>
       <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12179</guid>
-    </item>
-    <item>
-      <title>27/08/2025 | Ordinanze Dirigenziali</title>
-      <description>Prolungamento fio al 14 settembre 2025 isola pedonale lungomare C.F. Zuccarello Patti Marina</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12178</link>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12178</guid>
-    </item>
-    <item>
-      <title>26/08/2025 | Manifestazioni Di Interesse</title>
-      <description>AVVISO PUBBLICO DI MANIFESTAZIONE D'INTERESSE PER LA PARTECIPAZIONE ALLA SELEZIONE DI N. 01 OPERAIO QUALIFICATO (CAT. "B") CON MANSIONE DI MURATORE E/O CARPENTIERE DA IMPIEGARE NEL CANTIERE DI LAVORO N. 649/ME  DI CUI AL D.D.G. n°273 DEL 30.01.2025.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12177</link>
-      <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12177</guid>
     </item>
   </channel>
 </rss>
