@@ -17,27 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 20599</title>
-      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20599</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20599</guid>
-    </item>
-    <item>
-      <title>#DEPOSITO | Pubblicazione numero 20598</title>
-      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20598</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20598</guid>
-    </item>
-    <item>
-      <title>#DEPOSITO | Pubblicazione numero 20597</title>
-      <description>ELENCO NOMINATIVI ART 60 C.P.C</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20597</link>
-      <pubDate>Fri, 05 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20597</guid>
-    </item>
-    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20596</title>
       <description>-126-MODIFICA ATTO G.M. N. 43 DEL 08.04.2025 - PROVENTI DELLE SANZIONI AMMINISTRATIVE PER VIOLAZIONI AL NUOVO CODICE DELLA STRADA - ART. 208 C.D.S. -ANNO 2025</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20596</link>
@@ -309,6 +288,27 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20558</link>
       <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20558</guid>
+    </item>
+    <item>
+      <title>#CANCELLAZIONE DELL'ANAGRAFE | Pubblicazione numero 20556</title>
+      <description>CANCELLAZIONE ANAGRAFICA X IRREPERIBILITA' SIG. VITALE FRANCESCO MATRANGA MARIA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20556</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20556</guid>
+    </item>
+    <item>
+      <title>#CANCELLAZIONE DELL'ANAGRAFE | Pubblicazione numero 20555</title>
+      <description>CANCELLA ZIONE PER IRREPERIBILITA' SIG. HEZZI MONGI</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20555</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20555</guid>
+    </item>
+    <item>
+      <title>#CANCELLAZIONE DELL'ANAGRAFE | Pubblicazione numero 20554</title>
+      <description>cancellazione x irreperibilita' sig. NICASTRO ALESSANDRO</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20554</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20554</guid>
     </item>
   </channel>
 </rss>
