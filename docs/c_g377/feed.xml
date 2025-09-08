@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>08/09/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo nella via C. Colombo per lavori di scerbamento</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12254</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12254</guid>
+    </item>
+    <item>
+      <title>08/09/2025 | Ordinanze Dirigenziali</title>
+      <description>Divieto di sosta temporaneo per lavori in via Nicolò Gatto ceralo</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12253</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12253</guid>
+    </item>
+    <item>
       <title>05/09/2025 | Determine Dirigenziali Di Liquidazione</title>
       <description>LIQUIDAZIONE CONTRIBUTO ASS.NE CLUP PER MANIFESTAZIONE "INDIEGENO FEST 11^ EDIZIONE  ANNO 2025"  IN ESECUZIONE DELL' ATTO DI INDIRIZZO  EMANATO CON DELIBERA DI GIUNTA MUNICIPALE N. 124 DELL08/08/2025</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12252</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12220</link>
       <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12220</guid>
-    </item>
-    <item>
-      <title>03/09/2025 | Determinazioni Dirigenziali</title>
-      <description>NOLEGGIO GRUPPO ELETTROGENO, COMPRESO CARBURANTE E ASSISTENZA TECNICA E NOLEGGIO E INSTALLAZIONE PROIETTORI, IN OCCASIONE DEI FESTEGGIAMENTI CHE SI TERRANNO IN ONORE DI MARIA SS. DEL TINDARI, NEL PERIODO COMPRESO TRA IL 05 E IL 15 SETTEMBRE 2025  IMPEGNO SPESA E AFFIDAMENTO SERVIZIO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12219</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12219</guid>
-    </item>
-    <item>
-      <title>03/09/2025 | Determinazioni Dirigenziali</title>
-      <description>INTERVENTI DI SCERBATURA AREA DESTINATA A PARCHEGGIO TEMPORANEO, SITUATA TRA LE PROGRESSIVE KM.67+100 E KM 67+200, IN OCCASIONE DEI FESTEGGIAMENTI CHE SI TERRANNO IN ONORE DI MARIA SS. DEL TINDARI, NEL PERIODO COMPRESO TRA IL 05 E IL 15 SETTEMBRE 2025  IMPEGNO SPESA E AFFIDAMENTO SERVIZIO.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12218</link>
-      <pubDate>Wed, 03 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12218</guid>
     </item>
   </channel>
 </rss>
