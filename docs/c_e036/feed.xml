@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP Ginosa Via Cavour dal 13 settembre al 21 settembre 2025 modifiche ed integrazioni Ord. n. 75 del 21.07.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35641</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35641</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di E-Distribuzione  Marina di Ginosa  dal 13.09.2025 al 13.11.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35640</link>
+      <pubDate>Fri, 12 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35640</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Presa d'atto delle dimissioni del dipendente comunale Risimini Ivan</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35639</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35581</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35581</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  III Finestra - Codice Pratica  FU6E57TN (busta paga agosto 2025)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35580</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35580</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione contributo economico in favore di famiglie affidatarie mese di Settembre 2025 Legge N.184/83 e N.149/01.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35579</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35579</guid>
     </item>
   </channel>
 </rss>
