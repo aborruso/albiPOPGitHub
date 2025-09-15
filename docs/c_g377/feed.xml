@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>15/09/2025 | Pubblicazioni Di Matrimonio</title>
+      <description>PUBBLICAZ. DI MATRIM.-  NATOLI-CALDERONE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12327</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12327</guid>
+    </item>
+    <item>
       <title>12/09/2025 | Deliberazioni Di Giunta</title>
       <description>D.D.G. n. 2768 del 09/09/2025 del Dipartimento Regionale delle Infrastrutture, della Mobilità e dei Trasporti recante: "Sistemi di video sorveglianza urbana di cui all'art. 6 della Legge regionale n. 29 del 12/08/2025 - Variazioni al bilancio della Regione per l'esercizio finanziario 2025 e per il triennio 2025-2027. Disposizioni finanziarie varie." -  Intervento: Sistemi di video sorveglianza urbana di cui allart. 6 della Legge regionale n. 29 del 12/08/2025 - Realizzazione impianto di video-sorveglianza per la sicurezza urbana nel comune di Patti.-  CUP: C47G25000360009 -  Approvazione Progetto Esecutivo ed autorizzazione Sindaco a partecipare allAvviso Pubblico di cui al D.D.G. n. 2768 del 09/09/2025</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12326</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12293</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12293</guid>
-    </item>
-    <item>
-      <title>11/09/2025 | Ordinanze Dirigenziali</title>
-      <description>Viabilità sulla via C.F. Zuccarello in occasione del 10 Tindari Rally</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12292</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12292</guid>
     </item>
   </channel>
 </rss>
