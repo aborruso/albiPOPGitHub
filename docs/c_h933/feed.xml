@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20649</title>
+      <description>DIPENDENTE BASILE MARIO. DIMISSIONI DAL SERVIZIO DECORRENZA 01/05/2026 E DIRITTO ALLA PENSIONE DI VECCHIAIA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20649</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20649</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20648</title>
       <description>AFFIDAMENTO DIRETTO AD ARUBA SPA PER IL RINNOVO SERVIZIO DOMINIO, SPAZIO SU CASELLE DI POSTA ELETTRONICA, E RINNOVO N. 13 CASELLE DI POSTA ELETTRONICA CERTIFICATA SU DOMINIO</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20648</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20606</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20606</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20605</title>
-      <description>RIMBORSO DELL'ACQUISTO E DEL RINNOVO DI DISPOSITIVI DI FIRMA DIGITALE CON CNS, EMESSI DALLA CAMERA DI COMMERCIO DI PALERMO ENNA</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20605</link>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20605</guid>
     </item>
   </channel>
 </rss>
