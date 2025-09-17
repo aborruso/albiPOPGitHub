@@ -24,7 +24,7 @@ jobs:
         chmod +x mlr
         chmod +x scrape
         sudo apt-get install xmlstarlet
-        pip install --user yq
+        pip install --user yq==3.4.3 xmltodict==0.13.0
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
