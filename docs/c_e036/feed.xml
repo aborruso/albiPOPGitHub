@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP  Ginosa e Marina di Ginosa dal 22 al 27.09.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35662</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35662</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Settimana Europea della Mobilità 2025  "Mobilità per tutti"  Integrazioni all'Ordinanza n. 93 del 17.09.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35661</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35661</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3049/C - P. di C. n. 021/2025 SANTANGELO VITO.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35660</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35602</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35602</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Settimana Europea della Mobilità 16 -22 Settembre. Adesione. Approvazione programma. Concerto musicale di "Frankie Hi nrg MC" 19.09.2025 in Piazza Marconi a Ginosa. Atto di indirizzo.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35601</link>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35601</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Variazione al Bilancio di Previsione Finanziario 2025/2027 ai sensi dell'art.175, comma 4, D.lgs. n.267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35600</link>
-      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35600</guid>
     </item>
   </channel>
 </rss>
