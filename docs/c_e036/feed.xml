@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di E-Distribuzione  Marina di Ginosa  dal 23.09.2025 al 23.11.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35674</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35674</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per la tutela della pubblica e privata incolumità  Ginosa  - Via Montegrappa e strade intersecanti</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35673</link>
+      <pubDate>Sat, 20 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35673</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Adesione all'Accordo quadro "Carburanti Rete Buoni Acquisto 3" Lotto unico - Determina a contrarre e affidamento diretto alla Società Italiana Petroli SpA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35672</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35614</link>
       <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35614</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Accordo di collaborazione con la C.U.C. Lago di Occhito per attività di committenza ausiliaria ai sensi del D. Lgs 36/2023 e ss.mm.ii. Adesione.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35613</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35613</guid>
-    </item>
-    <item>
-      <title>Delibera G.c.</title>
-      <description>Presa d'atto della nomina delle RSU e costituzione Delegazione Trattante di parte pubblica per la contrattazione integrativa e il confronto ai sensi del CCNL 16 novembre 2022</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35612</link>
-      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35612</guid>
     </item>
   </channel>
 </rss>
