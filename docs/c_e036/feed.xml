@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Art. 15 Legge Regionale n. 4 del 13.03.2012- Richiesta pubblicazione all'Albo Pretorio avviso di pubblicazione delle liste di carico del trib.630 (difesa idraulica) e trib.648  manutenzione impianti irrigui  per</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35771</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35771</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Provvedimento di nomina di "Agenti Accertatori delle Entrate", ex art. 1, commi-179-182 della Legge n. 296/2006</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35769</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35707</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35707</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  I Finestra - Codice Pratica  51T0QPHA (busta paga agosto 2025)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35706</link>
-      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35706</guid>
     </item>
   </channel>
 </rss>
