@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/09/2025 | Determinazioni Dirigenziali</title>
+      <description>RIMBORSO C.U. ALL'AVV. FORTUNATINA GIUFRE  APPELLO AVVERSO LA SENTENZA N. 46/2025 DEL GIUDICE DI PACE DI PATTI. IMPEGNO.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12446</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12446</guid>
+    </item>
+    <item>
       <title>29/09/2025 | Ordinanze Sindacali</title>
       <description>T.S.O.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12445</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12411</link>
       <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12411</guid>
-    </item>
-    <item>
-      <title>25/09/2025 | Determine Dirigenziali Di Liquidazione</title>
-      <description>ASSISTENZA SANITARIA PRIMO SOCCORSO PER EVENTI DELLA 69^ EDIZIONE DEL TINDARI FESTIVAL NEI MESI DI LUGLIO ED AGOSTO 2025- LIQUIDAZIONE FATTURA  -</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12410</link>
-      <pubDate>Thu, 25 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12410</guid>
     </item>
   </channel>
 </rss>
