@@ -72,7 +72,11 @@ mlr <"$folder"/rawdata/"$iPA".csv --c2j clean-whitespace \
   then put '$titolo=gsub($titolo,"&","&amp;")' \
   then put '$titolo=gsub($titolo,"'\''","&apos;")' \
   then put '$titolo=gsub($titolo,"\"","&quot;")' \
-  then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA".json
+  then put '$titolo=gsub($titolo,"°","&#176;")' \
+  then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA"_temp.json
+
+# Sostituisci apostrofo curvo con entità HTML
+sed "s/'/\&apos;/g" "$folder"/rawdata/"$iPA"_temp.json >"$folder"/rawdata/"$iPA".json
 
 # crea copia del template del feed
 cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
