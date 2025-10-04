@@ -1,0 +1,36 @@
+name: crea feed RSS c_e047
+
+on:
+  schedule:
+    - cron: "0 9,15 * * *"  # 9:00 e 15:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: crea cartella utente bin, installa dipendenze
+        run: |
+          mkdir -p $HOME/.local/bin
+          cp bin/mlr_6 $HOME/.local/bin/mlr
+          sudo apt-get update
+          sudo apt-get install -y xmlstarlet
+          curl -L https://github.com/stedolan/jq/releases/download/jq-1.6/jq-linux64 -o $HOME/.local/bin/jq
+          chmod +x $HOME/.local/bin/jq
+          python3 -m pip install --user uv
+          $HOME/.local/bin/uv tool install scrape-cli
+          $HOME/.local/bin/uv tool install xq yq==3.4.3 xmltodict==0.13.0
+          echo "$HOME/.local/bin:$HOME/.cargo/bin" >> $GITHUB_PATH
+          echo "/home/runner/.local/share/uv/bin" >> $GITHUB_PATH
+      - name: scarica i dati e crea feed
+        run: |
+          cd c_e047
+          bash ./c_e047.sh
+      - name: Committa e pusha se ci sono variazioni nei dati
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add -A
+          git commit -m "Data updated c_e047" || exit 0
+          git push
