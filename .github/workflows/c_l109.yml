@@ -15,21 +15,21 @@ jobs:
       uses: actions/checkout@v2
       with:
         fetch-depth: 0
-    - name: crea cartella utente bin, copia dentro l'eseguibile di miller e scrape, installa xmlstarlet e yq
+    - name: crea cartella utente bin, copia dentro l'eseguibile di miller, installa xmlstarlet, uv, scrape-cli e yq
       run: |-
         mkdir -p ~/bin
-        cp bin/mlr ~/bin
-        cp bin/scrape ~/bin
+        cp bin/mlr_6 ~/bin/mlr
         cd ~/bin
         chmod +x mlr
-        chmod +x scrape
         sudo apt-get install xmlstarlet
-        pip install --user yq
+        curl -LsSf https://astral.sh/uv/install.sh | sh
+        uv tool install scrape-cli
+        pip install --user yq==3.4.3 xmltodict==0.13.0
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
       run: |-
-        export PATH=$PATH:~/bin
+        export PATH=$PATH:~/bin:~/.local/bin
         cd ./c_l109
         chmod +x ./c_l109.sh
         ./c_l109.sh
