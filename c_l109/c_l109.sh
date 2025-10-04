@@ -37,8 +37,6 @@ selflink="https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml"
 
 iPA="c_l109"
 
-URLBase="https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_ricerca.php"
-
 # crea cartelle di servizio
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
@@ -47,19 +45,32 @@ mkdir -p "$folder"/../docs/"$iPA"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-# estrai codici di risposta HTTP dell'albo
-code=$(curl -s -k -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -o /dev/null -w "%{http_code}" "$URLBase")
+# Scarica le prime 3 pagine per catturare più pubblicazioni
+for page in 0 1 2; do
+  URLPaginata="https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_ricerca.php?multiente=terlizzi&multiente=terlizzi&servizio=&sto=&pag=&x=&mittente=&oggetto=&tipo_atto=&data_dal=&data_al=&datap_dal=&datap_al=&ordin=&pag=$page"
 
-# se il server risponde fai partire lo script
-if [ $code -eq 200 ]; then
-  curl -kL "$URLBase" >"$folder"/tmp.html
-else
-  echo "Il sito non è raggiungibile"
-  exit 1
-fi
+  # estrai codici di risposta HTTP dell'albo per ogni pagina
+  code=$(curl -s -k -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -o /dev/null -w "%{http_code}" "$URLPaginata")
 
-# Estrai i dati in formato JSON
-<"$folder"/tmp.html scrape -be '//tbody/tr' | xq -c '.html.body.tr[]|{titolo:.td[1].a.div."#text",url:.td[1].a."@href",data:.td[4].div[0]}' >"$folder"/rawdata/"$iPA"_temp.json
+  # se il server risponde scarica la pagina
+  if [ $code -eq 200 ]; then
+    echo "Scaricando pagina $page..."
+    curl -kL "$URLPaginata" >"$folder"/tmp_page_$page.html
+
+    # Estrai i dati da questa pagina e aggiungi al file temporaneo
+    if [ -s "$folder"/tmp_page_$page.html ]; then
+      <"$folder"/tmp_page_$page.html scrape -be '//tbody/tr' | xq -c '.html.body.tr[]|{titolo:.td[1].a.div."#text",url:.td[1].a."@href",data:.td[4].div[0]}' >>"$folder"/rawdata/"$iPA"_temp_page_$page.json 2>/dev/null || true
+    fi
+  else
+    echo "Pagina $page non raggiungibile (codice: $code)"
+  fi
+done
+
+# Combina tutti i file JSON delle pagine in un unico file
+cat "$folder"/rawdata/"$iPA"_temp_page_*.json 2>/dev/null | jq -s 'flatten | unique_by(.url)' >"$folder"/rawdata/"$iPA"_temp.json 2>/dev/null || echo "[]" >"$folder"/rawdata/"$iPA"_temp.json
+
+# Pulizia file temporanei
+rm -f "$folder"/tmp_page_*.html "$folder"/rawdata/"$iPA"_temp_page_*.json
 
 # Processa il JSON con mlr per creare il feed
 mlr <"$folder"/rawdata/"$iPA"_temp.json --j2c \
