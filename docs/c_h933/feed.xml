@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 20801</title>
-      <description>AVVISO DI DEPOSITO ELENCO NOMINATIVI ART.60 C.P.C.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20801</link>
-      <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20801</guid>
-    </item>
-    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20800</title>
       <description>IMPEGNO DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20800</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20760</link>
       <pubDate>Tue, 30 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20760</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20759</title>
+      <description>LIQUIDAZIONE FATTURA ALLA DITTA  GBR ROSSETTO  FORNITURA MATERIALE IGIENICO PER LA PULIZIA DEGLI EDIFICI COMUNALI A SEGUITO AFFIDAMENTO DIRETTO  SOTTO SOGLIA AI SENSI DELL'ART. 50 C. 1 D.LGS. 36/2023 ANNO 2025</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20759</link>
+      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20759</guid>
     </item>
   </channel>
 </rss>
