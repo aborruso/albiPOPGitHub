@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 20851</title>
+      <description>Divieto di sosta ed interdizione della circolazione di tutti i veicoli dalle ore 20:00 alle ore 23:30 del giorno  di Sabato 11 Ottobre 2025 in  Piazza Falcone e Borsellino nel suo tratto compreso tra l'intersezione con la Via Piana Degli Albanesi e la Via Agrigento.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20851</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20851</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20850</title>
       <description>LIQUIDAZIONE  RIMBORSO SPESE PER ATTI  NOTIFICATI  DA MESSI DI ALTRI COMUNI DELLA PROVINCIA DI PALERMO: ALTOFONE,  BELMONTE MEZZAGNO, CASTELDACCIA  MEZZOJUSO E MONREALE</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20850</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20809</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20809</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20808</title>
-      <description>INDIVIDUAZIONE DI UN LEGALE AVVERSO IL RICORSO PROMOSSO DALLA SIG.RA M.L.F. C/O COMUNE DI SAN GIUSEPPR JATO DINANZI AL TRIBUNALE AMMINISTRATIVO REGIONALE PER LA SICILIA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20808</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20808</guid>
     </item>
   </channel>
 </rss>
