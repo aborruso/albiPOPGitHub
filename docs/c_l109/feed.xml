@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>TRIBUNALE ORDINARIO DI TRANI - SENTENZA NR. 667/2025 - R.G. 5147/2022 - PRESA D'ATTO SENTENZA ED ACCERTAMENTO ENTRATA DELLE SOMME DOVUTE IN FAVORE DELL'ENTE DA PARTE DEL SOCCOMBENTE.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31664</link>
-      <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31664</guid>
-    </item>
-    <item>
       <title>TRIBUNALE PENALE DI BARI - PROCEDIMENTO PENALE NR. 16093/2013 RGNR E N. 3450/2021 RG TRIB. - COSTITUZIONE PARTE CIVILE DEL COMUNE DI TERLIZZI - IMPEGNO DI SPESA IN FAVORE DELLA POLIS AVVOCATI S.T.A. COOP. PER LE PRESTAZIONI PROFESSIONALI DEL SOCIO AVV. DELLO RUSSO NICCOLO' ALESSANDRO, DIFENSORE DELL'ENTE.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31665</link>
       <pubDate>Mon, 06 Oct 2025 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31725</link>
       <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31725</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Manzoni.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31726</link>
+      <pubDate>Sat, 11 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31726</guid>
     </item>
   </channel>
 </rss>
