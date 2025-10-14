@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20871</title>
+      <description>CONCESSIONE RATEIZZAZIONE SU ACCERTAMENTO IMU ANNO 2023.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20871</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20871</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20870</title>
+      <description>LIQUIDAZIONE FATTURA N. 2501017/PA del 26-09-2025 CIG: B4D74114FB BENEFICIARIO IMMEDIA S.P.A. RELATIVA AL CANONE TRIMESTRALE  LUGLIO/SETTEMBRE 2025 DEL SERVIZIO SIOPE+, OMNIBUS FLAT, COENSTPA E FILODIRETTO.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20870</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20870</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 20869</title>
       <description>LIQUIDAZIONE RIMBORSO SPESE PER ATTI  NOTIFICATI  DA MESSI DI ALTRI COMUNI: AGRIGENTO, CATTOLICA ERACLEA (AG), PORTO EMPEDOCLE (AG) , SCIACCA (AG), TRAPANI, CASTELVETRANO (TP), GIBELLINA (TP) E SAN VITO LO CAPO (TP).</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20869</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20830</link>
       <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20830</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20829</title>
-      <description>APPLICAZIONE DELL'AVANZO ACCANTONATO AI SENSI DELL'ART. 187 C. 3 SEXIES DEL D.LGS. 267/2000 E CONTESTUALE VARIAZIONE AL BILANCIO DI PREVISIONE 2025/2027 AI SENSI DELL'ART. 175 C. 3, LETT. C) DEL D.LGS. 267/2000 - CONCILIAZIONE LO GIUDICE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20829</link>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20829</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 20827</title>
-      <description>IMPEGNO PER LA PARTECIPAZIONE DI N. 3 DIPENDENTI AL V° CONVEGNO ANVU REGIONE SICILIA PER IL 09/10/20235.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20827</link>
-      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20827</guid>
     </item>
   </channel>
 </rss>
