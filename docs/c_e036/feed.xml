@@ -382,13 +382,6 @@
     </item>
     <item>
       <title>Avviso Pubblico</title>
-      <description>Modello 9 deposito elenchi semestrale elenchi</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35926</link>
-      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35926</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
       <description>Integrazione ordine del giorno seduta Consiglio Comunale del 16 ottobre 2025</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35925</link>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
@@ -435,6 +428,13 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35919</link>
       <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35919</guid>
+    </item>
+    <item>
+      <title>Determinazione</title>
+      <description>Impegno di spesa e contestuale liquidazione cartella di pagamento.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35918</link>
+      <pubDate>Mon, 13 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=35918</guid>
     </item>
   </channel>
 </rss>
