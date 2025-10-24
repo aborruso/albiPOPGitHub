@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 06</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36072</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36072</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Ordinanza per la disciplina della circolazione stradale in occasione della gara podistica denominata "XVII edizione CORRI GINOSA" in programma il giorno 26 ottobre 2025.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36071</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36071</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>D.G.R. n° 978 del 29/05/2019 "Utilizzo degli spazi finanziari disposto dal bilancio di previsione 2019-2021 ai sensi del comma 495-ter dell'art. 1 della Legge n. 232/2016  Interventi di mitigazione del rischio idrogeologico" LAVORI di "Mitigazione del rischio geomorfologico nell'abitato di Ginosa Stralcio I Centro storico zona A"</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36070</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36012</link>
       <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36012</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Variazione al Bilancio di Previsione 2025/2027 ai sensi dell'art.175 del D.lgs. n.267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36011</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36011</guid>
-    </item>
-    <item>
-      <title>Delibera C.c.</title>
-      <description>Approvazione del Bilancio consolidato esercizio 2024 ai sensi dell'art.11-bis del D.lgs. n.118/2011</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36010</link>
-      <pubDate>Tue, 21 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36010</guid>
     </item>
   </channel>
 </rss>
