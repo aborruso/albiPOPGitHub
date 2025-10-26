@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>IMPEGNO DI SPESA PER CONSUMO ACQUA E FOGNA AI PLESSI COMUNALI E FONTANE PUBBLICHE ACQUEDOTTO PUGLIESE SPA BARI.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31813</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31813</guid>
-    </item>
-    <item>
-      <title>PERFORMANCE ANNO 2024 - LIQUIDAZIONE COMPENSI AL PERSONALE DIPENDENTE DEL SETTORE IV "POLIZIA LOCALE, IGIENE URBANA E TRIBUTI"</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31814</link>
-      <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31814</guid>
-    </item>
-    <item>
       <title>ELEZIONI REGIONALI DELLA PUGLIA DI DOMENICA 23 E LUNEDI' 24 NOVEMBRE 2025. COSTITUZIONE UFFICIO ELETTORALE ED AUTORIZZAZIONE LAVORO STRAORDINARIO.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31815</link>
       <pubDate>Mon, 20 Oct 2025 00:00:00 +0000</pubDate>
@@ -375,6 +363,18 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31872</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31872</guid>
+    </item>
+    <item>
+      <title>Modifiche Temporanee alla viabilità al Cimitero Comunale.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31873</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31873</guid>
+    </item>
+    <item>
+      <title>Modifiche Temporanee alla viabilità il giorno 04.11.2025</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31874</link>
+      <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=31874</guid>
     </item>
   </channel>
 </rss>
