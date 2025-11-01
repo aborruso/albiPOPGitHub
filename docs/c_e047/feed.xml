@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Giovinazzo</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:072029</category>
     <item>
+      <title>2025/0001394 - Interdizione del transito e della sosta in Via Napoli, tratto di strada compreso tra Via Toselli e Via A. Daconto, per lo svolgimento della festa del Ciao. Parrochia San Giuseppe.</title>
+      <description>Ordinanza Dirigenziale nr.153 del 29/10/2025</description>
+      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7422</link>
+      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7422</guid>
+    </item>
+    <item>
       <title>2025/0001393 - Elezioni regionali 2025: servizio di allestimento/disallestimento seggi elettorali e servizi accessori per il loro funzionamento.</title>
       <description>Determinazione Dirigenziale nr.627 del 31/10/2025</description>
       <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7419</link>
@@ -528,18 +535,11 @@
       <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7196</guid>
     </item>
     <item>
-      <title>2025/0001316 - Avviso ai creditori (art. 218 D.P.R. 207/2010 e s.m.i.</title>
-      <description>Avviso (Generico)</description>
-      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7191</link>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7191</guid>
-    </item>
-    <item>
-      <title>2025/0001315 - AVVISO PUBBLICO DI ISCRIZIONE ALL’ELENCO DI COMPONENTI ESPERTI NELLE COMMISSIONI DI PROCEDURE SELETTIVE E CONCORSUALI</title>
-      <description>Avviso (Generico) del 16/10/2025</description>
-      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7190</link>
-      <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7190</guid>
+      <title>2025/0001284 - Elezione del Presidente della Giunta e del Consiglio regionale della Puglia di domenica 23 e lunedì 24 novembre 2025: convocazione dei comizi elettorali e assegnazione alle circoscrizioni elettorali della regione dei seggi di consigliere regionale.</title>
+      <description>Elettorale e Leva del 09/10/2025</description>
+      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7105</link>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7105</guid>
     </item>
   </channel>
 </rss>
