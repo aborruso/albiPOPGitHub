@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/11/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione sanzione amministrativa pecuniaria dell'Ispettorato     Nazionale del Lavoro DIL Sud - Verbale di verifica n. 615-121 del 06/10/2025 Violazione connessa all'esercizio di funzioni istituzionali.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12813</link>
+      <pubDate>Tue, 04 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12813</guid>
+    </item>
+    <item>
       <title>04/11/2025 | Determinazioni Del Sindaco</title>
       <description>Determinazione della retribuzione di posizione del segretario generale in applicazione dell'art. 60 del CCNL 2019/2021 Funzioni Locali  a far data 01.11.2025</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12812</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12779</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12779</guid>
-    </item>
-    <item>
-      <title>31/10/2025 | Determinazioni Del Sindaco</title>
-      <description>Artt. 166, 167 e 176 del TUEL - Prelievo dal "Fondo debiti potenziali" e dal "Fondo di riserva di cassa".</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12778</link>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12778</guid>
     </item>
   </channel>
 </rss>
