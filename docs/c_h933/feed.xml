@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21017</title>
+      <description>ACCERTAMENTO ENTRATA VERBALI ART. 193 E ART. 80 DEL CDS PERIODO SETTEMBRE 2025  E RELATIVO PRELEVAMENTO.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21017</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21017</guid>
+    </item>
+    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21016</title>
       <description>-167-APPROVAZIONE ELENCO DEI BENI COMUNALI DA ALIENARE E VALORIZZARE Al SENSI L'ART. 58 DEL D.L. 2510612008, N. 122, CONVERTITO IN L. 6/0812008, N. 133, PER COME APPLICABILE IN SICILIA DOPO LA SENTENZA DELLA CORTE COSTITUZIONALE N. 340/2009. "ANNO 2026"</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21016</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20976</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20976</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 20975</title>
-      <description>155-"MODIFICA COMMA 6 ART. 5 DEL REGOLAMENTO COMUNALE PER I PROCEDIMENTI DISCIPLINARI" APPROVATO CON ATTO G.M. N. 28 DEL 26 MARZO 2013 E SS.MM.II. CON DELIBERAZIONE DI G.M. N. 85/2015".</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20975</link>
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20975</guid>
     </item>
   </channel>
 </rss>
