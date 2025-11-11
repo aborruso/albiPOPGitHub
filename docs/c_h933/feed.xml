@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DEL SINDACO | Pubblicazione numero 21039</title>
+      <description>-14- Modifica determinazione sindacale n. 23 del 14.09.2020 avente ad oggetto: " Nomina componenti Ufficio Procedimenti Disciplinari (UPD) - Modifica"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21039</link>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21039</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21038</title>
       <description>ACCERTAMENTO DI ENTRATA, SOMME STANZIATE DALLA REGIONE SICILIANA E ASSEGNATE AL DISTRETTO SOCIO SANITARIO N.41 RELATIVA ALLA COPERTURA DEL SERVIZIO "SERVIZI INTEGRATIVI AGGIUNTIVI  MIGLIORATIVI ED ASACOM" .</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21038</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20997</link>
       <pubDate>Mon, 03 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20997</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 20996</title>
-      <description>AVVISO PUBBLICO Aggiornamento dell'albo delle persone idonee all'ufficio di scrutatore di seggio elettorale</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20996</link>
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=20996</guid>
     </item>
   </channel>
 </rss>
