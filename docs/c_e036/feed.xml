@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 126/C - P. di C. n. 032/2025 Magni Roberta;</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36339</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36339</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 1382/C - P. di C. n. 031/2025 Inglese Gennaro ed altri;</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36338</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36338</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Elezioni regionali del 23 e 24 novembre 2025. Avviso servizio trasporto ai seggi delle persone disabili non deambulanti.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36337</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36280</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36280</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Avviso Autorizzazione alla Ricerca [codice Derivazione Sotterranea: 72064, codice richiesta: RIC-39703-2025]</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36279</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36279</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Avviso Autorizzazione alla Ricerca [codice Derivazione Sotterranea: 72433, codice richiesta: RIC-40097-2025]</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36278</link>
-      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36278</guid>
     </item>
   </channel>
 </rss>
