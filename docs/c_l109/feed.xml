@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Accoglienza residenziale utente cod.001 presso il Gruppo Appartamento "Artemisia" sito in Santo Spirito (Ba). Ente gestore: Cooperativa Sociale CAPS ArL Onlus corrente in Bari alla Via Barisano da Trani n.12. Periodo dal 03/09/2025 al 14/10/2025 (Dimissioni anticipate).</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32021</link>
-      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32021</guid>
-    </item>
-    <item>
       <title>Decreto del Ministro per la Famiglia, la Natalità e le Pari Opportunità del 25 giugno 2025 . Potenziamento dei servizi socioeducativi territoriali - dei centri estivi e dei centri con funzione educativa e ricreativa che svolgono attività a favore dei minori di età da 0 a 17 anni. Centri Estivi annualità 2025. Beneficiario: Cooperativa Sociale Zorba con sede in Terlizzi - Via Gramsci n. 46. Liquidazione.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32022</link>
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32081</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32081</guid>
+    </item>
+    <item>
+      <title>Modifiche Temporanee alla viabilità per Corteo "In Piedi per dire Basta".</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32082</link>
+      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32082</guid>
     </item>
   </channel>
 </rss>
