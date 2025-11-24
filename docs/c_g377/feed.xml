@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/11/2025 | Atti Di Interesse Generale</title>
+      <description>AVVISO DI PUBBLICAZIONE DELLO SCHEMA DI PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2026-2027-2028 ED ELENCO ANNUALE 2026</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12967</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12967</guid>
+    </item>
+    <item>
       <title>23/11/2025 | Deliberazioni Di Giunta</title>
       <description>ADOZIONE DELLO SCHEMA DEL PROGRAMMA TRIENNALE DEI LAVORI PUBBLICI 2026-2028 E DELL'ELENCO ANNUALE DEI LAVORI PER L'ANNO 2026.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12966</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12933</link>
       <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12933</guid>
-    </item>
-    <item>
-      <title>19/11/2025 | Concessioni E Permessi Di Costruire</title>
-      <description>PERMESSO DI COSTRUIRE N.19 DEL 19/11/2025</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12932</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=12932</guid>
     </item>
   </channel>
 </rss>
