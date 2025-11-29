@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione di varie manifestazioni religiose in Ginosa e Marina di Ginosa dal 08 al 13.12.2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36519</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36519</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  II Finestra - Codice Pratica FNL8TRWB (ausili domotica)</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36518</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36460</link>
       <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36460</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Candidatura Comunità Europea dello Sport 2027 'Terra della Gravine' al premio "Comunità europea delle Sport" Anno 2027. Programma ospitalità della delegazione del Comitato di Valutazione - Liquidazione Fattura n. 6/002 del 02.11.2025 in favore della Ditta "Borgo Antico" di Dragone Giovanni per il servizio di vitto.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36459</link>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36459</guid>
     </item>
   </channel>
 </rss>
