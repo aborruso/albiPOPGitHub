@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Retta di accoglienza utente codice 026 presso la RSSA "Villa Giovanna". Beneficiario: Società "Segesta Mediterranea S.r.l.", con sede legale in Bari, in Via Nicola Cacudi, n. 35/37. Mesi di Settembre e Ottobre 2025. Liquidazione.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32133</link>
-      <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32133</guid>
-    </item>
-    <item>
       <title>Fornitura gratuita o semigratuita dei libri di testo e/o sussidi didattici per l'anno scolastico 2025/2026. D.G.R. n. 338 del 21/03/2024. I° Finestra temporale - Azione ordinaria. Beneficiario: Cartolibreria di Bisceglia Nunzia con sede in Terlizzi - Via XX Settembre n. 43/45. Liquidazione.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32134</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32195</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32195</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità per lo Spazzamento Meccanizzato di alcune strade da parte della SANB.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32196</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32196</guid>
     </item>
   </channel>
 </rss>
