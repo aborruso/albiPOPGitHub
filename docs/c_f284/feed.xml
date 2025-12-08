@@ -17,6 +17,12 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Molfetta</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_f284</category>
     <item>
+      <title>Ordinanza Divieto di Fermata temporanea su via Baccarini tratto compreso dal civ. 187 al civ. 187/B per lavori di manutenzione Ordinaria Facciate via Baccarini civ. 187/B dal 08.12.2025 al 31.03.2025</title>
+      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53478</link>
+      <pubDate>Mon, 08 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>53478</guid>
+    </item>
+    <item>
       <title>Ordinanza Interdizione del traffico Veicolare, Divieto di Fermata su ambo i lati e istituzione del transito a senso alternato nel tratto compreso tra via Sibilla Aleramo civ. 14 e via Ungaretti civ. 69</title>
       <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53613</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
@@ -1073,12 +1079,6 @@
       <guid>53430</guid>
     </item>
     <item>
-      <title>Regolamento per il funzionamento della Commissione Locale per il Paesaggio (approvato con Delibera Commissariale n. 11 del 03/11/2025) Pubblicazione ai sensi dell'art. 19- comma 4° dello Statuto Comunale.</title>
-      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53279</link>
-      <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>53279</guid>
-    </item>
-    <item>
       <title>Ordinanza Divieto di Fermata temporanea su via Maresciallo Altomare tratto compreso da fronte civ. 7 a via sott. Ten. Caputo per lavori straordinaria manutenzione immobile dal 22.11.2025 al 15.01.2025</title>
       <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53298</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
@@ -1197,30 +1197,6 @@
       <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53254</link>
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <guid>53254</guid>
-    </item>
-    <item>
-      <title>Ordinanza Autorizzazione alla sosta su Corso Umberto tratto compreso dal civ. 70 al civ. 72 per carico materiale edile dal 03.11.2025 al 12.12.2025</title>
-      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53247</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>53247</guid>
-    </item>
-    <item>
-      <title>Ordinanza Divieto di fermata temporanea su via G. Falcone tratto compreso dal civ. 39 al civ. 47 dal 04.11.2025 al 10.12.2025</title>
-      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53248</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>53248</guid>
-    </item>
-    <item>
-      <title>Ordinanza Divieto di Fermata temporaneo su via Capotorti tratto compreso dal civ. 103 al civ. 107 per lavori di manutenzione straordinaria dal 10.11.2025 al 15.12.2025</title>
-      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53250</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>53250</guid>
-    </item>
-    <item>
-      <title>Ordinanza Divieto di fermata temporanea su via Luciano Manara tratto compreso dal civ. 6 al civ. 10 per lavori di manutenzione straordinaria dal 12.11.2025 al 13.12.2025</title>
-      <link>https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#53256</link>
-      <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>53256</guid>
     </item>
   </channel>
 </rss>
