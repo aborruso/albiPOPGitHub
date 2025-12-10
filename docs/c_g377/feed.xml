@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/12/2025 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Liquidazione acconto relativo all'accordo di collaborazione con l'Università degli Studi di Messina per la redazione del "Bilancio pop - Popular financial reporting" della Città di Patti.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13122</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13122</guid>
+    </item>
+    <item>
       <title>09/12/2025 | Determinazioni Dirigenziali</title>
       <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. ROBERTI ANTONIO. OPPOSIZIONE DAVANTI IL GIUDICE DI PACE DI PATTI AVVERSO ILVERBALE C.D.S.UFF 1023789 DEL 12/11/2025 DELLA SEZ. POLIZIA STRADALE DI MESSINA. IMPEGNO. CIG.N. B974E3D2D5.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13121</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13087</link>
       <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13087</guid>
-    </item>
-    <item>
-      <title>05/12/2025 | Avvisi Vari</title>
-      <description>Avviso operazioni pubbliche di estumulazione</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13086</link>
-      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13086</guid>
     </item>
   </channel>
 </rss>
