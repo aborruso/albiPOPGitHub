@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP  Ginosa e Marina di Ginosa Varie Strade dal 18.12.2025 al 18.01.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36763</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36763</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della Manifestazione denominata "Jè nàte nu creatùre" in Ginosa 17 dicembre 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36762</link>
+      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36762</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Intervento di Manutenzione straordinaria e messa in sicurezza del marciapiedi  di via Palatrasio ai fini del  miglioramento della mobilità pedonale e dell'abbattimento di  barriere architettoniche". CUP: D37H25002520004. Approvazione Progetto di Fattibilità Tecnica ed Economica (PFTE).</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36761</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36704</link>
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36704</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Nomina Commissione composta da tre membri scelti tra gli esperti del settore per valutazione candidature premio Galà dello Sport-Città di Ginosa 2025</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36703</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36703</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento progettazione grafica e stampa del Galà dello Sport ed eventi natalizi 2025 al Dott. Piero Giannuzzi - Impegno di spesa</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36702</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36702</guid>
     </item>
   </channel>
 </rss>
