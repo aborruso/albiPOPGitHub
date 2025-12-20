@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>AVVISO PUBBLICO PER PROGRESSIONI ORIZZONTALI ALL'INTERNO DELLAREA DEGLI OPERATORI ESPERTI, EX CATEGORIA B, RISERVATO AI DIPENDENTI COMUNALI A TEMPO INDETERMINATO, PER LATTRIBUZIONE DEI DIFFERENZIALI STIPENDIALI DI CUI ALLART. 14 DEL CCNL 16/11/202</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32283</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32283</guid>
-    </item>
-    <item>
-      <title>AGGIORNAMENTO ALBO UNICO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32284</link>
-      <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32284</guid>
-    </item>
-    <item>
       <title>ATTO DI INDIRIZZO PER LA COSTITUZIONE DI UNA COMUNITÀ ENERGETICA RINNOVABILE E SOLIDALE - "ENERGIA IN FIORE"</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32285</link>
       <pubDate>Tue, 16 Dec 2025 00:00:00 +0000</pubDate>
@@ -375,6 +363,18 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32342</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32342</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Tasso.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32343</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32343</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Casalicchio e Viale Indipendenza.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32344</link>
+      <pubDate>Sat, 20 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32344</guid>
     </item>
   </channel>
 </rss>
