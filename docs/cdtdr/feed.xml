@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>TRIBUNALE DI FERRARA SEZIONE CIVILE SENTENZA NR. 504/25 REP. 478/25 ( R.G. 131/23) : IMPEGNO DI SPESA PER PAGAMENTO IMPOSTA DI REGISTRO IN QUALITA' DI OBBLIGATO SOLIDALE</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=218</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=218</guid>
-    </item>
-    <item>
       <title>VARIAZIONE COMPENSATIVA DI BILANCIO SU PARTITE DI GIRO Riversamento allo Stato dei corrispettivi per il rilascio di Carte di Identità Elettroniche art. 175, comma 5-quater, D.Lgs. 267/2000</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=219</link>
       <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=239</link>
       <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=239</guid>
+    </item>
+    <item>
+      <title>Comune di Napoli (NA) - Ordinanza relativa ai servizi cimiteriali.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=240</link>
+      <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=240</guid>
     </item>
   </channel>
 </rss>
