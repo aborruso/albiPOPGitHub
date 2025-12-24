@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" version="2.0">
+  <channel>
+    <creativeCommons:license>http://creativecommons.org/licenses/by/3.0/</creativeCommons:license>
+    <title>AlboPOP del comune di Terre del Reno</title>
+    <description>L'albo pretorio POP è una versione dell'albo pretorio del tuo comune, che puoi seguire in modo più comodo.</description>
+    <link>https://aborruso.github.io/albiPOPGitHub/cdtdr/feed.xml</link>
+    <atom:link rel="self" href="https://aborruso.github.io/albiPOPGitHub/cdtdr/feed.xml" type="application/rss+xml"/>
+    <docs>https://albopop.it/comune/terre-del-reno/</docs>
+    <category domain="http://albopop.it/specs#channel-category-type">Comune</category>
+    <category domain="http://albopop.it/specs#channel-category-municipality">Terre del Reno</category>
+    <category domain="http://albopop.it/specs#channel-category-province">Ferrara</category>
+    <category domain="http://albopop.it/specs#channel-category-region">Emilia-Romagna</category>
+    <category domain="http://albopop.it/specs#channel-category-latitude">44.79362049063872</category>
+    <category domain="http://albopop.it/specs#channel-category-longitude">11.39038755537125</category>
+    <category domain="http://albopop.it/specs#channel-category-country">Italia</category>
+    <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
+    <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
+    <item>
+      <title>TRIBUNALE DI FERRARA SEZIONE CIVILE SENTENZA NR. 504/25 REP. 478/25 ( R.G. 131/23) : IMPEGNO DI SPESA PER PAGAMENTO IMPOSTA DI REGISTRO IN QUALITA' DI OBBLIGATO SOLIDALE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=218</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=218</guid>
+    </item>
+    <item>
+      <title>VARIAZIONE COMPENSATIVA DI BILANCIO SU PARTITE DI GIRO Riversamento allo Stato dei corrispettivi per il rilascio di Carte di Identità Elettroniche art. 175, comma 5-quater, D.Lgs. 267/2000</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=219</link>
+      <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=219</guid>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL DOCUMENTO DI INDIRIZZO ALLA PROGETTAZIONE AI SENSI DELL'ART. 41 E DELLALLEGATO I.7 DEL D.LGS. 36/2023 PER AFFIDAMENTO DEI SERVIZI DI ARCHITETTURA E INGEGNERIA RELATIVI AL PROGETTO DI FATTIBILITA TECNICO ECONOMICA PER IL COMPLETAMENTO DEI LAVORI POST-SISMA 2012 DA ESEGUIRSI PRESSO IL CIMITERO DI SANT'AGOSTINO - III STRALCIO FUNZIONALE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=220</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=220</guid>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL DOCUMENTO DI INDIRIZZO ALLA PROGETTAZIONE (DIP) AI SENSI DELL'ART. 3 DELLALLEGATO I.7 DEL D.LGS. 36/2023 PER LA REALIZZAZIONE DEL PROGETTO DENOMINATO "LAVORI DI RECUPERO DELLA VILLA RABBONI-CASSINI A SANTAGOSTINO" IN COMUNE DI TERRE DEL RENO (FE)</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=221</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=221</guid>
+    </item>
+    <item>
+      <title>DETERMINAZIONE DELLA MISURA DELL'INTERVENTO ECONOMICO INTEGRATIVO COMUNALE A FAVORE DI ANZIANI E ASSIMILATI OSPITI PRESSO STRUTTURE RESIDENZIALI E/O STRUTTURA DIURNA ACCREDITATA O AUTORIZZATA -ANNO 2026.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=222</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=222</guid>
+    </item>
+    <item>
+      <title>Approvazione del Protocollo di collaborazione per la costituzione e il funzionamento del Team per l'Emergenza tra l'Istituto Comprensivo "Terre del Reno" il Comune di Terre del Reno e il Comune di Vigarano Mainarda.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=223</link>
+      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=223</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER DIRITTI DI ROGITO ANNO 2025 A FAVORE DEL SEGRETARIO COMUNALE DR. CIRILLO GIOVANNI IN SERVIZIO PRESSO IL COMUNE DI TERRE DEL RENO DAL 01.08.2022 E DISPOSIZIONI SULLA LIQUIDAZIONE DEGLI STESSI.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=224</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=224</guid>
+    </item>
+    <item>
+      <title>PROROGA AL 15/09/2026 DELL'ASSUNZIONE A TEMPO DETERMINATO E A TEMPO PARZIALE VERTICALE AI SENSI DELL'ART. 1 COMMA 557 L. 311/2004 E S.M.I. DI N. 1 SPECIALISTA AMMINISTRATIVO AREA DEI FUNZIONARI E DELL'ELEVATA QUALIFICAZIONE - FAMIGLIA PROFESSIONALE AMMINISTRATIVA/CONTABILE PRESSO IL SETTORE 7^ SERVIZI INFORMATICI E DIGITALIZZAZIONE.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=225</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=225</guid>
+    </item>
+    <item>
+      <title>SERVIZI DI ARCHITETTURA E INGEGNERIA RELATIVI ALL'AGGIORNAMENTO DEL PROGETTO DI FATTIBILITÀ TECNICO-ECONOMICA PER LINTERVENTO DI COMPLETAMENTO DEI LAVORI DI RECUPERO E RESTAURO DI VILLA RABBONI-CASSINI CUP (master) J21G18000110006 CUP J21G18000120006 - DECISIONE DI CONTRARRE, PROPOSTA DI AGGIUDICAZIONE E IMPEGNO DI SPESA</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=226</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=226</guid>
+    </item>
+    <item>
+      <title>COPERTURA ASSICURATIVA ALL RISKS PROPERTY PERIODO 2025/ 2027 - AFFIDAMENTO TRAMITE IL PORTALE MEPA IMPEGNO DI SPESA</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=227</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=227</guid>
+    </item>
+    <item>
+      <title>ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 1 DIPENDENTE DA INQUADRARE NELL'AREA DEGLI ISTRUTTORI, CON LA QUALIFICA DI ISTRUTTORE AMMINISTRATIVO CONTABILE EX TABELLA B CCNL 16/11/2022 DA DESTINARE AL SETTORE AFFARI GENERALI E ISTITUZIONALI DEL COMUNE DI TERRE DEL RENO.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=228</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=228</guid>
+    </item>
+    <item>
+      <title>PRESA D'ATTO AGGIUDICAZIONE DEL SERVIZIO DI SPORTELLO SOCIALE E GESTIONE ADI, OLTRE CHE AL SUPPORTO ALLE AREE DEL SERVIZIO SOCIALE PROFESSIONALE GAFSA 2026 - TRAMITE TRATTATIVA DIRETTA MEPA - CIG B99AEE5A41</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=229</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=229</guid>
+    </item>
+    <item>
+      <title>ECCEZIONALI CONDIZIONI METEOROLOGICHE DEL 24 dicembre 2025 ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.)</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=230</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=230</guid>
+    </item>
+    <item>
+      <title>ASSUNZIONE A TEMPO INDETERMINATO E PIENO DI N. 2 DIPENDENTI DA INQUADRARE NELL'AREA DEGLI OPERATORI ESPERTI, CON LA QUALIFICA DI COLLABORATORE TECNICO MANUTENTIVO EX TABELLA B CCNL 16/11/2022 PRESSO IL SETTORE V LAVORI PUBBLICI, RETI, PATRIMONIO A SEGUITO DELLA CONCLUSIONE DELLA PROCEDURA VALUTATIVA PER LA PROGRESSIONE VERTICALE, AI SENSI DELL'ART. 13 DEL CCNL 16/11/2022.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=231</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=231</guid>
+    </item>
+    <item>
+      <title>Convocazione del Consiglio Comunale per il giorno 29-12-2025 alle ore 18:30.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=233</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=233</guid>
+    </item>
+    <item>
+      <title>VERBALE DI GARA SVOLTA "MEPA" RELATIVA ALL'AFFIDAMENTO DEI LAVORI DI MANUTENZIONE STRAORDINARIA DI IMPIANTI FOTOVOLTAICI INSTALLATI A TETTO SU EDIFICI DI PROPRIETÀ COMUNALE GRAVEMENTE DANNEGGIATI DAGLI EVENTI ATMOSFERICI DEL LUGLIO 2023</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=234</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=234</guid>
+    </item>
+    <item>
+      <title>APPROVAZIONE DEL PROGETTO ESECUTIVO PER I LAVORI DI COMPLETAMENTO DELLE OPERE DI URBANIZZAZIONE DEL COMPARTO URBANISTICO ATTUATO CON PIANO PARTICOLAREGGIATO DI INIZIATIVA PRIVATA DENOMINATO "LOTTIZZAZIONE GIOVANNINA VIA PASQUINI", CODICE CUP J91B22001420004</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=235</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=235</guid>
+    </item>
+    <item>
+      <title>INTERVENTO DI SOSTITUZIONE DELLA PAVIMENTAZIONE DELLA SEZIONE AZZURRA PRESSO L'ASILO NIDO "IL TIGLIO" - AFFIDAMENTO TRAMITE IL PORTALE ME.PA. ALLA DITTA "PGA DESIGN E CONTRACT SRL"</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=236</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=236</guid>
+    </item>
+    <item>
+      <title>SERVIZI DI ARCHITETTURA E INGEGNERIA RELATIVI AL PROGETTO DI FATTIBILITA' TECNICO ECONOMICA PER IL COMPLETAMENTO DEI LAVORI POST-SISMA 2012 DA ESEGUIRSI PRESSO IL CIMITERO DI SANT'AGOSTINO - III STRALCIO FUNZIONALE - CUP J96I25000060006 DECISIONE DI CONTRARRE, AFFIDAMENTO TRAMITE IL PORTALE ME.PA. E IMPEGNO DI SPESA</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=237</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=237</guid>
+    </item>
+    <item>
+      <title>RETTIFICA DETERMINAZIONE N. 634 DEL 03/12/2025 AVENTE PER OGGETTO "IMPEGNO DI SPESA PER NOLEGGIO ATTREZZATURE MANIFESTAZIONE NATALIZIA 2025"</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=238</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=238</guid>
+    </item>
+    <item>
+      <title>IMPEGNO PER AGGIO PER SERVIZIO DI GESTIONE ED ACCERTAMENTO DEI TRIBUTI E DELLE ENTRATE COMUNALI DELL'EX COMUNE DI SANT'AGOSTINO</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=239</link>
+      <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=239</guid>
+    </item>
+  </channel>
+</rss>
