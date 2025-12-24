@@ -3,3 +3,5 @@
 - [x] 1.2 Run `cdtdr/cdtdr.sh` locally and confirm it produces `docs/cdtdr/feed.xml`
 - [x] 1.3 Validate the feed is well-formed XML with `xmlstarlet val --well-formed`
 - [ ] 1.4 Capture a sample page in `cdtdr/rawdata/` if selector adjustments are needed
+## 2. Automation
+- [x] 2.1 Add a GitHub Actions workflow to run `cdtdr/cdtdr.sh` on schedule

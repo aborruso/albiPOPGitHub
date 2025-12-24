@@ -2,7 +2,7 @@ name: crea feed RSS c_e047
 
 on:
   schedule:
-  - cron:  '35 5,17 * * *'
+  - cron:  '30 6,18 * * *'
   workflow_dispatch:
 
 jobs:

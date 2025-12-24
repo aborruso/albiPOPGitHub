@@ -4,7 +4,7 @@ on:
 #  push:
   repository_dispatch:
   schedule:
-  - cron:  '45 5,17 * * *'
+  - cron:  '50 6,18 * * *'
   workflow_dispatch:
 
 jobs:
