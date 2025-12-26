@@ -50,12 +50,12 @@ for page in 0 1 2; do
   URLPaginata="https://servizionline.comune.terredelreno.fe.it/mc/mc_p_ricerca.php?&pag=$page"
 
   # estrai codici di risposta HTTP dell'albo per ogni pagina
-  code=$(curl -s -k -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -o /dev/null -w "%{http_code}" "$URLPaginata")
+  code=$(curl -s -k -L --retry 3 --retry-delay 5 -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -o /dev/null -w "%{http_code}" "$URLPaginata")
 
   # se il server risponde scarica la pagina
   if [ $code -eq 200 ]; then
     echo "Scaricando pagina $page..."
-    curl -kL "$URLPaginata" >"$folder"/tmp_page_$page.html
+    curl -kL --retry 3 --retry-delay 5 "$URLPaginata" >"$folder"/tmp_page_$page.html
 
     # Estrai i dati da questa pagina e aggiungi al file temporaneo
     if [ -s "$folder"/tmp_page_$page.html ]; then
