@@ -2,7 +2,7 @@
 
 ## 2025-12-26
 
-- cdtdr: aggiunti retry automatici (3 tentativi, delay 5s) ai comandi curl per gestire errori temporanei di rete
+- cdtdr: migliorati retry automatici curl (5 tentativi, delay 10s, flag --retry-all-errors) per connection reset e errori di rete transitori
 
 ## 2025-12-24
 
