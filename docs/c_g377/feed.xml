@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>27/12/2025 | Atti Di Interesse Generale</title>
+      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE IN SEDUTA  STRAORDINARIA E URGENTE GIORNO 29/12/2025 ORE 11:00</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13304</link>
+      <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13304</guid>
+    </item>
+    <item>
       <title>24/12/2025 | Verbali Risultanze Di Gara</title>
       <description>Verbale di gara n.2 del 15.12.2025 - Lavori di valorizzazione turistica dell'area archeologica di Tindari.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13303</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13270</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13270</guid>
-    </item>
-    <item>
-      <title>22/12/2025 | Deliberazioni Del Consiglio Comunale</title>
-      <description>Riconoscimento Debito Fuori Bilancio ai sensi dell'art. 194 comma 1° lett.a) del Decreto Leg.vo n. 267/2000 a favore del legale distrattario Avv. Giuseppe Sartorio in esecuzione della sentenza n. 3530/2024 e dellordinanza n.986/2025 del TAR di Catania relative alla Soc. Wind Tre S.p.A.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13269</link>
-      <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13269</guid>
     </item>
   </channel>
 </rss>
