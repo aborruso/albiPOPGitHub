@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Contributo economico ad integrazione retta di accoglienza utente codice 025 presso la R.S.S.A. "Villa Giovanni XXIII" di Bitonto. Ente gestore: Fondazione Villa Giovanni XXIII Onlus corrente in Bitonto alla Via Giuseppe Dossetti n.8. Mesi di settembre e ottobre 2025. Liquidazione.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32298</link>
-      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32298</guid>
-    </item>
-    <item>
       <title>Fornitura gratuita o semigratuita dei libri di testo e/o sussidi didattici per l'anno scolastico 2025/2026. D.G.R. n. 338 del 21/03/2024. I° Finestra temporale - Azione ordinaria. Beneficiario: Edicola Cartolibreria "Castelli di Carta" di De Chirico Antonella con sede in Terlizzi - Viale Roma n. 94. Liquidazione.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32299</link>
       <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32358</link>
       <pubDate>Sat, 27 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32358</guid>
+    </item>
+    <item>
+      <title>Convocazione d'urgenza seduta consiliare</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32359</link>
+      <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32359</guid>
     </item>
   </channel>
 </rss>
