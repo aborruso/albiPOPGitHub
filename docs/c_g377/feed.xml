@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/01/2026 | Atti Di Interesse Generale</title>
+      <description>Servizio Igiene Pubblica Turno Sabato Mattina ore 09:00/12:30 - Distretto Socio Sanitario Patti mese di Gennaio 2026</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13389</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13389</guid>
+    </item>
+    <item>
       <title>31/12/2025 | Determinazioni Dirigenziali</title>
       <description>SERVIZIO DI MANUTENZIONE E GESTIONE DELL'IMPIANTO DI DEPURAZIONE DELLE ACQUE REFLUE DI PROVENIENZA CIVILE E DELLA CONDOTTA SOTTOMARINA DI SCARICO. DETERMINA A CONTRARRE  AFFIDAMENTO ED IMPEGNO SPESA  DITTA: DELFINO EDMONDO</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13388</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13355</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13355</guid>
-    </item>
-    <item>
-      <title>31/12/2025 | Determinazioni Dirigenziali</title>
-      <description>Servizio di gestione del centro di accoglienza per cittadini ucraini in fuga  dal conflitto - c/o Ipab Sciacca Baratta - proroga scadenza termine di affidamento - impegno spesa.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13354</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13354</guid>
     </item>
   </channel>
 </rss>
