@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21459</title>
+      <description>Interdizione circolazione e sosta dei veicoli in C.so Umberto I, tratto compreso da Via Padre Balistreri a Via Stazzone, per esecuzione lavori AMAP.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21459</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21459</guid>
+    </item>
+    <item>
+      <title>#DEPOSITO | Pubblicazione numero 21458</title>
+      <description>COMUNE DI CUSTUNACI DEPOSITO  RENNA LORENA Prot. CUS_7287-H933_30122025_5</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21458</link>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21458</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21457</title>
       <description>IMPEGNO DI SPESA E AFFIDAMENTO DELLA FORNITURA DEL SISTEMA DI SICUREZZA SINDACI IN CONTATTO 2.0, ALLA SOCIETÀ ENTERPRISE CONTACT GROUP S.R.L.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21457</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21418</link>
       <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21418</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21417</title>
-      <description>ACCERTAMENTO DI ENTRATA DALLA REGIONE SICILIANA RELATIVA AL TRASFERIMENTO DELLE SOMME RELATIVE ALLE SPESE PER RICOVERO PER LE DONNE VITTIME DI VIOLENZA E I LORO FIGLI MINORI O INABILI A CARICO, OSPITATE NELLE STRUTTURE DI ACCOGLIENZA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21417</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21417</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21416</title>
-      <description>RIVERSAMENTO AL COMUNE DI BALESTRATE DELLA SOMMA  A TITOLO DI SALDO IMU PER L'ANNO DI IMPOSTA 2023 ERRONEAMENTE VERSATA A QUESTO ENTE - IMPEGNO DI SPESA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21416</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21416</guid>
     </item>
   </channel>
 </rss>
