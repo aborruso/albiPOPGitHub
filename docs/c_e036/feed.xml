@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Iscrizione liste di leva nati nel 2009</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36963</link>
+      <pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36963</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Impegno di spesa quota associativa 2025 fondazione Apulia Film Commission.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36962</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36904</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36904</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>VARIAZIONE COMPENSATIVA TRA CAPITOLI DI SPESA APPARTENENTI ALLO STESSO MACRO AGGREGATO AI SENSI DELL'ART. 175 CO 5 - QUATER, LETT. A DEL D.LGS. 267/2000.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36903</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=36903</guid>
     </item>
   </channel>
 </rss>
