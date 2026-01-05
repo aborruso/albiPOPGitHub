@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21461</title>
+      <description>Parziale modifica ed integrazione Ordinanza n. 1 del 02-01-2026 - Interdizione circolazione e sosta dei veicoli in C.so Umberto I, per esecuzione lavori AMAP.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21461</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21461</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21460</title>
+      <description>APPROVAZIONE RENDICONTO ASSOCIAZIONE "PRO LOCO PROJATO APS"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21460</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21460</guid>
+    </item>
+    <item>
       <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21459</title>
       <description>Interdizione circolazione e sosta dei veicoli in C.so Umberto I, tratto compreso da Via Padre Balistreri a Via Stazzone, per esecuzione lavori AMAP.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21459</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21419</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21419</guid>
-    </item>
-    <item>
-      <title>#CONCESSIONE EDILIZIA | Pubblicazione numero 21409</title>
-      <description>PERMESSO DI COSTRUIRE N. 13 DEL 18.12.2025</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21409</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21409</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 21317</title>
-      <description>Elenchi del Comune di SAN GIUSEPPE JATO (H933) [D.L. 262/2006 E S.M.I.] PARTICELLE CATASTALI AGGIORNATE VEDI ELENCHI</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21317</link>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21317</guid>
     </item>
   </channel>
 </rss>
