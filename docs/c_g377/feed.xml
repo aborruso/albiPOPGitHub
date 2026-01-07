@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/01/2026 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Borse di studio "Antonio Pisani Caccia" anno scolastico 2023/2024 liquidazione prima rata.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13390</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13390</guid>
+    </item>
+    <item>
       <title>02/01/2026 | Atti Di Interesse Generale</title>
       <description>Servizio Igiene Pubblica Turno Sabato Mattina ore 09:00/12:30 - Distretto Socio Sanitario Patti mese di Gennaio 2026</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13389</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13356</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13356</guid>
-    </item>
-    <item>
-      <title>31/12/2025 | Determinazioni Dirigenziali</title>
-      <description>Impegno spesa per contributo famiglia affidataria</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13355</link>
-      <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13355</guid>
     </item>
   </channel>
 </rss>
