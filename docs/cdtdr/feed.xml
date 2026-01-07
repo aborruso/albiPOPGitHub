@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>APPROVAZIONE AGGIORNAMENTO DEL SISTEMA DI MISURAZIONE E VALUTAZIONE DELLA PERFORMANCE ANNO 2026.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=243</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=243</guid>
-    </item>
-    <item>
       <title>CONTRIBUTO A FONDO PERDUTO PER SOSTEGNO DELLE ATTIVITA' DI PROSSIMITA' IN LOCALI APERTI AL PUBBLICO CON VETRINA E MICROIMPRESE ARTIGIANE NEL COMUNE DI TERRE DEL RENO. APPROVAZIONE MODULISTICA E IMPEGNO DI SPESA</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=245</link>
       <pubDate>Mon, 29 Dec 2025 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=269</link>
       <pubDate>Wed, 31 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=269</guid>
+    </item>
+    <item>
+      <title>AVVISO AI CREDITORI PER INTERVENTO DI "RIPRISTINO CON MIGLIORAMENTO SISMICO DEL CIMITERO DI SANT'AGOSTINO A SEGUITO DEGLI EVENTI SISMICI DEL MAGGIO 2012 - 2° STRALCIO"</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=270</link>
+      <pubDate>Wed, 07 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=270</guid>
     </item>
   </channel>
 </rss>
