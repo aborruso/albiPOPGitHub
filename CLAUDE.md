@@ -96,6 +96,23 @@ Check that `docs/<iPA>/feed.xml` is valid RSS:
 xmlstarlet val docs/c_d003/feed.xml
 ```
 
+### Git operations
+
+Always pull with rebase to avoid divergent branches:
+
+```bash
+git pull --rebase
+```
+
+If there are uncommitted changes, commit them first, then pull and push:
+
+```bash
+git add .
+git commit -m "message"
+git pull --rebase
+git push
+```
+
 ## Workflows and Automation
 
 - Each municipality has `.github/workflows/<iPA>.yml`

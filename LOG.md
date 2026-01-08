@@ -3,6 +3,7 @@
 ## 2026-01-08
 
 - c_a638: aggiunto retry logic a rsspls (3 tentativi, delay 10s) per gestire errori di timeout transitori
+- CLAUDE.md: aggiunta sezione Git operations con best practice per pull --rebase
 
 ## 2026-01-05
 
