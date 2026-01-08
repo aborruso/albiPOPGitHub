@@ -1,5 +1,9 @@
 # LOG.md
 
+## 2026-01-08
+
+- c_a638: aggiunto retry logic a rsspls (3 tentativi, delay 10s) per gestire errori di timeout transitori
+
 ## 2026-01-05
 
 - c_a965: aggiunto retry logic a rsspls (3 tentativi, delay 10s) per gestire errori di timeout transitori
