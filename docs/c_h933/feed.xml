@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTI VARI | Pubblicazione numero 21466</title>
+      <description>BILANCIO DEI RAPPORTI DEGLI UFFICIALI DI POLIZIA MUNICIPALE DICEMBRE 2025-</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21466</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21466</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21465</title>
+      <description>DETERMINA DI NOMINA DEL PERSONALE DIPENDENTE DEL COMUNE DI SAN GIUSEPPE JATO, PER AFFIDAMENTO DELL'INCARICO DI N. 2 UNITA PERSONALE AMMINISTRATIVO A VALERE DEL PIANO  DI ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLA QUOTA SERVIZI DEL FONDO POVERTA ANNUALITA 2022.  APPROVAZIONE SCHEMA DI APPENDICE. CUP: D99I26000000002.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21465</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21465</guid>
+    </item>
+    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21464</title>
       <description>2-CONCESSIONE DEL PATROCINIO A" LIBERA - PRESIDIO LIBERA  VALLE DELLO JATO" PER INIZIATIVE IN RICORDO DI GIUSEPPE DI MATTEO GIORNI 10 E 11 GENNAIO 2026</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21464</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 4638</title>
-      <description>56-INIZIO SEDUTA E NOMINA SCRUTATORI.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4638</link>
-      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4638</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 4369</title>
-      <description>ELENCO SCRUTATORI</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4369</link>
-      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4369</guid>
     </item>
   </channel>
 </rss>
