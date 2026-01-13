@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Operazioni di bonifica di siti comunali interessati da abbandono di rifiuti con eventuale presenza di rifiuti speciali pericolosi decisione di contrarre ex artt. 17, comma 1, D.Lgs. n. 36/2023 e s.m.i. e 192 D.Lgs. n. 267/2000 e s.m.i.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32439</link>
-      <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32439</guid>
-    </item>
-    <item>
       <title>NUOVA ITALGRAFICA DI D'ELIA E C.SNC - Determina a contrarre e affidamento fornitura segnaletica verticale ed orizzontale - T.D. n. 5923306 - CIG: B9BCAD29D5</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32440</link>
       <pubDate>Tue, 30 Dec 2025 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32499</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32499</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Viale del Lilium.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32500</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32500</guid>
     </item>
   </channel>
 </rss>
