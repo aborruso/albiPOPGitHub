@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21468</title>
+      <description>Interdizione circolazione dei veicoli in Via Vitt. Emanuele angolo Via Roma, tratto compreso tra Via Principe di Camporeale e Via Roma, per esecuzione lavori AMAP.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21468</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21468</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21467</title>
+      <description>RIDETERMINAZIONE INDENNITÀ DI FUNZIONE ASSESSORE ANTONINO TOCCO</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21467</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21467</guid>
+    </item>
+    <item>
       <title>#ATTI VARI | Pubblicazione numero 21466</title>
       <description>BILANCIO DEI RAPPORTI DEGLI UFFICIALI DI POLIZIA MUNICIPALE DICEMBRE 2025-</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21466</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=11053</link>
       <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=11053</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 8833</title>
-      <description>-77-APPROVAZIONE NUOVO PIANO DI EMERGENZA COMUNALE DI PROTEZIONE CIVILE.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8833</link>
-      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8833</guid>
-    </item>
-    <item>
-      <title>#DELIBERE DEI COMITATO DEI SINDACI | Pubblicazione numero 8676</title>
-      <description>-02-Presa d'atto della rimodulazione del Progetto Pon/Sia del D.S.S. n.41 AV3-2016-SIC 47, autorizzata dal Ministero del Lavoro e delle Politiche Sociali, con comunicazione avvenuta il 29-11-2019</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</link>
-      <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</guid>
     </item>
   </channel>
 </rss>
