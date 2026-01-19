@@ -17,6 +17,41 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21482</title>
+      <description>Individuazione servizi ed uffici dello Staff di Polizia Municipale. Assegnazione risorse umane. Nomina dei Responsabili dei Servizi e loro vicari. Nomina dei Responsabili degli uffici.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21482</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21482</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21481</title>
+      <description>Nomina Vicario del Responsabile del Settore Staff di Polizia Municipale</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21481</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21481</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21480</title>
+      <description>ASSEGNAZIONE RESPONSABILITÀ DEI SERVIZI, DEGLI UFFICI  FINO AL 31.03.2026 E COMUNQUE FINO A NUOVO PROVVEDIMENTO DI NOMINA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21480</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21480</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21479</title>
+      <description>INDIVIDUAZIONE ED ATTRIBUZIONE SPECIFICHE RESPONSABILITÀ  SETTORE FINANZIARIO E TRIBUTI ANNO 2026.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21479</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21479</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21478</title>
+      <description>NOMINA DELLA SIG.RA GIORDANO MICHELA QUALE VICARIO DEL RESPONSABILE DEL SETTORE FINANZIARIO E TRIBUTI.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21478</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21478</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21477</title>
       <description>DESIGNAZIONE DEL RESPONSABILE DELLA PROTEZIONE DEI DATI PERSONALI (RDP) AI SENSI DELL'ART. 37 DEL REGOLAMENTO UE 2016/679</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21477</link>
@@ -239,13 +274,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=2460</link>
       <pubDate>Thu, 25 Aug 2016 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=2460</guid>
-    </item>
-    <item>
-      <title>#null | Pubblicazione numero </title>
-      <description>null</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it</guid>
     </item>
   </channel>
 </rss>
