@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21492</title>
+      <description>LIQUIDAZIONE FATTURA N.  202501555 DEL  15-12-2025 CIG B2F59AAEB9 BENEFICIARIO HALLEY SUD S.R.L. RELATIVA AL SERVIZIO DI INFORMATIZZAZIONE VS. UFFICI COMUNALI: UTC , TRIBUTI, SERVIZI CIMITERIALI;</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21492</link>
+      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21492</guid>
+    </item>
+    <item>
       <title>#AVVISO PUBBLICO | Pubblicazione numero 21491</title>
       <description>DS41  Approvazione Avviso Pubblico per la costituzione di una long list di esperti per conferimento di incarichi professionali di collaborazione professionale esterna n. 8 Assistenti sociali e n. 2 Psicologi a valere del Fondo per la Lotta alla Povertà e all'Esclusione Sociale (annualità 2017) CUP: D4 1 H24000050001 .</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21491</link>
@@ -227,20 +234,6 @@
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21462</guid>
     </item>
     <item>
-      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21461</title>
-      <description>Parziale modifica ed integrazione Ordinanza n. 1 del 02-01-2026 - Interdizione circolazione e sosta dei veicoli in C.so Umberto I, per esecuzione lavori AMAP.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21461</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21461</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21460</title>
-      <description>APPROVAZIONE RENDICONTO ASSOCIAZIONE "PRO LOCO PROJATO APS"</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21460</link>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21460</guid>
-    </item>
-    <item>
       <title>#AVVISO PUBBLICO | Pubblicazione numero 21317</title>
       <description>Elenchi del Comune di SAN GIUSEPPE JATO (H933) [D.L. 262/2006 E S.M.I.] PARTICELLE CATASTALI AGGIORNATE VEDI ELENCHI</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21317</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</link>
       <pubDate>Tue, 24 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=8676</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 4638</title>
+      <description>56-INIZIO SEDUTA E NOMINA SCRUTATORI.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4638</link>
+      <pubDate>Wed, 27 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=4638</guid>
     </item>
   </channel>
 </rss>
