@@ -18,12 +18,6 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
       <title>INDIVIDUAZIONE DEL PERSONALE AVENTE DIRITTO ALLE INDENNITA' - INCENTIVI PREVISTI DAL CONTRATTO COLLETTIVO DI LAVORO INTEGRATIVO DECENTRATO TRIENNIO 2023-2025 E S.M.I. DAL 01/01/2026 AL 31/12/2026.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=301</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=301</guid>
-    </item>
-    <item>
-      <title>INDIVIDUAZIONE DEL PERSONALE AVENTE DIRITTO ALLE INDENNITA' - INCENTIVI PREVISTI DAL CONTRATTO COLLETTIVO DI LAVORO INTEGRATIVO DECENTRATO TRIENNIO 2023-2025 E S.M.I. DAL 01/01/2026 AL 31/12/2026.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=302</link>
       <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=302</guid>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=321</link>
       <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=321</guid>
+    </item>
+    <item>
+      <title>Trasmissione ordinanze relative ai servizi cimiteriali Comune di Tresignana (FE).</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=322</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=322</guid>
     </item>
   </channel>
 </rss>
