@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Patrocinio gratuito alla Consulta delle Aggregazioni Laicali di Molfetta-Ruvo-Giovinazzo-Terlizzi per la manifestazione "Marcia della pace" 2026.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32571</link>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32571</guid>
-    </item>
-    <item>
       <title>ACCORDO QUADRO PER L'AFFIDAMENTO DELL'APPALTO DI SOSTITUZIONE E NUOVA INSTALLAZIONE DI SEGNALETICA VERTICALE NONCHE' DI RIFACIMENTO E IMPLEMENTAZIONE DI SEGNALETICA ORIZZONTALE SUL TERRITORIO COMUNALE - II LOTTO - CIG Z203DB5BAA - SVINCOLO CAUZIONE DEFINITIVA - DETERMINAZIONE SENZA IMPEGNO DI SPESA</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32572</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32633</link>
       <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32633</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Regina Margherita.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32634</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32634</guid>
     </item>
   </channel>
 </rss>
