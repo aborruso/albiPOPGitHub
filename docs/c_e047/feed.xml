@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Giovinazzo</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:072029</category>
     <item>
+      <title>2026/0000053 - Servizi di igiene urbana e servizi complementari e/o opzionali dell’ A.R.O. BA/2 - Comune di Giovinazzo. Pagamento canone di dicembre</title>
+      <description>Determinazione Dirigenziale nr.16 del 26/01/2026</description>
+      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8700</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8700</guid>
+    </item>
+    <item>
       <title>2026/0000052 - Istituzione del divieto di sosta 0 - 24 in Via San Giacomo, Piazza Benedettine, Piazza Zurlo, ad eccezzione dell'uso di n. 2 stalli di sosta per persone diversamente abili (personalizzati) in Via San Giacomo.</title>
       <description>Ordinanza Dirigenziale nr.7 del 21/01/2026</description>
       <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8697</link>
@@ -323,13 +330,6 @@
       <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8577</link>
       <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8577</guid>
-    </item>
-    <item>
-      <title>2025/0001589 - VARIAZIONI COLTURALI AGEA - ANNO 2025 PUBBLICIZZAZIONE DEGLI ELENCHI DEL COMUNE DI GIOVINAZZO DI PARTICELLE OGGETTO DI VARIAZIONI COLTURALI, AI SENSI DELL'ART. 2, COMMA 33, DEL DECRETO-LEGGE 3 OTTOBRE 2006, N. 262, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 24 NOVEMBRE 2006, N. 286 E SUCCESSIVE MODIFICAZIONI E INTEGRAZIONI.</title>
-      <description>Avviso (Generico) del 04/12/2025</description>
-      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7993</link>
-      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7993</guid>
     </item>
   </channel>
 </rss>
