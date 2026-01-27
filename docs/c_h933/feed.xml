@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21537</title>
+      <description>Liquidazione  fattura n 453/PA del 09-12-2025 CIG 9981999E26 fattura n 453/PA del 09-12-2025 CIG 9981999E26 fattura n 453/PA del 09-12-2025 CIG 9981999E26 fattura n 454/PA del 09-12-2025 CIG 9981999E26 beneficiario Rinnovapa srl</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21537</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21537</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21536</title>
+      <description>NOMINA NUOVO DIRETTORE DEI LAVORI INERENTE I LAVORI DI MANUTENZIONE STRAORDINARIA DELLA CAPPELLA COMMEMORATIVA MISSIONE CUSMANIANA DEL 1954 E RIVALUTAZIONE DELL'ADIACENTE AREA DENONIMATA VILLETTA, NEL COMUNE DI SAN GIUSEPPE JATO (PA) - CUP: D92F25000220002</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21536</link>
+      <pubDate>Tue, 27 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21536</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21535</title>
       <description>LIQUIDAZIONE FATTURA HERA COMM S.P.A RICALCOLO CONSUMI FORNITURA ENERGIA ELETTRICA CIMITERO 01/09/2023 al 30/11/2023. CONVENZIONE CONSIP ENERGIA ELETTRICA 19 LOTTO 16 SICILIA.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21535</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21496</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21496</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21495</title>
-      <description>INDIVIDUAZIONE E NOMINA DEI REFERENTI DEL SETTORE FINANZIARIO E TRIBUTI RELATIVAMENTE AGLI OBBLIGHI DI PUBBLICAZIONE E  TRASPARENZA  IN AMMINISTRAZIONE TRASPARENTE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21495</link>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21495</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21494</title>
-      <description>RIDETERMINAZIONE INDENNITÀ DI FUNZIONE ASSESSORE ANTONINO TOCCO</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21494</link>
-      <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21494</guid>
     </item>
   </channel>
 </rss>
