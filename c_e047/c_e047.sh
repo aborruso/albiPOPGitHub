@@ -66,8 +66,18 @@ for page_info in "1:0" "2:16" "3:31" "4:46" "5:61"; do
   # se il server risponde elabora la pagina
   if [ $code -eq 200 ]; then
     echo "Pagina $page_num scaricata correttamente"
+    
+    # verifica che il file non sia vuoto
+    if [ ! -s "$folder"/rawdata/pagina_${page_num}.html ]; then
+      echo "ERRORE: File pagina_${page_num}.html vuoto o non esistente"
+      continue
+    fi
+    
+    # conta elementi nella pagina per debug
+    elem_count=$(grep -c 'paginated_element' "$folder"/rawdata/pagina_${page_num}.html || echo "0")
+    echo "Elementi 'paginated_element' trovati in pagina $page_num: $elem_count"
 
-    # converti HTML in JSON ed estrai dati
+    # converti HTML in JSON ed estrai dati (senza redirect errori per debug)
     pageData=$(scrape -be '//tbody/tr[@class="paginated_element"]' < "$folder"/rawdata/pagina_${page_num}.html | \
       xq -c '.html.body.tr[]? | {
         numero: .td[0].a."#text",
@@ -76,10 +86,13 @@ for page_info in "1:0" "2:16" "3:31" "4:46" "5:61"; do
         data_affissione: .td[3],
         fine_pubblicazione: .td[4],
         url: .td[0].a."@href"
-      }' 2>/dev/null)
+      }')
 
     if [ ! -z "$pageData" ]; then
       allData="$allData$pageData"$'\n'
+      echo "Dati estratti da pagina $page_num"
+    else
+      echo "ATTENZIONE: Nessun dato estratto da pagina $page_num"
     fi
   else
     echo "Errore nel download pagina $page_num: codice $code"
