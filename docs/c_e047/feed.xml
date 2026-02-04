@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Giovinazzo</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:072029</category>
     <item>
+      <title>2026/0000084 - Interdizione alla circolazione di Via Cattedrale e Piazza Costantinopoli per lavori di riqualificazione del basolato. Istante Impresa Campanelli Vitangelo srl.</title>
+      <description>Ordinanza Dirigenziale nr.11 del 02/02/2026</description>
+      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8787</link>
+      <pubDate>Tue, 03 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8787</guid>
+    </item>
+    <item>
       <title>2026/0000083 - Rende noto permesso di costruire n. 161-2025</title>
       <description>Permesso di Costruire del 03/02/2026</description>
       <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8784</link>
@@ -423,18 +430,11 @@
       <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8619</guid>
     </item>
     <item>
-      <title>2026/0000023 - Convocazione del Consiglio Comunale in seduta ordinaria di 1^ convocazione per il giorno 27 gennaio 2026 alle ore 18:00 presso la sala auditorium “Don Tonino Bello” ed in 2^ convocazione per il giorno 28 gennaio 2026 alle ore 18:00 presso la sala auditorium “Don Tonino Bello”</title>
-      <description>Avviso (Generico) del 19/01/2026</description>
-      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8616</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8616</guid>
-    </item>
-    <item>
-      <title>2026/0000021 - Elezioni Regionali 23-24 novembre 2025 - Manifesto proclamati eletti</title>
-      <description>Elettorale e Leva</description>
-      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8611</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=8611</guid>
+      <title>2025/0001589 - VARIAZIONI COLTURALI AGEA - ANNO 2025 PUBBLICIZZAZIONE DEGLI ELENCHI DEL COMUNE DI GIOVINAZZO DI PARTICELLE OGGETTO DI VARIAZIONI COLTURALI, AI SENSI DELL'ART. 2, COMMA 33, DEL DECRETO-LEGGE 3 OTTOBRE 2006, N. 262, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 24 NOVEMBRE 2006, N. 286 E SUCCESSIVE MODIFICAZIONI E INTEGRAZIONI.</title>
+      <description>Avviso (Generico) del 04/12/2025</description>
+      <link>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7993</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_dettagli.php?id=7993</guid>
     </item>
   </channel>
 </rss>
