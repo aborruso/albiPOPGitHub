@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21607</title>
+      <description>APPROVAZIONE RENDICONTO DELLE SPESE SOSTENUTE DALL'ASSOCIAZIONE "CASA DELLA MUSICA APS" PER LA GESTIONE E REALIZZAZIONE DEL PROGETTO "MAGIE DI NATALE 2025"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21607</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21607</guid>
+    </item>
+    <item>
+      <title>#AVVISO PUBBLICO | Pubblicazione numero 21606</title>
+      <description>CONVOCAZIONE DEI COMIZI DI DOMENICA 22 E LUNEDÌ 23 MARZO 2626</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21606</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21606</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21605</title>
       <description>RILASCIO CONTRASSEGNO DISABILE</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21605</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21566</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21566</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21565</title>
-      <description>IMPEGNO  RIMBORSO SPESE PER ATTI  NOTIFICATI  DA MESSI DI ALTRI COMUNI :   ALTAVILLA MILICIA (PA), BAGHERIA (PA), BALESTRATE (PA), CARINI (PA) , CORLEONE (PA)</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21565</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21565</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21564</title>
-      <description>LIQUIDAZIONE DI SPESA DEBITO FUORI BILANCIO PER LA SENTENZA N.3096/2025 RG n. 19936/2025 PROMOSSA DALLA SOCIETÀ MANNO AUTO S.R.L. / COMUNE DI SAN GIUSEPPE JATO .</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21564</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21564</guid>
     </item>
   </channel>
 </rss>
