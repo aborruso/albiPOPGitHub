@@ -66,13 +66,6 @@
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21601</guid>
     </item>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 21600</title>
-      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE VEDI ELENCO</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21600</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21600</guid>
-    </item>
-    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21599</title>
       <description>RETTIFICA PARZIALE DETERMINA DIRIGENZIALE N. 45 DEL 30/01/2026 " DIPENDENTE ALES VITO RISOLUZIONE  DAL SERVIZIO DECORRENZA 01/05/2026 E DIRITTO ALLA PENSIONE DI VECCHIAIA" . SERVIZIO PRESSO COMUNE DI SAN GIUSEPPE JATO.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21599</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21566</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21566</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21565</title>
+      <description>IMPEGNO  RIMBORSO SPESE PER ATTI  NOTIFICATI  DA MESSI DI ALTRI COMUNI :   ALTAVILLA MILICIA (PA), BAGHERIA (PA), BALESTRATE (PA), CARINI (PA) , CORLEONE (PA)</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21565</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21565</guid>
     </item>
   </channel>
 </rss>
