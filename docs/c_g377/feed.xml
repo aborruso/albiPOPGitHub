@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>09/02/2026 | Ordinanze Sindacali</title>
+      <description>ORDINANZA CHIUSURA DEGLI UFFICI COMUNALI, UFFICI RICADENTI NEL TERRITORIO COMUNALE COMUNALI E DELLE ISTITUZIONI SCOLASTICHE DI OGNI ORDINE E GRADO PER PULIZIA STRAORDINARIA E DISINFEZIONE</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13690</link>
+      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13690</guid>
+    </item>
+    <item>
       <title>09/02/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA A FAVORE DEL CONDOMINIO " LE DUE CICAS" , IN ESECUZIONE DELLA DELIBERA DI C.C. N.140/2025. LIQUIDAZIONE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13689</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13656</link>
       <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13656</guid>
-    </item>
-    <item>
-      <title>05/02/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione di spesa preventivamente impegnata alla Soc. Coop. Servizi Duemila per il Servizio di assistenza  all'Autonomia e alla Comunicazione- a.s. 2025/2026.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13655</link>
-      <pubDate>Thu, 05 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13655</guid>
     </item>
   </channel>
 </rss>
