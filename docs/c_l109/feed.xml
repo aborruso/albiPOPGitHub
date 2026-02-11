@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>APPALTO PER INTERVENTI DI MANUTENZIONE ORDINARIA E STRAORDINARIA DEI SISTEMI DI ILLUMINAZIONE UBICATI ALL'INTERNO DI N.13 EDIFICI DI PROPRIETA' COMUNALE NELL'OTTICA DELL'EFFICIENTAMENTO ENERGETICO - CIG 4904213C95 SVINCOLO CAUZIONE DEFINITIVA -DETERMINAZIONE SENZA IMPEGNO DI SPESA</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32662</link>
-      <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32662</guid>
-    </item>
-    <item>
       <title>AFFIDAMENTO DEI SERVIZI DI PULIZIA ED IGIENE AMBIENTALE DEGLI UFFICI COMUNALI CENTRALI E PERIFERICI, DEL CIMITERO COMUNALE E DELLA PINACOTECA "M. DE NAPOLI" E DELLA BIBLIOTECA COMUNALI PER MESI VENTIQUATTRO LIQUIDAZIONE PERIODO DICEMBRE 2025</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32663</link>
       <pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32726</link>
       <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32726</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Salandra.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32727</link>
+      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32727</guid>
     </item>
   </channel>
 </rss>
