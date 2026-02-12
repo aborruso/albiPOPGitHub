@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>11/02/2026 | Deliberazioni Di Giunta</title>
+      <description>INTERVENTI DI MANUTENZIONE STRAORDINARIA, AVENTI CARATTERE DI URGENZA, NEGLI ISTITUTI SCOLASTICI PUBBLICI CIRCOLARE ATTUATIVA PER L'UTILIZZAZIONE DELLO STANZIAMENTO DEL CAPITOLO DI SPESA 772040 PER L'ANNUALITÀ 2026 - INTERVENTI DI MANUTENZIONE STRAORDINARIA, AVENTI CARATTERE DI URGENZA, NELL'ISTITUTO SCOLASTICO L. RADICE SITUATO IN PIAZZA XXV APRILE NEL COMUNE DI PATTI- CUP C48H26000140002 -  APPROVAZIONE IN LINEA  AMMINISTRATIVA DEL PROGETTO ESECUTIVO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13718</link>
+      <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13718</guid>
+    </item>
+    <item>
       <title>11/02/2026 | Determinazioni Dirigenziali</title>
       <description>RIPARTIZIONE SPESE UFFICIO COLLOCAMENTO  ANNO 2026</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13717</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13681</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13681</guid>
-    </item>
-    <item>
-      <title>09/02/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione Associazione  "Omissis" per il ricovero della Sig.ra  Omissis  per il mese  di Dicembre  2025. CIG B502720C8C</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13680</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13680</guid>
     </item>
   </channel>
 </rss>
