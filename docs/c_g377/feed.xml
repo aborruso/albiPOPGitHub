@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>12/02/2026 | Ordinanze Sindacali</title>
+      <description>ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C) PER CONDIZIONI DI MALTEMPO CON PRECIPITAZIONI E, SOPRATTUTTO, FORTI VENTI E MAREGGIATE PER IL GIORNO 12 FEBBRAIO P.V.-</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13722</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13722</guid>
+    </item>
+    <item>
+      <title>12/02/2026 | Ordinanze Dirigenziali</title>
+      <description>CHIUSURA LATO MARE VIA C.F.ZUCCARELLO TRATTO VIA A.DORIA- VIA SCALETTA E DI ENTRAMBI I SENSI DI MARCIA TRATTO VIA SCALETTA- PIAZZALE SANTA VENERA,  PER AVVERSE CONDIZIONI METEO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13721</link>
+      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13721</guid>
+    </item>
+    <item>
       <title>12/02/2026 | Manifestazioni Di Interesse</title>
       <description>MANIFESTAZIONE DI INTERESSE FINALIZZATA ALL'INDIVIDUAZIONE QUALE COMPONENTE GIUDICATRICE PER CONCORSI INDETTI DAL COMUNE DI PACE DEL MELA.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13720</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13685</link>
       <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13685</guid>
-    </item>
-    <item>
-      <title>09/02/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>LIQUIDAZIONE LAVORO STRAORDINARIO NELL'AMBITO DEL PROGETTO PIANO DI ATTUAZIONE LOCALE (PAL) PER LA PROGRAMMAZIONE DELLE RISORSE DELLA QUOTA SERVIZI DEL FONDO POVERTÀ ANNUALITÀ 2022 - D. S. S. N. 30                                             CUP C41H24000040001  MESE DI GENNAIO 2026.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13684</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13684</guid>
-    </item>
-    <item>
-      <title>09/02/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Progetto PIPPI-PNRR-M5 C2 1.1.1. "Sostegno alla genitorialità e prevenzione vulnerabilità delle famiglie e dei bambini" - ATS n. 30 - CUP C29G22000130001 - CIG B4487B9F78. LIQUIDAZIONE fatturaPA  n. 7/2026, del 21/01/26 a favore della Società Cooperativa Sociale Kairos.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13683</link>
-      <pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13683</guid>
     </item>
   </channel>
 </rss>
