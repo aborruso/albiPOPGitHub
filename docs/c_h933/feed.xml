@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA SINDACO | Pubblicazione numero 21659</title>
+      <description>02-"XVIII Edizione Baccanales Carnevale Jatino 2026" Misure di salvaguardia della sicurezza e della incolumità pubblica.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21659</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21659</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21658</title>
       <description>ACCERTAMENTO ENTRATA VERBALI AUTOVELOX ART. 142 DEL CDS PERIODO DICEMBRE 2025 GENNAIO 2026 E RELATIVO PRELEVAMENTO.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21658</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21618</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21618</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21617</title>
-      <description>LIQUIDAZIONE ALLA DITTA TRAINA SRL,  PER IL SERVIZIO DI CONFERIMENTO RIFIUTI COD. CER 15.01.06  IMBALLAGGIO E MATERIALI. DICEMBRE 2025 CIG: B799E159E7.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21617</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21617</guid>
     </item>
   </channel>
 </rss>
