@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>16/02/2026 | Ordinanze Dirigenziali</title>
+      <description>CHIUSURA AL TRANSITO ED ALLA SOSTA DELLA VIA ZUCCARELLO, DALLA VIA PUCCINI AL PIAZZALE SANTA VENERA IN ENTRAMBI I SENSI DI MARCIA, DA OGGI GIORNO 16 FEBBRAIO 2026 FINO A CESSATA EMERGENZA.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13742</link>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13742</guid>
+    </item>
+    <item>
       <title>16/02/2026 | Verbali Risultanze Di Gara</title>
       <description>ANNULLAMENTO RDO n. 6035101 ED AVVIO NUOVA RDO n. 6064448 - AVVISO DI AVVIO DI PROCEDURA NEGOZIATA - Lavori di Acquisizione, rifunzionalizzazione e adeguamento di un immobile esistente da destinare a sede del Centro per l'impiego di Patti (ME).</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13741</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13707</link>
       <pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13707</guid>
-    </item>
-    <item>
-      <title>10/02/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSA DI REGISTRO D.I. R.G.N.2359/2021 TRIBUNALE DI PATTI CONTROVERSIA AVV. CARLO MAZZUU'. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13706</link>
-      <pubDate>Tue, 10 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13706</guid>
     </item>
   </channel>
 </rss>
