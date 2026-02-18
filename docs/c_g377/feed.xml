@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/02/2026 | Determinazioni Dirigenziali</title>
+      <description>Aggiornamento al quarto trimestre 2025 del Piano dei flussi di cassa approvato con deliberazione di Giunta Comunale n. 32 del 27/02/2025.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13756</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13756</guid>
+    </item>
+    <item>
       <title>17/02/2026 | Ordinanze Dirigenziali</title>
       <description>ORDINANZA DI VIABILITA' IN OCCASIONE DELLA SFILATA DI CARNEVALE DEL 22 FEBBRAIO 2026</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13755</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13722</link>
       <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13722</guid>
-    </item>
-    <item>
-      <title>12/02/2026 | Ordinanze Dirigenziali</title>
-      <description>CHIUSURA LATO MARE VIA C.F.ZUCCARELLO TRATTO VIA A.DORIA- VIA SCALETTA E DI ENTRAMBI I SENSI DI MARCIA TRATTO VIA SCALETTA- PIAZZALE SANTA VENERA,  PER AVVERSE CONDIZIONI METEO</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13721</link>
-      <pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13721</guid>
     </item>
   </channel>
 </rss>
