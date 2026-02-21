@@ -51,3 +51,9 @@ Keep this managed block so 'openspec update' can refresh the instructions.
 ## Security & Configuration Tips
 - Secrets such as IFTTT tokens are injected via GitHub Actions (`SUPER_SECRET`); never hard-code them in scripts or configs.
 - When adding new workflows, mirror existing ones under `.github/workflows/`, reusing the dependency install block to keep tool versions aligned.
+- When creating issues from CLI, avoid shell interpolation bugs: do not pass Markdown with backticks directly in double quotes to `--body`. Prefer `--body-file` or a single-quoted heredoc.
+- Safe pattern example:
+  `cat <<'EOF' > /tmp/issue.md`
+  `...markdown with backticks...`
+  `EOF`
+  `gh issue create --title "..." --body-file /tmp/issue.md`

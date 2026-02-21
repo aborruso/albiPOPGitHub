@@ -120,6 +120,15 @@ When you identify a useful problem and implement a fix, follow this order:
 2. Implement the fix and commit.
 3. Push using a commit message with a closing keyword (for example `Closes #123`) so the issue is automatically closed.
 
+When creating issues from CLI, avoid shell interpolation bugs:
+1. Do not pass Markdown with backticks in double quotes to `gh issue create --body`.
+2. Prefer `--body-file` and write the text with a single-quoted heredoc.
+3. Safe pattern:
+   `cat <<'EOF' > /tmp/issue.md`
+   `...markdown with backticks...`
+   `EOF`
+   `gh issue create --title "..." --body-file /tmp/issue.md`
+
 ## Workflows and Automation
 
 - Each municipality has `.github/workflows/<iPA>.yml`
