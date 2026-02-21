@@ -113,6 +113,13 @@ git pull --rebase
 git push
 ```
 
+### Traceability workflow for fixes
+
+When you identify a useful problem and implement a fix, follow this order:
+1. Open a GitHub issue first to track the problem.
+2. Implement the fix and commit.
+3. Push using a commit message with a closing keyword (for example `Closes #123`) so the issue is automatically closed.
+
 ## Workflows and Automation
 
 - Each municipality has `.github/workflows/<iPA>.yml`

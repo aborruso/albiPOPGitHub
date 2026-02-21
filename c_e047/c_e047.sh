@@ -61,7 +61,8 @@ for page_info in "1:0" "2:16" "3:31" "4:46" "5:61"; do
   echo "Scaricando pagina $page_num: $page_url"
 
   # estrai codici di risposta HTTP dell'albo
-  code=$(curl -s -w "%{http_code}" -L "$page_url" -o "$folder"/rawdata/pagina_${page_num}.html)
+  # Temporary workaround: source certificate expired (remove -k once cert is renewed)
+  code=$(curl -k -s -w "%{http_code}" -L "$page_url" -o "$folder"/rawdata/pagina_${page_num}.html)
 
   # se il server risponde elabora la pagina
   if [ $code -eq 200 ]; then

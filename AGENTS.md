@@ -46,6 +46,7 @@ Keep this managed block so 'openspec update' can refresh the instructions.
 - Use concise, action-focused subjects that include the iPA code; common patterns: `feat: c_l109 add pagination handling`, `fix: c_e047 pin scrape user-agent`, or timestamped data bumps (`c_l109, Terlizzi: 2025-11-28T05:30:00Z`).
 - In PRs, describe the data source change, the exact page/selector adjusted, and how you validated the resulting feed (command output or screenshot). Link related issue or municipality request when available.
 - Avoid committing generated feeds unrelated to your change set; limit diff noise to the municipalities you touched.
+- When a useful issue is discovered and solved, follow this order for traceability: open a GitHub issue first, then commit and push with a closing keyword (for example `Closes #123`) so the issue is closed by the fix commit.
 
 ## Security & Configuration Tips
 - Secrets such as IFTTT tokens are injected via GitHub Actions (`SUPER_SECRET`); never hard-code them in scripts or configs.
