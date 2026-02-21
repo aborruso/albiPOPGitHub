@@ -36,6 +36,9 @@ iPA="c_e047"
 
 # URL base per l'albo pretorio di Giovinazzo
 URL_BASE="https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_pretorio.php"
+# Opzioni HTTP robuste per ridurre errori transienti lato server/proxy
+curl_user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+curl_common_opts=(-k -s -L --http1.1 -A "$curl_user_agent" --connect-timeout 20 --max-time 60 --retry 4 --retry-delay 2 --retry-connrefused --retry-all-errors)
 
 # crea cartelle di servizio
 mkdir -p "$folder"/rawdata
@@ -60,9 +63,8 @@ for page_info in "1:0" "2:16" "3:31" "4:46" "5:61"; do
 
   echo "Scaricando pagina $page_num: $page_url"
 
-  # estrai codici di risposta HTTP dell'albo
   # Temporary workaround: source certificate expired (remove -k once cert is renewed)
-  code=$(curl -k -s -w "%{http_code}" -L "$page_url" -o "$folder"/rawdata/pagina_${page_num}.html)
+  code=$(curl "${curl_common_opts[@]}" -w "%{http_code}" "$page_url" -o "$folder"/rawdata/pagina_${page_num}.html)
 
   # se il server risponde elabora la pagina
   if [ $code -eq 200 ]; then
