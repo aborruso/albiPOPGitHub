@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Ordinanza n. 17 del 14.02.2026 - Manifestazione e Sfilata carnevalesca in data 17 febbraio 2026 - Ginosa. Misure a tutela della sicurezza della circolazione stradale  Rettifica.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37517</link>
+      <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37517</guid>
+    </item>
+    <item>
       <title>Delibera G.c.</title>
       <description>Progetto di ampliamento e modifiche con sopraelevazione della struttura R.S.A. "Dopo di Noi"  Anffas Onlus in Ginosa (TA) Via Degli Ulivi Km 11,6. Provvedimenti.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37516</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37453</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37453</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Variazione compensativa ai sensi dell'art.175, comma 5-quater, lett. a), del D.lgs. n.267/2000</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37452</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37452</guid>
     </item>
   </channel>
 </rss>
