@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Convocazione del Consiglio Comunale</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37518</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37518</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Ordinanza n. 17 del 14.02.2026 - Manifestazione e Sfilata carnevalesca in data 17 febbraio 2026 - Ginosa. Misure a tutela della sicurezza della circolazione stradale  Rettifica.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37517</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37454</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37454</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Costi di conferimento rifiuti biodegradabili: liquidazione competenze gennaio 2026 ad ASECO Spa. CIG: B9CB111B22</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37453</link>
-      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37453</guid>
     </item>
   </channel>
 </rss>
