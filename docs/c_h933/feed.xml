@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21747</title>
+      <description>Approvazione del Piano annuale dei flussi di cassa dell'anno 2026, ai sensi dell'art. 6 del DL 19/10/24, n. 155.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21747</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21747</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21746</title>
+      <description>PRESA D'ATTO DELIBERAZIONE N.2 DEL  09/02/2026  DEL COMITATO DEI SINDACI DEL DISTRETTO SOCIO SANITARIO N.41 DI CUI ALL'ART.6 DELLA CONVENZIONE N. 1 DEL  01/02/2022.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21746</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21746</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 21745</title>
+      <description>Ordinanza di demolizione e ripristino stato dei luoghi</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21745</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21745</guid>
+    </item>
+    <item>
       <title>#AVVISO PUBBLICO | Pubblicazione numero 21743</title>
       <description>ELENCO SCRUTATORI SORTEGGIATI</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21743</link>
@@ -288,27 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21704</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21704</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21703</title>
-      <description>Liquidazione  fattura n 1737/E-8 del 21-11-2025 - fattura n 583/E-8 del 13-02-2026 -  fattura n 589/E-8 del 13-02-2026 Beneficiario Dasein s.r.l. (O.I.V. Dott.ssa Maria Molica Franco - Anno 2025).</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21703</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21703</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21702</title>
-      <description>AUTORIZZAZIONE ALL'APERTURA DI PASSO CARRABILE  APPLICAZIONE DEL CANONE UNICO PATRIMONIALE  ACCERTAMENTO DI ENTRATA</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21702</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21702</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21701</title>
-      <description>RILASCIO CONTRASSEGNO DISABILE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21701</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21701</guid>
     </item>
   </channel>
 </rss>
