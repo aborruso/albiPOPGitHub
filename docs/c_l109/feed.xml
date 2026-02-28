@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Liquidazione della spesa relativa a: acquisto libri per la Biblioteca Comunale mediante finanziamento Fondo Editoria Libraria - Decreto Ministeriale 272/2025. Beneficiario: Ditta Horizons Unlimited H.U. spa - Bologna.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32790</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32790</guid>
-    </item>
-    <item>
-      <title>Liquidazione contributo Evento Natale a terlizzi 2025 - Associazione Ananke Aps</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32791</link>
-      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32791</guid>
-    </item>
-    <item>
       <title>Liquidazione in favore della Ditta Cipriani Davide di Terlizzi per il Servizio di noleggio, montaggio, smontaggio, assistenza delle luminarie artistiche in occasione delle "Festività Natalizie"- Anno 2025</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32792</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
@@ -375,6 +363,18 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32856</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32856</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Ortensio e Via Donizetti.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32857</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32857</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità in Via Poerio e Via Prof. Gesmundo.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32858</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32858</guid>
     </item>
   </channel>
 </rss>
