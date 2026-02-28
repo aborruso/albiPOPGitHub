@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>28/02/2026 | Determinazioni Del Sindaco</title>
+      <description>NOMINA DELL'ING. ALESSANDRO MASTRANTONIO QUALE ESPERTO DEL SINDACO A TITOLO GRATUITO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13847</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13847</guid>
+    </item>
+    <item>
+      <title>28/02/2026 | Deliberazioni Di Giunta</title>
+      <description>Rettifica Convenzione tra il Tribunale di Patti, la Procura della Repubblica di Patti e il Comune di Patti, per l'utilizzo di personale distaccato presso il tribunale sulla scorta delle richieste del Ministero della Giustizia.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13846</link>
+      <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13846</guid>
+    </item>
+    <item>
       <title>27/02/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>QUOTA DI PARTECIPAZIONE A CARICO DEL COMUNE DI PATTI PER LA COPERTURA DELLE SPESE DI GESTIONE RELATIVE ALL'ANNO 2026 DELLA "SRR MESSINA PROVINCIA  SOCIETA' CONSORTILE S.P.A."  LIQUIDAZIONE  FATTURA PERIODO FEBBRAIO   2026</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13845</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13813</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13813</guid>
-    </item>
-    <item>
-      <title>25/02/2026 | Deliberazioni Di Giunta</title>
-      <description>AUTORIZZAZIONE AL RIMBORSO DELLE SPESE LEGALI NEI CONFRONTI DI OMISSIS N.Q. DI DIPENDENTE DEL COMUNE DI PATTI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13812</link>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13812</guid>
-    </item>
-    <item>
-      <title>25/02/2026 | Ordinanze Sindacali</title>
-      <description>Dissequestro amministrativo nei confronti di un'attività di autoriparatore.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13809</link>
-      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=13809</guid>
     </item>
   </channel>
 </rss>
