@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>GESTIONE DEL VERDE PUBBLICO-DISINFESTAZIONE-DERATTIZZAZIONE-DEZANZARIZZAZIONE E SERVIZI ACCESSORI DEL COMUNE DI TERRE DEL RENO", ALLA SOCIETA' CMV SERVIZI SRL - PERIODO 01.07.2024-31.12.2028. (IMPEGNO DI SPESA ANNUALITA' 2026)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=441</link>
-      <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=441</guid>
-    </item>
-    <item>
       <title>AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50, COMMA 1, LETT.B, DEL D. LGS. N.36/2023 PER LA REALIZZAZIONE DEL CONCERTO "SPLENDORI BAROCCHI, I CAPOLAVORI MUSICALI DELLE CORTI EUROPEE"</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=442</link>
       <pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=464</link>
       <pubDate>Sat, 28 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=464</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER IL SERVIZIO DI RACCOLTA E SMALTIMENTO DEI RIFIUTI DELLE UTENZE COMUNALI - ANNO 2026</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=465</link>
+      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=465</guid>
     </item>
   </channel>
 </rss>
