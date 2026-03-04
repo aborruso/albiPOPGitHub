@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21764</title>
+      <description>impegno di spesa  per il primo trimestre dell'anno   2026 per  le visure targhe con il sistema informatico della Banca dati della  Direzione Generale per la Motorizzazione per i servizi ai cittadini ed alle imprese in materia di trasporti e navigazione DIV 7 Centro Elaborazione Dati"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21764</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21764</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21763</title>
       <description>RILASCIO CONTRASSEGNO DISABILE</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21763</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21722</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21722</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21721</title>
-      <description>LIQUIDAZIONE ALLA DITTA RUBBINO  PER IL SERVIZIO DI CONFERIMENTO RIFIUTI PROVENIENTI DA RACCOLTA DIFFERENZIATA CER:  20.01.32 "FARMACI SCADUTI"  CIG: B7C4F37AA4.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21721</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21721</guid>
     </item>
   </channel>
 </rss>
