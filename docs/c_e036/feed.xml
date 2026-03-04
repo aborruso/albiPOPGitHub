@@ -18,6 +18,13 @@
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
       <title>Avviso Pubblico</title>
+      <description>Referendum del 22 e 23 marzo 2026. Comunicazione nominativi Presidenti e scrutatori seggi elettorali.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37664</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37664</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
       <description>AVVISO PUBBLICO V O L T U R A A U T O R I Z Z A Z I O N E U N I C A A M B I E N T A L E A.U.A. n. 006/2018 O.P. Athena società consortile a R.L.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37663</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37604</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37604</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Presa d'atto Deliberazione di Giunta Comunale n. 40 del 26.02.2026. Impegno di spesa per affidamento incarico legale.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37603</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37603</guid>
     </item>
   </channel>
 </rss>
