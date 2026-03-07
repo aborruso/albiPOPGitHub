@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>PAGAMENTO QUOTA ANNUALE PER ADESIONE ALL'ANCI (ASSOCIAZIONE NAZIONALE COMUNI ITALIANI) - ANNO 2026</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32837</link>
-      <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32837</guid>
-    </item>
-    <item>
       <title>Impegno di spesa per canone relativo al servizio essenziale di mantenimento dei cani randagi ricoverati presso il canile convenzionato. Contratto rep. 2143 del 24.03.2003 e ss. mm. e ii. - Primo semestre annualità 2026. CIG: BA7C63DA0F</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32838</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32902</link>
       <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32902</guid>
+    </item>
+    <item>
+      <title>Convocazione Consiglio Comunale per il giorno 12 marzo 2026, ore 9:00</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32903</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32903</guid>
     </item>
   </channel>
 </rss>
