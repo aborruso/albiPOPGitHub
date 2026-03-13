@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della Via Crucis Rionale in Ginosa il 13.03.2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37813</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37813</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP  Ginosa e Marina di Ginosa Varie Strade dal 09.03 al 31.03.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37812</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37812</guid>
+    </item>
+    <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della Circolazione Stradale sulle strade del territorio comunale interessate da tracciamento dei posteggi festa/fiera di aprile 2026  in data 12.03.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37811</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37811</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Affidamento diretto alla ditta Tipolitografia Policarpo s.n.c. della fornitura di n. 240 blocchetti, contenenti tickets spesa.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37809</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37753</link>
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37753</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fattura n. 3 del 05-03-2026 in favore della Cinofildoglovers SRL per servizio di gestione del canile sanitario e rifugio del Comune di Ginosa (TA) - periodo 01/02/2026 al 28/02/2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37752</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37752</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura n. 5/E del 28/02/2026 in favore della ditta Ser Vito S.R.L. per il servizio di refezione scolastica mese di FEBBRAIO 2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37751</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37751</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione Fattura n. FPA 8/26 del 02/03/2026 alla Ditta Cooply Società Cooperativa Sociale di Brindisi per il Servizio di Gestione condivisa e innovativa della Biblioteca Comunale di Ginosa Community Library - mese Febbraio 2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37750</link>
-      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=37750</guid>
     </item>
   </channel>
 </rss>
