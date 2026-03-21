@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>CORTE DI CASSAZIONE, SEZ. LAVORO - XXX C/COMUNE DI TERLIZZI - AVV. BOTTA SERENA, DIFENSORE DELL'ENTE - C.I.G. B8EDEEB564</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32998</link>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32998</guid>
-    </item>
-    <item>
-      <title>Liquidazione della spesa relativa a: acquisto libri per la Biblioteca Comunale mediante finanziamento Fondo Editoria Libraria - Decreto Ministeriale 272/2025. Beneficiario: Libreria "Il Ghigno" - Molfetta.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32999</link>
-      <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=32999</guid>
-    </item>
-    <item>
       <title>TRIBUNALE DI TRANI - XXX C/ COMUNE DI TERLIZZI AVV. BERARDI CORRADO, DIFENSORE DELL'ENTE - PROVVEDIMENTI.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33000</link>
       <pubDate>Tue, 17 Mar 2026 00:00:00 +0000</pubDate>
@@ -375,6 +363,18 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33059</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33059</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità per Festa Madonna dell' Annunziata.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33060</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33060</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità per Corteo.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33061</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33061</guid>
     </item>
   </channel>
 </rss>
