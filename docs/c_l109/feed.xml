@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>Fornitura gratuita o semigratuita dei libri di testo e/o sussidi didattici per l'anno scolastico 2025/2026. D.G.R. n. 338 del 21/03/2024. I° Finestra temporale - Azione ordinaria. Beneficiario: Cartolibreria di Bisceglia Nunzia con sede in Terlizzi in Via XX Settembre n. 43/45. Liquidazione.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33031</link>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33031</guid>
-    </item>
-    <item>
-      <title>Contributo economico ad integrazione retta di accoglienza utente cod.027 ospite presso la "Casa per la Vita" di Bitonto. Beneficiario: Società Cooperativa Sociale "Anthropos" con sede legale in Giovinazzo alla Via Agostino Gioia n.117. Liquidazione. Mese di febbraio 2026.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33032</link>
-      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33032</guid>
-    </item>
-    <item>
       <title>Modifiche temporanee alla viabilità per lavori di Pubblica Illuminazione.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33033</link>
       <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
@@ -375,6 +363,18 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33093</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33093</guid>
+    </item>
+    <item>
+      <title>Modifiche temporanee alla viabilità per processione Addolorata.</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33094</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33094</guid>
+    </item>
+    <item>
+      <title>ORDINANZA SINDACALE N. 5</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33095</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33095</guid>
     </item>
   </channel>
 </rss>
