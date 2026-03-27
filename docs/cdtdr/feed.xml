@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>LETTURA ED APPROVAZIONE VERBALI SEDUTA PRECEDENTE DEL 29/01/2026.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=544</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=544</guid>
-    </item>
-    <item>
       <title>ART. 50 DEL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE - ORDINE DEL GIORNO CONCERNENTE "REVISIONE DELLA DISCIPLINA SULL'ORIGINE DOGANALE DEI PRODOTTI AGRICOLI E ALIMENTARI".</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=545</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=564</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=564</guid>
+    </item>
+    <item>
+      <title>ACCERTAMENTO ENTRATA CANONE CONCESSIONE PER L'OCCUPAZIONE DELLE AREE E DEGLI SPAZI APPARTENENTI AL DEMANIO O AL PATRIMONIO INDISPONIBILE DESTINATI AI MERCATI NEL TERRITORIO DI TERRE DEL RENO PER LANNO 2026. RETTIFICA LISTA DI CARICO RELATIVA AL MERCATO DI SAN CARLO DI CUI ALLA DETERMINAZIONE N. 172/2026 PER ERRORE MATERIALE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=565</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=565</guid>
     </item>
   </channel>
 </rss>
