@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>LETTURA ED APPROVAZIONE VERBALI SEDUTA PRECEDENTE DEL 29/12/2025.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=543</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=543</guid>
-    </item>
-    <item>
       <title>LETTURA ED APPROVAZIONE VERBALI SEDUTA PRECEDENTE DEL 29/01/2026.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=544</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=565</link>
       <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=565</guid>
+    </item>
+    <item>
+      <title>Pubblicazione di matrimonio di Gallini Gabriele e Pysmenna Olga</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=566</link>
+      <pubDate>Sat, 28 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=566</guid>
     </item>
   </channel>
 </rss>
