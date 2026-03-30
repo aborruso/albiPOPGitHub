@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>ART. 50 DEL REGOLAMENTO PER IL FUNZIONAMENTO DEL CONSIGLIO COMUNALE - ORDINE DEL GIORNO CONCERNENTE "REVISIONE DELLA DISCIPLINA SULL'ORIGINE DOGANALE DEI PRODOTTI AGRICOLI E ALIMENTARI".</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=545</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=545</guid>
-    </item>
-    <item>
       <title>VARIAZIONI AL BILANCIO DI PREVISIONE 2026 AI SENSI DELL'ART. 175 DEL D.LGS. N. 267/2000, "TESTO UNICO DELLE LEGGI SULLORDINAMENTO DEGLI ENTI LOCALI" (TUEL).</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=546</link>
       <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=567</link>
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=567</guid>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO N. 12 ATTI NELLA CASA COMUNALE RISULTATI IRREPERIBILI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=568</link>
+      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=568</guid>
     </item>
   </channel>
 </rss>
