@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>CORTE DI APPELLO DI BARI XXX C/COMUNE DI TERLIZZI - AVV. VITO ANGELO IPPEDICO, DIFENSORE DELL'ENTE- PROVVEDIMENTI.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33081</link>
-      <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33081</guid>
-    </item>
-    <item>
       <title>COMMISSIONE TRIBUTARIA PROVINCIALE DI BARI, SEZIONE 3 XXX C/COMUNE DI TERLIZZI - SENTENZA N.1267/3/2. LIQUIDAZIONE E PAGAMENTO IN FAVORE DELL'AVENTE DIRITTO</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33082</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33146</link>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33146</guid>
+    </item>
+    <item>
+      <title>MISURE CONTINGIBILI E URGENTI PER LA TUTELA DELLA PUBBLICA INCOLUMITÀ A SEGUITO DI ALLERTA ARANCIONE PER RISCHIO IDROGEOLOGICO E IDRAULICO</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33147</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33147</guid>
     </item>
   </channel>
 </rss>
