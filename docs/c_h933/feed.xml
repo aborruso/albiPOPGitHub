@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21946</title>
+      <description>CONFERIMENTO DELLA CITTADINANZA ONORARIA AL DOTT. RENATO CORTESE IN OCCASIONE DEL 30° ANNIVERSARIO DELLA CATTURA DI GIOVANNI BRUSCA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21946</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21946</guid>
+    </item>
+    <item>
+      <title>#DEPOSITO | Pubblicazione numero 21945</title>
+      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21945</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21945</guid>
+    </item>
+    <item>
       <title>#DETERMINA DEL SINDACO | Pubblicazione numero 21944</title>
       <description>06-Conferimento incarichi di Responsabili di E.Q per l'anno 2026. Attribuzione delle funzioni dirigenziali di cui all'art. 107 del TUEL 267/2000 e ss.mm.ii.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21944</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21904</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21904</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21903</title>
-      <description>RICONOSCIMENTO BENEFICI PREVISTI DALL'ART. 80, COMMA 3 DELLA LEGGE 23 DICEMBRE 2000 N. 388 AL  DIPENDENTE MATRICOLA 213.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21903</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21903</guid>
-    </item>
-    <item>
-      <title>#AVVISO PUBBLICO | Pubblicazione numero 21902</title>
-      <description>Pubblicazione locandina corso per Agenti di Polizia Locale stagionali  Decreto Sicurezza 2026 - inizio Maggio 2026</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21902</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21902</guid>
     </item>
   </channel>
 </rss>
