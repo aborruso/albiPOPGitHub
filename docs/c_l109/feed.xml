@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>AFFIDAMENTO DEL SERVIZIO DI VIGILANZA PRESSO IL CENTRO SERVIZI PER LA COMMERCIALIZZAZIONE E LASSISTENZA TECNICA ALLA FLORICOLTURA, IN VIA ITALO BALBO, PER ANNI DUE.</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33100</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33100</guid>
-    </item>
-    <item>
       <title>AFFIDAMENTO SERVIZIO DI ISPEZIONE E VERIFICHE PERIODICHE DISPOSITIVI DI MESSA A TERRA IMPIANTI ELETTRICI. DETERMINA A CONTRATTARE.</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33101</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33165</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33165</guid>
+    </item>
+    <item>
+      <title>RDO N.6211156 - AFFIDAMENTO DEL SERVIZIO DI VIGILANZA PRESSO IL CENTRO SERVIZI PER LA COMMERCIALIZZAZIONE E L'ASSISTENZA TECNICA ALLA FLORICOLTURA PER ANNI DUE</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33166</link>
+      <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33166</guid>
     </item>
   </channel>
 </rss>
