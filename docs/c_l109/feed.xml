@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terlizzi</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:c_l109</category>
     <item>
-      <title>REFERENDUM COSTITUZIONALE DI DOMENICA 22 E LUNEDI' 23 MARZO 2026. COMPENSI AI COMPONENTI DEI SEGGI ELETTORALI - LIQUIDAZIONE</title>
-      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33102</link>
-      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33102</guid>
-    </item>
-    <item>
       <title>REFERENDUM COSTITUZIONALE DI DOMENICA 22 E LUNEDI' 23 MARZO 2026. SERVIZIO VIGILANZA SERALE E NOTTURNA PER LA CUSTODIA DELLE SCHEDE ELETTORALI PRESSO LUFFICIO ELETTORALE. LIQUIDAZIONE</title>
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33103</link>
       <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
@@ -375,6 +369,12 @@
       <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33168</link>
       <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33168</guid>
+    </item>
+    <item>
+      <title>Impegno di spesa per prestazione occasionale a supporto delle attività istituzionali del Comando di Polizia Locale-DE SCISCIOLO Cipriano</title>
+      <link>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33169</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_dettaglio.php?id_pubbl=33169</guid>
     </item>
   </channel>
 </rss>
