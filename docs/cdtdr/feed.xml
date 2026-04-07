@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>PUBBLICAZIONE ALBO PRETORIO ATTO REG. NOT. 201/2026</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=569</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=569</guid>
-    </item>
-    <item>
-      <title>PIANO INTEGRATO DI ATTIVITA' E ORGANIZZAZIONE (PIAO) PER IL TRIENNIO 2026 - 2028, AI SENSI DEL D.L. N. 80/2021, CONVERTITO CON MODIFICAZIONI IN L. N. 113/2021</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=570</link>
-      <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=570</guid>
-    </item>
-    <item>
       <title>PROCEDURA PER LA COSTITUZIONE ED IL RICONOSCIMENTO DI N. 2 HUB URBANI DELLE LOCALITA' MIRABELLO E SANT'AGOSTINO DEL COMUNE DI TERRE DEL RENO AI SENSI DELLA DELIBERA G.R. 1013/2024. APPROVAZIONE RELAZIONE DIMENSIONAMENTO E CARATTERISTICHE TERRITORIALI E RELAZIONE CAPACITA DI GOVERNANCE</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=571</link>
       <pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=589</link>
       <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=589</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER ATTIVITA' MANUTENTIVE AGLI IMPIANTI ELETTRICI IMMOBILI COMUNALI ANNO 2026. AFFIDAMENTO SUL PORTALE MEPA.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=590</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=590</guid>
+    </item>
+    <item>
+      <title>SERVIZI DI ARCHITETTURA E INGEGNERIA RELATIVI AL PROGETTO DI FATTIBILITA' TECNICO ECONOMICA PER IL COMPLETAMENTO DEI LAVORI POST-SISMA 2012 DA ESEGUIRSI PRESSO IL CIMITERO DI SANT'AGOSTINO - III STRALCIO FUNZIONALE - CUP J96I25000060006 - CIG B9CBC1D8E0 - AGGIUDICAZIONE E APPROVAZIONE DEL DISCIPLINARE DI INCARICO AL FINE DELLA SUA SOTTOSCRIZIONE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=591</link>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=591</guid>
     </item>
   </channel>
 </rss>
