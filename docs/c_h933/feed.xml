@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21952</title>
+      <description>NOMINA DELLA DOTT.SSA CALOGERA SPICA QUALE RESPONSABILE  VICARIO DEL SETTORE AFFARI GENERALI</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21952</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21952</guid>
+    </item>
+    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21951</title>
       <description>PARTENARIATO ASSOCIAZIONE "CASA DELLA MUSICA"  PER LA REALIZZAZIONE DEL PROGETTO DENOMINATO  "ATLANTE"</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21951</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21910</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21910</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21909</title>
-      <description>Approvazione schema  di accordo ai sensi dell'art. 15 della L.241/1990 e ss.mm.ii. tra Città Metropolitana di Palermo e il Comune di San Giuseppe Jato, finalizzato alla rimozione dei rifiuti presenti sulle strade provinciali e che intralciano la circolazione stradale.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21909</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21909</guid>
     </item>
   </channel>
 </rss>
