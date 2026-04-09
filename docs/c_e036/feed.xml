@@ -17,18 +17,18 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato sulle strade del territorio comunale interessate da lavori/servizi di pulizia ordinaria e straordinaria  in data 10.04.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38141</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38141</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3306/C - P. di C. n. 012/2026 Gabriele Italia;</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38140</link>
       <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38140</guid>
-    </item>
-    <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 50</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38139</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38139</guid>
     </item>
     <item>
       <title>Determinazione</title>
@@ -169,20 +169,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38119</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38119</guid>
-    </item>
-    <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO PRESSO LA CASA COMUNALE ART. 60, N. ATTI 28</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38118</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38118</guid>
-    </item>
-    <item>
-      <title>Art. 60 Dpr 29/09/1973</title>
-      <description>DEPOSITO PRESSO LA CASA COMUNALE ART. 60, N. ATTI 24</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38117</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38117</guid>
     </item>
     <item>
       <title>Delibera G.c.</title>
@@ -435,6 +421,20 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38081</link>
       <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38081</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Individuazione degli enti e delle società partecipate costituenti il Gruppo Amministrazione Pubblica (GAP) del Comune di Ginosa e Direttive per il Consolidato. Esercizio 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38080</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38080</guid>
+    </item>
+    <item>
+      <title>Delibera G.c.</title>
+      <description>Determinazione accantonamento al fondo rischi contenzioso nel risultato di amministrazione 2025</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38079</link>
+      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38079</guid>
     </item>
   </channel>
 </rss>
