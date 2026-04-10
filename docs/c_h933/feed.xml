@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21958</title>
+      <description>Liquidazione  fattura n 125/2026 del 19-03-2026 CIG B7F72D444A beneficiario Vaglica francesca</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21958</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21958</guid>
+    </item>
+    <item>
+      <title>#DEPOSITO | Pubblicazione numero 21957</title>
+      <description>Avviso di deposito atto in Casa Comunale ai sensi dell'art. 60 del DPR. 2910911973, n. 600, 1° comma, lett. E vedi elenco</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21957</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21957</guid>
+    </item>
+    <item>
       <title>#DEPOSITO | Pubblicazione numero 21956</title>
       <description>Avviso di deposito atto in Casa Comunale ai sensi dell'art. 60 dei DPR. 29/09/1973, n. 600, 1° comma, lett. E vedi elenco</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21956</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21915</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21915</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21914</title>
-      <description>APPROVAZIONE DEL DOCUMENTO UNICO DI PROGRAMMAZIONE - D.U.P.  TRIENNIO  2026/2028.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21914</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21914</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21913</title>
-      <description>APPLICAZIONE DELLA QUOTA ACCANTONATA PER ARRETRATI CONTRATTUALI CCNL 2022/2024</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21913</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21913</guid>
     </item>
   </channel>
 </rss>
