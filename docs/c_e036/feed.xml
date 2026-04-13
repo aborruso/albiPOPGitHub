@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione della Circolazione Stradale. Installazione della segnaletica temporanea di divieto di Sosta/Transito/Senso Vietato sulle strade del territorio comunale interessate da lavori/servizi di pulizia ordinaria e straordinaria  in data 14.04.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38186</link>
+      <pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38186</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Modello 9 deposito elenchi semestrale elenchi</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38185</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38124</link>
       <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38124</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>DETERMINA DI IMPEGNO PER INTEGRARE  LA  SPESA PER LA RETTA DI RICOVERO PER LA MINORE J.A.PRESSO LA COMUNITA' "IL VILLAGGIO DEL FANCIULLO" - FONDAZIONE SAN GIROLAMO EMILIANI -MARTINA FRANCA (TA) .</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38123</link>
-      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38123</guid>
     </item>
   </channel>
 </rss>
