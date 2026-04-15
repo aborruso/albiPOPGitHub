@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Delibera</title>
+      <description>Delibere commissariali n. 1 e 2 /2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38241</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38241</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione Fattura FPA 8/26 del 08.04.2026 in favore della Libreria Dragone S.r.l. per la fornitura di libri destinati alla Biblioteca di Ginosa, di cui al DM 272/2025 del Ministero della Cultura- Fondo Editoria Libraria 2025.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38240</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38182</link>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38182</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Affidamento servizio di consulenza fiscale per l'anno 2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38181</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38181</guid>
     </item>
   </channel>
 </rss>
