@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>A V V I S O P U B B L I C O R I L A S C I O A U T O R I Z Z A Z I O N E U N I C A A M B I E N T A L E A.U.A. n. 002/2026 Tecnica Diesel srl</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38244</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38244</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Avviso pubblico "Adotta una rotatoria"</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38243</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38243</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Estratto Albo Giudici Popolari di secondo grado della Corte di Assise di Appello di Taranto</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38242</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38242</guid>
+    </item>
+    <item>
       <title>Delibera</title>
       <description>Delibere commissariali n. 1 e 2 /2026</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38241</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38185</link>
       <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38185</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>AVVISO PUBBLICO PER NOMINA DELLA COMMISSIONE</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38184</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38184</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>Elezioni Consiglio Provinciale 2026 . Decreto di Convocazione dei Comizi elettorali per le elezioni del Consiglio della Provincia di Taranto del 14 giugno 2026. Comunicazione composizione Consigli Comunali. - [RIF.PRO</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38183</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38183</guid>
-    </item>
-    <item>
-      <title>Avviso Pubblico</title>
-      <description>A V V I S O P U B B L I C O R I L A S C I O A U T O R I Z Z A Z I O N E U N I C A A M B I E N T A L E A.U.A. n. 001/2026 NATALE NUNZIO</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38182</link>
-      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38182</guid>
     </item>
   </channel>
 </rss>
