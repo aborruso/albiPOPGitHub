@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#AVVISO PUBBLICO | Pubblicazione numero 21979</title>
+      <description>Contributo per l'accesso alle abitazioni in locazione</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21979</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21979</guid>
+    </item>
+    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 21978</title>
       <description>INDIVIDUAZIONE DI UN LEGALE - DECRETO DI CITAZIONE DIRETTA A GIUDIZIO RGNR N. 14714/2022</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21978</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21934</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21934</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21933</title>
-      <description>LIQUIDAZIONE SOMME FONDO DI SOLIDARIETA' COMUNALE  PER LA REALIZZAZIONE E LA GESTIONE DEL CENTRO DI AGGREGAZIONE GIOVANILE "ASSOCIAZIONE CENTRO DI ACCOGLIENZA PADRE NOSTRO ONLUS" CAPOFILA.  CUP D94H23001100001</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21933</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21933</guid>
     </item>
   </channel>
 </rss>
