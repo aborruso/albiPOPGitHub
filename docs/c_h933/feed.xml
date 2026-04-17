@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21993</title>
+      <description>IMPEGNO DI SPESA PER LIQUIDAZIONE DEGLI ARRETRATI CONTRATTUALI ANNI 2022-2025 PER ATTUAZIONE DEL CCNL AREA FUNZIONI LOCALI E DEL CCNL DEL PERSONALE DEL COMPARTO FUNZIONI LOCALI RELATIVI AL TRIENNIO 2022/2024.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21993</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21993</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21991</title>
       <description>Liquidazione  fattura n 1026069751 del 26-03-2026 CIG BAD3BA13DA fattura n 1026069751 del 26-03-2026 CIG BAD3BA13DA beneficiario Poste italiane s.p.a.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21991</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21949</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21949</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21948</title>
-      <description>RILASCIO CONTRASSEGNO DISABILE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21948</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21948</guid>
     </item>
   </channel>
 </rss>
