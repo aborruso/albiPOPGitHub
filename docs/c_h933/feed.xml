@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 21995</title>
+      <description>Liquidazione  fattura n 007/2026 del 09-04-2026 e fattura/nota di credito n 008/2026 del 14-04-2026: beneficiario Varsalona Giuseppina (Periodo Gennaio/Marzo 2026).</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21995</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21995</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21994</title>
+      <description>INDIVIDUAZIONE LEGALE PER LA COSTITUZIONE PARTE CIVILE -  PROCEDIMENTO PENALE -DECRETO CITAZIONE DIRETTA A GIUDIZIO N. 14714/2022 INNANZI IL TRIBUNALE DI PALERMO NEI CONFRONTI DEI SIGG.RI C.L.-I.S.-P.D.-S.N.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21994</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21994</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 21993</title>
       <description>IMPEGNO DI SPESA PER LIQUIDAZIONE DEGLI ARRETRATI CONTRATTUALI ANNI 2022-2025 PER ATTUAZIONE DEL CCNL AREA FUNZIONI LOCALI E DEL CCNL DEL PERSONALE DEL COMPARTO FUNZIONI LOCALI RELATIVI AL TRIENNIO 2022/2024.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21993</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21937</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21937</guid>
-    </item>
-    <item>
-      <title>#PERMESSO DI COSTRUIRE | Pubblicazione numero 21887</title>
-      <description>PERMESSO DI COSTRUIRE N.2  SIG.RA CATALFIO MARIA LUISA</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21887</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21887</guid>
-    </item>
-    <item>
-      <title>#BANDO USI CIVICI | Pubblicazione numero 21873</title>
-      <description>SI RENDE NOTO CHE OGGI SONO STATI DEPOSITATI NELLA SEGRETERIA DI QUESTO COMUNE GLI ATTI DI VERIFICA REDATTI DALL'ISTRUTTORE DEMANIALE DOTT. AGR. ALESSANDRO SACCO IN DATA 16.01.2026 ED APPROVATI DAL COMMISSARIO DEGLI USI CIVICI DELLA SICILIA, RELATIVI AD OCCUPAZIONI ARBITRARIE DEL DEMANIO CIVICO DEL COMUNE DI SAN GIUSEPPE JATO . DITTA: Conigliaro Provvidenza.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21873</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=21873</guid>
     </item>
   </channel>
 </rss>
