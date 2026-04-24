@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>Convocazione Consiglio Comunale per il 30 aprile 2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38379</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38379</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>Aggiornamento Albi Giudici Popolari di Corte di Assise. Biennio 2026 - 2027</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38378</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38378</guid>
+    </item>
+    <item>
       <title>Permesso Di Costruire In Sanatoria</title>
       <description>A V V I S O P U B B L I C O RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica 177/NC  Permesso di Costruire n. 003/2026 Carvutto Nicola ed altri eredi Pistoia;</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38376</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38314</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38314</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Procedura negoziata telematica ai sensi dell'art. 50, comma 1, lett. c), del D.Lgs. n. 36/2023 per l'affidamento dei lavori di "Manutenzione straordinaria e messa in sicurezza del marciapiede di Via Palatrasio ai fini del miglioramento della mobilità pedonale e dell'abbattimento delle barriere architettoniche". CIG: BA51380628  CUP: D37H25002520004. Presa d'atto dell'aggiudicazione disposta dalla CUC Montedoro. Rimodulazione del quadro economico a seguito del ribasso d'asta. Assunzione dell'impegno di spesa definitivo.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38313</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38313</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Impegno spesa CASA PER LA VITA art.70 del R.R. 4/2007  Dal 01/01/2026 al 31/12/2026- CIG: BB41D63D11</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38312</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38312</guid>
     </item>
   </channel>
 </rss>
