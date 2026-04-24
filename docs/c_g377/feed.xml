@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>23/04/2026 | Ordinanze Dirigenziali</title>
+      <description>REGOLAMENTAZIONE DELLA VIABILITA' NELLA VIA ZUCCARELLO NEI GIORNI 1, 2 E 3 MAGGIO 2026</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14324</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14324</guid>
+    </item>
+    <item>
+      <title>23/04/2026 | Ordinanze Dirigenziali</title>
+      <description>REGOLAMENTAZIONE DELLA VIABILITA' NEL LARGO DEI NORMANNI, GIORNI 24 E 25 APRILE 2026</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14323</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14323</guid>
+    </item>
+    <item>
       <title>23/04/2026 | Determinazioni Dirigenziali</title>
       <description>Integrazione affidamento di cui al Provvedimento Dirigenziale n. 234 RG del 02/04/2026 ai sensi dell'Art. 120 commi 1 lett. b e comma 2 del D. L.vo n. 36 /2023  CIG: BB6404C02A</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14322</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14290</link>
       <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14290</guid>
-    </item>
-    <item>
-      <title>20/04/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione di spesa preventivamente impegnata relativa al servizio di Assistenza all'Autonomia e alla Comunicazione per i minori con disabilità gravissima della scuola priomaria e secondaria di primo grado nel Comune di Patti a favore dell'Associazione Ialite ETS- a.s. 2025/2026.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14289</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14289</guid>
-    </item>
-    <item>
-      <title>20/04/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Liquidazione di spesa preventivamente impegnata relativa al Servizio di Assistenza all'Autonomia e alla Comunicazione per i minori della scuola proimaria e secondaria di primo grado nel Comune di Patti a favore dell'Ass.ne Ialite ETS a. s. 2025/2026.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14288</link>
-      <pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14288</guid>
     </item>
   </channel>
 </rss>
