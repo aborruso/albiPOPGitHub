@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22055</title>
+      <description>CONCESSIONE ASSEGNO DI MATERNITA' ART.66 L.448/98  MODIFICATO ART.50 L.144/99  FEBBRAIO - MARZO-APRILE  2026</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22055</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22055</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22054</title>
       <description>RILASCIO CONTRASSEGNO DISABILE</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22054</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22011</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22011</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22010</title>
-      <description>ADESIONE SUCCESSIVA ALL'ACCORDO DI COLLABORAZIONE EX ART. 15 L. 241/90 TRA STAZIONI APPALTANTI QUALIFICATE E NON QUALIFICATE DELLA RETE ASMEL (ARTT. 62 E 63 D.LGS. 36/2023).</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22010</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22010</guid>
     </item>
   </channel>
 </rss>
