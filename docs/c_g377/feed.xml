@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/04/2026 | Ordinanze Dirigenziali</title>
+      <description>ISTITUZIONE STALLO AD PERSONAM</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14348</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14348</guid>
+    </item>
+    <item>
+      <title>29/04/2026 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>Turnazione sabato mattina Mese Maggio 2026 Servizio Igiene Pubblica e Medicina Legale - Distretto Patti</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14347</link>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14347</guid>
+    </item>
+    <item>
       <title>28/04/2026 | Determinazioni Dirigenziali</title>
       <description>Rateizzazione concessa da Riscossione Sicilia S.p.A. con identificativo 233323/2026 - documento n.29598302333232609202 -  Impegno e liquidazione Anno 2026.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14346</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14314</link>
       <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14314</guid>
-    </item>
-    <item>
-      <title>22/04/2026 | Ordinanze Dirigenziali</title>
-      <description>ISTITUZIONE DIVIETO DI TRANSITO E DI SOSTA TEMPORANEI NELLA PIAZZA M.SCIACCA, GIORNI 24 E 25 APRILE 2026 DALLE ORE 16.00 AL TERMINE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14313</link>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14313</guid>
-    </item>
-    <item>
-      <title>22/04/2026 | Ordinanze Dirigenziali</title>
-      <description>REGOLAMENTAZIONE DELLA VIABILITA' GIORNO 26 APRILE 2026, IN OCCASIONE DELLA SFILATA DI PRIMAVERA</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14312</link>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14312</guid>
     </item>
   </channel>
 </rss>
