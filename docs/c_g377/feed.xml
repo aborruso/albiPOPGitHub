@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/05/2026 | Ordinanze Dirigenziali</title>
+      <description>ISTITUZIONE DIVIETO DI TRANSITO NELLA VIA VERDI E DIVIETO DI SOSTA TEMPORANEO NELLA PIAZZA STURZO GIORNO 5 MAGGIO 2026 E GIORNO 21 MAGGIO 2026 NELLA PIAZZETTA SAN DOMENICO DALLE ORE 17.00 AL TERMINE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14359</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14359</guid>
+    </item>
+    <item>
       <title>30/04/2026 | Ordinanze Dirigenziali</title>
       <description>PROROGA ISTITUZIONE DIVIETO DI SOSTA TEMPORANEO NELLA VIA NAZIONALE - CASE NUOVE RUSSO DAL CIVICO 140 AL CIVICO 156 DAL 4 ALL' 8 MAGGIO 2026, PER LAVORI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14358</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14325</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14325</guid>
-    </item>
-    <item>
-      <title>23/04/2026 | Ordinanze Dirigenziali</title>
-      <description>REGOLAMENTAZIONE DELLA VIABILITA' NELLA VIA ZUCCARELLO NEI GIORNI 1, 2 E 3 MAGGIO 2026</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14324</link>
-      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14324</guid>
     </item>
   </channel>
 </rss>
