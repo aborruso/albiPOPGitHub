@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/05/2026 | Determinazioni Dirigenziali</title>
+      <description>Affidamento servizio noleggio temporaneo mezzo adibito a scuolabus per sostituzione temporanea Scuolabus guasti per giorni 10 dal 05/05/2026 e sino a revoca del servizio o esaurimento somme  CIG: BB7F2201C6</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14360</link>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14360</guid>
+    </item>
+    <item>
       <title>02/05/2026 | Ordinanze Dirigenziali</title>
       <description>ISTITUZIONE DIVIETO DI TRANSITO NELLA VIA VERDI E DIVIETO DI SOSTA TEMPORANEO NELLA PIAZZA STURZO GIORNO 5 MAGGIO 2026 E GIORNO 21 MAGGIO 2026 NELLA PIAZZETTA SAN DOMENICO DALLE ORE 17.00 AL TERMINE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14359</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14326</link>
       <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14326</guid>
-    </item>
-    <item>
-      <title>24/04/2026 | Ordinanze Dirigenziali</title>
-      <description>ISTITUZIONE DIVIETO DI SOSTA TEMPORANEO NELLA VIA FONTANELLE, PER LAVORI DI SCERBATURA VERDE PUBBLICO, A FAR DATA DAL 27 APRILE AL TERMINE DEI LAVORI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14325</link>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14325</guid>
     </item>
   </channel>
 </rss>
