@@ -35,8 +35,9 @@ selflink="https://aborruso.github.io/albiPOPGitHub/c_e047/feed.xml"
 iPA="c_e047"
 
 URL_BASE="https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_pretorio.php"
-curl_user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-cookie_jar="$folder/rawdata/cookies.txt"
+# Il server blocca gli IP di GitHub Actions: si usa il Cloudflare Worker come proxy
+# che esegue una doppia richiesta (init+target) per ottenere la sessione PHP
+PROXY_URL="https://mio-proxy.andy-pr.workers.dev/normattiva?init=${URL_BASE}&target=${URL_BASE}"
 
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
@@ -44,15 +45,13 @@ mkdir -p "$folder"/../docs/"$iPA"
 
 output="$folder"/../docs/"$iPA"
 
-# scarica la pagina con cookie jar (necessario per la sessione)
-code=$(curl -k -s -L --http1.1 -A "$curl_user_agent" \
-  --connect-timeout 20 --max-time 60 --retry 4 --retry-delay 2 --retry-connrefused --retry-all-errors \
-  -c "$cookie_jar" -b "$cookie_jar" \
+# scarica tramite proxy Cloudflare (bypassa blocco IP su GitHub Actions)
+code=$(curl -s -L --connect-timeout 20 --max-time 60 --retry 4 --retry-delay 2 --retry-connrefused --retry-all-errors \
   -w "%{http_code}" \
-  "$URL_BASE" -o "$folder"/rawdata/albo.html)
+  "$PROXY_URL" -o "$folder"/rawdata/albo.html)
 
 if [ "$code" -ne 200 ]; then
-  echo "Errore nel download: codice $code"
+  echo "Errore nel download via proxy: codice $code"
   exit 1
 fi
 
