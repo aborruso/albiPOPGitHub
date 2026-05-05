@@ -8,9 +8,9 @@
 ### requisiti ###
 
 set -x
-#set -e
-#set -u
-#set -o pipefail
+set -e
+set -u
+set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
@@ -34,85 +34,41 @@ selflink="https://aborruso.github.io/albiPOPGitHub/c_e047/feed.xml"
 
 iPA="c_e047"
 
-# URL base per l'albo pretorio di Giovinazzo
 URL_BASE="https://servizi.comune.giovinazzo.ba.it/openweb/albo/albo_pretorio.php"
-# Opzioni HTTP robuste per ridurre errori transienti lato server/proxy
 curl_user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-curl_common_opts=(-k -s -L --http1.1 -A "$curl_user_agent" --connect-timeout 20 --max-time 60 --retry 4 --retry-delay 2 --retry-connrefused --retry-all-errors)
+cookie_jar="$folder/rawdata/cookies.txt"
 
-# crea cartelle di servizio
 mkdir -p "$folder"/rawdata
 mkdir -p "$folder"/processing
 mkdir -p "$folder"/../docs/"$iPA"
 
-# imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-# scarica dati delle pagine con parametri semplificati (senza token CSRF)
-allData=""
-# Pagina 1 (default), poi pagine 2, 3, 4, 5 con parametri page e start
-for page_info in "1:0" "2:16" "3:31" "4:46" "5:61"; do
-  page_num=$(echo $page_info | cut -d':' -f1)
-  start_val=$(echo $page_info | cut -d':' -f2)
+# scarica la pagina con cookie jar (necessario per la sessione)
+code=$(curl -k -s -L --http1.1 -A "$curl_user_agent" \
+  --connect-timeout 20 --max-time 60 --retry 4 --retry-delay 2 --retry-connrefused --retry-all-errors \
+  -c "$cookie_jar" -b "$cookie_jar" \
+  -w "%{http_code}" \
+  "$URL_BASE" -o "$folder"/rawdata/albo.html)
 
-  if [ $page_num -eq 1 ]; then
-    page_url="$URL_BASE"
-  else
-    page_url="${URL_BASE}?tabella_albo%5Bpage%5D=${page_num}&tabella_albo%5Bstart%5D=${start_val}"
-  fi
-
-  echo "Scaricando pagina $page_num: $page_url"
-
-  # Temporary workaround: source certificate expired (remove -k once cert is renewed)
-  code=$(curl "${curl_common_opts[@]}" -w "%{http_code}" "$page_url" -o "$folder"/rawdata/pagina_${page_num}.html)
-
-  # se il server risponde elabora la pagina
-  if [ $code -eq 200 ]; then
-    echo "Pagina $page_num scaricata correttamente"
-    
-    # verifica che il file non sia vuoto
-    if [ ! -s "$folder"/rawdata/pagina_${page_num}.html ]; then
-      echo "ERRORE: File pagina_${page_num}.html vuoto o non esistente"
-      continue
-    fi
-    
-    # conta elementi nella pagina per debug
-    elem_count=$(grep -c 'paginated_element' "$folder"/rawdata/pagina_${page_num}.html || echo "0")
-    echo "Elementi 'paginated_element' trovati in pagina $page_num: $elem_count"
-
-    # converti HTML in JSON ed estrai dati (senza redirect errori per debug)
-    pageData=$(scrape -be '//tbody/tr[@class="paginated_element"]' < "$folder"/rawdata/pagina_${page_num}.html | \
-      xq -c '.html.body.tr[]? | {
-        numero: .td[0].a."#text",
-        titolo: .td[1],
-        atto: .td[2],
-        data_affissione: .td[3],
-        fine_pubblicazione: .td[4],
-        url: .td[0].a."@href"
-      }')
-
-    if [ ! -z "$pageData" ]; then
-      allData="$allData$pageData"$'\n'
-      echo "Dati estratti da pagina $page_num"
-    else
-      echo "ATTENZIONE: Nessun dato estratto da pagina $page_num"
-    fi
-  else
-    echo "Errore nel download pagina $page_num: codice $code"
-  fi
-done
-
-# salva tutti i dati estratti, garantendo che sia un array valido
-echo "$allData" | tr '\n' ' ' | jq -s '. | map(select(. != null)) | unique_by(.url)' > "$folder"/rawdata/elenco.json
-
-# verifica che ci siano dati
-if [ ! -s "$folder"/rawdata/elenco.json ]; then
-  echo "Nessun dato estratto, uscita"
+if [ "$code" -ne 200 ]; then
+  echo "Errore nel download: codice $code"
   exit 1
 fi
 
+# estrai dati dalla tabella
+scrape -be '//tbody/tr[@class="paginated_element"]' < "$folder"/rawdata/albo.html | \
+  xq -c '[.html.body.tr[] | {
+    numero: .td[0].a["#text"],
+    titolo: .td[1],
+    atto: .td[2],
+    data_affissione: .td[3],
+    fine_pubblicazione: .td[4],
+    url: ("https://servizi.comune.giovinazzo.ba.it" + .td[0].a["@href"])
+  }]' > "$folder"/rawdata/elenco.json
+
 fileContent=$(cat "$folder"/rawdata/elenco.json)
-if [ "$fileContent" = "[]" ]; then
+if [ "$fileContent" = "[]" ] || [ "$fileContent" = "null" ]; then
   echo "Array vuoto, nessun dato estratto"
   exit 1
 fi
@@ -120,12 +76,6 @@ fi
 # converti in TSV con mlr e normalizza dati
 jq -c '.[]' "$folder"/rawdata/elenco.json | \
 mlr --ijson --otsv clean-whitespace then \
-  put 'if ($data_affissione =~ "^[0-9]{2}/[0-9]{2}/[0-9]{4}") {
-    $date = $data_affissione
-  } else {
-    $date = $data_affissione
-  }' then \
-  put '$rssDate = strftime(strptime($date, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then \
   put '$titolo = $numero . " - " . $titolo' then \
   put '$titolo=gsub($titolo,"<","&lt;")' then \
   put '$titolo=gsub($titolo,">","&gt;")' then \
@@ -134,8 +84,7 @@ mlr --ijson --otsv clean-whitespace then \
   put '$titolo=gsub($titolo,"\"","&quot;")' then \
   put '$titolo=gsub($titolo,"°","&#176;")' then \
   put '$titolo=gsub($titolo,"–","&#8211;")' then \
-  put 'if ($url =~ "^/") {$url = "https://servizi.comune.giovinazzo.ba.it" . $url} else {$url = $url}' then \
-  put 'if ($url =~ "^/") {$url = "https://servizi.comune.giovinazzo.ba.it" . $url} else {$url = $url}' then \
+  put '$rssDate = strftime(strptime($data_affissione, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then \
   sort -nr numero > "$folder"/rawdata/albi.tsv
 
 # crea copia del template del feed
@@ -157,14 +106,12 @@ xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$country" -i 
 xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$name" -i "//channel/category[8]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-name" "$folder"/processing/feed.xml
 xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//channel/category[9]" -t "attr" -n "domain" -v "http://albopop.it/specs#channel-category-uid" "$folder"/processing/feed.xml
 
-# leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
+# costruisci gli item RSS
 newcounter=0
-while IFS=$'\t' read -r numero titolo atto data_affissione fine_pubblicazione url date rssDate; do
-  # salta la riga di intestazione
+while IFS=$'\t' read -r numero titolo atto data_affissione fine_pubblicazione url rssDate; do
   if [[ "$numero" == "numero" ]]; then
     continue
   fi
-
   newcounter=$(expr $newcounter + 1)
   xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
     --subnode "//item[$newcounter]" --type elem -n title -v "$titolo" \
@@ -175,11 +122,9 @@ while IFS=$'\t' read -r numero titolo atto data_affissione fine_pubblicazione ur
     "$folder"/processing/feed.xml
 done < "$folder"/rawdata/albi.tsv
 
-# copia il feed nella cartella docs per pubblicazione
 cp "$folder"/processing/feed.xml "$output"
 
-# pulizia file temporanei
-rm -f "$folder"/rawdata/pagina_*.html
+rm -f "$folder"/rawdata/albo.html
 
 echo "Feed RSS creato con successo: $output/feed.xml"
 echo "Numero di item generati: $newcounter"
