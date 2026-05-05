@@ -3,6 +3,7 @@
 # Optional output directory to write the feeds to. If not specified it must be supplied via
 # the --output command line option.
 output = "../docs/c_a965"
+insecure_disable_certificate_verification = true
 # Optional proxy address. If specified, all requests will be routed through it.
 # The address needs to be in the format: protocol://ip_address:port
 # The supported protocols are: http, https, socks and socks5h.
