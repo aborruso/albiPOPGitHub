@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 22074</title>
+      <description>Avviso di deposito atto in Casa Comunale ai sensi dell'art. 60 dei DPR. 29/09/1973, n. 600, 1° comma, lett. E vedi elenco</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22074</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22074</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22073</title>
       <description>Individuazione servizi ed uffici dello Staff di Polizia Municipale. Assegnazione risorse umane. Nomina dei Responsabili dei Servizi e loro vicari. Nomina dei Responsabili degli uffici.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22073</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22033</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22033</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22032</title>
-      <description>LIQUIDAZIONE FATTURA N. 27/S5 DEL 23/03/2026  MESE DI GENNAIO 2026  E FATTURA N. 40/S5 DEL 08/04/2026 PER IL MESE DI MARZO  AFFIDAMENTO  SERVIZIO TRASPORTO STUDENTI PENDOLARI A.S. 2025/2026 A MEZZO AZIENDA SICILIANA TRASPORTI S.P.A.   COD. CIG n. B 852C828AC</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22032</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22032</guid>
     </item>
   </channel>
 </rss>
