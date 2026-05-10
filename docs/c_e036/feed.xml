@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Evento "Ginosa in Bici 2026"  Manifestazione ciclistica non agonistica - Misure temporanee di modifica della circolazione stradale  Ginosa 10.05.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38548</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38548</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Liquidazione rimborso oneri assenze dal lavoro amministratore comunale.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38547</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38487</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38487</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>POC 2021/2027 Area Tematica 10 "Sociale e Salute" Linea di Intervento 10.03 DGR n. 1411 del 07/10/2025 Buono Servizio Minori Annualità 2025/2026 DGR 713/2025 e A.D. 693/2025 Buono Servizio Minori Annualità 2025/2026. A.D 1232/2025. LIQUIDAZIONE Coop. ESCARGO SOCIETA' COOPERATIVA SOCIALE codice struttura 0SW54PT5  SETTEMBRE 2025-MARZO 2026 CUP D51J25002260003</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38486</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38486</guid>
     </item>
   </channel>
 </rss>
