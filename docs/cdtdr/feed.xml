@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Divieto di sosta con Rimozione Forzata in Via Vittorio Emanuele II Località Mirabello</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=670</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=670</guid>
-    </item>
-    <item>
       <title>Istituzione di SENSO UNICO ALTERNATO per lavori di ASFALTATURA Via Quattro Torri</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=671</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=690</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=690</guid>
+    </item>
+    <item>
+      <title>PIANO URBANISTICO GENERALE (PUG) DEL COMUNE DI TERRE DEL RENO REDATTO IN CONFORMITA' ALLACCORDO TERRITORIALE TRA I COMUNI DI BONDENO, CENTO, POGGIO RENATICO, VIGARANO MAINARDA E TERRE DEL RENO PER LA PREDISPOSIZIONE E L'APPROVAZIONE DEL PIANO URBANISTICO GENERALE (PUG) INTERCOMUNALE E LA COSTITUZIONE DELL'UFFICIO DI PIANO E DEL GARANTE DELLA COMUNICAZIONE, AI SENSI DEGLI ARTT. 30 COMMA 6, 55 E 56 DELLA L.R. N. 24/2017. ASSUNZIONE DELLA PROPOSTA DI PIANO AI SENSI DELL'ART. 45 COMMA 2 DELLA LEGGE REGIONALE N. 24/2017</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=691</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=691</guid>
     </item>
   </channel>
 </rss>
