@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico</title>
+      <description>SCA da sottoporre a istruttoria, verbale estrazione casuale del 14 Maggio 2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38609</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38609</guid>
+    </item>
+    <item>
+      <title>Avviso Pubblico</title>
+      <description>CILA da sottoporre a istruttoria, verbale estrazione casuale del 14 Maggio 2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38608</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38608</guid>
+    </item>
+    <item>
+      <title>Art. 60 Dpr 29/09/1973</title>
+      <description>DEPOSITO CASA COMUNALE ART. 60 ATTI N. 30</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38607</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38607</guid>
+    </item>
+    <item>
       <title>Ordinanza</title>
       <description>Disciplina temporanea della circolazione stradale per lavori urgenti di manutenzione ordinaria e straordinaria linee di distribuzione di energia elettrica - Ginosa Via Mirti ed altre dal 14 Maggio 2026 fino a cessata esigenza</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38606</link>
@@ -414,27 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38548</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38548</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione rimborso oneri assenze dal lavoro amministratore comunale.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38547</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38547</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Presa d'atto richiesta di collocamento in pensione con diritto a pensione anticipata/anzianità del dipendente di ruolo matricola n. 123 con decorrenza 01.08.2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38546</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38546</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fatture Buoni pasto aprile 2026 alla società Pellegrini S.p.A</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38545</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38545</guid>
     </item>
   </channel>
 </rss>
