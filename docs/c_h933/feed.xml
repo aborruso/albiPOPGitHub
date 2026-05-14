@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTI VARI | Pubblicazione numero 22130</title>
+      <description>ELENCO DEI RAPPORTI MESE DI APRILE 2026</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22130</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22130</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22129</title>
       <description>APPROVAZIONE PERIZIA AI SENSI AI SENSI DELL'ART. 120 COMMA 1 LETTERE C) DEL D.LGS. 36/2023, PER L'APPALTO RELATIVO AI LAVORI DI MANUTENZIONE STRAORDINARIA DELLA CAPPELLA COMMEMORATIVA MISSIONE CUSMANIANA DEL 1954 E RIVALUTAZIONE DELLADIACENTE AREA DENONIMATA VILLETTA, NEL COMUNE DI SAN GIUSEPPE JATO (PA) - CUP: D92F25000220002</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22129</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22086</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22086</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22085</title>
-      <description>Liquidazione  fattura n FATT/2026/00394 del 22-04-2026 CIG B6D4D5C465 beneficiario Halley sud s.r.l. Servizi di configurazione per l'integrazione con Stato Civile digitale (ANSC) PNRR MISURA 1.4.4 Estensione utilizzo anagrafe nazionale digitale(ANPR) CUP: D51F24002490006</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22085</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22085</guid>
     </item>
   </channel>
 </rss>
