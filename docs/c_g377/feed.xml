@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>17/05/2026 | Ordinanze Dirigenziali</title>
+      <description>ORDINANZA ISTITUZIONE DIVIETO DI SOSTA  E DI TRANSITO DAL N.CIV.12 DELLA VIA AGLIASTRI FINO ALL'INCROCIO CON LA C.DA MUSTAZZO, GIORNO 20 MAGGIO FINO AL TERMINE, PER LAVORI DI POTATURA E SAGOMATURA ALBERATURE.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14497</link>
+      <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14497</guid>
+    </item>
+    <item>
       <title>15/05/2026 | Determinazioni Dirigenziali</title>
       <description>TINDARI FESTIVAL  70^ EDIZIONE - ANNO 2026 - " ABUMANESIMO - L'ESSERE, IL NON ESSERE, IL PERIRE" - A BENIAMINO JOPPOLO . AFFIDAMENTO SERVIZIO BIGLIETTERIA INFORMATIZZATA</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14496</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14462</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14462</guid>
-    </item>
-    <item>
-      <title>12/05/2026 | Determinazioni Dirigenziali</title>
-      <description>CONCESSIONE CONGEDO STRAORDINARIO RETRIBUITO ALLA DIPENDENTE OMISSIS</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14461</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14461</guid>
     </item>
   </channel>
 </rss>
