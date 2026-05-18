@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>18/05/2026</title>
+      <description>Ordinanza</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38639</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38639</guid>
+    </item>
+    <item>
+      <title>Permesso Di Costruire In Sanatoria</title>
+      <description>AVVISO PUBBLICO RILASCIO PERMESSO DI COSTRUIRE IN SANATORIA Pratica n. 3582/C - P. di C. n. 014/2026 Miccoli Giovanni e altri;</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38638</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38638</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico</title>
       <description>Convocazioni I e III Commissione consiliare permanente</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38637</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38578</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38578</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  III Finestra - Codice Pratica  3VW5DXU7 (busta paga aprile 2026)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38577</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38577</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione per "Progetti Personalizzati di Vita Indipendente PRO.VI.  2024" Linea A -  III Finestra - Codice Pratica  Z6UCUMQW (saldo)</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38576</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=38576</guid>
     </item>
   </channel>
 </rss>
