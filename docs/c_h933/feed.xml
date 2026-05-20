@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22167</title>
+      <description>AGGIORNAMENTO COSTO DI COSTRUZIONE ANNO 2026</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22167</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22167</guid>
+    </item>
+    <item>
       <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22165</title>
       <description>Divieto di sosta ed interdizione della circolazione di tutti i veicoli dalle ore 08:00 alle ore 17:00 del giorno  di Mercoledì 20 Maggio 2026 in  Via Umberto I° nel suo tratto compreso tra la Via Roma e la Via Marco Minghetti.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22165</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22123</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22123</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22122</title>
-      <description>INDIVIDUAZIONE DI UN LEGALE COSTITUZIONE PARTE CIVILE DEL COMUNE DI SAN GIUSEPPE JATO NEL PROCEDIMENTO PENALE N. 2024/9912 INNANZI IL TRIBUNALE DI PALERMO  A CARICO DEI SIGG. S.M.,S.G.S.C.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22122</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22122</guid>
     </item>
   </channel>
 </rss>
