@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22168</title>
+      <description>ORDINANZA DI DEMOLIZIONE FRUSTIERI-MARTELLO-NEGLIA</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22168</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22168</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22167</title>
       <description>AGGIORNAMENTO COSTO DI COSTRUZIONE ANNO 2026</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22167</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22124</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22124</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22123</title>
-      <description>TRASFERIMENTO PER MOBILITÀ INTERNA D'UFFICIO TRA IL SETTORE FINANZIARIO E TRIBUTI ED  IL SETTORE TECNICO E LL.PP..</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22123</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22123</guid>
     </item>
   </channel>
 </rss>
