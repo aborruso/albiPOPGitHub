@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>VERBALE ESITO PROCEDURA SELETTIVA AVVISO PUBBLICO DI MANIFESTAZIONE DI INTERESSE CONCESSIONE IN USO LOCALI E ATTREZZATURE SCOLASTICHE SCUOLA PRIMARIA DI MIRABELLO PER SVOLGIMENTO DI ATTIVITA' EXTRASCOLASTICHE AA.SS. 2026/2027-2027/2028-2028/2029.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=711</link>
-      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=711</guid>
-    </item>
-    <item>
       <title>PUBBLICAZIONE ALBO PRETORIO</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=712</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=732</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=732</guid>
+    </item>
+    <item>
+      <title>INTERVENTI DI MESSA IN SICUREZZA PERMANENTE DEL SITO ORFANO EX MACERI approvazione progetto prima variante</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=733</link>
+      <pubDate>Sat, 23 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=733</guid>
     </item>
   </channel>
 </rss>
