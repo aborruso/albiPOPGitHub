@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 22204</title>
+      <description>Richiesta affissione all'Albo Pretorio on-line ai sensi dell'art. 60 D.P.R. 29/09/73 n. 600 vedi elenco</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22204</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22204</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22203</title>
+      <description>RILASCIO CONTRASSEGNO DISABILE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22203</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22203</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22202</title>
+      <description>Liquidazione  fattura n 1026094988 del 23-04-2026 CIG BAD3BA13DA fattura n 1026094988 del 23-04-2026 CIG BAD3BA13DA fattura n 1026105294 del 15-05-2026 CIG BB14991C52 fattura n 1026105294 del 15-05-2026 CIG BB14991C52 fattura n 1026105295 del 15-05-2026 CIG BB14991C52 fattura n 1026105295 del 15-05-2026 CIG BB14991C52 beneficiario Poste italiane s.p.a. mese di marzo 2026:</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22202</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22202</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22201</title>
       <description>Affidamento diretto alla ditta Immedia S.p.A. per la fornitura e il servizio di riparazione e installazione di n. 1 scheda di alimentazione per il rilevatore presenze presso la sede comunale decentrata "Centro Diurno"</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22201</link>
@@ -288,27 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22162</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22162</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22161</title>
-      <description>AFFIDAMENTO DIRETTO TRAMITE ADESIONE ACCORDO QUADRO CONSIP BUONI  PASTO 11 LOTTO 12  CON LA SOCIETA' 360 WELFARE S.R.L. PER  IL SERVIZIO FORNITURA DI BUONI PASTO AL PERSONALE DIPENDENTE PER IL PERIODO GENNAIO/DICEMBRE 2025 IMPEGNO DI SPESA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22161</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22161</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22160</title>
-      <description>MODIFICA DETERMINAZIONE DIRIGENZIALE N. 47 DEL 02/02/2026. AUTORIZZAZIONE LAVORO STRAORDINARIO PER L'ANNO 2026.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22160</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22160</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22159</title>
-      <description>RETTIFICA N. 207 DEL 21.04.2026 " ASSEGNAZIONE RESPONSABILITÀ DEI SERVIZI, DEGLI UFFICI FINO AL 30.06.2026 E COMUNQUE FINO A NUOVO PROVVEDIMENTO DI NOMINA".</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22159</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22159</guid>
     </item>
   </channel>
 </rss>
