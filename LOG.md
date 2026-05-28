@@ -1,5 +1,9 @@
 # LOG.md
 
+## 2026-05-28
+
+- c_a070 (Agira EN): aggiunto nuovo albo — sito JCityGov su `trasparenza-valutazione-merito.it`, stesso pattern `papca/igrid` di Bagheria (c_a546) e Siderno (c_i725); feed generato con rsspls, nessun proxy necessario
+
 ## 2026-05-05
 
 - Audit workflow: identificati 2 workflow in fallimento continuo (c_a965, c_e047) e 1 intermittente (c_a638)

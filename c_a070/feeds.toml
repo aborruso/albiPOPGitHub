@@ -1,0 +1,14 @@
+# The configuration must start with the [rsspls] section
+[rsspls]
+output = "../docs/c_a070"
+
+# Next is the array of feeds, each one starts with [[feed]]
+[[feed]]
+title = "AlboPOP del comune di Agira"
+filename = "feed.xml"
+
+[feed.config]
+url = "https://agira.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/igrid/589/470"
+item = "tbody tr:nth-child(n+2)"
+heading = "td.oggetto.text"
+link = "a[title=\"Apri Dettaglio\"]"
