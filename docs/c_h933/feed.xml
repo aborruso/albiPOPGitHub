@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 22236</title>
+      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE URGENTE GIORNO 28.05.2026 ALLE ORE 21:00</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22236</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22236</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22235</title>
       <description>ATTRIBUZIONE DI SPECIFICHE RESPONSABILITA' E DELLA RELATIVA INDENNITA' AL RESPONSABILE DELL'UFFICIO SCOLASTICO- ISTRUTTORE GIUSEPPA RIZZO</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22235</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22194</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22194</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22193</title>
-      <description>LIQUIDAZIONE VERSAMENTO AGENZIA DELLE ENTRATE DELL'IMPOSTA DI REGISTRO IN RELAZIONE ALLA SENTENZA CIVILEN. 680/2025 G.F. C/O COMUNE SAN GIUSEPPE JATO.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22193</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22193</guid>
     </item>
   </channel>
 </rss>
