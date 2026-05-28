@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 22237</title>
+      <description>Avviso di deposito atto in Casa Comunale ai sensi dell'art.n 60 dei DPR. 29/09/1973, n. 600, 1° comma, lett. E vedi elenco</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22237</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22237</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 22236</title>
       <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE URGENTE GIORNO 28.05.2026 ALLE ORE 21:00</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22236</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22195</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22195</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22194</title>
-      <description>Rimborsi ai sensi della L.R. 30/2000 e successive modifiche ed integrazioni, cariche elettive Società Consortile Servizi Ausiliari Sicilia s.c.p.a. - Liquidazione periodo Aprile/Dicembre 2025 (Presidente del Consiglio Dr. Antonino Liuzza).</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22194</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22194</guid>
     </item>
   </channel>
 </rss>
