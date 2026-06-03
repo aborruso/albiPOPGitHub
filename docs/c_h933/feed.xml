@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DEL SINDACO | Pubblicazione numero 22260</title>
+      <description>08-Conferimento incarichi di Responsabili di E.Q per l'anno 2026 - Settore TecnicoManutentivo. Attribuzione delle funzioni dirigenziali di cui all'art. 107 del TUEL 267/2000 e ss.mm.ii.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22260</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22260</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22259</title>
       <description>ACCERTAMENTO ENTRATA VERBALI PER VIOLAZIONE ART. 142 DIVERSI COMMI  E SUCCESSIVI DEL CDS (AUTOVELOX ) E RELATIVO PRELEVAMENTO  PERIODO 23/03/2006 AL 17/05/2026.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22259</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22218</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22218</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22217</title>
-      <description>ISCRIZIONE OBBLIGATORIA AL T.S.N. PER L'ANNO 2026, AI SENSI DELL'ART. 251 DEL D.L.VO 15/03/10 N. 66 CON RILASCIO ATTESTATI DI FREQUENZA AL CORSO REGOLAMENTARE DI TIRO A SEGNO -</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22217</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22217</guid>
     </item>
   </channel>
 </rss>
