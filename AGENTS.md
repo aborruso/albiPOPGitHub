@@ -50,6 +50,7 @@ Keep this managed block so 'openspec update' can refresh the instructions.
 
 ## Security & Configuration Tips
 - Secrets such as IFTTT tokens are injected via GitHub Actions (`SUPER_SECRET`); never hard-code them in scripts or configs.
+- A web proxy is available via the repo secret `PROXY_URL`. Use it as a fallback when a source site blocks GitHub Actions runners (e.g. Azure IP ranges cause timeouts). Prepend `${{ secrets.PROXY_URL }}` to the target URL in the workflow. Never write the actual proxy URL in any file tracked by git.
 - When adding new workflows, mirror existing ones under `.github/workflows/`, reusing the dependency install block to keep tool versions aligned.
 - When creating issues from CLI, avoid shell interpolation bugs: do not pass Markdown with backticks directly in double quotes to `--body`. Prefer `--body-file` or a single-quoted heredoc.
 - Safe pattern example:

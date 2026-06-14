@@ -136,6 +136,13 @@ When creating issues from CLI, avoid shell interpolation bugs:
 - Workflows copy tools to `~/bin`, install deps, run the municipality script
 - Generated feeds in `docs/` are served via GitHub Pages
 
+### Secrets disponibili nei workflow
+
+| Secret | Descrizione |
+|--------|-------------|
+| `IFTTT` | webhook IFTTT per notifiche |
+| `PROXY_URL` | URL di un proxy web da usare come ruota di scorta quando il sito sorgente blocca i runner GitHub (es. IP Azure). Usare come prefisso all'URL da scrapare. **Non scrivere mai il valore in chiaro nella history git.** |
+
 ## Key Files
 
 - `risorse/feedTemplate.xml`: RSS skeleton with Creative Commons license
