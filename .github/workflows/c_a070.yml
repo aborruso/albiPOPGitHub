@@ -34,7 +34,10 @@ jobs:
         export PATH=$PATH:~/bin
         cd ./c_a070
         chmod +x ./c_a070.sh
-        ./c_a070.sh
+        for i in 1 2 3; do
+          ./c_a070.sh && break
+          [ $i -lt 3 ] && echo "Tentativo $i fallito, riprovo tra 30s..." && sleep 30
+        done
     - name: Committa e pusha se ci sono variazioni nei dati
       run: |-
         git config user.name "automatico"
