@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#PERMESSO DI COSTRUIRE | Pubblicazione numero 22349</title>
+      <description>09-PERMESSO DI DI COSTRUIRE N.9 DEL 11.06.2026 ditta omissis</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22349</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22349</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22348</title>
       <description>APPROVAZIONE ATTI DI CONTABILITÀ FINALE RELATIVA LAVORI DI MANUTENZIONE STRAORDINARIA DEL CAMPO DA TENNIS CON RIFACIMENTO DEL MANTO E LA RIMODULAZIONE DELLE RETI DI RECINZIONE NEL COMUNE DI SAN GIUSEPPE JATO (PA) - CUP: D92F25000440002</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22348</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22308</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22308</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22307</title>
-      <description>IMPEGNO SOMME RELATIVA ALL'ATTIVITA' DI POTENZIAMENTO GRUPPO PIANO E UFFICIO PIANO  PAGAMENTO "POCKET MONEY".</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22307</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22307</guid>
     </item>
   </channel>
 </rss>
