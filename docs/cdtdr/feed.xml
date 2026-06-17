@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>APPROVAZIONE SCHEMA DI INTEGRAZIONE ACCORDO EX ARTICOLO 15 DELLA LEGGE 7 AGOSTO 1990 N. 241, TRA L'UNIONE RENO GALLIERA E IL COMUNE DI TERRE DEL RENO, PER LO SVOLGIMENTO DELLE PROCEDURE DI GARA, AI SENSI DEL D.LGS 36/2023</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=798</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=798</guid>
-    </item>
-    <item>
-      <title>MANIFESTAZIONI ED INIZIATIVE A CARATTERE CULTURALE, RICREATIVO E DEL TEMPO LIBERO ANNO 2026 - CONCESSIONE CONTRIBUTI ECONOMICI</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=799</link>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=799</guid>
-    </item>
-    <item>
       <title>CONCORSO PUBBLICO PER ESAMI PER ASSUNZIONI A TEMPO INDETERMINATO DI "ISTRUTTORE TECNICO" AREA DEGLI ISTRUTTORI Assunzioni già programmate:</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=800</link>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=818</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=818</guid>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO N. 5 ATTI NELLA CASA COMUNALE- RISULTATI IRREPERIBILI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=819</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=819</guid>
+    </item>
+    <item>
+      <title>AVVISO DI DEPOSITO N. 2 ATTI NELLA CASA COMUNALE- RISULTATI IRREPERIBILI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=820</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=820</guid>
     </item>
   </channel>
 </rss>
