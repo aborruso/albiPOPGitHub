@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 22421</title>
+      <description>33-APPROVAZIONE "REGOLAMENTO ASILO NIDO COMUNALE"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22421</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22421</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 22420</title>
+      <description>32-PERMESSI AMMINISTRATORI LOCALI ART. 1, COMMA 2, L.R. N. 41/2026 AUTORIZZAZIONE APPLICAZIONE.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22420</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22420</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 22419</title>
+      <description>30-VARIAZIONE AL BILANCIO DI PREVISIONE FINANZIARIO 2026/2028 (ART. 175 COMMA 2 DEL D.LGS. N. 267/2000) SPESA PER IL PERSONALE PER GLI ANNI 2026/2028 PROGRESSIONI ECONOMICHE ORIZZONTALI AL PERSONALE DIPENDENTE PER GLI ANNI 2026/2028.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22419</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22419</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22418</title>
       <description>AGGIORNAMENTO DI INTESTAZIONE DI CONCESSIONE DI TERRENO NEL CIMITERO COMUNALE A NOME DI PIEDISCALZI GIANNI.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22418</link>
@@ -288,27 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22376</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22376</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22375</title>
-      <description>Liquidazione  fattura n FPA 40/26 del 10-06-2026 CIG B6FA184B18 beneficiario Pizzimenti vincenzo - old dress per il servizio di raccolta e conferimento del rifiuto abbigliamento usato codice CER 20.01.10. Maggio 2026.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22375</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22375</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22374</title>
-      <description>IMPEGNO DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22374</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22374</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22373</title>
-      <description>LIQUIDAZIONE DELLA FATTURA N°00153/VS DEL 29/05/2026 A FAVORE DELL'OPERATORE ECONOMICO VEZZANI SPA, PER LA FORNITURA DI UN CROCIFISSO IN BRONZO DA COLLOCARE SU UNA STRUTTURA IN FERRO ANNESSO AI LAVORI DI MANUTENZIONE STRAORDINARIA DELLA CAPPELLA COMMEMORATIVA MISSIONE CUSMANIANA DEL 1954, NEL COMUNE DI SAN GIUSEPPE JATO (PA). CUP:D92F25000220002</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22373</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22373</guid>
     </item>
   </channel>
 </rss>
