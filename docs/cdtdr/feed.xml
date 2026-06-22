@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>ACCERTAMENTO CONTABILE PROVVEDIMENTI IMU EMESSI MAGGIO 2026 ANNI DAL 2021 AL 2024</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=804</link>
-      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=804</guid>
-    </item>
-    <item>
       <title>IMPEGNO DI SPESA PER L'INTERVENTO DI RIPARAZIONE DI 2 TELI IN PVC DELLA BARACCHINA DI MIRABELLO. AFFIDAMENTO DIRETTO ALLA DITTA MANTOVANI VANES SAS</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=805</link>
       <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=828</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=828</guid>
+    </item>
+    <item>
+      <title>PUBBLICAZIONE ALBO PRETORIO (REG. NOT. 329/2026)</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=829</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=829</guid>
     </item>
   </channel>
 </rss>
