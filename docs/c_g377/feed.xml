@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/06/2026 | Avvisi Vari</title>
+      <description>AVVISO ESPLORATIVO PER MANIFESTAZIONE D'INTERESSE PER l'ASSEGNAZIONE DI N. 4 POSTI DI ORMEGGIO TEMPORANEO (NON CONTEMPORANEI), DI NATANTI DA DIPORTO AD USO TURISTICO COMMERCIALE PER IL COLLEGAMENTO DIRETTO DIURNO E NOTTURNO CON LE ISOLE EOLIE).</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14804</link>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14804</guid>
+    </item>
+    <item>
       <title>22/06/2026 | Determinazioni Dirigenziali</title>
       <description>Convenzione tra il Comune di Patti e l'Associazione Rangers International, delegazione di Patti per pulizia delle aree comunali destinate a verde pubblico. Impegno somme per rimborso spese per l'attività svolta dal 01.09.2025 al 31.03.2026.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14803</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14770</link>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14770</guid>
-    </item>
-    <item>
-      <title>17/06/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>RIMBORSO SPESE DI VIAGGIO SOSTENUTE DALL'ING. SCAFFIDI TINDARO PINO PER IL PERIODO DA OTTOBRE 2025 A MAGGIO 2026 - LIQUIDAZIONE</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14769</link>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14769</guid>
     </item>
   </channel>
 </rss>
