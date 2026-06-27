@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>AFFIDAMENTO DIRETTO TRAMITE IL PORTALE MEPA, AI SENSI DELL'ART. 50, COMMA 1, LETT. A) DEL D.LGS. 36/2023, PER L'ESECUZIONE DELLE OPERE DI COMPLETAMENTO PRESSO IL NUOVO POLO SANITARIO DI SANT'AGOSTINO - CUP I26B13000070006</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=825</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=825</guid>
-    </item>
-    <item>
-      <title>STRETTOIA E SENSO UNICO ALTERNATO CON TRANSITO ALTERNATO A VISTA IN PIAZZA POLA 17 18 20 PER ML 30</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=827</link>
-      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=827</guid>
-    </item>
-    <item>
       <title>Avviso Deposito Atti Rev.Sem.Mod.11</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=828</link>
       <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=849</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=849</guid>
+    </item>
+    <item>
+      <title>Pubblicazione di matrimonio di Giovanardi Mattia e Nannini Alessandra</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=850</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=850</guid>
+    </item>
+    <item>
+      <title>Pubblicazione di matrimonio di Cardi Michele e Marzullo Giuseppina</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=851</link>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=851</guid>
     </item>
   </channel>
 </rss>
