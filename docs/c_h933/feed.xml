@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22496</title>
+      <description>"Modifica parziale dell'Ordinanza Dirigenziale  n. 28 del 23/06/2026 relativamente agli orari dell'interdizione della circolazione e divieto  della sosta di tutti i veicoli in Piazza Falcone-Borsellino di questo Comune e deviazione del traffico veicolare per vie alternative durante lo svolgimento dell'Evento di "JATO EXPO 2026 Le eccellenze del territorio in mostra".</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22496</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22496</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22495</title>
       <description>LIQUIDAZIONE - CONCESSIONE CONTRIBUTO ALL'ASSOCIAZIONE "CASA DELLA mUSICA APS" PER LA REALIZZAZIONE E GESTIONE DEL PROGETTO "LUGLIO IN FESTA"</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22495</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22454</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22454</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22453</title>
-      <description>Liquidazione  fattura n 1000000498 del 18-06-2026 CIG B40F5E9144 beneficiario Unicredit s.p.a.- Servizio di Tesoreria Comunale anno 2025</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22453</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22453</guid>
     </item>
   </channel>
 </rss>
