@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Regolamentazione temporanea della circolazione stradale in occasione della solennità della "Madonna del Monte Carmelo" in Ginosa giorno 16 luglio 2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39096</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39096</guid>
+    </item>
+    <item>
       <title>Determinazione</title>
       <description>Organizzazione del servizio "Colonia Marina per Anziani - Anno 2026". Approvazione preventivo e impegno di spesa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39095</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39035</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39035</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Integrazione impegno di spesa e liquidazione Fatture 289 PA e 290 PA in favore della Ditta Autolinee Dover di Veccaro Cosimo SRL per il servizio di trasporto scolastico ordinario e aggiuntivo effettuato nel mese di Maggio 2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39034</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39034</guid>
     </item>
   </channel>
 </rss>
