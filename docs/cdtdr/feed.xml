@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Avviso Deposito Atti Rev.Sem.Mod.11</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=828</link>
-      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=828</guid>
-    </item>
-    <item>
-      <title>PUBBLICAZIONE ALBO PRETORIO (REG. NOT. 329/2026)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=829</link>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=829</guid>
-    </item>
-    <item>
       <title>INTERVENTO DI RIQUALIFICAZIONE DEL PARCO QUADRIFOGLIO DI MIRABELLO - APPROVAZIONE DEL CERTIFICATO DI REGOLARE ESECUZIONE E LIQUIDAZIONE DEL CREDITO DOVUTO ALL'IMPRESA ESECUTRICE DEI LAVORI</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=831</link>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=851</link>
       <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=851</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER L'ESECUZIONE DI LAVORI NEL TERRITORIO DI MIRABELLO DI COMPLETAMENTO DELLA RECINZIONE ESTERNA DEL NUOVO POLO SCOLASTICO E RIMANEGGIAMENTO DELLE RETI ESISTENTI PRESSO PARCO QUADRIFOGLIO. AFFIDAMENTO TRAMITE PORTALE ME.PA. ALLA DITTA BUSI RECINZIONI SRL.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=852</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=852</guid>
+    </item>
+    <item>
+      <title>CICLOVIA VENTI - Affidamento del servizio di verifica della progettazione esecutiva dell'intervento, ai fini della successiva validazione del progetto da parte del Responsabile Unico del Progetto - Decisione a contrarre e affidamento diretto ai sensi dell'art. 50, comma 1, lett. b), del D.Lgs. 36/2023- impegno di spesa - CUP J35I24000030006</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=853</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=853</guid>
     </item>
   </channel>
 </rss>
