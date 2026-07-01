@@ -17,6 +17,27 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22512</title>
+      <description>LIQUIDAZIONE CONTRIBUTO ALL'ASSOCIAZIONE "RADICI SICILIANE" - PROGETTO TELEVISIVO "US SICILIANS"</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22512</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22512</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22511</title>
+      <description>IMPEGNO IN FAVORE DELL'ASSOCIAZIONE CENTRO DI ACCOGLIENZA PADRE NOSTRO - ONLUS PER LA GESTIONE DEL CENTRO ESTIVO 2026 - CUP D99G26000240001</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22511</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22511</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22510</title>
+      <description>ACCERTAMENTO SOMME IN ENTRATA CONTRIBUTO RIPARTITO CON D.R.S. N. 1754 DEL 03/09/2025 RIPARTO SOMME ASSEGNATE AI SINGOLI COMUNI DELLA REGIONE PER LA FORNITURA GRATUITA' DEI LIBRI DI TESTO L. 448/98 A.S. 2025/2026 PER GLI ALUNNI DELLE SCUOLE SECONDARIE DI PRIMO E SECONDO GRADO.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22510</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22510</guid>
+    </item>
+    <item>
       <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22509</title>
       <description>CONCESSIONE PATROCINIO ONEROSO PER EVENTO "VERDI IN CONCERTO" PROPOSTO DALL'ASSOCIAZIONE CULTURALE MUSICALE "GIUSEPPE MULE'" DI TERMINI IMERESE PRESSO IL GIARDINO DELLA MEMORIA</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22509</link>
@@ -288,27 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22469</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22469</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22468</title>
-      <description>APPROVAZIONE PROGETTO E RICHIESTA CONTRIBUTO PER LA 243° MOSTRA DEGLI ANIMALI DELLA VALLE DELLO JATO.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22468</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22468</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22467</title>
-      <description>PRELEVAMENTO DEL FONDO DI RISERVA  PER INDIVIDUAZIONE DI UN LEGALE AVVERSO L'ATTO DI CITAZIONE PROMOSSO DALLA SIG.RA T.P. C/O COMUNE DI SAN GIUSEPPE JATO.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22467</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22467</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22466</title>
-      <description>INDIVIDUAZIONE DI UN LEGALE AVVERSO IL RICORSO PROMOSSO DAI SIGG. D.M,D.G. C/O COMUNE DI SAN GIUSEPPE JATO DINANZI IL TRIBUNALE AMMINISTRATIVO REGIONALE DELLA SICILIA</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22466</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22466</guid>
     </item>
   </channel>
 </rss>
