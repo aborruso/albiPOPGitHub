@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>PUBBLICAZIONE ALBO PRETORIO (REG. NOT. 312/2026)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=835</link>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=835</guid>
-    </item>
-    <item>
       <title>CONFERMA CONTRIBUTO ASSEGNATO DI CUI AL BANDO A SOSTEGNO ALLE ATTIVITA' D PROSSIMITA' IN LOCALI APERTI AL PUBBLICO CON VETRINA E MICROIMPRESE ARTIGIANE. AUTORIZZAZIONE ALLA LIQUIDAZIONE</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=836</link>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=857</link>
       <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=857</guid>
+    </item>
+    <item>
+      <title>REVOCA SOSPENSIONE DALL'ASSEGNAZIONE DELL'ALLOGGIO E.R.P. SITO IN TERRE DEL RENO NEI CONFRONTI DI SINGOLO COMPONENTE NUCLEO FAMILIARE E AUTORIZZAZIONE AL RIENTRO</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=858</link>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=858</guid>
     </item>
   </channel>
 </rss>
