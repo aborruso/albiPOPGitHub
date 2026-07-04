@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>04/07/2026 | Ordinanze Sindacali</title>
+      <description>ORDINANZA CONTINGIBILE E URGENTE - DIVIETO DI SOMMINISTRAZIONE, VENDITA, CONSUMO E DETENZIONE DI ALIMENTI E BEVANDE IN CONTENITORI DI VETRO E/O IN METALLO, NONCHE' DIVIETO DI SOMMINISTRAZIONE DI BEVANDE SUPERALCOLICHE (21 PER CENTO), IN OCCASIONE DEI CONCERTI   "BIAGIO ANTONACCI - UNPLUGGED 2026" NEI GIORNI 04, 05, 07, 08, 10, 11, 13, 17 E 18 LUGLIO 2026 NELLA FRAZIONE DI TINDARI</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14921</link>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14921</guid>
+    </item>
+    <item>
       <title>03/07/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>Interventi urgenti di rifacimento impermeabilizzazione e manutenzione coperture presso Scuole "V. Bellini", "L. Radice" e "Palazzo Municipale di Piazza Mario Sciacca", diretti ad eliminare pericolo per la pubblica incolumità. - C.I.G. BB7D8547F9.- Approvazione atti di contabilità finale e certificato di regolare esecuzione -  Liquidazione fattura al primo e unico stato di avanzamento</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14920</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14887</link>
       <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14887</guid>
-    </item>
-    <item>
-      <title>01/07/2026 | Determinazioni Dirigenziali</title>
-      <description>PROGETTO  "IMPERATORES MUNDI. ADELASIA DEL VASTO, GRAN CONTESSA DI SICILIA E REGINA DI GERUSALEMME" - 19 APRILE  - 20 E 21 GIUGNO 2026. MANDATO DI ESECUZIONE ATTIVITA' PROGRAMMATE ALL'ASSOCIAZIONE PRO LOCO DI PATTI -   IMPEGNO DI SPESA IN ESECUZIONE DELLA DELIBERA DI G.M. N. 87 del 19/06/2026</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14886</link>
-      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=14886</guid>
     </item>
   </channel>
 </rss>
