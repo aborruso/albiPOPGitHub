@@ -44,26 +44,47 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-# URL di test risposta sito albo
-URLBase="http://www.halleyweb.com/c073007/mc/mc_p_ricerca.php?&pag=0"
+# proxy opzionale (secret PROXY_URL): fallback quando il sito blocca gli IP
+# dei runner GitHub Actions. Vuoto in locale -> richiesta diretta.
+PROXY_URL="${PROXY_URL:-}"
 
-# estrai codici di risposta HTTP dell'albo
-code=$(curl -s -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' -o /dev/null -w "%{http_code}" "$URLBase")
+# scarica un URL: prova diretto, poi via proxy se fallisce. HTML su stdout.
+fetch_url() {
+  local url="$1" out code
+  out="$(mktemp)"
+  code=$(curl -s -L -k --connect-timeout 20 --max-time 60 \
+    -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
+    -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
+    -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
+    -w "%{http_code}" -o "$out" "$url")
+  if [ "$code" != "200" ] && [ -n "$PROXY_URL" ]; then
+    code=$(curl -s -L --connect-timeout 20 --max-time 90 \
+      --retry 3 --retry-delay 3 --retry-connrefused --retry-all-errors \
+      --compressed -w "%{http_code}" -o "$out" "${PROXY_URL}${url}")
+  fi
+  if [ "$code" != "200" ]; then
+    echo "Errore download ($code): $url" >&2
+    rm -f "$out"
+    return 1
+  fi
+  cat "$out"
+  rm -f "$out"
+}
 
-# se il server risponde fai partire lo script
-if [ $code -eq 200 ]; then
+# scarica le pagine dell'albo (0..3) ed estrai i dati
+rm -f "$folder"/rawdata/albi.json
+for i in {0..3}; do
+  fetch_url "http://www.halleyweb.com/c073007/mc/mc_p_ricerca.php?pag=$i" \
+    | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' \
+    | xq -cr '.html.body.tr[].td[5]|[."@data-id",.div[]]|@csv' \
+    | mlr --csv -N cut -x -f 2 \
+    | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,7,inizio,8,fine \
+    >>"$folder"/rawdata/albi.json
+done
 
-  rm "$folder"/rawdata/albi.json
-  for i in {0..3}; do
-    curl -kL 'http://www.halleyweb.com/c073007/mc/mc_p_ricerca.php?pag='"$i"'' \
-      -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0' \
-      -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8' \
-      -H 'Accept-Language: it,en-US;q=0.7,en;q=0.3' --compressed \
-      -H 'Upgrade-Insecure-Requests: 1' \
-      -H 'Pragma: no-cache' \
-      -H 'Cache-Control: no-cache' | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' | xq -cr '.html.body.tr[].td[5]|[."@data-id",.div[]]|@csv' | mlr --csv -N cut -x -f 2 | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,7,inizio,8,fine >>"$folder"/rawdata/albi.json
-  done
-html.body.tr[0]["@data-id"]
+# rigenera il feed solo se sono stati scaricati dati (evita di svuotarlo)
+if [ -s "$folder"/rawdata/albi.json ]; then
+
   # converti lista in TSV
   jq <"$folder"/rawdata/albi.json | mlr --j2t unsparsify then put -S '$rssDate = strftime(strptime($inizio, "%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' then put '$des=gsub($des,"<","&lt")' \
     then put '$des=gsub($des,">","&gt;")' \
@@ -106,4 +127,7 @@ html.body.tr[0]["@data-id"]
 
   cp "$folder"/processing/feed.xml "$output"
 
+else
+  echo "Nessun dato scaricato: feed non aggiornato" >&2
+  exit 1
 fi

@@ -28,6 +28,7 @@ jobs:
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}
+        PROXY_URL: ${{ secrets.PROXY_URL }}
       run: |-
         export PATH=$PATH:~/bin
         cd ./c_e036
