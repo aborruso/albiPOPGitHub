@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza</title>
+      <description>Disciplina temporanea della circolazione stradale per lavori di scavo per conto di AQP - Ginosa e Marina di Ginosa Varie Strade dal 09.07.2026 al 14.08.2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39236</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39236</guid>
+    </item>
+    <item>
       <title>Art. 60 Dpr 29/09/1973</title>
       <description>deposito casa comunale art. 60 atti n. 23</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39235</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39177</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39177</guid>
-    </item>
-    <item>
-      <title>Determinazione</title>
-      <description>Liquidazione fattura in favore di Kolbe Soc. Coop. P. Iva 02873540732 con sede in Anzio (RM) in V.le G. Marconi,171 per servizio di integrazione scolastica e sociale extrascolastica in favore di alunni diversamente abili art.92 R.R. 4/2007 svolta con procedura negoziata ex art.50 comma 1 lettera E) DLGS 36/2023 C.I.G. B569DD3CCD. Periodo Maggio 2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39176</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39176</guid>
     </item>
   </channel>
 </rss>
