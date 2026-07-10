@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>PRELEVAMENTO DAL FONDO DI RISERVA AI SENSI DEGLI ARTT. 166 E 176 DEL D.LGS. 18 AGOSTO 2000, N. 267 PER IL FINANZIAMENTO DELLE SPESE RELATIVE ALL'AFFIDAMENTO TEMPORANEO DEL SERVIZIO DI CENTRALINO E FRONT OFFICE COMUNALE.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=870</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=870</guid>
-    </item>
-    <item>
       <title>AFFIDAMENTO IN APPALTO DEL SERVIZIO DI CENTRALINO E FRONT OFFICE COMUNALE - LINEE DI INDIRIZZO</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=871</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=891</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=891</guid>
+    </item>
+    <item>
+      <title>ATTIVITA' CENTRO PER LE FAMIGLIE DELL'ALTO FERRARESE RELATIVA AGLI INCONTRI PROTETTI DI TUTTI I COMUNI DEL DISTRETTO OVEST. IMPEGNO DI SPESA QUOTA DI COMPETENZA DEL COMUNE DI TERRE DEL RENO ANNO 2026 - periodo GENNAIO-GIUGNO</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=892</link>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=892</guid>
     </item>
   </channel>
 </rss>
