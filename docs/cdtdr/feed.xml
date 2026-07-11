@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>AFFIDAMENTO IN APPALTO DEL SERVIZIO DI CENTRALINO E FRONT OFFICE COMUNALE - LINEE DI INDIRIZZO</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=871</link>
-      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=871</guid>
-    </item>
-    <item>
       <title>APPROVAZIONE DELLA MODIFICA ALLA SOTTOSEZIONE 3.3 DEL PIANO INTEGRATO DI ATTIVITA' E ORGANIZZAZIONE (PIAO) PER IL TRIENNIO 2026-2028, APPROVATO CON DGC N. 27/2026 E S.M.I., AI SENSI DEL D.L. 81/2021, CONVERTITO CON MODIFICAZIONI IN L. N. 113/2021.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=872</link>
       <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=892</link>
       <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=892</guid>
+    </item>
+    <item>
+      <title>Integrazione alll'ordinanza viabile n.43 del 08/07/2026 avente ad oggetto "Modifiche viabili rifacimento della sede stradale di Corso Roma dall'intersezione di Via Mazzini fino alla Via Statale SP66.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=893</link>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=893</guid>
     </item>
   </channel>
 </rss>
