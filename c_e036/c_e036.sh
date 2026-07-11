@@ -77,8 +77,7 @@ for i in {0..3}; do
   fetch_url "http://www.halleyweb.com/c073007/mc/mc_p_ricerca.php?pag=$i" \
     | scrape -be '//table[@id="table-albo"]//tr[td[@data-id]]' \
     | xq -cr '.html.body.tr[].td[5]|[."@data-id",.div[]]|@csv' \
-    | mlr --csv -N cut -x -f 2 \
-    | mlr --c2j --implicit-csv-header rename 1,id,2,mittente,4,des,3,tipo,7,inizio,8,fine \
+    | mlr --c2j --implicit-csv-header rename 1,id,2,pubbl,3,mittente,4,tipo,5,des,8,inizio,9,fine \
     >>"$folder"/rawdata/albi.json
 done
 
@@ -90,7 +89,7 @@ if [ -s "$folder"/rawdata/albi.json ]; then
     then put '$des=gsub($des,">","&gt;")' \
     then put '$des=gsub($des,"&","&amp;")' \
     then put '$des=gsub($des,"'\''","&apos;")' \
-    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine,5,6,7,8 then sort -nr id then reorder -f id,mittente,des,tipo,inizio,rssDate | tail -n +2 >"$folder"/rawdata/albi.tsv
+    then put '$des=gsub($des,"\"","&quot;")' then cut -x -f fine,6,7 then sort -nr id then reorder -f id,pubbl,mittente,des,tipo,inizio,rssDate | tail -n +2 >"$folder"/rawdata/albi.tsv
 
   # crea copia del template del feed
   cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -113,11 +112,11 @@ if [ -s "$folder"/rawdata/albi.json ]; then
 
   # leggi in loop i dati del file TSV e usali per creare nuovi item nel file XML
   newcounter=0
-  while IFS=$'\t' read -r numero mittente oggetto tipo dataInizio rssData; do
+  while IFS=$'\t' read -r numero pubbl mittente oggetto tipo dataInizio rssData; do
     URL="http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=$numero"
     newcounter=$(expr $newcounter + 1)
     xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
-      --subnode "//item[$newcounter]" --type elem -n title -v "$tipo" \
+      --subnode "//item[$newcounter]" --type elem -n title -v "$tipo — n. $pubbl — $mittente" \
       --subnode "//item[$newcounter]" --type elem -n description -v "$oggetto" \
       --subnode "//item[$newcounter]" --type elem -n link -v "$URL" \
       --subnode "//item[$newcounter]" --type elem -n pubDate -v "$rssData" \
