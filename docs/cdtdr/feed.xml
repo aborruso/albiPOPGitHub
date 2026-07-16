@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT B) DEL D.LGS N.36/2023 PER REALIZZAZIONE SPETTACOLO CONCERTO "60 LIRE!"</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=887</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=887</guid>
-    </item>
-    <item>
       <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT B) DEL D.LGS N.36/2023 PER SERVIZIO SERVICE AUDIO E LUCI - REALIZZAZIONE CONCERTO "60 LIRE!"</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=888</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=907</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=907</guid>
+    </item>
+    <item>
+      <title>PROVVEDIMENTI PER LA SALVAGUARDIA DELL'INCOLUMITA' PUBBLICA SUL TERRITORIO COMUNALE DI TERRE DEL RENO A SEGUITO DEGLI EVENTI ATMOSFERICI DEL 15/07/2026.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=908</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=908</guid>
     </item>
   </channel>
 </rss>
