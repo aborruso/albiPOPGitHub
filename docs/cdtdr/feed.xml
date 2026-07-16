@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT B) DEL D.LGS N.36/2023 PER SERVIZIO SERVICE AUDIO E LUCI - REALIZZAZIONE CONCERTO "60 LIRE!"</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=888</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=888</guid>
-    </item>
-    <item>
-      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT B) DEL D.LGS N.36/2023 PER REALIZZAZIONE CONCERTO "ORCHESTRA MATTEO BENSI", E CONTESTUALE IMPEGNO DI SPESA PER SPESE ONERI E DIRITTI SIAE</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=889</link>
-      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=889</guid>
-    </item>
-    <item>
       <title>Pubblicazione di matrimonio di Malossi Mirko e Taddia Monica</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=890</link>
       <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=908</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=908</guid>
+    </item>
+    <item>
+      <title>ABBONAMENTO A "MEMOWEB" DELLA DITTA GRAFICHE E. GASPARI SRL MEDIANTE ADESIONE ALLA PIATTAFORMA ME.PA - RIDETERMINAZIONE DELL'IMPEGNO DI SPESA ASSUNTO CON DET. N. 39/2026 E CONTESTUALE COSTITUZIONE DI SUB-IMPEGNO.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=909</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=909</guid>
+    </item>
+    <item>
+      <title>DETERMINAZIONE A CONTRARRE E AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50 COMMA 1 LETTERA B) DEL D.LGS. 36/2023, PER LA PREDISPOSIZIONE DELLA PRATICA INERENTE LA GESTIONE DELLE EMERGENZE/SAFETY RELATIVA AL CONCERTO ORCHESTRA MATTEO BENSI PREVISTO PER IL GIORNO 15/08/2026</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=910</link>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=910</guid>
     </item>
   </channel>
 </rss>
