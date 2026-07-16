@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DEL SINDACO | Pubblicazione numero 22642</title>
+      <description>14-Rettifica determinazione sindacale n. 13 del 13.07.2026 avente ad oggetto: "Presa atto dimissioni dalla carica dell'assessore comunale Mariano Lo Bianco - nomina assessore comunale e attribuzioni deleghe".</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22642</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22642</guid>
+    </item>
+    <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22641</title>
+      <description>Interdizione della circolazione e divieto  della sosta di tutti i veicoli in Piazza Falcone-Borsellino di questo Comune e deviazione del traffico veicolare per vie alternative durante lo svolgimento dell'Evento musicale di "POVIA, -VIVA LA FESTA-" che si terrà il 18/07/2026.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22641</link>
+      <pubDate>(error)</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22641</guid>
+    </item>
+    <item>
       <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22640</title>
       <description>Divieto di sosta ed interdizione della circolazione di tutti i veicoli dalle ore 21:30 alle ore 24:00 nel giorno  di Venerdì 17 Luglio 2026  in  Piazza Falcone e Borsellino nel suo tratto compreso tra l'intersezione con la Via Piana Degli Albanesi e la Via Agrigento.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22640</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22601</link>
       <pubDate>(error)</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22601</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22600</title>
-      <description>PRELEVAMENTO DAL FONDO DI RISERVA PER INDIVIDUAZIONE DI UN LEGALE AVVERSO LA SENTENZA N.1371/2026 EMESSA DALLA CORTE DI GIUSTIZIA  TRIBUTARIA DI PRIMO GRADO NEL RICORSO PROMOSSO DAL SIG. V.A. C/O COMUNE DI SAN GIUSEPPE JATO.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22600</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22600</guid>
-    </item>
-    <item>
-      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 22599</title>
-      <description>ASSEGNAZIONE FONDI ISTITUTO COMPRENSIVO STATALE DI SAN GIUSEPPE JATO  E.F.2026</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22599</link>
-      <pubDate>(error)</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22599</guid>
     </item>
   </channel>
 </rss>
