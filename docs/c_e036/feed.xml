@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza — n. 2356 — RESPONSABILE III^ SETTORE</title>
+      <description>Manifestazione pubblica denominata "Festa del Grano" - Ginosa dal 19 luglio 2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39318</link>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39318</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico — n. 2355 — BONELLI NICOLA</title>
       <description>Convocazione III Commissione consiliare per il 20 luglio 2026</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39317</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39257</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39257</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 2294 — RESPONSABILE IV^ SETTORE</title>
-      <description>Liquidazione compensi lavoro straordinario Polizia Locale - giugno 2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39256</link>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39256</guid>
     </item>
   </channel>
 </rss>
