@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>22/07/2026 | Atti Pubblicati Su Richiesta Di Altri Enti</title>
+      <description>AVVISO PER MANIFESTAZIONE DI INTERESSE RIVOLTA AI DIPENDENTI TECNICI DI ALTRE PUBBLICHE AMMINISTRAZIONI PER IL CONFERIMENTO DELL'INCARICO DI COLLAUDO STATICO DELLE STRUTTURE PER I LAVORI RELATIVI AGL</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15071</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15071</guid>
+    </item>
+    <item>
       <title>21/07/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>INTERVENTI DI RIQUALIFICAZIONE DELLA PIAZZA MARIO SCIACCA - CUP C42F24000500006 -  CIG B501A2FE92 LIQUIDAZIONE FATTURA FPA 5/26. IMPRESA: S.A.P. - SOCIETA' APPALTI PUBBLICI SRL</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15070</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15036</link>
       <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15036</guid>
-    </item>
-    <item>
-      <title>16/07/2026 | Ordinanze Sindacali</title>
-      <description>ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C) PER STATO DI EMERGENZA IN RELAZIONE AL RISCHIO INCNEDI E ONDATE DI CALORE.-</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15035</link>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15035</guid>
     </item>
   </channel>
 </rss>
