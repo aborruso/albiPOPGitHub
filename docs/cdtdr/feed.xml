@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>EFFICIENTAMENTO ENERGETICO MEDIANTE INTERVENTO DI RELAMPING DI TRE SCUOLE COMUNALI DA FINANZIARSI CON CONTRIBUTI DEL BANDO GSE 2.0 - AUTORIZZAZIONE AL SUBAPPALTO ALLA SOCIETÀ EFFEVI IMPIANTI SRL - CUP J94D25002030001 - CIG BAD40DF74D</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=895</link>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=895</guid>
-    </item>
-    <item>
       <title>Approvazione graduatorie per l'assegnazione giornaliera dei posteggi liberi "spunta" nei mercati del Comune di Terre del Reno. Aggiornamento al 30 giugno 2026.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=896</link>
       <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=918</link>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=918</guid>
+    </item>
+    <item>
+      <title>Convocazione del Consiglio Comunale per il giorno 29-07-2026 alle ore 18:30.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=919</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=919</guid>
     </item>
   </channel>
 </rss>
