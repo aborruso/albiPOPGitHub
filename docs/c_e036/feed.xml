@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza — n. 2439 — SINDACO</title>
+      <description>Reimmissione sul territorio di due cani di proprietà del Comune di Ginosa - così identificati in anagrafe n. microchip: 380260170691752 e 380260170297622.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39401</link>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39401</guid>
+    </item>
+    <item>
       <title>Determinazione — n. 2438 — RESPONSABILE VIII SETTORE</title>
       <description>Approvazione Avviso pubblico per la concessione temporanea dei posteggi per il commercio su aree pubbliche nell'ambito della Fiera e della Festa della Madonna del Rosario 2026.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39400</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39342</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39342</guid>
-    </item>
-    <item>
-      <title>Ordine Del Giorno C.c. — n. 2379 — BONELLI NICOLA</title>
-      <description>Convocazione Consiglio Comunale per il 30 luglio 2026</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39341</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39341</guid>
     </item>
   </channel>
 </rss>
