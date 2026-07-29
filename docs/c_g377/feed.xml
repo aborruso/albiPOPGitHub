@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>29/07/2026 | Avvisi Deposito Atti</title>
+      <description>Deposito atti N129</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15120</link>
+      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15120</guid>
+    </item>
+    <item>
       <title>28/07/2026 | Ordinanze Dirigenziali</title>
       <description>ISTITUZIONE DIVIETO DI TRANSITO E DI SOSTA TEMPORANEI NELLA VIA SANT'ANTONIO ABATE, GIORNO 30 LUGLIO 2026 DALLE ORE 7.00 AL TERMINE DEI LAVORI.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15119</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15086</link>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15086</guid>
-    </item>
-    <item>
-      <title>23/07/2026 | Determinazioni Dirigenziali</title>
-      <description>TINDARI FESTIVAL - 70^ EDIZIONE - ANNO 2026 - " ABUMANESIMO - L'ESSERE, IL NON ESSERE, IL PERIRE" - A BENIAMINO JOPPOLO. AFFIDAMENTO SERVIZIO DI PRESTAZIONE ARTISTICA GIORNO 25 AGOSTO 2026 - SPETTACOLO " NEL NOME DELLA MADRE E DELLA FIGLIA" -  NUTRIMENTI TERRESTRI S.R.L.S.  - CIG BC71466892</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15085</link>
-      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15085</guid>
     </item>
   </channel>
 </rss>
