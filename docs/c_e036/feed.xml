@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico — n. 2482 — CALABRESE GIULIANA</title>
+      <description>Avviso deposito modello 7/D rev. II dinamica</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39444</link>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39444</guid>
+    </item>
+    <item>
+      <title>31/07/2026 — n. 2481 — CALABRESE GIULIANA</title>
+      <description>Avviso deposito modello 7/D rev. II dinamica</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39443</link>
+      <pubDate/>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39443</guid>
+    </item>
+    <item>
       <title>Delibera G.c. — n. 2480 — RESPONSABILE I^ SETTORE</title>
       <description>Rappresentanza in giudizio innanzi alle Corti di Giustizia Tributaria di primo grado Taranto e secondo grado Puglia.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39442</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39385</link>
       <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39385</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 2422 — RESPONSABILE VI SETTORE</title>
-      <description>Liquidazione fattura in favore di Kolbe Soc. Coop. P. Iva 02873540732 con sede in Anzio (RM) in V.le G. Marconi,171 per servizio di integrazione scolastica e sociale extrascolastica in favore di alunni diversamente abili art.92 R.R. 4/2007 svolta con procedura negoziata ex art.50 comma 1 lettera E) DLGS 36/2023 C.I.G. B569DD3CCD. Periodo Giugno 2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39384</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39384</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 2421 — RESPONSABILE VI SETTORE</title>
-      <description>IMPEGNO DI SPESA PER INSERIMENTO IN COMUNITA' ALLOGGIO MESI DAL 01.08.2026 AL 31.12.2026 C/O "CAMMINIAMO INSIEME" GESTITA DA LA VITE SOC. COOP. SOC. ARL. CIG: BC77E5C9A7</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39383</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39383</guid>
     </item>
   </channel>
 </rss>
