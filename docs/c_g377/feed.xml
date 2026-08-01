@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>01/08/2026 | Ordinanze Dirigenziali</title>
+      <description>REGOLAMENTAZIONE DELLA VIABILITA' IN OCCASIONE DEI FESTEGGIAMENTI IN ONORE DI SAN TEODORO- FRAZ.SORRENTINI, DAL 2 AL 9 AGOSTO 2026.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15159</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15159</guid>
+    </item>
+    <item>
       <title>31/07/2026 | Ordinanze Dirigenziali</title>
       <description>ISTITUZIONE DIVIETO DI TRANSITO E DI SOSTA NELLA CORSIA LATO MARE DEL LUNGOMARE CAP.F.ZUCCARELLO - TRATTO VIA SANTA CATERINA/VIA D'ANNUNZIO, DA GIORNO 1 A GIORNO 31 AGOSTO 2026, DALLE ORE 21.00 ALLE ORE 02.00.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15158</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15125</link>
       <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15125</guid>
-    </item>
-    <item>
-      <title>29/07/2026 | Determinazioni Dirigenziali</title>
-      <description>AFFIDAMENTO INCARICO LEGALE ALL'AVV. RANERI LUCIA PER LA COSTITUZIONE NELL'ATTO D'APPELLO PROMOSSO DALLA SIG.RA ERMITO ROSETTA AVVERSO LA SENTENZA N.82/2025 DEL GIUDICE DI PACE DI PATTI. CIG.N.BC8AC1896B.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15124</link>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15124</guid>
     </item>
   </channel>
 </rss>
