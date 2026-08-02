@@ -1,5 +1,9 @@
 # LOG.md
 
+## 2026-08-02
+
+- c_a070 (Agira EN): fallimenti intermittenti del workflow (01/08 e 02/08, in fascia serale) — la fonte non accetta connessioni dagli IP dei runner GitHub (`client error (Connect)`, timeout), mentre da locale risponde 200. Aggiunto fallback via secret `PROXY_URL` sul modello di c_e036, adattato a rsspls: tentativo diretto, poi `feeds.toml` temporaneo fuori dal repo (il workflow fa `git add -A`) con url proxato e output assoluto. Il prefisso proxy viene rimosso dal feed prima della pubblicazione, con guardia `grep -F` che blocca il `cp` se restasse: il valore del secret non entra in `docs/` né nella history. Marcatori `fetch: diretto` / `fetch: via proxy` nel log. Passato `PROXY_URL` all'env del workflow. Chiude #12
+
 ## 2026-07-08
 
 - c_e036 (Ginosa TA): feed fermo dal 14/06 — il sito halleyweb blocca gli IP dei runner GitHub (`code=000`) e la vecchia guardia `if [ code -eq 200 ]` saltava tutto in silenzio lasciando il workflow verde. Aggiunta funzione `fetch_url` con fallback via secret `PROXY_URL`, rigenerazione feed solo se ci sono dati (mai svuotarlo) ed `exit 1` in caso di download fallito. Passato `PROXY_URL` all'env del workflow.
