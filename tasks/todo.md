@@ -40,6 +40,7 @@ Scelte che si sono discostate dal piano iniziale, tutte per non esporre il secre
 - **Guardia `grep -F` prima del `cp`.** Se la rimozione del prefisso fallisse, lo script esce 1 e non pubblica nulla, invece di committare il secret.
 - **`awk` invece di `sed` per generare il toml.** Nel testo di sostituzione di `sed` il carattere `&` ha significato speciale: se il secret contenesse una query string con `&`, l'URL uscirebbe corrotto. `awk -v` passa il valore alla lettera.
 - **`|| true` sulla curl di verifica.** Senza, con proxy irraggiungibile `set -e` uccideva lo script prima del messaggio diagnostico; ora stampa `codice 000` e si capisce cosa è successo.
+- **Guardia sul numero di item.** Il proxy può rispondere 200 con una pagina che non matcha i selettori: `rsspls` scriverebbe un feed valido ma vuoto, che sovrascriverebbe quello buono. Vale la regola già scritta per c_e036 il 2026-07-08 («mai svuotarlo»): se il feed via proxy ha zero item, si esce 1 senza pubblicare.
 
 Test eseguiti in locale, su una copia dello script con il tentativo diretto forzato a fallire:
 
@@ -49,6 +50,7 @@ Test eseguiti in locale, su una copia dello script con il tentativo diretto forz
 | proxy corretto | `fetch: via proxy`, feed **byte-identico** al diretto, zero tracce del proxy |
 | proxy con forma sbagliata | `Errore: anche il proxy fallisce (codice 400)`, feed pubblicato intatto |
 | proxy irraggiungibile | `Errore: anche il proxy fallisce (codice 000)`, feed pubblicato intatto |
+| proxy 200 ma pagina che non matcha | `Errore: feed via proxy senza item, non lo pubblico`, feed pubblicato intatto |
 
 Dir temporanee rimosse dal `trap` in tutti i casi.
 
@@ -56,4 +58,5 @@ Dir temporanee rimosse dal `trap` in tutti i casi.
 
 - Il ramo proxy **non è ancora stato esercitato in CI**: i blocchi sono intermittenti e il run di verifica è passato dal percorso diretto, come previsto. La prossima volta che la fonte blocca il runner, il marcatore `fetch: via proxy` nel log dirà se ha funzionato.
 - La forma del secret `PROXY_URL` resta non verificata direttamente (GitHub non ne espone il valore). Se non fosse un prefisso puro, il log mostrerà `Errore: anche il proxy fallisce` con un codice HTTP invece di fallire in modo opaco.
+- Sul **percorso diretto** `rsspls` continua a scrivere dritto in `docs/`, senza la guardia sul numero di item: se un giorno la fonte rispondesse 200 con una pagina cambiata, il feed si svuoterebbe. È un comportamento pre-esistente, non toccato da questa modifica; da valutare a parte, vale per tutti i comuni che usano rsspls.
 - Stesso fallback per altri comuni che falliscono (`c_h933`, `c_a638`, `c_a546`): fuori scope, da valutare a parte.
