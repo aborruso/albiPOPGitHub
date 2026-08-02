@@ -2,6 +2,7 @@
 
 ## 2026-08-02
 
+- c_h933 (San Giuseppe Jato PA): feed fermo dal 28/07 — dal rinnovo del certificato (27/07) il server non invia più l'intermedio Actalis, la catena non si chiude e sia il controllo con curl (exit 60) sia `scrape` si fermano sull'errore TLS. Download spostato su `curl -k` con HTML passato a `scrape` da file. Corretta anche la data degli item, sbagliata da prima: si leggeva `td[3].div[0]`, che è il numero di registro generale e non una data, e tutti e 42 gli item avevano `pubDate(error)`; ora si usa `td[4].div[0]`, la data di inizio pubblicazione. Sostituito l'`if [ $code -eq 200 ]` che usciva 0 in silenzio con un fail-fast, e aggiunte guardie prima della pubblicazione: nessun dato estratto, feed senza item o date non convertite fermano lo script senza toccare il feed buono. Chiude #13
 - c_a070 (Agira EN): fallimenti intermittenti del workflow (01/08 e 02/08, in fascia serale) — la fonte non accetta connessioni dagli IP dei runner GitHub (`client error (Connect)`, timeout), mentre da locale risponde 200. Aggiunto fallback via secret `PROXY_URL` sul modello di c_e036, adattato a rsspls: tentativo diretto, poi `feeds.toml` temporaneo fuori dal repo (il workflow fa `git add -A`) con url proxato e output assoluto. Il prefisso proxy viene rimosso dal feed prima della pubblicazione, con guardia `grep -F` che blocca il `cp` se restasse: il valore del secret non entra in `docs/` né nella history. Marcatori `fetch: diretto` / `fetch: via proxy` nel log. Passato `PROXY_URL` all'env del workflow. Chiude #12
 
 ## 2026-07-08
