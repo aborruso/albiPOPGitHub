@@ -1,62 +1,28 @@
-# c_a070 (Agira): fallback proxy quando la fonte blocca i runner GitHub
+# Workflow in errore: analisi e correzioni del 2026-08-02
 
-## Problema
+Quattro comuni con workflow rosso o feed non aggiornato. Ognuno si è rivelato un problema diverso, con una causa diversa. Il racconto completo di ogni intervento sta in `LOG.md`; qui restano il quadro d'insieme e ciò che è rimasto aperto.
 
-Il workflow `crea feed RSS c_a070` fallisce a intermittenza (01/08 11:48 e 20:34, 02/08 20:36) con `client error (Connect) → operation timed out`: gli IP dei runner GitHub non riescono ad aprire la connessione verso `agira.trasparenza-valutazione-merito.it`. Da locale il sito risponde 200 in 1,3s e `rsspls` genera regolarmente un feed di 20 item: non è un problema di selettori.
+## Stato
 
-## Verifiche già fatte
+| comune | problema | soluzione | issue |
+|---|---|---|---|
+| c_a070 Agira | la fonte rifiuta le connessioni da parte degli IP dei runner, in modo intermittente | fallback via proxy (`PROXY_URL`), con il valore del secret tenuto fuori da `docs/` e dalla history | [#12](https://github.com/aborruso/albiPOPGitHub/issues/12) |
+| c_h933 San Giuseppe Jato | dal rinnovo del 27/07 il server non invia il certificato intermedio; inoltre le date degli item erano lette dalla colonna sbagliata | download con `curl -k` passato a `scrape` da file; data presa da `td[4]`; fail-fast al posto dell'`if` silenzioso | [#13](https://github.com/aborruso/albiPOPGitHub/issues/13) |
+| c_a638 Barcellona P.G. | la fonte blocca per IP: l'esito dipende dal runner assegnato, non dall'ora | job `ritenta` su un runner nuovo, unico modo di cambiare IP; rimosso il retry interno, che era inutile | [#14](https://github.com/aborruso/albiPOPGitHub/issues/14) |
+| c_a546 Bagheria | token di sessione `p_auth` nei link: i lettori RSS riproponevano come nuovi tutti gli atti a ogni aggiornamento | token rimosso dal feed dopo la generazione | [#15](https://github.com/aborruso/albiPOPGitHub/issues/15) |
 
-- Gli `href` nell'HTML sorgente sono **assoluti** → passare dal proxy non altera i link degli item.
-- Il worker proxy accetta host arbitrari nella forma `<PROXY_URL><url>` (testato: 200, stesso payload).
-- Test locale del percorso proxy: feed generato **byte-identico** a quello del percorso diretto, dopo aver rimosso il prefisso proxy dal `<channel><link>`.
+Tutti e quattro verificati con un run forzato su GitHub, verde, e con il feed su Pages controllato (validità, numero di item, contenuto).
 
-## Fase 1 — tracciamento
+## Cosa si è imparato
 
-- [x] Aprire issue GitHub sul fallimento intermittente di c_a070 → #12
-
-## Fase 2 — modifica script `c_a070/c_a070.sh`
-
-- [x] Tentare `rsspls` diretto sul `feeds.toml` versionato (comportamento attuale, invariato in locale)
-- [x] Se fallisce e `PROXY_URL` è valorizzato: generare un `feeds.toml` temporaneo con `mktemp` (fuori dal repo, `trap ... EXIT`) con `url` prefissato dal proxy e `output` **assoluto**
-- [x] Dopo la generazione via proxy: `sed` per rimuovere il prefisso dal feed, così il valore del secret non finisce mai in `docs/` né nella history git
-- [x] Marcatori in log (`fetch: diretto` / `fetch: via proxy`) per rendere diagnosticabile il percorso seguito
-
-## Fase 3 — workflow `.github/workflows/c_a070.yml`
-
-- [x] Aggiungere `PROXY_URL: ${{ secrets.PROXY_URL }}` nel blocco `env` (senza, il ramo proxy è codice morto)
-
-## Fase 4 — verifica e chiusura
-
-- [x] Test locale: percorso diretto invariato, feed in `docs/c_a070/feed.xml` identico
-- [x] Commit con `Closes #12` e push
-- [x] Run manuale del workflow e lettura log
-- [x] Aggiornare `LOG.md`
-
-## Review
-
-Scelte che si sono discostate dal piano iniziale, tutte per non esporre il secret:
-
-- **Non solo toml temporaneo, ma intera generazione fuori dal repo.** `rsspls` scrive dove dice il toml, quindi l'output del ramo proxy va in una dir temporanea; il feed arriva in `docs/` con un `cp` finale solo dopo essere stato ripulito. Così un errore a metà strada non può lasciare in `docs/` un feed con dentro l'URL del proxy.
-- **Guardia `grep -F` prima del `cp`.** Se la rimozione del prefisso fallisse, lo script esce 1 e non pubblica nulla, invece di committare il secret.
-- **`awk` invece di `sed` per generare il toml.** Nel testo di sostituzione di `sed` il carattere `&` ha significato speciale: se il secret contenesse una query string con `&`, l'URL uscirebbe corrotto. `awk -v` passa il valore alla lettera.
-- **`|| true` sulla curl di verifica.** Senza, con proxy irraggiungibile `set -e` uccideva lo script prima del messaggio diagnostico; ora stampa `codice 000` e si capisce cosa è successo.
-- **Guardia sul numero di item.** Il proxy può rispondere 200 con una pagina che non matcha i selettori: `rsspls` scriverebbe un feed valido ma vuoto, che sovrascriverebbe quello buono. Vale la regola già scritta per c_e036 il 2026-07-08 («mai svuotarlo»): se il feed via proxy ha zero item, si esce 1 senza pubblicare.
-
-Test eseguiti in locale, su una copia dello script con il tentativo diretto forzato a fallire:
-
-| scenario | esito |
-|---|---|
-| percorso diretto | `fetch: diretto`, feed 20 item |
-| proxy corretto | `fetch: via proxy`, feed **byte-identico** al diretto, zero tracce del proxy |
-| proxy con forma sbagliata | `Errore: anche il proxy fallisce (codice 400)`, feed pubblicato intatto |
-| proxy irraggiungibile | `Errore: anche il proxy fallisce (codice 000)`, feed pubblicato intatto |
-| proxy 200 ma pagina che non matcha | `Errore: feed via proxy senza item, non lo pubblico`, feed pubblicato intatto |
-
-Dir temporanee rimosse dal `trap` in tutti i casi.
+- **Ogni comune va diagnosticato per conto suo.** Quattro workflow rossi con lo stesso sintomo apparente («la fonte non risponde») avevano quattro cause diverse. La ricetta di un comune non si copia sull'altro senza verificarne i presupposti: per c_a638 il proxy non arriva alla fonte, e comunque gli href relativi renderebbero i link del feed sbagliati.
+- **Ritentare sullo stesso runner non serve** quando il blocco è per IP. Va cambiato runner.
+- **Mai svuotare o sovrascrivere un feed buono**: ora tutti e quattro gli script si fermano prima di pubblicare se il risultato è vuoto o malformato. Era già la regola scritta per c_e036 il 2026-07-08.
 
 ## Resta aperto
 
-- Il ramo proxy **non è ancora stato esercitato in CI**: i blocchi sono intermittenti e il run di verifica è passato dal percorso diretto, come previsto. La prossima volta che la fonte blocca il runner, il marcatore `fetch: via proxy` nel log dirà se ha funzionato.
-- La forma del secret `PROXY_URL` resta non verificata direttamente (GitHub non ne espone il valore). Se non fosse un prefisso puro, il log mostrerà `Errore: anche il proxy fallisce` con un codice HTTP invece di fallire in modo opaco.
-- Sul **percorso diretto** `rsspls` continua a scrivere dritto in `docs/`, senza la guardia sul numero di item: se un giorno la fonte rispondesse 200 con una pagina cambiata, il feed si svuoterebbe. È un comportamento pre-esistente, non toccato da questa modifica; da valutare a parte, vale per tutti i comuni che usano rsspls.
-- Stesso fallback per altri comuni che falliscono (`c_h933`, `c_a638`, `c_a546`): fuori scope, da valutare a parte.
+- Il ramo proxy di c_a070 **non è ancora stato esercitato in CI**: il blocco è intermittente e i run di verifica sono passati dal percorso diretto. Alla prossima volta il marcatore `fetch: via proxy` nel log lo renderà evidente.
+- Gli iscritti al feed di Bagheria vedranno **un'ultima ondata** di item «nuovi» al primo aggiornamento dopo la correzione: cambiando i guid è inevitabile, non è una regressione.
+- `rsspls` risolve l'`output` del `feeds.toml` rispetto alla **directory corrente**, non al file di configurazione. In CI non si nota, perché i workflow fanno `cd` prima di eseguire; in locale invece il feed finisce fuori dal repo. Sistemato in `c_a546.sh` con un `cd "$folder"`; `c_a070.sh` e `c_a638.sh` hanno ancora la stessa fragilità, innocua in produzione.
+- Fuori dal repo, in `/home/aborruso/git/progetti/docs/`, restano `c_a965` e `c_l109`: feed finiti lì per la stessa ragione, da sessioni di gennaio e ottobre. Da eliminare se non servono.
+- Questo file è tracciato in git, in un repo pubblico dove `tasks/` prima non esisteva. Se preferisci tenerlo fuori dalla history, va aggiunto a `.gitignore`.
