@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>ACQUISTO CANCELLERIA VARIA PER TUTTI GLI UFFICI COMUNALI. AFFIDAMENTO DIRETTO MEDIANTE ADESIONE ALLA PIATTAFORMA ME.PA. -IMPEGNO DI SPESA</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=917</link>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=917</guid>
-    </item>
-    <item>
-      <title>ECCEZIONALI CONDIZIONI METEOROLOGICHE DEL 21 LUGLIO 2026 ATTIVAZIONE CENTRO OPERATIVO COMUNALE (C.O.C.)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=918</link>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=918</guid>
-    </item>
-    <item>
       <title>Convocazione del Consiglio Comunale per il giorno 29-07-2026 alle ore 18:30.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=919</link>
       <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=939</link>
       <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=939</guid>
+    </item>
+    <item>
+      <title>REVISIONE DINAMICA DELLE LISTE ELETTORALI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=940</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=940</guid>
+    </item>
+    <item>
+      <title>CONFERMA ASSEGNAZIONE CONTRIBUTO DI CUI AL BANDO PER SOSTEGNO ALLE ATTIVITA' DI PROSSIMITA' IN LOCALI APERTI AL PUBBLICO CON VETRINA E MICROIMPRESE ARTIGIANE. AUTORIZZAZIONE ALLA LIQUIDAZIONE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=941</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=941</guid>
     </item>
   </channel>
 </rss>
