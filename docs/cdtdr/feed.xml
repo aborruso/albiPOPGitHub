@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Pubblicazione di matrimonio di Saletti Marco e Clementoni Ferraz Teixeira Larissa</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=929</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=929</guid>
-    </item>
-    <item>
-      <title>LETTURA E APPROVAZIONE VERBALI SEDUTA PRECEDENTE DEL 30/04/2026.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=930</link>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=930</guid>
-    </item>
-    <item>
       <title>LETTURA E APPROVAZIONE VERBALI SEDUTA PRECEDENTE DEL 18/05/2026.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=931</link>
       <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=949</link>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=949</guid>
+    </item>
+    <item>
+      <title>FONDO STATALE 2025 PER POTENZIAMENTO SERVIZIO TRASPORTO SCOLASTICO PER ALUNNI IN SITUAZIONE DI DISABILITA' FREQUENTANTI LE SCUOLE SECONDARIE DI 2° GRADO - ACCERTAMENTO ENTRATA E IMPEGNO DI SPESA.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=950</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=950</guid>
+    </item>
+    <item>
+      <title>PROGETTO ESECUTIVO DI BONIFICA PNRR (MISURA M2C4 - INVESTIMENTO 3.4) BONIFICA SITI ORFANI. "AFFIDAMENTO INCARICO PER ESECUZIONE INTEGRAZIONE INDAGINI AMBIENTALI FINALIZZATE ALLA DETERMINAZIONE DEI VALORI DI FONDO MEDIANTE ADESIONE ALLA PIATTAFORMA MEPA". DECISIONE A CONTRARRE E ASSUNZIONE IMPEGNO DI SPESA.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=951</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=951</guid>
     </item>
   </channel>
 </rss>
