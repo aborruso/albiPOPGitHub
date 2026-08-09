@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 22825</title>
-      <description>ELENCO NOMINATIVI ART.60 C.P.C.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22825</link>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22825</guid>
-    </item>
-    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22824</title>
       <description>CONCESSIONE RATEIZZAZIONE TARI ANNI 2025/2026.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22824</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22782</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22782</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI CONSIGLIO COMUNALE | Pubblicazione numero 22781</title>
+      <description>57-COMUNICAZIONI</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22781</link>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22781</guid>
     </item>
   </channel>
 </rss>
