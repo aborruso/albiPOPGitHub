@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>DETERMINAZIONE A CONTRARRE E CONTESTUALE AFFIDAMENTO DIRETTO, NEL MEPA, PER L'AFFIDAMENTO DI SERVIZI INERENTI IL 3 SETTORE ECONOMICO-FINANZIARIO-PARTECIPAZIONI ANNI 2026-2027-2028 - CIG BC8480324F</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=939</link>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=939</guid>
-    </item>
-    <item>
       <title>REVISIONE DINAMICA DELLE LISTE ELETTORALI</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=940</link>
       <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=959</link>
       <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=959</guid>
+    </item>
+    <item>
+      <title>Pubblicazione di matrimonio di Selem Ahmed e Bohsine Zineb</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=960</link>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=960</guid>
     </item>
   </channel>
 </rss>
