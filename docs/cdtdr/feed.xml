@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Convocazione del Consiglio Comunale per il giorno 25-08-2026 alle ore 18:30.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=945</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=945</guid>
-    </item>
-    <item>
       <title>OPERE DI RIQUALIFICAZIONE SPAZIALE E FUNZIONALE DI CORSO ROMA - CUP J97H19001550002 - CIG BAFDD3A2AB - ANTICIPAZIONE CONTRATTUALE AI SENSI DELL'ART. 125, COMMA 1, DEL DLGS. 36/2023</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=946</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=965</link>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=965</guid>
+    </item>
+    <item>
+      <title>PRESA D'ATTO DEL RIPARTO E LIQUIDAZIONE DEGLI INCENTIVI PER FUNZIONI TECNICHE, DI CUI ALL'ART. 113 DEL D.LGS. 50/2016 E SMI, DI CUI ALLA RELAZIONE TECNICA ACCERTATIVA PROT. NUM.: 15550/2026, TRASMESSA AI SENSI DELL'ART. 6 DEL VIGENTE REGOLAMENTO PER LA DISCIPLINA DELLA COSTITUZIONE DEI CRITERI E DELLE MODALITA' DI RIPARTO DEL FONDO PER INCENTIVI PER LE FUNZIONI TECNICHE DEL COMUNE DI TERRE DEL RENO.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=966</link>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=966</guid>
     </item>
   </channel>
 </rss>
