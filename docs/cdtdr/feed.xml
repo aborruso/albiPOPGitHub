@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>OPERE DI RIQUALIFICAZIONE SPAZIALE E FUNZIONALE DI CORSO ROMA - CUP J97H19001550002 - CIG BAFDD3A2AB - ANTICIPAZIONE CONTRATTUALE AI SENSI DELL'ART. 125, COMMA 1, DEL DLGS. 36/2023</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=946</link>
-      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=946</guid>
-    </item>
-    <item>
       <title>ACCERTAMENTO DELLA PROPRIETÀ DEL SEDIME STRADALE DI VIA LA MARMORA IN LOCALITÀ SAN CARLO E ACCORPAMENTO AL DEMANIO STRADALE DEL COMUNE AI SENSI DELL'ART. 31, COMMI 21 E 22, DELLA LEGGE 23 DICEMBRE 1998, N. 448 - CLASSIFICAZIONE</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=947</link>
       <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=966</link>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=966</guid>
+    </item>
+    <item>
+      <title>RIPARTIZIONE E LIQUIDAZIONE QUOTA RESIDUALE DEL FONDO INCENTIVANTE LA PRODUTTIVITA' DEL COMUNE DI TERRE DEL RENO PER L'ANNO 2025.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=967</link>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=967</guid>
     </item>
   </channel>
 </rss>
