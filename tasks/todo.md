@@ -41,7 +41,7 @@ Issue [#16](https://github.com/aborruso/albiPOPGitHub/issues/16). Il racconto co
 - [x] Retry `for i in 1 2 3` nel workflow → verifica: se tutti e tre i tentativi falliscono il ciclo esce non-zero e lo step resta rosso
 - [x] Feed pubblicato mai toccato dai percorsi di errore → verifica: `md5sum` invariato dopo i tre test
 - [x] Run reale → verifica: `xmlstarlet val` valido, 60 item, link senza token di sessione
-- [ ] Run forzato su GitHub verde
+- [x] Run forzato su GitHub verde → verifica: [run 31805760338](https://github.com/aborruso/albiPOPGitHub/actions/runs/31805760338) in 33 secondi, feed su Pages con 60 item
 
 ## Cosa si è imparato
 
