@@ -29,7 +29,10 @@ jobs:
           export PATH=$PATH:~/bin:~/.local/bin
           cd ./c_f158
           chmod +x ./c_f158.sh
-          ./c_f158.sh
+          for i in 1 2 3; do
+            ./c_f158.sh && break
+            [ $i -lt 3 ] && echo "Tentativo $i fallito, riprovo tra 30s..." && sleep 30
+          done
 
       - name: Committa e pusha se ci sono variazioni
         run: |

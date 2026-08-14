@@ -26,3 +26,29 @@ Tutti e quattro verificati con un run forzato su GitHub, verde, e con il feed su
 - `rsspls` risolve l'`output` del `feeds.toml` rispetto alla **directory corrente**, non al file di configurazione. In CI non si nota, perché i workflow fanno `cd` prima di eseguire; in locale invece il feed finisce fuori dal repo. Sistemato in `c_a546.sh` con un `cd "$folder"`; `c_a070.sh` e `c_a638.sh` hanno ancora la stessa fragilità, innocua in produzione.
 - Fuori dal repo, in `/home/aborruso/git/progetti/docs/`, restano `c_a965` e `c_l109`: feed finiti lì per la stessa ragione, da sessioni di gennaio e ottobre. Da eliminare se non servono.
 - Questo file è tracciato in git, in un repo pubblico dove `tasks/` prima non esisteva. Se preferisci tenerlo fuori dalla history, va aggiunto a `.gitignore`.
+
+---
+
+# c_f158 Messina: fallimento intermittente e feed troncato silenzioso — 2026-08-14
+
+Issue [#16](https://github.com/aborruso/albiPOPGitHub/issues/16). Il racconto completo sta in `LOG.md`.
+
+## Cosa è stato fatto
+
+- [x] Diagnosi: `curl` senza timeout né controllo HTTP → fonte appesa → pagine senza righe → `add` restituisce `null` → jq esplode. Confermato dalle durate dei job (13 e 22 minuti nei run falliti, 30-45 secondi in quelli riusciti) e dal markup ancora valido oggi → verifica: 200 in 1,1s, 40 righe `master-detail-list-line`
+- [x] `fetch_page` con `--connect-timeout 20 --max-time 60 --retry 3` e verifica del codice HTTP → verifica: 404 e host appeso danno entrambi messaggio leggibile ed `exit 1`
+- [x] Controllo per pagina sul numero di righe, non sul totale unito → verifica: pagina senza righe ferma lo script alla pagina 1
+- [x] Retry `for i in 1 2 3` nel workflow → verifica: se tutti e tre i tentativi falliscono il ciclo esce non-zero e lo step resta rosso
+- [x] Feed pubblicato mai toccato dai percorsi di errore → verifica: `md5sum` invariato dopo i tre test
+- [x] Run reale → verifica: `xmlstarlet val` valido, 60 item, link senza token di sessione
+- [ ] Run forzato su GitHub verde
+
+## Cosa si è imparato
+
+- **Il guard va messo dove il dato entra, non dove viene consumato.** Controllare il risultato unito delle tre pagine avrebbe lasciato passare il caso peggiore: due pagine buone e una vuota producono un feed troncato, che non fallisce e viene pubblicato. `add` è neutro rispetto ai `null`, quindi nasconde proprio la perdita parziale.
+- **Un job lento è un sintomo diagnostico.** La differenza fra 45 secondi e 22 minuti ha identificato la causa prima ancora di leggere lo script.
+- **`code=$(curl ...)` sotto `set -e` maschera l'errore**: senza `|| true` lo script muore sulla command substitution con un nudo exit 28, prima di poter stampare il messaggio che gli è stato scritto attorno.
+
+## Resta aperto
+
+- `.github/workflows/c_f158.yml` usa ancora `actions/checkout@v2` e genera l'avviso di deprecazione Node 20, già risolto altrove con `checkout@v5` (commit `da7e33ead`). Fuori dallo scopo di questa correzione, da fare in un passaggio dedicato su tutti i workflow rimasti indietro.

@@ -19,6 +19,20 @@ cookie_file="$processing_dir/cookies.txt"
 # 0) Pulisci temporanei
 rm -f "$cookie_file" "$raw_dir"/page_*.json
 
+# scarica una pagina mantenendo la sessione: la fonte a volte resta appesa,
+# quindi timeout e retry, e si controlla il codice HTTP
+fetch_page() {
+  local url="$1" out="$2" code
+  code=$(curl -ksL -c "$cookie_file" -b "$cookie_file" \
+    --connect-timeout 20 --max-time 60 \
+    --retry 3 --retry-delay 3 --retry-connrefused --retry-all-errors \
+    -w "%{http_code}" -o "$out" "$url" || true)
+  if [ "$code" != "200" ]; then
+    echo "Errore download ($code): $url" >&2
+    return 1
+  fi
+}
+
 # 1) Scarica le prime 3 pagine mantenendo la sessione (cookie)
 pagination_next="https://amministrazione-trasparente.comune.messina.it/web/trasparenza/papca-ap?p_p_id=jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet&p_p_lifecycle=0&p_p_state=pop_up&p_p_mode=view&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_paginationAction=NEXT&_jcitygovalbopubblicazioni_WAR_jcitygovalbiportlet_action=mostraLista"
 
@@ -27,10 +41,17 @@ current_url="$src_url"
 while [ $page -le 3 ]; do
   html_tmp="$raw_dir/page_${page}.html"
   json_page="$raw_dir/page_${page}.json"
-  curl -ksL -c "$cookie_file" -b "$cookie_file" "$current_url" >"$html_tmp"
+  fetch_page "$current_url" "$html_tmp"
   cat "$html_tmp" \
     | scrape -be "//tr[contains(@class, 'master-detail-list-line')]" \
     | xq . >"$json_page"
+  # una pagina vuota significa fonte non pronta: fermarsi qui, perché
+  # proseguire pubblicherebbe un feed troncato senza segnalare nulla
+  righe=$(jq '[.html.body.tr] | flatten | map(select(. != null)) | length' "$json_page" 2>/dev/null || true)
+  if [ "${righe:-0}" -eq 0 ]; then
+    echo "Errore: nessuna riga estratta dalla pagina $page, non aggiorno il feed" >&2
+    exit 1
+  fi
   current_url="$pagination_next"
   page=$((page+1))
 done
