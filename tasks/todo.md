@@ -51,4 +51,4 @@ Issue [#16](https://github.com/aborruso/albiPOPGitHub/issues/16). Il racconto co
 
 ## Resta aperto
 
-- `.github/workflows/c_f158.yml` usa ancora `actions/checkout@v2` e genera l'avviso di deprecazione Node 20, già risolto altrove con `checkout@v5` (commit `da7e33ead`). Fuori dallo scopo di questa correzione, da fare in un passaggio dedicato su tutti i workflow rimasti indietro.
+- `c_f158.yml` è passato a `actions/checkout@v5`, quindi l'avviso Node 20 qui non c'è più. Restano indietro tutti gli altri workflow che usano ancora `checkout@v2`: da fare in un passaggio dedicato, con un solo commit.
