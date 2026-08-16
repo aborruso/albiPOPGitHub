@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22887</title>
+      <description>Modifica parziale dell'Ordinanza Dirigenziale  n. 40 del 30/07/2026 relativamente agli orari dell'interdizione della circolazione e divieto  della sosta in occasione dello svolgimento dell'Evento denominato "TRIBUTO AI COLDPALY"  e consequenziale interdizione della circolazione e divieto  della sosta di tutti i veicoli, in data 16 Agosto 2026 dalle ore 18,00 alle ore 01,00 del giorno successivo,  in Piazza Falcone-Borsellino e nel tratto di Via Palermo di questo Comune, compreso tra l'intersezione con la Aiello e la Via Agrigento e nel tratto di Via Piana degli Albanesi compreso tra la Via Messina e la Via Siracusa.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22887</link>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22887</guid>
+    </item>
+    <item>
       <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 22886</title>
       <description>AVVISO DI ADUNANZA PUBBLICA. Si avvisa la popolazione che la riunione di questo Consiglio Comunale, in sessione ordinaria, si terrà GIORNO 19.08.2026 ALLE ORE 10:00</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22886</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22845</link>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22845</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22844</title>
-      <description>ACCERTAMENTO DI ENTRATA RELATIVO AI VERSAMENTI   PER ONORARIO VERIFICA DEMANIALE E CANONE ENFITEUTICO DI LEGITTIMAZIONE OCCUPAZIONE ARBITRARIA DEL DEMANIO CIVICO</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22844</link>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22844</guid>
     </item>
   </channel>
 </rss>
