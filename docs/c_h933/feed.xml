@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22904</title>
+      <description>RILASCIO CONTRASSEGNO DISABILE n.53</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22904</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22904</guid>
+    </item>
+    <item>
       <title>#ATTI VARI | Pubblicazione numero 22903</title>
       <description>elenco dei cacciatori ammessi Ambiti Territoriali di Caccia della Regione Siciliana annata venatoria 2026/2027.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22903</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22862</link>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22862</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22861</title>
-      <description>Presa d'atto delle dimissioni dall'incarico di Vicario del Responsabile del Settore Finanziario e Tributi rassegnate dalla dipendente Michela Giordano e contestuale revoca della determinazione di nomina n. 420 del 30.06.2026.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22861</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22861</guid>
     </item>
   </channel>
 </rss>
