@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Pubblicazione di matrimonio di Bisi Alessandro e Borgatti Valentina</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=971</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=971</guid>
-    </item>
-    <item>
-      <title>IMPEGNO PER RIVERSAMENTO SOMME INCASSATE A TITOLO DI IMU ANNO 2024 DI COMPETENZA DEL COMUNE DI MOGGIO (LC)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=972</link>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=972</guid>
-    </item>
-    <item>
       <title>IMPEGNO DI SPESA PER RIMBORSO IMU ERRONEAMENTE PAGATA DA CONTRIBUENTI.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=973</link>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=991</link>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=991</guid>
+    </item>
+    <item>
+      <title>RETTIFICA PARZIALE PER ERRORE MATERIALE DELLA DETERMINAZIONE N. 351 DEL 21/07/2026 ED AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT. B DEL D.LGS. 36/2023, PER L'APPALTO DEL SERVIZIO DI CENTRALINO E FRONT OFFICE COMUNALE TRAMITE PIATTAFORMA SATER ALL' OPERATORE ECONOMICO: LFA S.RL. SOCIETÀ BENEFIT - VIALE CAVOUR 87 - FERRARA - C.F. E P. IVA 02165470382 - CIG: BCA77693A3</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=992</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=992</guid>
+    </item>
+    <item>
+      <title>INTERVENTI DI MESSA IN SICUREZZA PERMANENTE DEL SITO ORFANO EX MACERI: APPROVAZIONE SECONDA VARIANTE PROGETTUALE NECESSARIA PER LA CORRETTA CONTABILIZZAZIONE DEI LAVORI A SEGUITO DELL'ANALISI DEI DOCUMENTI FORNITI DALL'APPALTATORE A GIUSTIFICAZIONE DELLE ATTIVITÀ SVOLTE CONTESTUALMENTE AGLI INTERVENTI IN APPALTO.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=993</link>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=993</guid>
     </item>
   </channel>
 </rss>
