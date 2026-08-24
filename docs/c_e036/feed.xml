@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza — n. 2721 — SINDACO</title>
+      <description>Reimmissione sul territorio di n. 2 cani di proprietà del Comune di Ginosa - così identificati in anagrafe nn. microchip: 380260170691668 e 380260170691797.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39683</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39683</guid>
+    </item>
+    <item>
       <title>Determinazione — n. 2720 — RESPONSABILE III^ SETTORE</title>
       <description>Servizio di Gestione del procedimento sanzionatorio delle violazioni alle norme del Codice della Strada mediante specifica Suite in Cloud. Liquidazione di spesa alla Ditta SAPIDATA S.P.A. San Marino CIG: B237EAD18A.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39682</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39623</link>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39623</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 2660 — RESPONSABILE VI SETTORE</title>
-      <description>PR PUGLIA FESR-FSE+ 2021-2027. PRIORITÀ: 8. WELFARE E SALUTE - O.S. ESO4.11 - AZIONE 8.13 - "BUONO SERVIZIO MINORI" - ANNUALITÀ EDUCATIVA 2024/2025 OMOLOGAZIONE DELLA SPESA. CUP: D51J24000300007.CODICE SIRP M0813P60.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39622</link>
-      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39622</guid>
     </item>
   </channel>
 </rss>
