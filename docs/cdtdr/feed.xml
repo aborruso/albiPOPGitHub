@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Realizzazione ed esercizio dell'impianto per la produzione di energia elettrica da fonte fotovoltaica, di potenza in immissione pari a 5,5 MW, ubicato in via delle Donne snc, denominato -"POLA" e delle relative opere di connessione nel territorio comunale di terre del Reno (FE) da parte della Società "William West 3 s.r.l.". Determinazione di occupazione anticipata d'urgenza preordinata all'asservimento con contestuale avviso di compilazione "STATO DI CONSISTENZA" ed "IMMISSIONE IN POSSESSO" delle aree ai sensi del D.P.R. 327/01 e s.m.i. INTEGRAZIONE DET. 401 DEL 24/08/2026</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1001</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1001</guid>
-    </item>
-    <item>
       <title>Pubblicazione di matrimonio di Guerra Michele e Fortini Laura</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1002</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1021</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1021</guid>
+    </item>
+    <item>
+      <title>PUBBLICAZIONE ALBO PRETORIO (REG. NOT. 463/2026)</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1022</link>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1022</guid>
     </item>
   </channel>
 </rss>
