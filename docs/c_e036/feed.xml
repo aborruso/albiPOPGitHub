@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Ordinanza — n. 2772 — SINDACO</title>
+      <description>Proroga validità ordinanza sindacale R.G. n. 47 del 01.04.2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39734</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39734</guid>
+    </item>
+    <item>
       <title>FINANZIATO — n. 2771 — RESPONSABILE II^ SETTORE</title>
       <description>"ATTO DI RICOGNIZIONE PNRR - M1C1 - INVESTIMENTO 1.4 SERVIZI E CITTADINANZA DIGITALE MISURA 1.4.3 ADOZIONE PIATTAFORMA PAGOPA</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39733</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39673</link>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39673</guid>
-    </item>
-    <item>
-      <title>Delibera G.c. — n. 2710 — RESPONSABILE I^ SETTORE</title>
-      <description>Approvazione schema del Bilancio Consolidato esercizio 2025 ai sensi dell'art. 11-bis del D.lgs. n. 118/2011</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39672</link>
-      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39672</guid>
     </item>
   </channel>
 </rss>
