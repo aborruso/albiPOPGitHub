@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Pubblicazione di matrimonio di Guerra Michele e Fortini Laura</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1002</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1002</guid>
-    </item>
-    <item>
-      <title>QUOTE DI ATTIVAZIONE SERVIZIO DI REFEZIONE SCOLASTICA A.S. 2026/2027 PER LA SCUOLA PRIMARIA DI SANT'AGOSTINO E SCUOLA PRIMARIA DI MIRABELLO - ACCERTAMENTO DI ENTRATA.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1003</link>
-      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1003</guid>
-    </item>
-    <item>
       <title>GESTIONE DEL VERDE PUBBLICO-DISINFESTAZIONE-DERATTIZZAZIONE-DEZANZARIZZAZIONE E SERVIZI ACCESSORI DEL COMUNE DI TERRE DEL RENO", ALLA SOCIETA' CMV SERVIZI SRL - PERIODO 01.07.2024-31.12.2028. (IMPEGNO DI SPESA ANNUALITA' 2026) INTEGRAZIONE IMPEGNO PER INTERVENTI ARREDI AREE VERDI.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1004</link>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1022</link>
       <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1022</guid>
+    </item>
+    <item>
+      <title>AVVISO AGGIORNAMENTO ALBO DELLE PERSONE IDONEE ALL'UFFICIO DI PRESIDENTE DI SEGGIO ELETTORALE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1023</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1023</guid>
+    </item>
+    <item>
+      <title>Avviso di consultazione di mercato finalizzata all'affidamento del servizio assicurativo per l'impianto fotovoltaico di via Dell'Industria a Sant'Agostino - Comune di Terre del Reno</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1024</link>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1024</guid>
     </item>
   </channel>
 </rss>
