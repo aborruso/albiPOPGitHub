@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 22977</title>
+      <description>Liquidazionne del II° trimestre periodo APRILE-GIUGNO  2026 pe le visure targhe - Direzione Generale per la Motorizzazione per i servizi ai cittadini ed alle imprese in materia di trasporti e navigazione DIV 7 Centro Elaborazione Dati" con sede legale in Roma 00161- Via Nomentana n. 2 - C.F. 97532760580 per il servizio telematico relativo all'accesso agli archivi della Motorizzazione Civile</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22977</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22977</guid>
+    </item>
+    <item>
       <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22976</title>
       <description>Installazione di dissuasori verticali di sosta in Via Marco Minghetti - disciplina permanente della circolazione e della sosta dei veicoli.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22976</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22935</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22935</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 22934</title>
-      <description>Impegno di spesa per il rimborso dell'acquisto di dispositivo di firma digitale con CNS all' Isp di P.M. Campanotta Sergio, emessa dalla ditta citymy s.r.l.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22934</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22934</guid>
     </item>
   </channel>
 </rss>
