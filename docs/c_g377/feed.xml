@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>02/09/2026 | Ordinanze Dirigenziali</title>
+      <description>REGOLAMENTAZIONE DELLA CIRCOLAZIONE VEICOLARE IN VIA CAP.F.ZUCCARELLO,NEL TRATTO COMPRESO TRA VIA  A.DORIA  E VIA PUCCINI, IN OCCASIONE DI MANIFESTAZIONI PROGRAMMATE NEI GIORNI 4, 5, 6 E 7 SETTEMBRE 2026, DALLE ORE 9.00 ALLE ORE 21.00.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15335</link>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15335</guid>
+    </item>
+    <item>
       <title>02/09/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA A FAVORE DELLA SIG.RA LIBERTINO ANNA MARIA E DEI LEGALI DISTRATTARI AVV. ALBA LA MACCHIA PER IL I GRADO E AVV. FRANCESCA LA ROSA PER IL II GRADO IN ESECUZIONE DELLA SENTENZA N.857/2025 DEL TRIBUNALE DI PATTI, GIUSTA DELIBERA DI C.C. N.56/2026.LIQUIDAZIONE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15334</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15301</link>
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15301</guid>
-    </item>
-    <item>
-      <title>28/08/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>TASSE DI REGISTRO SENTENZA 511/2026 TRIBUNALE DI PATTI. LIQUIDAZIONE.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15300</link>
-      <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15300</guid>
     </item>
   </channel>
 </rss>
