@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 23018</title>
+      <description>CONVOCAZIONE DEL CONSIGLIO COMUNALE AVVISO DI ADUNANZA PUBBLICA.GIORNO 16.09.2026 ALLE ORE 18:00</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23018</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23018</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23017</title>
       <description>Determina di affidamento diretto per la stipula di un accordo quadro per i servizi di supporto e consulenza tecnica, legale e amministrativa sullo svolgimento o sulla progettazione delle procedure di appalto.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23017</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22977</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22977</guid>
-    </item>
-    <item>
-      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 22976</title>
-      <description>Installazione di dissuasori verticali di sosta in Via Marco Minghetti - disciplina permanente della circolazione e della sosta dei veicoli.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22976</link>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=22976</guid>
     </item>
   </channel>
 </rss>
