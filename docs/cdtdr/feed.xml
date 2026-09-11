@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>Proposta di inserimento nell'Elenco degli Alberi Monumentali d'Italia dell'esemplare di Pioppo Gattice -Populus Alba, ubicato in Terre del Reno Località Mirabello in Corso Italia n.527</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1047</link>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1047</guid>
-    </item>
-    <item>
       <title>ACCETTAZIONE DONAZIONE DEFIBRILLATORE DA PARTE DEL CENTRO SOCIALE MIRA-BELLO.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1048</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1067</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1067</guid>
+    </item>
+    <item>
+      <title>ASSERVIMENTO DEGLI IMMOBILI OCCORRENTI PER REALIZZAZIONE OPERE DI CONNESSIONE ALLA RETE AI FINI DELL'ESERCIZIO DELL'IMPIANTO FOTOVOLTAICO DENOMINATO "IMPIANTO DI CONNESSIONE IMPIANTI FOTOVOLTAICI LIMES 29 S.R.L." UBICATO PRESSO IL COMUNE DI TERRE DEL RENO.</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1068</link>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1068</guid>
     </item>
   </channel>
 </rss>
