@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico — n. 2931 — ATC TARANTO</title>
+      <description>Assemblea ATC Taranto del 29 settembre 2026.</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39893</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39893</guid>
+    </item>
+    <item>
       <title>Ordinanza — n. 2930 — SINDACO</title>
       <description>Chiusura anticipata degli Uffici Comunali per il giorno di lunedì 05/10/2026</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39892</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39833</link>
       <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39833</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 2870 — RESPONSABILE I^ SETTORE</title>
-      <description>Liquidazione fattura in favore dell'operatore economico Pentagono Service Soc. Coop. per il servizio di pulizia di alcuni locali del plesso scolastico "L. Radice".</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39832</link>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=39832</guid>
     </item>
   </channel>
 </rss>
