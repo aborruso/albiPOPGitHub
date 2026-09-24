@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>24/09/2026 | Ordinanze Dirigenziali</title>
+      <description>PROROGA ISTITUZIONE DIVIETO DI SOSTA NELLA VIA C.COLOMBO DAL CIV.22 AL CIVICO 24 PER ULTIMAZIONE LAVORI.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15537</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15537</guid>
+    </item>
+    <item>
+      <title>24/09/2026 | Determinazioni Dirigenziali</title>
+      <description>NOMINA RESPONSABILI DI SERVIZIO E DI PROCEDIMENTO - ASSEGNAZIONI COMPITI E FUNZIONI AL PERSONALE APPARTENENTE AL IV SETTORE AMBIENTE, SERVIZI AMMINISTRATIVI TERRITORIALI E DIGITALIZZAZIONE, AI SENSI DELL'ART. 5 DELLA LEGGE N° 241/90.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15536</link>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15536</guid>
+    </item>
+    <item>
       <title>23/09/2026 | Determine Dirigenziali Di Liquidazione</title>
       <description>SPESA A FAVORE DELLA SIG.RA MARTINA ARLOTTA CONTROVERSIA GIUDIZIO  N.576/2025 GIUDICE DI PACE DI PATTI, GIUSTA DELIBERA DI G.M. N.118/2026. LIQUIDAZIONE.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15535</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15503</link>
       <pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15503</guid>
-    </item>
-    <item>
-      <title>19/09/2026 | Ordinanze Dirigenziali</title>
-      <description>ISTITUZIONE DIVIETO DI SOSTA, AMBO I LATI,  NELLA VIA SANT'ANTONINO FINO ALL'INCROCIO CON LA VIA F. CRISPI, GIORNI 23 E 24 SETTEMBRE 2026, DALLE ORE 7.00 ALLE ORE 17.00, PER LAVORI.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15502</link>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15502</guid>
-    </item>
-    <item>
-      <title>19/09/2026 | Ordinanze Dirigenziali</title>
-      <description>REGOLAMENTAZIONE DELLA VIABILITA'  NELLA VIA CAP.F.ZUCCARELLO, IN OCCASIONE DELL' 11° TINDARI RALLY,  GIORNI 26 E 27 SETTEMBRE 2026.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15501</link>
-      <pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15501</guid>
     </item>
   </channel>
 </rss>
