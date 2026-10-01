@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 23180</title>
+      <description>Installazione di segnaletica verticale indicante il "Divieto di sosta"  in Via Vittorio Emanuele dal civico n. 136 al civico n. 146 - Modifica parziale dell'Ordinanza Dirigenziale  n. 26 del 03/06/2026 relativamente alla indicazione del pannello aggiuntivo recante la dicitura  "tranne mezzi comunali ed autorizzati".</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23180</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23180</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23179</title>
+      <description>RICONOSCIMENTO ASSEGNAZIONE MQ. 3 DI TERRENO DEL LOTTO N. 3 VIALE 27 SEZ. O, AI FINI  DI REGOLARIZZAZIONE CONTRATTUALE A NOME DI VACCARINO GIUSEPPA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23179</link>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23179</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23178</title>
       <description>MODIFICA DELL'ORARIO DI LAVORO PER N. 1 LAVORATORE CON CONTRATTO A TEMPO INDETERMINATO E PARZIALE (PART-TIME) E APPROVAZIONE SCHEMA DI ADDENDUM CONTRATTUALE.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23178</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23139</link>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23139</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23138</title>
-      <description>LIQUIDAZIONE FATTURA A2A ENERGIA S.P.A FORNITURA ENERGIA ELETTRICA IMMOBILE CONFISCATO ALLA MAFIA SITO IN  DI VIA FALDE 30 DENOMINATO RITA ADRIA PERIODO LUGLIO 2026. CONVENZIONE CONSIP ENERGIA ELETTRICA 22 LOTTO16 SICILIA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23138</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23138</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23137</title>
-      <description>LIQUIDAZIONE VERSAMENTO ALL' AGENZIA DELLE ENTRATE DELL'IMPOSTA DI REGISTRO IN RELAZIONE ALLA SENTENZA 2299/2025 L.V. C/O COMUNE SAN GIUSEPPE JATO, SU MODELLO F24</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23137</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23137</guid>
     </item>
   </channel>
 </rss>
