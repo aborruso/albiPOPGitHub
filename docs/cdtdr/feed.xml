@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>ASSEGNAZIONE DI CONTRIBUTI PER IL SOSTEGNO AL PERCORSO CASA-SCUOLA DEGLI ALUNNI RESIDENTI IN SITUAZIONE DI DISABILITÀ FREQUENTANTI LA SCUOLA DELL'INFANZIA, LA SCUOLA PRIMARIA E LE SCUOLE SECONDARIE DI PRIMO E SECONDO GRADO PER L'ANNO 2026 - LINEE DI INDIRIZZO.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1106</link>
-      <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1106</guid>
-    </item>
-    <item>
       <title>MOSTRE ED ESPOSIZIONI CULTURALI PERIODO OTTOBRE-DICEMBRE 2026 - LINEE DI INDIRIZZO.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1107</link>
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1129</link>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1129</guid>
+    </item>
+    <item>
+      <title>IMPEGNO DI SPESA PER PRESTAZIONE PER PUBBLICAZIONE DI ESTRATTO D'AVVISO D'ASTA RELATIVO ALLA VENDITA DELL'IMMOBILE SITO A SANT'AGOSTINO IN VIA DEL BOSCO N.40. AFFIDAMENTO TRAMITE IL PORTALE ME.PA ALL'O.E. A.MANZONI &amp; C. SPA</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1130</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1130</guid>
     </item>
   </channel>
 </rss>
