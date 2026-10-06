@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 23213</title>
+      <description>convocazione consiglio comunale in sessione straordinaria  DEL GIORNO 07/10/2026</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23213</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23213</guid>
+    </item>
+    <item>
+      <title>#DELIBERA DI GIUNTA COMUNALE | Pubblicazione numero 23212</title>
+      <description>ATTO DI INDIRIZZO PER L'ADOZIONE DI MISURE A SOSTEGNO DELL'ATTIVITÀ SPORTIVA GIOVANILE (FASCIA 6-18 ANNI) E PER L'EROGAZIONE DI CONTRIBUTI C.D. "BONUS SPORT" PER L'ISCRIZIONE PRESSO PALESTRE E STRUTTURE SPORTIVE CITTADINE. APPROVAZIONE LINEE GUIDA.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23212</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23212</guid>
+    </item>
+    <item>
       <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23211</title>
       <description>PROSECUZIONE RICOVERO SIG.RA B.A.C. PRESSO CASA DI ACCOGLIENZA - "AD INDIRIZZO SEGRETO - PERIODO 01/01/2027 AL 30/06/2027.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23211</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23172</link>
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23172</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23171</title>
-      <description>DETERMINA A CONTRARRE PER L'AFFIDAMENTO DIRETTO A SEGUITO DI TRATTATIVA DIRETTA TRAMITE PORTALE ME.PA. ED IMPEGNO DI SPESA PER CORSO SULLA SICUREZZA E VISITA MEDICA PREVISTI DAL D.LGS 81/08 SS.MM.II. PER I LAVORATORI BENEFICIARI DELL'ADI E SFL.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23171</link>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23171</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23170</title>
-      <description>RETTIFICA DETERMINAZIONE DIRIGENZIALE N.616 DEL 10.09.2026 AVENTE AD OGGETTO: "DETERMINA A CONTRARRE PER L'AVVIO DELLA PROCEDURA TELEMATICA NEGOZIATA - AI SENSI DELL'ART. 50, COMMA 1, LETT. E), D.LGS 31/03/2023, N. 36 - PER L'AFFIDAMENTO DEL SERVIZIO DI GESTIONE DELL'ASILO NIDO COMUNALE (C.DA MORTILLI) E DEL RELATIVO SERVIZIO MENSA PER GLI ANNI SCOLASTICI 2026/2027 - 2027/2028"</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23170</link>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23170</guid>
     </item>
   </channel>
 </rss>
