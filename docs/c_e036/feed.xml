@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc — n. 3109 — Provincia di Taranto</title>
+      <description>Lavori di Realizzazione di una rotatoria tra la ex SS 580 e la SP 10 (TA). Procedura espropriativa. Notifica ai sensi ai sensi dell'art. 16, comma 8, del D.P.R. 327/2001 e s.m.i. per soggetti irreperibili. - [RIF.PROT.:AD66FE0|REG</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40071</link>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40071</guid>
+    </item>
+    <item>
       <title>Ordinanza — n. 3108 — SINDACO</title>
       <description>Ordinanza contingibile ed urgente, ex art. 50, comma 5, del D.Lgs. n. 267/2000. - Proroga, senza soluzione di continuità, della gestione del Servizio di igiene urbana.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40070</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40009</link>
       <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40009</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3046 — RESPONSABILE III^ SETTORE</title>
-      <description>Servizio di rimozione, custodia e cancellazione dai Pubblici Registri di n. 2 veicoli censiti in stato di abbandono nel territorio di Ginosa. Liquidazione di spesa in favore della Ditta Di Franco snc di Di Franco Rocco&amp;C. con sede in Ginosa (TA) SS 580 km 11,25 CAP: 74013 P.Iva: 01946020730. CIG: BCF4021F1D</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40008</link>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40008</guid>
     </item>
   </channel>
 </rss>
