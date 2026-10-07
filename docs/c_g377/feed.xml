@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>07/10/2026 | Determinazioni Del Sindaco</title>
+      <description>NOMINA DEI DIPENDENTI AUTORIZZATI ALL'ACCESSO ALLA BANCA DATI DELLE STRUTTURE RICETTIVE (BDSR) DEL MINISTERO DEL TURISMO</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15642</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15642</guid>
+    </item>
+    <item>
+      <title>07/10/2026 | Determine Dirigenziali Di Liquidazione</title>
+      <description>Forniture di derrate alimentari e materiale vario per mensa scolastica e asilo nido comunale "Marilena Faranda"  - Periodo: gennaio 2026 e fino ad esaurimento delle somme. Liquidazione Ditta Marino 1959 s.r.l - Mese di settembre  2026 - CIG: B9D0111FC2 - Asilo Nido Comunale "M. Faranda" -</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15641</link>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15641</guid>
+    </item>
+    <item>
       <title>07/10/2026 | Atti Di Interesse Generale</title>
       <description>RILASCIO DELLA TESSERA AST DI LIBERA CIRCOLAZIONE PER L'ANNO 2027</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15640</link>
@@ -246,20 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15608</link>
       <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15608</guid>
-    </item>
-    <item>
-      <title>03/10/2026 | Determinazioni Dirigenziali</title>
-      <description>SERVIZIO DI ESTUMULAZIONE SALME PRESSO IL CIMITERO DI PATTI CENTRO - SOSTITUZIONE R.U.P.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15607</link>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15607</guid>
-    </item>
-    <item>
-      <title>03/10/2026 | Determinazioni Dirigenziali</title>
-      <description>Approvazione albo distrettuale degli Enti del Terzo Settore accreditati per l'espletamento di  servizi/interventi/prestazioni  socio-assistenziali in favore delle persone con disabilità residenti nei Comuni del Distretto Socio Sanitario n.30.</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15606</link>
-      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15606</guid>
     </item>
   </channel>
 </rss>
