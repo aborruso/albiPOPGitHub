@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico — n. 3159 — BONELLI NICOLA</title>
+      <description>Convocazione III Commissione Consiliare Permanente</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40121</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40121</guid>
+    </item>
+    <item>
       <title>Determinazione — n. 3158 — RESPONSABILE II^ SETTORE</title>
       <description>Definizione e autorizzazione allo svolgimento in presenza per il giorno 08/10/2026 all'evento formativo "Tour Appalti 2026" in Ginosa per il personale del II Settore - Attività Culturali e Digitalizzazione.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40120</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40058</link>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40058</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3095 — RESPONSABILE VIII SETTORE</title>
-      <description>Impegno di spesa per prosecuzione servizio di gestione Info Point e Punto lettura di Marina di Ginosa sino al 31 dicembre 2026 - CIG: BD25C8421A</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40057</link>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40057</guid>
     </item>
   </channel>
 </rss>
