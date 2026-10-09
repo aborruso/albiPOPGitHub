@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico — n. 3161 — BONELLI NICOLA</title>
+      <description>Convocazione Commissione di Studio e Monitoraggio degli Impianti di Smaltimento Rifiuti esistenti nel Territorio Comunale</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40123</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40123</guid>
+    </item>
+    <item>
+      <title>Ordinanza — n. 3160 — SINDACO</title>
+      <description>Spostamento temporaneo e modifica provvisoria della dislocazione dei posteggi dal n. B1 al n. B15 e C44 del mercato settimanale del giovedì, ubicati in Via Palatrasio e Via Portararo, in conseguenza dei lavori di "Manutenzione straordinaria e messa in sicurezza del marciapiede di Via Palatrasio ai fini del miglioramento della mobilità pedonale e dell'abbattimento delle barriere architettoniche".</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40122</link>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40122</guid>
+    </item>
+    <item>
       <title>Avviso Pubblico — n. 3159 — BONELLI NICOLA</title>
       <description>Convocazione III Commissione Consiliare Permanente</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40121</link>
@@ -421,20 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40060</link>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40060</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3097 — RESPONSABILE VIII SETTORE</title>
-      <description>Liquidazione a CISA Spa per costi di smaltimento RUI/CSS, ristoro ambientale, tributo speciale e trasporto del rifiuto biostabilizzato da discarica presso gli impianti di Statte e Italcave periodo agosto 2026. CIG: BA30761173</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40059</link>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40059</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3096 — RESPONSABILE VIII SETTORE</title>
-      <description>Affidamento del Servizio di trattamento e recupero della FORSU periodo ottobre novembre 2026 ad ASECO Spa, giusta disposizione AGER prot. n. 5203 del 25.09.2026 e impegno di spesa - CIG: BD2AACFE18</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40058</link>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40058</guid>
     </item>
   </channel>
 </rss>
