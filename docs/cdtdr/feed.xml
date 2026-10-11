@@ -17,12 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>MODIFICA DELLE ASSEGNAZIONI DEL PIANO ESECUTIVO DI GESTIONE (PEG) PER IL TRIENNIO 2026-2028 A SEGUITO DI RIORGANIZZAZIONE INTERNA DELLE COMPETENZE DEI SETTORI.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1126</link>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1126</guid>
-    </item>
-    <item>
       <title>ALIENAZIONE MEDIANTE ASTA PUBBLICA, AI SENSI DELL'ART. 10 DEL REGOLAMENTO COMUNALE PER LE ALIENAZIONI E GLI ACQUISTI DEL PATRIMONIO - FABBRICATO SITO IN VIA DEL BOSCO 40, LOCALITÀ SANT'AGOSTINO (LOTTO 1). DETERMINAZIONE A CONTRARRE EX ART. 192 D.LGS. 267/2000 E APPROVAZIONE AVVISO D'ASTA E MODULO DI OFFERTA</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1127</link>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
@@ -141,6 +135,12 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1146</link>
       <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1146</guid>
+    </item>
+    <item>
+      <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1147</link>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1147</guid>
     </item>
   </channel>
 </rss>
