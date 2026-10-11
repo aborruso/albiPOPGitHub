@@ -21,7 +21,8 @@ jobs:
         cp bin/rsspls ~/bin
         cd ~/bin
         chmod +x rsspls
-        sudo apt install tor
+        sudo apt-get update
+        sudo apt-get install -y tor
         sudo sh -c "echo 'SOCKSPort 9050 # Default' >> /etc/tor/torrc"
         sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
         sudo systemctl start tor
@@ -30,7 +31,7 @@ jobs:
         wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
         sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
         sudo apt-get update
-        sudo apt-get install google-chrome-stable
+        sudo apt-get install -y google-chrome-stable
     - name: scarica i dati e crea feed
       env:
         SUPER_SECRET: ${{ secrets.IFTTT }}

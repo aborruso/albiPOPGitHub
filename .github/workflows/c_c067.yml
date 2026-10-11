@@ -23,7 +23,8 @@ jobs:
         cd ~/bin
         chmod +x mlr
         chmod +x scrape
-        sudo apt-get install xmlstarlet
+        sudo apt-get update
+        sudo apt-get install -y xmlstarlet
         pip install --user yq
     - name: scarica i dati e crea feed
       env:

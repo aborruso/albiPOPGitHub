@@ -1,5 +1,9 @@
 # LOG.md
 
+## 2026-10-11
+
+- Workflow con apt: dal 04/10 all'08/10 c_a893 e c_a026 falliti con exit 100 su `apt install tor` (404 su libevent dal mirror) - l'indice pacchetti dell'immagine del runner (ubuntu24/20260927.320) puntava a una versione non più servita; tornati verdi solo col cambio d'immagine. Aggiunto `sudo apt-get update` prima della prima installazione in ogni job (17 workflow, entrambi i job di c_a638) e `apt-get install -y` ovunque, sul modello di c_f158. In c_i725 resta anche l'update dopo l'aggiunta del repo Google. Chiude #17
+
 ## 2026-08-14
 
 - c_f158 (Messina): workflow rosso il 08/08 e il 14/08, sempre con `jq: Cannot iterate over null` — la `curl` non aveva timeout né controllo del codice HTTP, così quando la fonte restava appesa il job durava 13 e 22 minuti (contro i 30-45 secondi dei run riusciti) e restituiva HTML senza righe; lo `scrape` non trovava nulla, il merge `map(.html.body.tr) | add` produceva `null` e la jq successiva esplodeva. Non era un cambio di markup: la stessa pagina risponde 200 in 1,1s con 40 righe. Aggiunta `fetch_page` con `--connect-timeout 20 --max-time 60 --retry 3` e verifica del codice, sul modello di c_e047 e c_e036. Aggiunto soprattutto un controllo **per pagina** sul numero di righe: `add` restituisce `null` solo se sono vuote tutte e tre, quindi una sola pagina vuota su tre pubblicava in silenzio un feed troncato — caso che nessuna guardia copriva e che non avrebbe mai fatto diventare rosso il workflow. Retry `for i in 1 2 3` nel workflow: qui, a differenza di c_a638, il problema è lentezza della fonte e non blocco per IP, quindi ritentare sullo stesso runner ha senso. I tre percorsi di errore (pagina senza righe, 404, host appeso) verificati in locale, ognuno con `exit 1` e feed pubblicato byte-identico. Chiude #16
