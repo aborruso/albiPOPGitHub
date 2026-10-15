@@ -17,24 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>REVISIONE SEMESTRALE DELLE LISTE ELETTORALI</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1147</link>
-      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1147</guid>
-    </item>
-    <item>
-      <title>ORDINANZA VIABILITA' MODIFICHE ALLA CIRCOLAZIONE STRADALE IN VIA VERDI PONTE SUL FIUME RENO (PONTE DOSSO)</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1148</link>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1148</guid>
-    </item>
-    <item>
-      <title>Provvedimenti viabili per lavori di manutenzione nelle strade comunali</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1149</link>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1149</guid>
-    </item>
-    <item>
       <title>Ordinanza annuale per lavori di manutenzione illuminazione pubblica</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1150</link>
       <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
@@ -141,6 +123,24 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1167</link>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1167</guid>
+    </item>
+    <item>
+      <title>AUTORIZZAZIONE AL SUBAPPALTO IN FAVORE DI SINTEXCAL S.P.A. - LAVORI DI COMPLETAMENTO DELLE OPERE DI URBANIZZAZIONE DEL COMPARTO URBANISTICO DELLA "LOTTIZZAZIONE GIOVANNINA - VIA PASQUINI", LOCALITÀ SANT'AGOSTINO - CUP J91B22001420004 - CIG BA313CB005</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1168</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1168</guid>
+    </item>
+    <item>
+      <title>Aggiudicazione della Trattativa Diretta MEPA n. 6604028 per la fornitura di n. 2 automezzi destinati al servizio di trasporto sociale. CIG BD4C851BE4</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1169</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1169</guid>
+    </item>
+    <item>
+      <title>DETERMINA A CONTRARRE E AFFIDAMENTO DIRETTO AI SENSI DELL'ART. 50 COMMA 1 LETT.B) DEL D.LGS. 36/2023 PER LA FORNITURA E POSA IMPIANTO ELETTRICO PROVVISORIO- QUADRI PRESE PER STREET FOOD IN OCCASIONE DELLA MANIFESTAZIONE DENOMINATA "FIERA DI SAN SIMONE" NEL COMUNE DI TERRE DEL RENO LOCALITA' MIRABELLO PER LE GIORNATE DEL 23-24-25 OTTOBRE 2026</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1170</link>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1170</guid>
     </item>
   </channel>
 </rss>
