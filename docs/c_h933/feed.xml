@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 23332</title>
-      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE vedi elenco</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23332</link>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23332</guid>
-    </item>
-    <item>
       <title>#CONVOCAZIONE CONSIGLIO COMUNALE | Pubblicazione numero 23331</title>
       <description>INTEGRAZIONE PUNTI ORDINE DEL GIORNO DEL CONSIGLIO COMUNALE  GIORNO 21.10.2026 ALLE ORE 18:00</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23331</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23290</link>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23290</guid>
+    </item>
+    <item>
+      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23289</title>
+      <description>LIQUIDAZIONE  DI  SPESA PER VERBALE  AL C.D.S. PAGATO   ERRONEAMENTE</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23289</link>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23289</guid>
     </item>
   </channel>
 </rss>
