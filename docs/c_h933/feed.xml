@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 23396</title>
+      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23396</link>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23396</guid>
+    </item>
+    <item>
       <title>#ORDINANZA SINDACO | Pubblicazione numero 23395</title>
       <description>-15-ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C)</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23395</link>
@@ -85,13 +92,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23386</link>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23386</guid>
-    </item>
-    <item>
-      <title>#DEPOSITO | Pubblicazione numero 23385</title>
-      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23385</link>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23385</guid>
     </item>
     <item>
       <title>#DEPOSITO | Pubblicazione numero 23384</title>
