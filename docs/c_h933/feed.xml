@@ -17,13 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
-      <title>#DEPOSITO | Pubblicazione numero 23396</title>
-      <description>ELENCO NOMINATIVI ART.60 C.P.C</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23396</link>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23396</guid>
-    </item>
-    <item>
       <title>#ORDINANZA SINDACO | Pubblicazione numero 23395</title>
       <description>-15-ATTIVAZIONE DEL CENTRO OPERATIVO COMUNALE (C.O.C)</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23395</link>
@@ -309,6 +302,13 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23351</link>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23351</guid>
+    </item>
+    <item>
+      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23350</title>
+      <description>IMPEGNO PER RIMBORSO INTEGRAZIONE CCNL 2022/2024 COMPETENZE STIPENDIALI AI SEGRETARI COMUNALI, ANTICIPATE DAL MINISTERO DELL'INTERNO DOTT.SSA ADRIANA MANTA PER INCARICO DAL 01/01/2024 AL 29/02/2024</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23350</link>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23350</guid>
     </item>
   </channel>
 </rss>
