@@ -9,10 +9,13 @@ src_dir="$(cd "${folder}/.." && pwd)"
 
 # Fonte. Gli IP dei runner GitHub sono geoblocati dalla PA: la connessione
 # diretta fallisce sempre con "client error (Connect)". Per aggirarlo
-# scarichiamo la pagina via Tor, con uscita forzata dall'Italia
-# (ExitNodes {it}, impostato nel workflow), come c_a893.
-# Si scarica il file con curl, lo si dà a rsspls in locale
-# (file_urls = true) e si riparano i link.
+# scarichiamo la pagina attraverso il proxy Scaleway (funzione SCW), i cui
+# parametri arrivano dai secrets del repo:
+#   SCW_PROXY_URL  → endpoint: GET ?url=<target> + header X-Proxy-Token
+#   SCW_PROXY_TOKEN
+# Il proxy è un fetch-as-a-service, non un proxy CONNECT trasparente, quindi
+# rsspls non può usarlo via `proxy =`/https_proxy: si scarica il file, lo si
+# dà a rsspls in locale (file_urls = true) e si riparano i link.
 
 BASE="https://servizi.comune.barcellonapozzodigotto.me.it"
 RELROOT="/barcellona"
@@ -26,10 +29,11 @@ raw="${work}/albo.html"
 html="${work}/albo_utf8.html"
 conf="${work}/feeds.toml"
 
-# 1) scarica la pagina via Tor; i tentativi coprono anche l'avvio di Tor
-curl -fsS -m 90 --retry 3 --retry-delay 10 --retry-all-errors \
-  --socks5-hostname localhost:9050 \
-  "${URL}" -o "${raw}"
+# 1) scarica la pagina via proxy SCW
+curl -fsS -m 90 \
+  -H "X-Proxy-Token: ${SCW_PROXY_TOKEN}" \
+  -G --data-urlencode "url=${URL}" \
+  "${SCW_PROXY_URL}" -o "${raw}"
 
 # 2) rsspls richiede UTF-8; la pagina arriva in iso-8859-1
 iconv -f iso-8859-1 -t utf-8 "${raw}" -o "${html}"
