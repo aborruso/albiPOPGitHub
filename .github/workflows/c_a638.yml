@@ -32,12 +32,13 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y xmlstarlet
         pip install --user yq
+        sudo apt-get install -y tor
+        sudo sh -c "echo 'SOCKSPort 9050 # Default' >> /etc/tor/torrc"
+        sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
+        sudo service tor restart
     - name: scarica i dati e crea feed
       id: feed
       continue-on-error: true
-      env:
-        SCW_PROXY_TOKEN: ${{ secrets.SCW_PROXY_TOKEN }}
-        SCW_PROXY_URL: ${{ secrets.SCW_PROXY_URL }}
       run: |-
         export PATH=$PATH:~/bin
         cd ./c_a638
@@ -78,10 +79,11 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y xmlstarlet
         pip install --user yq
+        sudo apt-get install -y tor
+        sudo sh -c "echo 'SOCKSPort 9050 # Default' >> /etc/tor/torrc"
+        sudo sh -c "echo 'ExitNodes {it} StrictNodes 1' >> /etc/tor/torrc"
+        sudo service tor restart
     - name: scarica i dati e crea feed
-      env:
-        SCW_PROXY_TOKEN: ${{ secrets.SCW_PROXY_TOKEN }}
-        SCW_PROXY_URL: ${{ secrets.SCW_PROXY_URL }}
       run: |-
         export PATH=$PATH:~/bin
         cd ./c_a638
