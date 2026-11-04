@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>SETTEMBRE 2026 - ACCERTAMENTO ENTRATA SERVIZIO ASILO NIDO INTERCOMUNALE "IL VELIERO" E ASILO NIDO COMUNALE "IL TIGLIO".</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1207</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1207</guid>
-    </item>
-    <item>
-      <title>Impegno di spesa per sostituzione modulo GSM per tecnologia 4G per ascensore biblioteca di Mirabello. Affidamento tramite portale ME.PA. all'operatore economico Ferrara Ascensori.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1208</link>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1208</guid>
-    </item>
-    <item>
       <title>IMPEGNO DI SPESA PER LA MANUTENZIONE STRAORDINARIA PER RIPARAZIONE DELLA CALDAIA DELLA CASA DI RIPOSO DI DOSSO. AFFIDAMENTO ALLA DITTA DIOLAITI SNC TRAMITE IL PORTALE INTERCENT-ER</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1209</link>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1227</link>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1227</guid>
+    </item>
+    <item>
+      <title>SERVIZI DI ARCHITETTURA E INGEGNERIA RELATIVI AL PROGETTO DI FATTIBILITA' TECNICO ECONOMICA PER IL COMPLETAMENTO DEI LAVORI POST-SISMA 2012 DA ESEGUIRSI PRESSO IL CIMITERO DI SANT'AGOSTINO - III STRALCIO FUNZIONALE - CUP J96I25000060006 - CIG B9CBC1D8E0 - CONCESSIONE DI PROROGA PER LA CONSEGNA DEL PFTE</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1228</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1228</guid>
+    </item>
+    <item>
+      <title>Estensione del Senso Unico Alternato manovrato da semaforo per lavori di posa condutture e allcciamenti Sp 66 dal Km 48+162 al Km 48+300</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1229</link>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1229</guid>
     </item>
   </channel>
 </rss>
