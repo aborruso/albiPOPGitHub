@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#ORDINANZA DIRIGENZIALE | Pubblicazione numero 23502</title>
+      <description>CATTURA DI N. 13 CANI, IN SEGUITO A VERBALE DI SEQUESTRO PREVENTIVO EFFETTUATO DALLA REGIONE CARABINIERI FORESTALE "CALABRIA"  GIUSTA DELEGA DELLA PROCURA DELLA REPUBBLICA DI PALERMO,  PER RICOVERO E CURE IN CANILE SANITARIO-SOPRALLUOGO DEL 03-11-2026-</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23502</link>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23502</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23501</title>
       <description>LIQUIDAZIONE DI  SPESA DEBITO FUORI BILANCIO PER LA SENTENZA N.1770/2026  RG N. 240/2026    PROMOSSA  DAL  SIGNOR  C.G. / COMUNE DI SAN GIUSEPPE JATO .</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23501</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23461</link>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23461</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23460</title>
-      <description>DETERMINA A CONTRARRE E AVVIO DELLA PROCEDURA DI AFFIDAMENTO DIRETTO, MEDIANTE TRATTATIVA DIRETTA SUL MERCATO ELETTRONICO DELLA PUBBLICA AMMINISTRAZIONE (MEPA), DELL'INTERVENTO DI MANUTENZIONE DEL VERDE PUBBLICO AL FINE DI GARANTIRE LA SICUREZZA DELLA CITTADINANZA E LA TUTELA DELLA PUBBLICA INCOLUMITÀ. PRENOTAZIONE SOMME.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23460</link>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23460</guid>
     </item>
   </channel>
 </rss>
