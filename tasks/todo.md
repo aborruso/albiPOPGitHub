@@ -1,3 +1,20 @@
+# Terlizzi: migrazione nuovo Halley — 2026-11-11
+
+- [x] Verificare homepage, elenco, tre pagine e dettaglio reale con agent-browser e richieste HTTP.
+- [x] Identificare il blocco della vecchia rotta PHP e i comandi POST del nuovo Halley.
+- [x] Adattare lo scraper ai 30 atti più recenti con metadati e link ufficiali ai documenti, senza inventare permalink di scheda.
+- [x] Verificare tutti i link senza sessione, cache dei documenti già recuperati e conservazione del feed su errore.
+- [x] Testare feed, ordinamento, casi di errore e aprire documenti a campione con agent-browser.
+
+## Review
+
+Completato localmente: 30 atti, 64 documenti ufficiali verificati senza cookie e feed in `docs/c_l109/feed.xml`. Il link principale apre il documento, non una scheda HTML: la scheda del portale dipende dalla sessione (`MC02`). Descrizione RSS con metadati e tutti gli allegati; GUID anno/numero indipendenti dagli URL generati da Halley.
+11 test unitari passano; test pipeline in `tmp/test_terlizzi_pipeline.py`: XML valido, GUID univoci, seconda esecuzione live in 15,2 s con zero dettagli recuperati, verifica HEAD dei documenti e feed byte-identico; errore del recupero conserva il feed precedente. Tre link campione verificati con agent-browser (HTTP 200).
+Particolarità riprodotte e coperte dai test: ritorno `MC08` prima della paginazione, allegati HTML legittimi, header Range rifiutato (403), link documentali scaduti da rigenerare. Anche gli 8 test di Molfetta passano. Nessuna ulteriore issue creata dopo l'indicazione dell'utente.
+Domande aperte: nessuna per il funzionamento locale. Correzione collegata alla chiusura della issue #19; la verifica dal runner GitHub resta separata dai test locali.
+
+---
+
 # Molfetta: correzione estrazione — 2026-11-11
 
 - [x] Individuare il repository esistente con `esearch` e controllare la pagina con `agent-browser`.

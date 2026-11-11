@@ -2,6 +2,7 @@
 
 ## 2026-11-11
 
+- c_l109 (Terlizzi), correzione #19: sostituita la vecchia tabella PHP bloccata con il protocollo POST del nuovo Halley, estrazione con scrape CLI delle prime tre pagine (30 atti). Link degli item ai documenti ufficiali, metadati e tutti gli allegati nella descrizione, GUID anno/numero. Verificati 64 documenti senza cookie; cache con controllo HEAD e rigenerazione dei link scaduti. Test: 11 unitari, pipeline completa, errore senza sovrascrittura, seconda esecuzione live in 15,2 s senza recuperare dettagli e con feed identico, tre link HTTP 200 tramite agent-browser. Chiude #19; verifica CI separata dai test locali.
 - c_f284 (Molfetta), correzione #18: colonne ID/oggetto/data corrette (1/5/8, indici da zero), selezione dei 30 atti più recenti e permalink `IDALBO` recuperati dal postback e verificati senza cookie. Link già validati riusati dal feed precedente; errori fermano la pubblicazione. Test: 0 → 30 item completi; tutti i nuovi permalink verificati via HTTP e tre dettagli controllati con agent-browser. Prima generazione 55,4 s, seconda 1,2 s senza nuove richieste ai dettagli, feed identico; 8 test unitari, fonte vuota e singola riga verificati. Feed locale aggiornato. Run GitHub sul codice precedente terminato con `startup_failure`: verifica CI della correzione ancora da fare.
 
 ## 2026-10-11

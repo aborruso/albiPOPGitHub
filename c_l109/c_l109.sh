@@ -45,49 +45,9 @@ mkdir -p "$folder"/../docs/"$iPA"
 # imposta la cartella di output esposta sul web
 output="$folder"/../docs/"$iPA"
 
-# Scarica le prime 3 pagine per catturare più pubblicazioni
-for page in 0 1 2; do
-  URLPaginata="https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_ricerca.php?multiente=terlizzi&multiente=terlizzi&servizio=&sto=&pag=&x=&mittente=&oggetto=&tipo_atto=&data_dal=&data_al=&datap_dal=&datap_al=&ordin=&pag=$page"
-
-  # estrai codici di risposta HTTP dell'albo per ogni pagina
-  code=$(curl -s -k -L -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0' -o /dev/null -w "%{http_code}" "$URLPaginata")
-
-  # se il server risponde scarica la pagina
-  if [ $code -eq 200 ]; then
-    echo "Scaricando pagina $page..."
-    curl -kL "$URLPaginata" >"$folder"/tmp_page_$page.html
-
-    # Estrai i dati da questa pagina e aggiungi al file temporaneo
-    if [ -s "$folder"/tmp_page_$page.html ]; then
-      <"$folder"/tmp_page_$page.html scrape -be '//tbody/tr' | xq -c '.html.body.tr[]|{titolo:.td[1].a.div."#text",url:.td[1].a."@href",data:.td[4].div[0]}' >>"$folder"/rawdata/"$iPA"_temp_page_$page.json 2>/dev/null || true
-    fi
-  else
-    echo "Pagina $page non raggiungibile (codice: $code)"
-  fi
-done
-
-# Combina tutti i file JSON delle pagine in un unico file
-cat "$folder"/rawdata/"$iPA"_temp_page_*.json 2>/dev/null | jq -s 'flatten | unique_by(.url)' >"$folder"/rawdata/"$iPA"_temp.json 2>/dev/null || echo "[]" >"$folder"/rawdata/"$iPA"_temp.json
-
-# Pulizia file temporanei
-rm -f "$folder"/tmp_page_*.html "$folder"/rawdata/"$iPA"_temp_page_*.json
-
-# Processa il JSON con mlr per creare il feed
-mlr <"$folder"/rawdata/"$iPA"_temp.json --j2c \
-  put '$pubDate=strftime(strptime($data,"%d/%m/%Y"),"%a, %d %b %Y %H:%M:%S %z")' \
-  then put '$link="https://www.comune.terlizzi.ba.it".$url' >"$folder"/rawdata/"$iPA".csv
-
-# Converti in JSON pulito
-mlr <"$folder"/rawdata/"$iPA".csv --c2j clean-whitespace \
-  then put '$titolo=gsub($titolo,">","&gt;")' \
-  then put '$titolo=gsub($titolo,"&","&amp;")' \
-  then put '$titolo=gsub($titolo,"'\''","&apos;")' \
-  then put '$titolo=gsub($titolo,"\"","&quot;")' \
-  then put '$titolo=gsub($titolo,"°","&#176;")' \
-  then put '$link=gsub($link,"&","&amp;")' >"$folder"/rawdata/"$iPA"_temp.json
-
-# Sostituisci apostrofo curvo con entità HTML
-sed "s/'/\&apos;/g" "$folder"/rawdata/"$iPA"_temp.json >"$folder"/rawdata/"$iPA".json
+# Nuovo Halley: sessione POST, tre pagine, massimo 30 atti.
+# Ogni nuovo documento viene verificato senza cookie prima di aggiornare il feed.
+python3 "$folder"/fetch_halley.py "$output"/feed.xml >"$folder"/rawdata/"$iPA".json
 
 # crea copia del template del feed
 cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -110,17 +70,28 @@ xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//c
 
 # leggi in loop i dati del file JSON e usali per creare nuovi item nel file XML
 newcounter=0
-jq -c '.[]' "$folder"/rawdata/"$iPA".json | while read line; do
-  link=$(echo $line | jq -r .link)
-  title=$(echo $line | jq -r .titolo)
-  pubDate=$(echo $line | jq -r .pubDate)
+jq -c '.[]' "$folder"/rawdata/"$iPA".json | while read -r line; do
+  link=$(printf '%s' "$line" | jq -r .link | xmlstarlet esc)
+  title=$(printf '%s' "$line" | jq -r .titolo | xmlstarlet esc)
+  pubDate=$(printf '%s' "$line" | jq -r .pubDate)
+  guid=$(printf '%s' "$line" | jq -r .guid)
+  description=$(printf '%s' "$line" | jq -r .description | xmlstarlet esc)
   newcounter=$(expr $newcounter + 1)
   xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
     --subnode "//item[$newcounter]" --type elem -n title -v "$title" \
     --subnode "//item[$newcounter]" --type elem -n link -v "$link" \
     --subnode "//item[$newcounter]" --type elem -n pubDate -v "$pubDate" \
-    --subnode "//item[$newcounter]" --type elem -n guid -v "$link" \
+    --subnode "//item[$newcounter]" --type elem -n guid -v "$guid" \
+    --insert "//item[$newcounter]/guid" --type attr -n isPermaLink -v false \
+    --subnode "//item[$newcounter]" --type elem -n description -v "$description" \
     "$folder"/processing/feed.xml
 done
 
+xmlstarlet val --well-formed "$folder"/processing/feed.xml
+items=$(xmlstarlet sel -t -v 'count(//item)' "$folder"/processing/feed.xml)
+expected=$(jq length "$folder"/rawdata/"$iPA".json)
+if [ "$items" -eq 0 ] || [ "$items" -ne "$expected" ] || [ "$items" -gt 30 ]; then
+  echo "Errore: numero di item inatteso, non aggiorno il feed" >&2
+  exit 1
+fi
 cp "$folder"/processing/feed.xml "$output"

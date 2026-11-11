@@ -1,50 +1,35 @@
-# AlboPOP - Comune di Terlizzi (c_l109)
+# AlboPOP — Comune di Terlizzi (c_l109)
 
-Feed RSS dell'albo pretorio del Comune di Terlizzi.
+Feed RSS degli ultimi 30 atti dell'albo pretorio del Comune di Terlizzi (Bari, Puglia).
 
-## Informazioni
+- Fonte: https://www.comune.terlizzi.ba.it/EG0/EGHOMEPAGE.HBL?ss=1&F=MC09&en=e1380&freeze=1&P=
+- Feed: https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml
 
-- **Comune**: Terlizzi
-- **Provincia**: Bari
-- **Regione**: Puglia
-- **Codice iPA**: c_l109
-- **URL fonte**: https://www.comune.terlizzi.ba.it/terlizzi/mc/mc_p_ricerca.php
-- **Feed RSS**: https://aborruso.github.io/albiPOPGitHub/c_l109/feed.xml
+## Funzionamento
+
+Il nuovo Halley ha sostituito la tabella PHP con una sessione e comandi POST. `fetch_halley.py` apre la sessione, legge tre pagine con `scrape` CLI, recupera i documenti e restituisce i metadati in JSON. `c_l109.sh` costruisce il feed con `xmlstarlet`.
+
+La scheda del portale si apre tramite posizione nella sessione e non espone un permalink verificato. Per questo **il link principale dell'item apre il documento ufficiale**, non una scheda HTML. La descrizione RSS contiene numero, periodo di pubblicazione, mittente, tipo e collegamenti a tutti gli allegati, anche quando sono documenti HTML anziché PDF.
+
+I GUID usano anno e numero di pubblicazione e non cambiano se Halley rigenera il link al documento. I link già presenti nel feed vengono verificati con HEAD e riusati se disponibili; quelli scaduti vengono recuperati nuovamente dal portale. I nuovi documenti sono controllati senza cookie, verificando anche la firma dei PDF. Non si usa l'header Range, rifiutato dal firewall della fonte.
+
+In caso di errori, pagine vuote, dati mancanti o allegati non disponibili, il processo termina senza sovrascrivere il feed precedente.
 
 ## Requisiti
 
-- bash
-- curl (con supporto SSL -k per certificati non validi)
-- [scrape](https://github.com/aborruso/scrape-cli) - Scraping HTML con XPath
-- [xq](https://github.com/kislyuk/yq) - Conversione XML/HTML a JSON
-- [jq](https://github.com/stedolan/jq) - Parser JSON
-- [mlr](https://github.com/johnkerl/miller) - Elaborazione dati tabulari
-- [xmlstarlet](http://xmlstar.sourceforge.net/) - Manipolazione XML
+- bash, git
+- python3 (libreria standard, senza pacchetti aggiuntivi)
+- [scrape-cli](https://github.com/aborruso/scrape-cli), con supporto a `--row` e `--field`
+- jq
+- xmlstarlet
 
 ## Utilizzo
 
-Per generare il feed RSS:
+Dalla cartella `c_l109`:
 
 ```bash
-./c_l109.sh
+bash c_l109.sh
+python3 -m unittest -v test_fetch_halley
 ```
 
-Il feed generato sarà disponibile in `../docs/c_l109/feed.xml`
-
-## Note tecniche
-
-Il sito del comune di Terlizzi presenta un certificato SSL non valido, quindi lo script usa `curl -k` per ignorare gli errori di certificato.
-
-La struttura della pagina utilizza una tabella HTML con elementi `<tbody>` e `<tr>`. Lo script:
-
-1. Scarica la pagina HTML con curl (ignorando errori SSL)
-2. Estrae le righe della tabella usando XPath (`//tbody/tr`)
-3. Converte l'HTML in JSON usando xq
-4. Processa i dati con mlr per formattarli
-5. Genera il feed RSS usando xmlstarlet
-
-## Struttura dati estratti
-
-- **Titolo**: `.td[1].a.div."#text"` - Oggetto della pubblicazione
-- **Link**: `.td[1].a."@href"` - URL dettaglio (relativo, viene convertito in assoluto)
-- **Data**: `.td[4].div[0]` - Data inizio pubblicazione (formato dd/mm/yyyy)
+Output: `../docs/c_l109/feed.xml`. Il comando principale esegue un `git pull` iniziale, come gli altri scraper del progetto.
