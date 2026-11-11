@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Art. 143 Cpc — n. 3593 — SERVIZIO NOTIFICHE SOGET SPA</title>
+      <description>DEPOSITO CASA COMUNALE ART. 143 ATTI N. 07</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40555</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40555</guid>
+    </item>
+    <item>
       <title>Determinazione — n. 3592 — RESPONSABILE II^ SETTORE</title>
       <description>Liquidazione parziale del contributo economico in favore dell'Associazione MOYA - Movimento Young Artist per la realizzazione di un murales in zona "POGGIO" nella Città di Ginosa</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40554</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40496</link>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40496</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3533 — RESPONSABILE VII SETTORE</title>
-      <description>Affidamento del Servizio di manutenzione degli ascensori installati negli immobili comunali e negli edifici scolastici comunali per n. 36 mesi - Liquidazione alla Ditta Kone spa - CIG: 95466332C6</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40495</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40495</guid>
     </item>
   </channel>
 </rss>
