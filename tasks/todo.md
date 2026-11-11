@@ -1,3 +1,22 @@
+# Molfetta: correzione estrazione — 2026-11-11
+
+- [x] Individuare il repository esistente con `esearch` e controllare la pagina con `agent-browser`.
+- [x] Identificare colonne reali: ID `td[1]`, oggetto `td[5]`, pubblicazione `td[8]` (indici da zero).
+- [x] Correggere soltanto lo scraper di Molfetta e impedire la pubblicazione di feed vuoti.
+- [x] Confrontare prima/dopo sulla stessa pagina e verificare XML, titoli, date e identificativi.
+- [x] Recuperare gli URL `IDALBO` dal postback reale del portale, senza inventare link `#id`.
+- [x] Verificare ogni nuovo permalink con una richiesta senza cookie e preservare il feed in caso di errore.
+- [x] Limitare il feed ai 30 atti più recenti, prima delle richieste ai dettagli, e riusare i link del feed precedente.
+- [x] Rigenerare il feed completo e verificare i dettagli con `agent-browser`.
+
+## Review
+
+Prima: 0 item con exit 0. Dopo: 30 atti ordinati per data/ID, titoli non vuoti anche con `&`, date parsabili, GUID univoci con `isPermaLink=false` e link reali `IDALBO`. Tutti i 30 nuovi link verificati via HTTP senza cookie; primo, quindicesimo e ultimo aperti con `agent-browser` in sessioni nuove, con dettaglio e allegato corretti. CSV del portale verificato: non include permalink.
+Prima generazione con verifiche live: 55,4 s. Seconda: 1,2 s, zero richieste ai dettagli e feed byte-identico; ultima ripetizione a cache calda 0,8 s. Verificati fonte senza atti (exit 1, feed precedente intatto) e singola riga (1 item). Otto test unitari passano, inclusi errore persistente, risposta temporaneamente incompleta e link a un atto diverso; `bash -n`, validazione XML e `git diff --check` passano. Smoke test ripetibile con `python3 tmp/test_molfetta.py`; fixture in `c_f284/tmp.html` (file ignorati).
+Feed completo in `docs/c_f284/feed.xml`; correzione tracciata nella issue [#18](https://github.com/aborruso/albiPOPGitHub/issues/18). La prova GitHub sul codice precedente è terminata con `startup_failure`: la verifica CI della correzione resta separata dalla pubblicazione.
+
+---
+
 # Workflow in errore: analisi e correzioni del 2026-08-02
 
 Quattro comuni con workflow rosso o feed non aggiornato. Ognuno si è rivelato un problema diverso, con una causa diversa. Il racconto completo di ogni intervento sta in `LOG.md`; qui restano il quadro d'insieme e ciò che è rimasto aperto.

@@ -55,23 +55,24 @@ fi
 
 curl -kL "$URLBase" >"$folder"/tmp.html
 
-# Estrai le righe della tabella; la struttura mostra colonne: id | titolo | data
-# Proviamo a estrarre td elements delle righe della tabella principale dei risultati
-<"$folder"/tmp.html scrape -be '//table//tr' |
-  xq -c '.html.body.tr[]? | {
-    id: (.td[0]."#text" // ""),
-    titolo: (.td[4]."#text" // ""),
-    data: (.td[7]."#text" // ""),
-    link: ("https://servizionline.comune.molfetta.ba.it/cmsmolfetta/portale/albopretorio/albopretorioconsultazione.aspx?P=400#" + ((.td[0]."#text" // "") | tostring))
-  }' >"$folder"/rawdata/"$iPA"_temp.json 2>/dev/null || true
+# Solo righe degli atti: esclude intestazioni e tabelle di impaginazione.
+# Le prime colonne sono nascoste: ID=1, oggetto=5, inizio pubblicazione=8.
+<"$folder"/tmp.html scrape -be '//tr[td/input[contains(@id, "tab_risultati_table_hidden_row_")]]' |
+  xq -c '
+    def testo: if type == "object" then ."#text" // "" else . // "" end;
+    (.html.body.tr // []) | if type == "array" then . else [.] end | .[] | {
+      id: (.td[1] | testo),
+      titolo: (.td[5] | testo),
+      data: (.td[8] | testo)
+    }' >"$folder"/rawdata/"$iPA"_temp.json
 
-# Se non ci sono risultati, crea file vuoto
 if [ ! -s "$folder"/rawdata/"$iPA"_temp.json ]; then
-  echo "[]" >"$folder"/rawdata/"$iPA"_temp.json
+  echo "Errore: nessun atto estratto, non aggiorno il feed" >&2
+  exit 1
 fi
 
-# Normalizza e deduplica: unisci, rimuovi duplicati per titolo/link
-jq -s 'flatten | map(select(. != null)) | unique_by(.link, .titolo)' "$folder"/rawdata/"$iPA"_temp.json >"$folder"/rawdata/"$iPA".json || echo "[]" >"$folder"/rawdata/"$iPA".json
+# Normalizza e deduplica per identificativo dell'atto
+jq -s 'flatten | map(select(. != null)) | unique_by(.id)' "$folder"/rawdata/"$iPA"_temp.json >"$folder"/rawdata/"$iPA".json || echo "[]" >"$folder"/rawdata/"$iPA".json
 
 # Converti JSON in CSV con mlr per ulteriori trasformazioni
 mlr --j2c cat "$folder"/rawdata/"$iPA".json >"$folder"/rawdata/"$iPA".csv || true
@@ -81,21 +82,19 @@ mlr --j2c cat "$folder"/rawdata/"$iPA".json >"$folder"/rawdata/"$iPA".csv || tru
 echo "Date estratte (prime 10):"
 head -n 10 "$folder"/rawdata/"$iPA".csv | cut -d, -f3
 
-# Normalizza la data: solo se valida, la converte in formato RSS, altrimenti lascia vuoto
-# Aggiungi anche un campo per l'ordinamento (timestamp) e ordina per data decrescente
-# Filtra solo gli item degli ultimi 30 giorni (2592000 secondi = 30 giorni)
+# Ultimi 30 atti, non ultimi 30 giorni: a parità di data viene prima l'ID maggiore.
+# Il limite si applica prima delle richieste alle pagine di dettaglio.
 mlr --c2j clean-whitespace \
   then put 'if (is_present($data) && $data =~ "^[0-9]{2}/[0-9]{2}/[0-9]{4}$") { $pubDate = strftime(strptime($data, "%d/%m/%Y"), "%a, %d %b %Y 00:00:00 +0000"); $timestamp = strptime($data, "%d/%m/%Y") } else { $pubDate = ""; $timestamp = 0 }' \
-  then put '$link = gsub($link, "&", "&amp;")' \
-  then put '$now = systime(); $age_days = ($now - $timestamp) / 86400' \
-  then filter '$timestamp > 0 && $age_days <= 30' \
-  then sort -nr timestamp \
-  "$folder"/rawdata/"$iPA".csv > "$folder"/rawdata/"$iPA"_temp.json || true
+  then filter '$timestamp > 0' \
+  then sort -nr timestamp,id \
+  then head -n 30 \
+  "$folder"/rawdata/"$iPA".csv > "$folder"/rawdata/"$iPA"_temp.json
 
-# Se mlr non è riuscito a generare il file temporaneo, usa il JSON originale
-if [ ! -s "$folder"/rawdata/"$iPA"_temp.json ]; then
-  cp "$folder"/rawdata/"$iPA".json "$folder"/rawdata/"$iPA"_temp.json || true
-fi
+# Recupera i link condivisibili dal portale e verifica ogni nuovo dettaglio senza cookie.
+# Un errore ferma lo script prima di modificare il feed pubblicato.
+python3 "$folder"/resolve_links.py "$folder"/rawdata/"$iPA"_temp.json \
+  "$output"/feed.xml >"$folder"/processing/atti_con_link.json
 
 # crea copia del template del feed
 cp "$folder"/../risorse/feedTemplate.xml "$folder"/processing/feed.xml
@@ -118,7 +117,7 @@ xmlstarlet ed -L --subnode "//channel" --type elem -n category -v "$uid" -i "//c
 
 # leggi in loop i dati del file JSON e usali per creare nuovi item nel file XML
 newcounter=0
-jq -c '.[]' "$folder"/rawdata/"$iPA"_temp.json | while read -r line; do
+jq -c '.[]' "$folder"/processing/atti_con_link.json | while read -r line; do
   link=$(echo "$line" | jq -r '.link // empty')
   title=$(echo "$line" | jq -r '.titolo // empty')
   guid=$(echo "$line" | jq -r '.id // empty')
@@ -134,13 +133,22 @@ jq -c '.[]' "$folder"/rawdata/"$iPA"_temp.json | while read -r line; do
     pubDate=""
   fi
 
+  # xmlstarlet ed interpreta le entità: un '&' non escapato svuota il titolo.
+  title=$(printf '%s' "$title" | xmlstarlet esc)
+  link=$(printf '%s' "$link" | xmlstarlet esc)
   newcounter=$(expr $newcounter + 1)
   xmlstarlet ed -L --subnode "//channel" --type elem -n item -v "" \
     --subnode "//item[$newcounter]" --type elem -n title -v "$title" \
     --subnode "//item[$newcounter]" --type elem -n link -v "$link" \
     --subnode "//item[$newcounter]" --type elem -n pubDate -v "$pubDate" \
     --subnode "//item[$newcounter]" --type elem -n guid -v "$guid" \
+    --insert "//item[$newcounter]/guid" --type attr -n isPermaLink -v false \
     "$folder"/processing/feed.xml
 done
+
+if [ "$(xmlstarlet sel -t -v 'count(//item)' "$folder"/processing/feed.xml)" -eq 0 ]; then
+  echo "Errore: feed senza item, non lo pubblico" >&2
+  exit 1
+fi
 
 cp "$folder"/processing/feed.xml "$output"

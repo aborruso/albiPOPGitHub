@@ -1,5 +1,9 @@
 # LOG.md
 
+## 2026-11-11
+
+- c_f284 (Molfetta), correzione #18: colonne ID/oggetto/data corrette (1/5/8, indici da zero), selezione dei 30 atti più recenti e permalink `IDALBO` recuperati dal postback e verificati senza cookie. Link già validati riusati dal feed precedente; errori fermano la pubblicazione. Test: 0 → 30 item completi; tutti i nuovi permalink verificati via HTTP e tre dettagli controllati con agent-browser. Prima generazione 55,4 s, seconda 1,2 s senza nuove richieste ai dettagli, feed identico; 8 test unitari, fonte vuota e singola riga verificati. Feed locale aggiornato. Run GitHub sul codice precedente terminato con `startup_failure`: verifica CI della correzione ancora da fare.
+
 ## 2026-10-11
 
 - Workflow con apt: dal 04/10 all'08/10 c_a893 e c_a026 falliti con exit 100 su `apt install tor` (404 su libevent dal mirror) - l'indice pacchetti dell'immagine del runner (ubuntu24/20260927.320) puntava a una versione non più servita; tornati verdi solo col cambio d'immagine. Aggiunto `sudo apt-get update` prima della prima installazione in ogni job (17 workflow, entrambi i job di c_a638) e `apt-get install -y` ovunque, sul modello di c_f158. In c_i725 resta anche l'update dopo l'aggiunta del repo Google. Chiude #17
