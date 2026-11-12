@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#AVVISO PUBBLICO | Pubblicazione numero 23538</title>
+      <description>ELENCO DEI BENEFICIARI CARTA DEDICATA A TE 2026/2027</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23538</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23538</guid>
+    </item>
+    <item>
+      <title>#AVVISO PUBBLICO | Pubblicazione numero 23537</title>
+      <description>AVVISO PUBBLICO CONTRIBUTI PER IL SOSTEGNO ALL'ACCESSO DELLE ABITAZIONI IN LOCAZIONE PER L'ANNO 2025.</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23537</link>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23537</guid>
+    </item>
+    <item>
       <title>#AVVISO PUBBLICO | Pubblicazione numero 23536</title>
       <description>AVVISO ESPORATIVO MANIFESTAZIONE DI INTERESSE PER PROCEDERE ALLA STIPULA DI CONVENZIONE CON ASSOCIAZIONE DI VOLONTARI DI PER LA COPERTURA N.10 POSTI DI "AUSILIARI DEL TRAFFICO"</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23536</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23496</link>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23496</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23495</title>
-      <description>APPROVAZIONE RENDICONTO A SALDO "SOMME FONDO DI SOLIDARIETA' COMUNALE ANNO 2024 PER LA REALIZZAZIONE E LA GESTIONE DEL CENTRO DI AGGREGAZIONE GIOVANILE "ASSOCIAZIONE CENTRO DI ACCOGLIENZA PADRE NOSTRO ONLUS" CAPOFILA. CUP D94H24000920001</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23495</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23495</guid>
-    </item>
-    <item>
-      <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23494</title>
-      <description>LIQUIDAZIONE FATTURE HERA COMM S.P.A FORNITURA ENERGIA ELETTRICA CAMPO DI CALCIO COMUNALE PERIODO AGOSTO/SETTEMBRE 2026. CONVENZIONE CONSIP ENERGIA ELETTRICA ID 2880 LOTTO 16 SICILIA.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23494</link>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23494</guid>
     </item>
   </channel>
 </rss>
