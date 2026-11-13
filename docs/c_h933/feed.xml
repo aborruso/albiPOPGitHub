@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#PERMESSO DI COSTRUIRE | Pubblicazione numero 23591</title>
+      <description>PERMESSO DI COSTRUIRE N.16 SIG.PROIETTI DARIO</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23591</link>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23591</guid>
+    </item>
+    <item>
       <title>#ATTO DI LIQUIDAZIONE | Pubblicazione numero 23590</title>
       <description>LIQUIDAZIONE-CARTELLA DI PAGAMENTO N. 296 2026 0013777 73 000, EMESSA DALL'AGENZIA DELLE ENTRATE  RISCOSSIONE, RELATIVA AL CONTRIBUTO UNIFICATO PER ISTANZA CAUTELARE IN CORSO DI CAUSA  PROMOSSO DAL COMUNE DI SAN GIUSEPPE JATO AVVERSO LA SENTENZAN. 4952/2024 -G. F.</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23590</link>
@@ -302,13 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23550</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23550</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23549</title>
-      <description>PROCEDURA DI AFFIDAMENTO DIRETTO, AI SENSI DELL'ART. 50, COMMA 1, LETT. A), DEL D.LGS. N. 36/2023, ACCORDO QUADRO PER LAVORI DI MANUTENZIONE STRAORDINARIA DELLE STRADE URBANE NEL COMUNE DI SAN GIUSEPPE JATO - CUP: D92F26000660005.</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23549</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23549</guid>
     </item>
   </channel>
 </rss>
