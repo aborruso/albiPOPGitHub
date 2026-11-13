@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Ginosa</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:073007</category>
     <item>
+      <title>Avviso Pubblico — n. 3638 — BONELLI NICOLA</title>
+      <description>Convocazione Conferenza dei Capigruppo per il 17 novembre 2026</description>
+      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40600</link>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40600</guid>
+    </item>
+    <item>
       <title>Ordinanza — n. 3637 — RESPONSABILE III^ SETTORE</title>
       <description>Manifestazione denominata "Ficomics &amp; Games"- Misure a tutela della viabilità e della sicurezza della circolazione stradale in Ginosa dal 14 al 29 novembre 2026.</description>
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40599</link>
@@ -428,13 +435,6 @@
       <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40541</link>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40541</guid>
-    </item>
-    <item>
-      <title>Determinazione — n. 3578 — RESPONSABILE II^ SETTORE</title>
-      <description>Liquidazione Fattura n. 112FPA del 31.10.2026 in favore della Ditta Pentagono Service Soc. Coop. per il servizio di apertura, custodia e chiusura del Teatro Alcanices di Ginosa, prestato nel mese di Ottobre 2026.</description>
-      <link>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40540</link>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.halleyweb.com/c073007/mc/mc_p_dettaglio.php?id_pubbl=40540</guid>
     </item>
   </channel>
 </rss>
