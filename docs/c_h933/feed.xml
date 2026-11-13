@@ -17,6 +17,20 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di San Giuseppe Jato</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:082064</category>
     <item>
+      <title>#DEPOSITO | Pubblicazione numero 23593</title>
+      <description>AVVISO DI DEPOSITO DI ATTI NELLA CASA DEL COMUNE VEDI ELENCO</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23593</link>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23593</guid>
+    </item>
+    <item>
+      <title>#AVVISO PUBBLICO | Pubblicazione numero 23592</title>
+      <description>AVVISO PUBBLICO contributo Bonus Sport giovani MINORI DAI 6 AI 17 ANNI</description>
+      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23592</link>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23592</guid>
+    </item>
+    <item>
       <title>#PERMESSO DI COSTRUIRE | Pubblicazione numero 23591</title>
       <description>PERMESSO DI COSTRUIRE N.16 SIG.PROIETTI DARIO</description>
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23591</link>
@@ -295,20 +309,6 @@
       <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23552</link>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23552</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23551</title>
-      <description>ACCERTAMENTO E IMPEGNO DI SPESA, PER IL TRASFERIMENTO DEI  CORRISPETTIVI DOVUTI AL MINISTERO DELL' INTERNO, DEGLI  INTROITI DERIVANTI DALLE CARTE DI DENTITÀ ELETTRONICHE  RILASCIATE DAL 1 AL 31 LUGLIO 2026</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23551</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23551</guid>
-    </item>
-    <item>
-      <title>#DETERMINA DIRIGENZIALE | Pubblicazione numero 23550</title>
-      <description>DETERMINA IMPEGNO DI SPESA PER L'AFFIDAMENTO INCARICO COMMISSARIO AD acta DOTT. ANGELO SAJEVA PER L'AGGIORNAMENTO CATASTO DEI SOPRASSUOLI PERCORSI DAL FUOCO ANNO 2023</description>
-      <link>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23550</link>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizi.comune.sangiuseppejato.pa.it/sgjato/mc/mc_p_dettaglio.php?id_pubbl=23550</guid>
     </item>
   </channel>
 </rss>
