@@ -17,6 +17,13 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Patti</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:083066</category>
     <item>
+      <title>14/11/2026 | Determinazioni Dirigenziali</title>
+      <description>AUTORIZZAZIONE AL PERSONALE DEL SETTORE DI POLIZIA LOCALE ALLO SVOLGIMENTO DI LAVORO STRAORDINARIO PER L'ATTUAZIONE DELLE ATTIVITA' DI CUI AL PROGETTO SPIAGGE SICURE ANNO 2026.</description>
+      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15980</link>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15980</guid>
+    </item>
+    <item>
       <title>13/11/2026 | Ordinanze Dirigenziali</title>
       <description>CHIUSURA DELLA CORSIA LATO MARE DEL LUNGOMARE CAP.F.ZUCCARELLO, TRATTO VIA A.DORIA/VIA D'ANNUNZIO, DA SABATO 14 NOVEMBRE A SABATO 26 DICEMBRE 2026, DALLE ORE 21.00 ALLE ORE 02.00 DEL GIORNO SUCCESSIVO.</description>
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15979</link>
@@ -253,13 +260,6 @@
       <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15946</link>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15946</guid>
-    </item>
-    <item>
-      <title>11/11/2026 | Determine Dirigenziali Di Liquidazione</title>
-      <description>Forniture di derrate alimentari e materiale vario per mensa scolastica e asilo nido comunale "Marilena Faranda"  - Periodo: gennaio 2026 e fino ad esaurimento delle somme. Liquidazione Ditta Marino 1959 s.r.l - Mese di ottobre  2026 -CIG: B9D0111FC2</description>
-      <link>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15945</link>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://portale5.halleysud.it/patti/mc/mc_p_dettaglio.php?id_pubbl=15945</guid>
     </item>
   </channel>
 </rss>
