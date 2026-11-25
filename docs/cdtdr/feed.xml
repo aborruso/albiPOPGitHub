@@ -17,18 +17,6 @@
     <category domain="http://albopop.it/specs#channel-category-name">Comune di Terre del Reno</category>
     <category domain="http://albopop.it/specs#channel-category-uid">istat:038028</category>
     <item>
-      <title>ADESIONE ALLA CAMPAGNA REGIONALE DI INFORMAZIONE E SENSIBILIZZAZIONE DENOMINATA "DOMENICHE DETOX" - APPROVAZIONE CALENDARIO DELLE INIZIATIVE E LINEE DI INDIRIZZO.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1297</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1297</guid>
-    </item>
-    <item>
-      <title>PROGRAMMA "OLTRE LA RICOSTRUZIONE" DI CUI ALL'ART. 25 DELLA LEGGE 18 MARZO 2025, N. 40 - CONFERMA DELLE CANDIDATURE TRASMESSE E INDIRIZZI PER LA PRESENTAZIONE DELLE DOMANDE DI PARTECIPAZIONE AL FINANZIAMENTO AI SENSI DELL'ART. 9, COMMA 3, LETTERA B, DELLE LINEE GUIDA APPROVATE CON DECRETO COMMISSARIALE N. 552 DEL 30 OTTOBRE 2026.</title>
-      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1298</link>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1298</guid>
-    </item>
-    <item>
       <title>NOMINA E COSTITUZIONE DELLE COMMISSIONI MENSA DELLE SCUOLE DEL TERRITORIO A.S. 2026/2027.</title>
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1299</link>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
@@ -141,6 +129,18 @@
       <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1318</link>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1318</guid>
+    </item>
+    <item>
+      <title>PRESA D'ATTO CONCLUSIONE BANDO PNRR Misura 1.4.1 ESPERIENZA DEL CITTADINO NEI SERVIZI PUBBLICI E DICHIARAZIONE ECONOMIA</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1319</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1319</guid>
+    </item>
+    <item>
+      <title>VIAGGIO INCONTRO TRA LA COMUNITÀ DI WEYARN ED IL COMUNE DI TERRE DEL RENO UNITI IN GEMELLAGGIO DALL'11 AL 14 DICEMBRE 2026 - ASSUNZIONE IMPEGNI DI SPESA PER RIMBORSO SPESE COMPONENTI COMITATO GEMELLAGGI</title>
+      <link>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1320</link>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://servizionline.comune.terredelreno.fe.it/mc/mc_p_dettaglio.php?id_pubbl=1320</guid>
     </item>
   </channel>
 </rss>
